@@ -1,4 +1,3 @@
-
 ! Title: My Private Filter
 ! Version: 2019.03.02.01
 ! Expires: 1 days (update frequency)
