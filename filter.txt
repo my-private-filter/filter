@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.03.02.04
+! Version: 2019.03.02.05
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -696,6 +696,9 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 
 ! Bad Ad (2)
 ! mangashow3.me, https://188.214.128.5
+mangashow3.me##.banner
+mangashow*.me##.banner
+188.214.128.5##.banner
 ||*.bp.blogspot.com/-*/XG_*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.gif^
 ||*.bp.blogspot.com/-*/XG_*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.jpg^
 ||*.bp.blogspot.com/-*/XG*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.gif^
