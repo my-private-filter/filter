@@ -1,1 +1,2011 @@
 
+! Title: My Private Filter
+! Version: 2019.03.02.01
+! Expires: 1 days (update frequency)
+
+! Exception
+! @@cc.naver.com ! uBlock Origin
+! @@wcs.naver.net ! uBlock Origin
+
+! KakaoTalk
+! ||talkchannel-api.kakao.com$app=com.kakao.talk,important
+
+! Naver BGM
+||cafe.naver.com/BGMPlayer.nhn^
+||blog.naver.com/common/lib/musicplayer^
+
+! Naver Cafe Editor's Pick
+section.cafe.naver.com###content > div.home_editors:first-child > ul.home_editors_pick_list:nth-child(2)
+
+! AfreecaTV Player
+||afupd1.afreecatv.com^
+
+! Forbidden
+||ilbe.com^
+||notify.ilbe.com^
+||notify2.ilbe.com^
+||cache.ilbe.com^
+||cache2.ilbe.com^
+||cache3.ilbe.com^
+||cache4.ilbe.com^
+||cache5.ilbe.com^
+||ottl.com^
+||ottl.co.kr^
+||saveilbe.com^
+||ssaveilbe.com^
+||ilbegarage.com^
+||ilboard.net^
+||ilboard.co^
+||megalian.com^
+||megalia.co.kr^
+||megalia.kr^
+||megalia.org^
+||megalia.land^
+||megalian.net^
+||megalian.kr^
+||megalian.land^
+||savemegalian.com^
+||ssavemegalian.com^
+||womad.life^
+||femiwiki.com^
+||gall.dcinside.com/board/lists?id=disease^
+?id=disease$domain=dcinside.com
+||cafe.daum.net/subdued20club^
+?grpid=1IHuH$domain=daum.net
+||cafe.daum.net/ok1221^
+?grpid=aVeZ$domain=daum.net
+||cafe.daum.net/ladism^
+?grpid=1WYec$domain=daum.net
+||cafe.daum.net/womadic^
+?grpid=1WVN2$domain=daum.net
+||cafe.daum.net/parkgunhye^
+?grpid=nqKg$domain=daum.net
+
+! from DDanzi Group
+ad.nbms.naver.com
+ad.news.naver.com
+ad.nmv.naver.com
+adc.naver.com
+adcreative.naver.com
+ams.rmcnmv.naver.com
+bb.ad.naver.com
+castbox.shopping.naver.com
+cpv.ad.naver.com
+creative.nbms.naver.com
+damoive.dn.naver.com
+damovie.dn.naver.com
+ia.www.naver.com
+l.m.naver.com
+nv.ad.naver.com
+nv.veta.naver.com
+nv1.ad.naver.com
+nv1.veta.naver.com
+nv2.ad.naver.com
+nv2.veta.naver.com
+nv3.ad.naver.com
+nv4.ad.naver.com
+nv4.ad.naver.com 
+saedu.naver.com
+searchad.naver.com
+syndication.openapi.naver.com
+veta.naver.com
+videost.nmv.naver.com
+vts.rmcnmv.naver.com
+wrd.naver.com
+
+! from Namu Wiki
+shorte.st
+sh.st
+gryfindor.com
+!
+! AdGuard
+#%#var fuckAdBlock = false
+##DIV.adblock-on
+#@#.adsbygoogle
+!
+! Marumaru
+wasabisyrup.com#%#plugin01 = false;
+yuncomics.com#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
+#%#plugin01 = false
+mtab.clickmon.co.kr
+rtax.criteo.com
+rsense-ad.realclick.co.kr
+tab2.clickmon.co.kr
+tab1.clickmon.co.kr
+img10.clickmon.co.kr
+img9.clickmon.co.kr
+img8.clickmon.co.kr
+img7.clickmon.co.kr
+img6.clickmon.co.kr
+img5.clickmon.co.kr
+img4.clickmon.co.kr
+img3.clickmon.co.kr
+img2.clickmon.co.kr
+img1.clickmon.co.kr
+img.clickmon.co.kr
+click.clickmon.co.kr
+www.clickmon.co.kr
+click.interich.com
+aitg.widerplanet.com
+adtg.widerplanet.com
+itg.realclick.co.kr
+hcimg.realclick.co.kr
+mdimg.realclick.co.kr
+dspimg.realclick.co.kr
+adcrm.co.kr
+adddn.adotsolution.com
+adver1.clickmon.co.kr
+adver2.clickmon.co.kr
+adver3.clickmon.co.kr
+adver4.clickmon.co.kr
+adver5.clickmon.co.kr
+adver6.clickmon.co.kr
+adver7.clickmon.co.kr
+adver8.clickmon.co.kr
+adver9.clickmon.co.kr
+adver10.clickmon.co.kr
+adver11.clickmon.co.kr
+cdn-exchangetoastoven.net
+script.theprimead.co.kr
+www.realclick.co.kr
+realadr.realclick.co.kr
+nw.realssp.co.kr
+nscreen.neoebiz.co.kr
+ad.adkova.com
+ad.impactify.io
+ads.stickyadstv.com
+www.dreamsearch.or.kr
+!
+! Joara
+##div.pL_L
+!
+
+! Ad Rebate
+yimay.kr
+app.mg
+yatag.me
+banhi.me
+dolwe.me
+
+! Miner
+||coinhive.com/lib/coinhive.min.js
+||coinhive.com^
+||coin-hive.com^
+||jsecoin.com^
+||c7e935.netlify.com/b.js
+||c7e935.netlify.com^
+||monerohash.com^
+||xmr.pool.minergate.com^
+||minergate.com^
+||cdn.minescripts.info/c/NDj2.js
+||www.scan-words.com^
+||oxothuk.mooo.com^
+||neoscrypt.mine.zpool.ca^
+||blockchien.ino/wallet^
+||block-clain.info^
+||pool.monero.hashvault.pro^
+||pool.minexmr.com^
+||pool.minemonero.pro^
+||www.xmrig.com^
+||xmrig.com^
+||de01.supportxmr.com^
+||t.hanstrackr.com/track.min.js
+||authedmine.com/lib/authedmine.min.js
+||authedmine.com^
+
+! Malware
+||screencapture.tech/image293.jpg
+||goo.gl/WabYKH
+||doc-0g-44-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/vkh09f1sup6n1c4bgjcfjcuoree6ki7f/1513080000000/11123468883640930438/*/1t3w9ff9I9fwhogO9rDS2LH1haL6-pRix?e=download
+||utildown.co.kr/adv/adv.php?si=728*90
+||utildown.co.kr/adv/adv.php?si=120*600
+||imagehost.trade/image41.scr
+||pastebin.com/raw/yDnzKz72
+||pastebin.com/yDnzKz72
+||dylboiler.co.kr/admincenter/files/boad/4/manager.php
+||kjinnong.com/jdboard/boardbank/board/bbs/log.php
+||linkinfo.club/m_link.php
+||a48pcic9ub4ge3.rootwas.space/3f39612568e5a503eefbf248879b8dd1.bmp
+||a48pcic9ub4ge3.rootwas.space^
+||0e9i323cd1bn195xf.slipwas.pw/3308885ee4f8dcabacf86706bdbea288^
+||0e9i323cd1bn195xf.slipwas.pw^
+||1588-2040.co.kr/design/m/images/image/image.php
+||185.162.10.7/text_area/vic.php?ID=^
+||185.162.10.7^
+||wwwnaver.com^
+||parkingcrew.net/assets/scripts/js3.js^
+||iyfnzgb.com/?pid=9PO1H9V71&dn=wwwnaver.com^
+||katie.runtnc.net/tr?id=01ee6afd5d2214b48359b303e3eee9002f4f21bd1a.r&tk=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWIiOiI1MDVjNmI4MTcxMzIwNDAyNTc1YjFkNmUiLCJ0cyI6IjAyMjMwOTQxIiwiZCI6Ind3d25hdmVyLmNvbSJ9.ojKzInwM2k3sSjPTbFlIHTaGvwvPY4kZcK9iRwZ84c8^
+||iyfnzgb.com/?dn=wwwnaver.com&fp=c6xC7FCl4+aNpV7+pA/eINE3hVWws6P7r8/MkfChCfr1LojLKzHZj6RnqXYasy3i2o/1gs8dnj4uokC7rlo4SQ==&prvtof=d6BDtr7Q58+T7l3cvhve9ncG3Brp/YPdGaqiRn+zcpc=&poru=xqR0ExixbCSbZxtYf7/nwIOJkdrrEl5YzThtxVfGpEfV4/+wBrLWUzAc0o8h3Ouly/yu38Cmf4RjJux5Kq3Cw/t5ob1/p7mamQaCVG3pPzU=&^
+||3s36db3vby11daef1.mapbulk.science^
+||46ce7243l8ef.hourrid.com/701080%7D1448960%7D0%7D2^
+||46ce7243l8ef.hourrid.com^
+||h500bdi67xx12444e48.pagesoh.space^
+||h500bdi67xx12444e481.pagesoh.space^
+||13m58a40e.mapbulk.science/de8bff351c8569cf1700ec2d5f19c4b1^
+||13m58a40e.mapbulk.science^
+||kajlaraykaj.com/amo/fre.php
+||malwarehunterteam.bit/eadeeysc?ee=erss
+||malwarehunterteam.bit^
+||lzt4y6qj7azyldq2.onion/control.php?^
+||bxp44w3qwwrmuupc.onion^
+||0d3yawce567v67.piloses.loan/a9173770e384c244ab6d8b5a8c666db9
+||0d3yawce567v67.piloses.loan^
+||dy97tej1zc98ua46pet.thehear.racing^
+||c58d0b8l850t.didmode.com^
+||j841377.myjino.ru/daaum/index.php
+||j841377.myjino.ru^
+||j8korea.myjino.ru/daaum/index.php
+||j8korea.myjino.ru^
+||s33333333.tistory.com/entry/post/e8x8gwnr%20target=_blank
+||s33333333.tistory.com^
+||www.cfx-coins.com/login.asp
+||www.cfx-coins.com^
+||zonealarm.bit^
+||ransomware.bit^
+||ns1.corp-servers.ru^
+||ns2.corp-servers.ru^
+||naviilibs.com/video/battle32.avi
+||naviilibs.com/video/battle64.avi
+||hypnosmd.com/include/top.php
+||0756rz.com/include/left.php
+||51xz8.com/include/top.php
+||falcancoin.io^
+||t1.wiseforwarding.com/c55c7b6?p=000324_18862_6064_192950
+||go.apptrk.io/aff_r?offer_id=34486&aff_id=18862&url=https://go2.mobrain.xyz/7tpwk77%3fp%3d18862_6064_^
+||mob.popshore.club/redirect?feed=122827&auth=ebuqy0&url=http://myfiancetoday.com^
+||hitbtc.cam^
+||hitbtcsite.com^
+||etssme.com/name/panelnew/gate.php
+||xn-jetarways-hpb.com^
+||newuewfarben.com^
+||makhmalbaf.com/modules/rdf/svchost.exe
+||jtbcsupport.site^
+||ipsite.org/3zzp
+||ipsite.org^
+||doc-0c-2k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mr61aaq7bgbss68ka220dt1vt3jsuou6/1529755200000/15172864489829779808/*/1PQzqwpq6QqlHjnAZteWqEO-PN2bzhbhD?e=download
+||cocage-salon.com/Y29jYWdlLXNhbG9uLmNvbQ.php
+||musevoice.com/pdf.php
+||serujyu-forest.com/c2VydWp5dS1mb3Jlc3QuY29t.php
+||minpininteraction.com/pdf.php
+||xn--m3cdbhk1b5e7a7d8h.com/update.php
+||xn--72ca4bhl4azh7acm7u.com/update.php
+||woodstoneltd.com/update.php
+||wherewereyouthen.com/update.php
+||yobsglobalservices.com/update.php
+||xn--m3cafj0bn1czac5bza9lme7b.com/update.php
+||cocage-salon.com^
+||musevoice.com^
+||serujyu-forest.com^
+||minpininteraction.com^
+||xn--m3cdbhk1b5e7a7d8h.com^
+||xn--72ca4bhl4azh7acm7u.com^
+||woodstoneltd.com^
+||wherewereyouthen.com^
+||yobsglobalservices.com^
+||xn--m3cafj0bn1czac5bza9lme7b.com^
+||rctphvxwnjhx.pw^
+||lifroc.com^
+||62.108.34.49/1zayee/gate.php
+||62.108.34.49^
+||118.107.181.26:8099/saves.ashx
+||jmlr.com.br^
+||93.115.38.30/~jonesbe2/john/brain/veds.php
+||93.115.38.30^
+||syrian223.000webhostapp.com/security.php?info=
+||auth-rambler.com/krya18/index_shell.php
+||88.99.48.80/donut/client.php
+||88.99.48.80^
+||lybconsulting.com/index_2.php
+||arbistrade.com/index_2.php
+||thrivebodymindspirit.com/index_2.php
+||wordpress.gasketguy.com/index_2.php
+||ceinnmat.com/index_2.php
+||titandughrab.com/4/forum.php
+||titratresfi.ru/gate.php
+||adishma.com^
+||foreverboots.com/ko/rj7rn2m2v6ww8ekf^
+||foreverboots.com/ko/success.php?^
+||foreverboots.com^
+||103.70.137.10/oki/Panel/fre.php
+||ns2.wowservers.ru^
+||wowservers.ru^
+||todaycashwinners.website^
+||74.222.14.61/v.rar
+||74.222.14.61^
+||edwardsofficesystems.com/logs/dropper.bin
+||stephenfett.com/license/stop.rtf
+||login.giocherialaragnatela.it/azs/index.php
+||billerimpex.com/news/image/kade.bmp
+||billerimpex.com^
+||vjccons.com.vn/uploads/imgs/dafufu.gif
+||vjccons.com.vn^
+||poketeg.com/includes/pics/fufumeso.jpg
+||poketeg.com^
+||buyinfo.su^
+||62.108.34.70/zayee3/gate.php
+||62.108.34.70^
+||cld.pt/dl/download/a1ba6c04-9b69-48ea-9bee-cc8f3af440b9/0047818LRT0N03152HT8305634892.zip
+||jnstory.tistory.com/api^
+||146.185.241.35/api/Encrypted.php
+||sulrev.cf/0000000000/60000
+||zukxd6fkxqn.com/1561207.html?q
+||zukxd6fkxqn.com^
+||peoplesteam.co/Nav/send1.php
+||071790.000webhostapp.com/vic/1.txt
+||071790.000webhostapp.com/vic/setup.txt
+||071790.000webhostapp.com/vic/setup2.txt
+||sulrev.cf/0000000000/60000^
+||m.ssbw.co.kr/admin/form_doc/image/down/down.php
+||m.ssbw.co.kr/admin/form_doc/image/down/worldnews.doc
+||m.ssbw.co.kr/admin/form_doc/image/img/111.hwp
+||m.ssbw.co.kr/admin/form_doc/image/img/Ant_3.5.exe
+||m.ssbw.co.kr/admin/form_doc/image/img/desktops.ini
+||endlesspaws.com/vog/download.php?id=^
+||endlesspaws.com/vog/tan.php?fuck=x
+||endlesspaws.com/vog/denk.zip
+||seline.co.kr/datafiles/CNOOC.php
+||causwc.or.kr/board_community01/board_community01/index2.php
+||kumdo.org/admin/noti/files/iindex.php
+||icare.or.kr/upload/board/index1.php
+||cnjob.co.kr/data/blog/iindex.php
+||notac.co.kr/admin/case/iindex.php
+||ebsmpi.com/ipin/360/down.php
+||ebsmpi.com/ipin/360/Ant_3.5.exe
+||ebsmpi.com/ipin/360/Ant_4.5.exe
+||ebsmpi.com/ipin/360/desktops.ini
+||cgalim.com/admin/hr/hr.doc
+||cgalim.com/admin/hr/1.apk
+||cgalim.com/admin/hr/temp.set
+||crimepolicetolar.win/wp-admin/js/index.htm
+||crimepolicetolar.win/wp-admin/js/netease.htm?cmd=login=to=verify=accout=ucmail=2012=h=LOB=RBGLogon&_pageLabel=page_logonform&secured_page
+||crimepolicetolar.win^
+||darkcc2dejaiavne.onion.to^
+||arkcc2dejaiavne.onion.link^
+||bot990815.0pe.kr^
+||prevmed.ru^
+||lympo.pro^
+||91.210.104.247/update.bin
+||91.210.104.247^
+||centredentairenantes.fr/wp-system.php
+||11k.online/Ad/constants/9n0wkj6hpz86.json
+||superdomain711.info/m074z9o9Lqi.FRk^
+||morgem.ru/test/get.php?pid=[machine_id^
+!
+! https://www.virustotal.com/#/file/cbe9ebb2c709d36bea7ea127fff9cf12eceff247f750d21df34c6e4dc67383a7/detection
+||clarisse-guillochon.fr/%EB%B6%81%ED%95%9C-%ED%8F%B0%ED%8A%B8-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C
+||ogenconsult.com/fil.php?agjkgfbqtxs=ebb681ed959c5fed8fb0ed8ab82e657865
+! https://www.virustotal.com/#/file/53e49396b19270b0165c72caba602e6abaa81d3ead62ad6e196fdae06c44914a/detection
+||rawside.kr/?p=42415
+||hotelrandhawainternational.com/ddd.php?ocinoinzooyy=6a77706c617965725feb8f99ec9881ec83812e657865
+! etc: GandCrab v4
+||celep.com.pe/2018/06/20/%EB%BF%8C%EC%9A%94%EB%BF%8C%EC%9A%94-%ED%85%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C/
+||hotelrandhawainternational.com/ddd.php?iupxdnvypxndxvbe=ebbf8cec9a94ebbf8cec9a945fed858ced8ab8eba6acec8aa42e657865
+||casalmaggiorefestival.com/%EB%B3%B4%EC%9D%B4%EC%8A%A4-%EC%9B%A8%EC%96%B4-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C/
+! Magniber
+||3f9eve02q8253ie23n.madany.today^
+||7d38acc7e6g.liedcat.today^
+||eheal090ja7v9.nextshe.world^
+||c0q21t7592e.riskmap.space^
+!
+
+! Phishing, Smishing
+||bitly.kr/dQpb
+||hosta.mentc.xyz/44807768716d19^
+||hosta.mentc.xyz^
+||haja3523.com^
+||pay.naver.page19.com^
+||bit.ly/2PfBpWq
+||cdexa0.gswil.xyz^
+||fkxaql8.locxa6.xyz^
+||oldfv7.locxa6.xyz^
+||m.site.naver.com/qrcode/view.nhn?v=0pOrp
+||goo.gl/nN3bPU
+||otnytovasslesdjrhqjlysroxvhsehd.tumblr.com/post/181045426416/bztdyubgxxrkxjpwnvoqdxwtcbmxjm^
+||bit.ly/2RnQ078
+||bvdseiu.qathol.xyz^
+||bit.ly/2RXynvb
+||husebzc.nchel.xyz^
+!
+! https://www.virustotal.com/#/ip-address/47.244.55.134
+||auction.pige03.com/login1.php?id=201811025846012
+||auction.pige03.com^
+||pay.naver.paqe14.com/?pd=co.kr18p
+||pay.naver.paqe14.com/?pd=Npay158
+||pay.naver.paqe14.com^
+||pay.naver.paqe22.com/?pd=903151616
+||pay.naver.paqe22.com/index.php?id=903151616
+||pay.naver.page22.com/sub1.php
+||pay.naver.paqe22.com^
+! https://www.virustotal.com/#/ip-address/47.74.49.51
+||pay.naver.page653.com^
+||pay.naver.page964.com^
+||pay.naver.pige24.com^
+||47.74.49.51^
+!
+! https://www.virustotal.com/#/ip-address/172.247.116.95
+||goo.gl/PNcrzw
+||vtnytovtllexlwd.dothome.co.kr^
+||aratv365.com/login.asp
+||aratv365.com^
+||naver1024.com^
+||rocyoung3.com/login.asp
+||rocyoung3.com^
+||kimun2011.com/login.asp
+||kimun2011.com^
+||yasi9002.com/login.asp
+||yasi9002.com^
+||creep0515.com/login.asp
+||creep0515.com^
+||172.247.116.95^
+! https://www.virustotal.com/#/ip-address/172.247.116.59
+||0395jz.cn^
+||g123.ga^
+||h123.ga^
+||www.yds8899.com^
+||yes56789.com/login.asp
+||yes56789.com^
+||yds8899.com/login.asp
+||yds8899.com^
+||pcy8540.com/login.asp
+||pcy8540.com^
+||172.247.116.59^
+!
+
+! Pornography
+||mtdamoa.com^
+||redtube.com^
+||vrfuckdolls.com^
+||mmoframes.com^
+||goo.gl/U7zoh5
+||spkupkrxoohbozgnemffsmlirqbm1yb.tumblr.com/post/181046757822/jhblhcjogfzsgrxevexzmgebljufsv^
+||m.hwr58.com^
+||hwr58.com^
+
+! Ad
+//veta.naver.com/fxshow?su=SU10055
+###enendictPopupDiv
+||veta.naver.com/fxshow?su=SU10000
+||veta.naver.com/fxshow?su=SU10001
+||veta.naver.com/fxshow?su=SU^
+betanews.com##.reveal-alert
+||image.edaily.co.kr/banner/300/*.jpg
+!
+! cafe.naver.com/fpsgame
+cafe.naver.com###plugFloatingBanner
+cafe.naver.com###plugFloatingBannerDiv
+||g-plug.pstatic.net/*_*/*_*/*.jpg
+||g-plug.pstatic.net/*_*/*_*/*.png
+||g-plug.pstatic.net/*_*/*_*/*.gif
+!
+
+! Anti Ad
+||tistory4.daumcdn.net/tistory/1886424/skin/images/adblockblock.js
+||emusk.tistory.com/3%EB%B2%88%EC%97%90%EC%84%9C%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%9C%20js%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%86%8C
+
+! Bad Ad
+!
+||utildown.co.kr/*
+||event.me.co.kr/*
+||event.filecast.co.kr/*
+||anime.gogopi.96.lt^
+||webnovel.heydate.pe.hu^
+||webnovelad.heydate.pe.hu^
+||toon.heydate.pe.hu^
+||qqlive.heydate.pe.hu^
+||qqlive1.heydate.pe.hu^
+||www.wikidia.xyz^
+||dailymovie.xyz/banner/*.gif
+||dailymovie.xyz^
+||webis19in.heydate.pe.hu^
+||heydate.pe.hu^
+||auu.3381.esy.es^
+||main.3381.esy.es^
+||3381.esy.es^
+||s18.postimg.org/w4d5a7o2x/me_160_600.gif
+||event.filecast.co.kr/images/fc_banner_120x600.gif
+||event.filecast.co.kr/images/fc_banner_728x90.gif
+||event.me.co.kr/img/bnr_120_600_3.png
+||event.me.co.kr/img/bnr_120_600_2.png
+||event.me.co.kr/img/bnr_729_90.png
+||event.me.co.kr/img/bnr_728_90_3.png
+||img.qq.co.kr/partner/banner/170600.gif
+||moviezoa.cafe24.com/img/coinbanner.gif
+||brob3.bayabar.com/myasg/count.asp?cid=@8SbvNmLh9WbhRmd05yd3d3LvoDc0RHa&w^
+||skycom.ca/NewAd/banner/Henckels_250.gif
+||img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile6.uf.tistory.com%2Fimage%2F2566284758A86A7037E858
+||cfile26.uf.tistory.com/image/25221C3458F6366622AFA8
+||cfile22.uf.tistory.com/image/27595F3658A4904009DB2D
+! anidas6.me, coolani.net
+coolani.net###download-app
+coolani.net###left_out > div:nth-child(2) > iframe
+coolani.net###left_out > div:nth-child(2) > a:last-child > img
+coolani.net###left_out > div:nth-child(2) > iframe:last-child
+coolani.net###left_out > div:nth-child(3) > a:last-child > img
+coolani.net###left_out > div:first-child > a:last-child > img
+coolani.net###left_out > div:last-child > iframe:last-child
+coolani.net###left_out > div:last-child > a:last-child > img
+coolani.net###right_out > div:nth-child(2) > iframe
+coolani.net###right_out > div:nth-child(2) > iframe:last-child
+coolani.net###right_out > div:nth-child(2) > a:last-child > img
+coolani.net###right_out > div:first-child > a:last-child > img
+coolani.net###right_out > div:last-child > iframe:last-child
+coolani.net###right_out > div:last-child > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(5) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(5) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(6) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(6) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(7) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(8) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(8) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(10) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(10) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(11) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div:nth-child(11) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(16) > div.each_adv_center > iframe:last-child
+coolani.net###body > div.col-md-12.primary > div:nth-child(16) > div.each_adv_center > a:last-child > img
+coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action:nth-child(2)
+coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2) > a
+coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
+##.no_mobile.adult_li > [href="http://qqlive.heydate.pe.hu"]
+##li.no_mobile:nth-of-type(8) > [href="http://me.goingme.hol.es"]
+##li.no_mobile:nth-of-type(8) > [href^="http://m.fileis.com/"]
+##li.no_mobile:nth-of-type(9) > [href="http://webis19.heydate.pe.hu"]
+##li.no_mobile:nth-of-type(10) > [href="http://qqlive.heydate.pe.hu"]
+##li.adult_li:nth-of-type(9) > [href^="http://www.chrometv.co.kr/partnerGate/"]
+coolani.net##li.adult_li:nth-of-type(4) > [href="https://www.coolani.net/ani/adult.html"]
+! ani119.xyz, feelani.com
+feelani.com###left_out > div:nth-child(2) > iframe
+feelani.com###right_out > div:nth-child(2) > iframe
+feelani.com###left_out > div:last-child > iframe:last-child
+feelani.com###right_out > div:last-child > iframe:last-child
+feelani.com###left_out > div:nth-child(2) > iframe:last-child
+feelani.com###right_out > div:nth-child(2) > iframe:last-child
+feelani.com###left_out > div:last-child > a:last-child > img
+feelani.com###left_out > div:nth-child(2) > a:last-child > img
+feelani.com###right_out > div:last-child > a:last-child > img
+feelani.com###right_out > div:nth-child(2) > a:last-child > img
+feelani.com###left_out > div:first-child > a:last-child > img
+feelani.com###right_out > div:first-child > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(6) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(11) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(16) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(5) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(16) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(5) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(10) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(6) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(8) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(8) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div:nth-child(10) > div.each_adv_center > iframe:last-child
+feelani.com###body > div.col-md-12.primary > div:nth-child(11) > div.each_adv_center > a:last-child > img
+feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action:nth-child(2)
+feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2) > a
+feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
+feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
+! bujatv15.me, bujatv.me
+bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv15.me###left_out > div:first-child > a:last-child > img
+bujatv15.me###left_out > div:nth-child(2) > a:last-child > img
+bujatv15.me###right_out > div:first-child > a:last-child > img
+bujatv15.me###right_out > div:nth-child(2) > a:last-child > img
+bujatv15.me###left_out > div:last-child > a:last-child > img
+bujatv15.me###right_out > div:last-child > a:last-child > img
+##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
+##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
+##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
+##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
+##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
+bujatv15.me##li.adult_li:nth-of-type(5) > [href="https://www.bujatv15.me/19/adult.html"]
+bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv*.me###left_out > div:first-child > a:last-child > img
+bujatv*.me###left_out > div:nth-child(2) > a:last-child > img
+bujatv*.me###right_out > div:first-child > a:last-child > img
+bujatv*.me###right_out > div:nth-child(2) > a:last-child > img
+bujatv*.me###left_out > div:last-child > a:last-child > img
+bujatv*.me###right_out > div:last-child > a:last-child > img
+! dasiboda.com
+||dasiboda.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda.com/dasi_media/2018/05/bada.gif
+||dasiboda.com/dasi_media/2018/06/prm180180.gif
+||dasiboda.com/dasi_media/2018/05/b_300.gif
+||dasiboda.com/dasi_media/2018/06/sang180.gif
+||dasiboda.com/dasi_media/2018/05/180x180.gif
+||dasiboda.com/dasi_media/2018/06/dfb300.gif
+||dasiboda.com/dasi_media/2018/06/colortv.gif
+||dasiboda.com/dasi_media/2018/05/simbago.gif
+||dasiboda.com/dasi_media/2018/06/sang300.gif
+||dasiboda.com/dasi_media/2018/06/n300.gif
+||dasiboda.com/dasi_media/2018/05/300x300_01.gif
+||dasiboda.com/dasi_media/2018/05/300_300.gif
+||dasiboda.com/dasi_media/2018/06/colortv728.gif
+||dasiboda.com/dasi_media/2018/06/colortv728.gif
+||dasiboda.com/dasi_media/2018/05/bada.gif
+||dasiboda.com/dasi_media/2018/06/adams728.gif
+dasiboda.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1) > .col-md-12.column_container.wpb_column > .vc_column-inner
+dasiboda.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
+dasiboda.com##.sidebar.col-sm-12.col-md-4
+dasiboda.com##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda.com##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
+dasiboa.com##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
+||i.imgur.com/iN6yiTk.jpg
+||i.imgur.com/QT14DGl.jpg
+||i.imgur.com/O02mcth.jpg
+||i.imgur.com/hy0OrE4.png
+||i.imgur.com/FsyOxiO.gif
+||i.imgur.com/PmBG4Lb.gif
+||i.imgur.com/kFaqgW6.gif
+||i.imgur.com/Yp3qsyd.gif
+||i.imgur.com/P2UcBs7.gif
+||i.imgur.com/BxNXsGj.gif
+||i.imgur.com/7LKAS4u.gif
+||i.imgur.com/tjelSqu.gif
+||i.imgur.com/QQxfCXC.gif
+||i.imgur.com/TJaXuWs.gif
+||i.imgur.com/TBcKoOn.gif
+||i.imgur.com/5ufM6Wo.gif
+||i.imgur.com/*.gif$domain=dasiboa.com
+! showplayer1.com
+showplayer1.com###latest > div.left:first-child
+showplayer1.com###latest > div.right:last-child
+showplayer1.com###video_bts > ul > li:first-child > a > div.down_bt
+showplayer1.com###video_bts > ul > li:last-child > a > div.ad_remover
+showplayer1.com###view_method
+! godgall.com
+godgall.com###latest > div.left:first-child
+godgall.com###latest > div.right:last-child
+godgall.com###video_bts > ul > li:first-child > a > div.down_bt
+godgall.com###video_bts > ul > li:last-child > a > div.ad_remover
+godgall.com###view_method
+! retrogame24.club
+retrogame24.club##div:nth-child(5) > a:nth-child(2) > span
+retrogame24.club##div:nth-child(5) > a:last-child > span
+retrogame24.club##center:last-child > div.popular > div.popular_title:first-child
+retrogame24.club##center:last-child > div.popular > div.popular_content:last-child
+retrogame24.club##center:last-child > div.popular
+! streammango.net
+streammango.net###content > div:nth-child(7) > a:first-child > span
+streammango.net###content > div:nth-child(7) > a:last-child > span
+streammango.net###content > div.popular:last-child > div.best_content:last-child
+streammango.net###content > div.popular:last-child > div.best_title:first-child
+streammango.net###content > div.popular:last-child
+streammango.net###content > div:nth-child(5) > a:first-child > span
+streammango.net###content > div:nth-child(5) > a:last-child > span
+! uuuuuutt.startupbridgeva.com
+uuuuuutt.startupbridgeva.com###cMainPanel > div.clearfix > div.dFacebookLikeSlider.pFacebookLikeSlider.show:last-child > div.dLikePageBox.pLikePageBox > div.dTitle:first-child
+uuuuuutt.startupbridgeva.com###cMainPanel > div.clearfix > div.dFacebookLikeSlider.pFacebookLikeSlider.show:last-child > div.dLikePageBox.pLikePageBox > div.dTitle:nth-child(2)
+uuuuuutt.startupbridgeva.com###cMainPanel > div.clearfix > div.dFacebookLikeSlider.pFacebookLikeSlider.show:last-child > div.dLikePageBox.pLikePageBox > div.dLike:nth-child(3)
+uuuuuutt.startupbridgeva.com###cMainPanel > div.clearfix > div.dFacebookLikeSlider.pFacebookLikeSlider.show:last-child > div.dLikePageBox.pLikePageBox > div.dNotice:last-child
+! kvod24.com
+kvod24.com###content > div.popular:last-child > div.best_content:last-child
+kvod24.com###content > div.popular:last-child > div.best_title:first-child
+kvod24.com###content > div:nth-child(7) > a:first-child > span
+kvod24.com###content > div:nth-child(7) > a:last-child > span
+kvod24.com###content > div.popular:last-child
+! videotongs.com
+videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 > div.popular > div.best_content:last-child
+videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 > div.popular > div.best_title:first-child
+!
+
+! Bad Ad (2)
+! mangashow.me
+! funitoon01.com
+||funitoon01.com/banner/*.gif
+||funitoon01.com/banner/*.png
+||funitoon01.com/banner/*.jpg
+funitoon01.com##.banner-inner
+funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
+funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
+funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
+funitoon01.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
+funitoon01.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+funitoon01.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
+funitoon01.com##.on.menu-li > .nav-height.menu-a
+funitoon01.com##td.off:nth-of-type(3) > .menu-a
+funitoon01.com##td.off:nth-of-type(5) > .menu-a
+funitoon01.com##td.off:nth-of-type(6) > .menu-a
+funitoon01.com##tr > .on > .menu-a
+funitoon01.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
+funitoon01.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
+funitoon01.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
+funitoon01.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
+funitoon01.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
+funitoon01.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
+||funitoon*.com/banner/*.gif
+||funitoon*.com/banner/*.png
+||funitoon*.com/banner/*.jpg
+funitoon*.com##.banner-inner
+funitoon*.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
+funitoon*.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
+funitoon*.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
+funitoon*.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
+funitoon*.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+funitoon*.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
+funitoon*.com##.on.menu-li > .nav-height.menu-a
+funitoon*.com##td.off:nth-of-type(3) > .menu-a
+funitoon*.com##td.off:nth-of-type(5) > .menu-a
+funitoon*.com##td.off:nth-of-type(6) > .menu-a
+funitoon*.com##tr > .on > .menu-a
+funitoon*.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
+funitoon*.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
+funitoon*.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
+funitoon*.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
+funitoon*.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
+funitoon*.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
+! hodu37.com, hoducomics.com, tiny.cc/hodu
+||hodu37.com/upload/banner/*.gif
+||hodu37.com/upload/banner/*.png
+||hodu37.com/upload/banner/*.jpg
+||hodu37.com/text_click.php?link=3^
+||hodu37.com/text_click.php?link=4^
+hodu37.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu37.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu37.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu37.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu37.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu37.com##div.c_img > [href^="/banner_click.php"]
+hodu37.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu37.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu37.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu37.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu37.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu37.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu37.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu37.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu37.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu37.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu37.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu37.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu37.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu37.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu37.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu37.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+||hodu*.com/upload/banner/*.gif
+||hodu*.com/upload/banner/*.png
+||hodu*.com/upload/banner/*.jpg
+||hodu*.com/text_click.php?link=3^
+||hodu*.com/text_click.php?link=4^
+hodu*.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu*.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu*.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu*.com##div.c_img > [href^="/banner_click.php"]
+hodu*.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu*.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu*.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu*.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu*.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu*.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu*.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu*.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu*.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu*.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu*.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu*.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+||hoducomics.com/upload/banner/*.gif
+||hoducomics.com/text_click.php?link=3^
+||hoducomics.com/text_click.php?link=4^
+hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+! bamtoki.se
+||bamtoki.se/assets/banner/300_80/*.gif
+||bamtoki.se/assets/banner/300_80/*.jpg
+||bamtoki.se/assets/banner/300_80/*.png
+! newtoki.com
+||newtoki.com/data/banner/*
+newtoki.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! ajersi.com
+||ajersi.com/data/file/banner/*.gif
+! cattoon.net
+||cattoon.net/banner/*.gif
+! moatoon.com, mukbal.com
+||moatoon.com/data/file/t1/2728299071_0g1MtIK6_99221f0bb0bb76be1768b14a1c3cdaeb1e06a9ef.gif
+||moatoon.com/data/file/t1/2728299071_IWrdyskw_c5cce345dbc38ef7778bb72025e2829c9e23f1ab.gif
+||moatoon.com/data/file/t1/2728299071_iTMzZXUe_15663388dd3a7721b7748d69c1ad85cfb2c56c1b.gif
+||moatoon.com/data/file/t1/2728299071_f5pI2A6m_f7f637c8efc775e07c649bdfe3cfdaaf1bbfb43f.gif
+||moatoon.com/data/file/t1/2015132262_VOCKTHA0_014e02e5566782293a8b17470e938b57b82d6f08.png
+||moatoon.com/data/file/t1/2015132262_8ONDn1Xv_61fa190bfdd8c0a93517a50480faa5672b1b79ed.gif
+||moatoon.com/data/file/t1/2015132262_dWcEtnLx_b0adc6b546313bc7548f8054cd9f23e0f7662761.gif
+||moatoon.com/data/file/t1/2015137516_KdEbM7Ga_44f3d6ef25a1076eace2482faacbba41bfc07abe.gif
+||moatoon.com/data/file/t1/2015132262_ulv8XB1s_2ed71e3cb4350f297e24291712aa9bc919c5b6b2.gif
+||moatoon.com/data/file/t1/2728299071_tyiDjLTF_fe60275ddfbbe8379e7ee92ec027ecd7dcec201d.gif
+||moatoon.com/data/file/t1/2728299071_oLueakK5_2b4e93fb5da93bae8ff45d5123cc2a210369a2af.gif
+||moatoon.com/data/file/t1/2015132262_gAkHrsjK_0bdcfc252892ab391c2db84f65085aaa4a8f33ff.gif
+||moatoon.com/data/file/t1/*.png
+||moatoon.com/data/file/t1/*.gif
+||bh-888.com^
+||372-sc.com^
+||pme-ac.com^
+||an4848.com^
+||h-let2015.com^
+||snt-korea.com^
+||bet365kor.com^
+||xn--9n3bp8p.com^
+||marco8888.com^
+||cafe.naver.com/torescue^
+moatoon.com##.img-item
+moatoon.com##.img-wrap
+||mukbal.com/data/apms/background/MT-BAL.gif
+||mukbal.com/data/apms/background/465x120.gif
+||mukbal.com/data/apms/background/465x120-B.gif
+||mukbal.com/data/apms/background/mp.gif
+||mukbal.com/data/editor/1806/thumb-2c79f4637c2a9a82ab721f7cae48f33c_1529536994_3816_400x225.jpg
+||mukbal.com/data/file/safety/2130706433_ymN7M3ZV_81760a55507837ce8e7b4bd278123ce9dc3ac601.png
+! toktok.club
+toktok.club###latest > div.left:first-child > ul:last-child
+toktok.club###latest > div.right:last-child > ul:last-child
+toktok.club###latest > div.left:first-child > h2:first-child
+toktok.club###latest > div.right:last-child > h2:first-child
+toktok.club###video_bts > ul > li:first-child > a > div.down_bt
+toktok.club###video_bts > ul > li:last-child > a > div.ad_remover
+toktok.club###view_method
+!
+
+! Bad Ad (3)
+! rank19.com
+||rank19.com/data/apms/background/ezgif-3-1fc21e51ff.gif
+||rank19.com/data/apms/background/ezgif-5-23c791baf5.gif
+||rank19.com/data/apms/background/fulltv%20(2).gif
+||rank19.com/data/apms/background/loveshoppingmall_02%20(1).gif
+||rank19.com/data/apms/background/1122.jpg
+||rank19.com/data/apms/background/big_banner02%20(1).gif
+! yanorja.cop
+||yanorja.net/data/apms/background/%EC%B9%B4%EC%A7%80%EB%85%B8%EB%A7%88%EC%8A%A4%ED%84%B02.gif
+||yanorja.net/data/apms/background/ytanorbu.gif
+||yanorja.net/data/apms/background/ezgif-5-c590b5ff84.gif
+||yanorja.net/data/apms/background/*.gif
+||yanorja.net/data/apms/background/1122.jpg
+||yanorja.co/data/apms/background/ezgif-*-*.gif
+||yanorja.co/data/apms/background/*.gif
+! daboja.co
+||daboja.co/data/apms/background/ezgif-1-0f93d0eab4.jpg
+||daboja.co/data/apms/background/195x200_%EB%8B%A4%EB%B3%B4%EC%9E%90_%EC%8B%AC%EB%B0%94_%EB%B0%B0%EB%84%88_180603.gif
+||daboja.co/data/apms/background/da999.gif
+||daboja.co/data/apms/background/195_200b.gif
+||daboja.co/data/apms/background/ezgif-3-4741f8c42a.gif
+||daboja.co/data/apms/background/kore_195x200_180713_v2.gif
+||daboja.co/data/apms/background/ezgif-1-2e1a944cd6.jpg
+||daboja.co/data/apms/background/ezgif-5-c590b5ff84.gif
+||daboja.co/data/apms/background/loveshoppingmall_02.gif
+||daboja.co/data/apms/background/%EB%8B%A4%EB%B3%B4%EC%9E%90_boja_195X200.gif
+||daboja.co/data/apms/background/ezgif-*-*.gif
+||daboja18.com/data/apms/background/banimg_ani2.gif
+||daboja18.com/data/apms/background/%EC%95%BC%EC%B2%9C%EC%82%AC_197x200.gif
+||daboja18.com/data/apms/background/%EC%B9%B4%EC%A7%80%EB%85%B8%EB%A7%88%EC%8A%A4%ED%84%B0.gif
+||daboja18.com/data/apms/background/KakaoTalk_20170926_000000634.gif
+||daboja18.com/data/apms/background/ezgif-3-1fc21e51ff.gif
+! yachunsa.co
+||yachunsa.co/data/apms/background/%EC%95%BC%EC%B2%9C%EC%82%AC_ya44_195X200.gif
+||yachunsa.co/data/apms/background/*_*_*.gif
+||yachunsa.co/data/apms/background/ezgif-3-4741f8c42a.gif
+||yachunsa.co/data/apms/background/ezgif-*-*.gif
+||yachunsa.co/data/apms/background/loveshoppingmall_02.gif
+||yachunsa.co/data/apms/background/*_*.gif
+||yachunsa.co/data/apms/background/bang.gif
+||yachunsa.co/data/apms/background/banner11.gif
+||yachunsa.co/data/apms/background/anigif.gif
+||yachunsa.co/data/apms/background/ya888.gif
+||yachunsa.co/data/apms/background/%EC%B9%B4%EC%A7%80%EB%85%B8%EB%A7%88%EC%8A%A4%ED%84%B0.gif
+||yachunsa.co/data/apms/background/195x200_%EC%95%BC%EC%B2%9C%EC%82%AC3.gif
+||yachunsa.com/data/apms/background/63.file.jpg
+yachunsa.co###wrapper > div.content:last-child > div.at-content > div.view-wrap.view-mobile.font-14:nth-child(4) > section:first-child > article > div.view-padding:nth-child(3) > table:nth-child(2) > tbody > tr
+yachunsa.co###at-main > div.view-wrap:nth-child(5) > section:first-child > article > div.view-padding:nth-child(3) > table:nth-child(2) > tbody > tr
+! miso76.com
+miso76.com###bo_v_atc > p:nth-child(2)
+||miso76.com/img2/KR-150x200-15-VMP10-INJL3.jpg
+||miso76.com/img2/banner_sextop.png
+||miso76.com/img2/%EB%AF%B8%EC%86%8C%EB%84%B7_150x200_01.gif
+||miso76.com/img2/150x200_k777.gif
+||miso76.com/img2/bn_miso150.gif
+||miso76.com/img2/miso_0703_500x88(1).gif
+||miso76.com/img2/miso_0710_480_266.gif
+||miso76.com/img2/miso_0703_920x90(1).gif
+||miso76.com/img2/via_0404_150.gif
+||miso76.com/img2/060-909-7711.gif
+||miso76.com/img2/via_305105.gif
+||miso76.com/img2/miso_0703_480x266(1).gif
+||miso76.com/img2/miso_0703_305x105(1).gif
+||miso76.com/img2/320_320_sektalk.gif
+||miso76.com/img2/miso_0717_150-200.gif
+! chunzagirl.net
+||68.media.tumblr.com/90d8bc59c468513408aca349e275e1f1/tumblr_ojll8nFwPc1vavt3so1_500.png
+||49.media.tumblr.com/28a0fb6020ef8923224754b61e18a673/tumblr_o0hmsa8qOc1umqjwwo1_250.gif
+||40.media.tumblr.com/cfdb99a44d4dfd079bb6aa32cd030e12/tumblr_o0sisqqSAS1umqjwwo1_400.jpg
+||66.media.tumblr.com/6c8414389363b019d3950358d6841842/tumblr_obh7ez6Jom1vcag0vo1_250.jpg
+||68.media.tumblr.com/e84c11ed87054c32f6ebda4e070abbe3/tumblr_ojpx0iIfQo1vhiq4wo5_400.gif
+||78.media.tumblr.com/b86c0747f7aa6e25eb97fead59b691d0/tumblr_p7okc7mIQZ1vhiq4wo1_400.jpg
+||78.media.tumblr.com/46ee3ea6fbe538390a7f798414b46e8b/tumblr_p7mvswOgPi1vhiq4wo2_1280.jpg
+||78.media.tumblr.com/83b919cd8bc59be4e997ba4306633392/tumblr_p7mvswOgPi1vhiq4wo1_1280.jpg
+||78.media.tumblr.com/df31cdae8d288467a318fd4070bec4f8/tumblr_p7okc7mIQZ1vhiq4wo2_1280.jpg
+||40.media.tumblr.com/26f10b9466cf93c99e70e44d96cd859b/tumblr_o0eljmhbe01umqjwwo1_250.jpg
+||68.media.tumblr.com/*/tumblr_*_250.png$domain=chunzagirl.net
+||68.media.tumblr.com/*/tumblr_*_400.gif$domain=chunzagirl.net
+||68.media.tumblr.com/*/tumblr_*_1280.jpg$domain=chunzagirl.net
+||78.media.tumblr.com/*/tumblr_*_250.gif$domain=chunzagirl.net
+||78.media.tumblr.com/*/tumblr_*_400.gif$domain=chunzagirl.net
+||*.bp.blogspot.com/*/*/s320/tumblr_*_250.gif$domain=chunzagirl.net
+||*.bp.blogspot.com/*/*/*/*/s400/*.gif$domain=chunzagirl.net
+chunzagirl.net###box
+chunzagirl.net###box2 > form > p
+chunzagirl.net###pc_board_text > li.b:first-child > a
+chunzagirl.net###pc_board_text > li.c:nth-child(2) > a
+chunzagirl.net###pc_board_text > li.a:nth-child(3) > a
+chunzagirl.net###pc_board_text > li.a:last-child > a
+chunzagirl.net###pc_board_text > li.b:first-child
+chunzagirl.net###pc_board_text > li.a:nth-child(2) > a
+chunzagirl.net###pc_board_text > li.c:nth-child(3) > a
+chunzagirl.net###bo_v_atc > center:nth-child(13) > a:first-child
+chunzagirl.net###bo_v_atc > center:nth-child(13) > a:last-child
+chunzagirl.net###bo_v_atc > center:nth-child(14) > a:first-child
+chunzagirl.net###bo_v_atc > center:nth-child(14) > a:last-child
+! yapletv2.com
+||yapletv2.com/data/ask_banner/*.gif
+||yapletv2.com/data/ask_banner*/*.gif
+||yapletv2.com/data/file/banner/*.gif
+||yapletv2.com/data/file/banner*/*.gif
+||yapletv2.com/data/file/view_banner/*.gif
+||yapletv2.com/data/file/view_banner*/*.gif
+||yapletv2.com/data/apms/background/*.gif
+||yapletv2.com/data/mtopbanner^
+||yapletv2.com/plugin/banner-mtop/mtopbannerhit.php^
+yapletv2.com##.nivo-imageLink
+yapletv2.com##.nivo-slice
+yapletv2.com##.nivoSlider
+||cyon501.com^
+||ppan-d.com^
+||hh-gold.com^
+||green-1004.com^
+||bananamall.co.kr^
+||pan-vvip.com^
+||partner.tvnori.com^
+||nike1111.com^
+||bitmangm.com^
+||esa34.com^
+||mt-police.com^
+||qoc32.com^
+||bbtv365.com^
+||g.psting.com^
+||gat999.com^
+||gold1212.com^
+! soragirls.com
+||soragirls.com/wp-content/uploads/2018/03/320X100_%EB%A7%88%EB%84%A4%ED%82%A4.gif
+||soragirls.com/wp-content/uploads/2018/03/320X100_%EB%A7%88%EB%84%A4%ED%82%A4-1.gif
+||soragirls.com/wp-content/uploads/*/*/320X100_*.gif
+||soragirls.com/wp-content/uploads/2018/07/KR-320x100-15-VMP10-WSP3.jpg
+||soragirls.com/wp-content/uploads/2018/04/%EC%95%BC%EB%A7%88%ED%86%A0%EC%B9%B4%EC%A7%80%EB%85%B8.gif
+||soragirls.com/wp-content/uploads/2017/04/%EC%8A%A4%ED%94%BC%EB%93%9C320100.gif
+||soragirls.com/wp-content/uploads/2018/01/%EB%B9%84%EC%95%84%EA%B7%B8%EB%9D%BC.gif
+||soragirls.com/wp-content/uploads/2018/06/%EB%AC%B4%EB%A3%8C%EC%95%BC%EB%8F%9911.gif
+||soragirls.com/wp-content/uploads/2017/12/sorasora.gif
+||soragirls.com/wp-content/uploads/2018/04/PHONE.gif
+||soragirls.com/wp-content/uploads/2017/12/PHONE.gif
+||soragirls.com/wp-content/uploads/*/*/PHONE.gif
+||soragirls.com/wp-content/uploads/2017/11/phoneting.gif
+||soragirls.com/wp-content/uploads/2018/04/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%B0%B0%EB%84%88%EB%B0%94%EB%A1%9C.gif
+||soragirls.com/wp-content/uploads/2018/04/viagra3325.jpg
+||soragirls.com/wp-content/uploads/2018/04/%EB%B9%84%EC%95%84%EA%B7%B8%EB%9D%BC%EB%B0%B0%EB%84%88%EB%B0%94%EB%A1%9C2-1.gif
+||soragirls.com/wp-content/uploads/*/*/*.gif
+! yadongjoa.com
+||yadongjoa.com/bannery/eng_120_3.gif
+||yadongjoa.com/bannery/150x600-new.gif
+||yadongjoa.com/bannery/yadong100.gif
+||yadongjoa.com/bannery/yadong300-2.gif
+||yadongjoa.com/bannery/KR5_320_100.jpg
+||yadongjoa.com/bannery/800x140-new.gif
+||yadongjoa.com/bannery/eng_800_100.jpg
+||yadongjoa.com/bannery/yadongjoa800_2.gif
+||yadongjoa.com/bannery/320x100new.gif
+||yadongjoa.com/bannery/banner_bia.gif
+||yadongjoa.com/bannery/330100_mm_7.gif
+||yadongjoa.com/bannery/sm2_320_100.gif
+||yadongjoa.com/bannery/topto_7.gif
+||yadongjoa.com/bannery/yadongjoa320_2.gif
+||yadongjoa.com/bannery/320_100_chat.gif
+||yadongjoa.com/bannery/576x175.gif
+||yadongjoa.com/bannery/pollT_7.gif
+||yadongjoa.com/bannery/hard_789.gif
+||yadongjoa.com/bannery/*.gif
+||yadongjoa.com/bannery/320_100_BNGK3.jpg
+||yadongjoa.com/bannery/*.jpg
+! girl79tv.com
+||girl7942.com/data/apms/background/4%20(1).gif
+||girl79tv.com/data/apms/background/mel400x200.gif
+||girl7942.com/data/apms/background/ttt.gif
+||girl79tv.com/data/apms/background/mel800x200.gif
+||girl7942.com/data/apms/background/5.gif
+||girl79tv.com/data/file/banner/thumb-2_copy_18_982018877_UPVmxXJk_ca594973b16303ea5e90d5e5f94b2b7df489ec8d_270x210.jpg
+||girl79tv.com/data/file/banner/982018928_bCpHS9X0_b4ed3b3a9f77b24aebe22740de1e2b6a13cc99ea.gif
+||girl79tv.com/data/file/banner/1_copy_16_3109820467_fu3sV5G6_edbd69c2f6358fb4ccf9e3a047dee471f60ab41b.gif
+||girl79tv.com/data/file/banner/982018877_a9GeqCxc_4f3b3465d8a96d87f0b07de7aa03fa67463c8fcc.gif
+||girl79tv.com/data/file/banner/1760385907_l8z2uoAw_38b33e48b24da59b6b099c423f260f3b37604162.gif
+||girl79tv.com/data/file/banner/982018877_xQZDBjfz_eb40001b8755c1c9901e5c9337c985cace6bc6a2.gif
+||girl79tv.com/data/file/banner/3066673486_u9ZefwKj_7b5ad497fffe18f3e5955ac3cc5a01dfdb191e3d.gif
+||girl79tv.com/data/file/banner/3088464520_rlaVEt3A_b37bbe7e1d16d4507276d85fdfb8fead5acb2a95.gif
+||girl79tv.com/data/file/banner/758683675_C7xIEHl1_54e4b51c11c9000e13927c661a05ccbffc49e18d.gif
+||girl79tv.com/data/file/banner/2_copy_18_982018877_UPVmxXJk_ca594973b16303ea5e90d5e5f94b2b7df489ec8d.jpg
+||girl79tv.com/data/file/banner/982018928_bCpHS9X0_b4ed3b3a9f77b24aebe22740de1e2b6a13cc99ea.gif
+||girl79tv.com/data/file/banner/1_copy_16_3109820467_fu3sV5G6_edbd69c2f6358fb4ccf9e3a047dee471f60ab41b.gif
+||girl79tv.com/data/file/banner/982018877_a9GeqCxc_4f3b3465d8a96d87f0b07de7aa03fa67463c8fcc.gif
+||girl79tv.com/data/file/banner/1760385907_l8z2uoAw_38b33e48b24da59b6b099c423f260f3b37604162.gif
+||girl79tv.com/data/file/banner/*.gif
+||girl7942.com/data/file/banner/*.gif
+||girl79tv.com/data/file/banner/*.jpg
+||girl7942.com/data/file/banner/*.jpg
+||girl79tv.com/data/file/banner_board2/982018928_arYQe9Di_283ecf797d3d4d7968f23fb65f399ca596f851d8.gif
+||girl79tv.com/data/file/banner_board/3109820467_B3CrkOf5_9c9d879e19d4fafe3037b4e36431cc374eb75b30.gif
+||girl7942.com/data/file/banner_board/3088464520_JSY4VNnH_b2b22f18039ca5f649159e6ff21228d472cafce0.gif
+||girl79tv.com/data/file/banner_board2/982018877_m5paj8Iv_79fff8c93509f0f6f598ad1dcd5247027bacf7a0.jpg
+||girl79tv.com/data/file/banner_board/982018877_lqRJDLHy_fc5b80ab46716be39feaf6af3ae6be5e1d8711d1.jpg
+||girl79tv.com/data/file/banner_*/*.gif
+||girl79tv.com/data/file/banner_*/*.jpg
+||girl7942.com/data/file/banner_*/*.gif
+||girl7942.com/data/file/banner_*/*.jpg
+! yoyogi.co.kr
+||yoyogi.co.kr/imgs/%EC%98%A8%EC%B9%B41150.jpg
+||yoyogi.co.kr/imgs/%EC%98%A8%EC%B9%B4850.jpg
+||yoyogi.co.kr/imgs/krkr.jpg
+||yoyogi.co.kr/imgs/%EC%98%A8%EC%B9%B4%ED%8C%9D%EC%97%85.png
+||yoyogi.co.kr/imgs/%EC%98%A8%EC%B9%B4265.gif
+||wimg.filekok.com/images/partner/700250_anigif.gif
+||yoyogi.co.kr/imgs/onca2.gif
+||yoyogi.co.kr/imgs/%EA%B4%91%EA%B3%A0%EB%AC%B8%EC%9D%98.jpg
+||yoyogi.co.kr/imgs/Aside/*.gif
+||yoyogi.co.kr/imgs/Bside/*.gif
+||yoyogi.co.kr/imgs/Cside/*.gif
+||yoyogi.co.kr/imgs/Dside/*.gif
+||yoyogi.co.kr/imgs/Eside/*.gif
+||yoyogi.co.kr/imgs/undervideo/*.gif
+||yoyogi.co.kr/imgs/bannerup/*.gif
+||yoyogi.co.kr/data/file/ad/*.gif
+||yoyogi.co.kr/imgs/bannermain/*.gif
+! bog79.com, bog892.com
+||i.imgur.com/44kOMZN.gif
+||i.imgur.com/spV4ybr.gif
+||i.imgur.com/*.gif$domain=bog892.com
+||78.media.tumblr.com/eca247f67492da6d0473e73f6388ff23/tumblr_p838wabcbq1vdi2bgo1_250.gif
+||66.media.tumblr.com/c0fc7f0c2ee66237581e51a913f739db/tumblr_pa2xb9LkeJ1utv3wlo1_250.gif
+||68.media.tumblr.com/27cc93cc75f2900298caec1488ab1df7/tumblr_ol9bkmJCKK1utv3wlo1_500.gif
+||78.media.tumblr.com/453e09a16f1255c687582534831b3168/tumblr_pchcm4vCQ61vdi2bgo1_250.gif
+bog892.com##.sub_menu
+bog892.com##.title_box
+bog892.com###left_bn_a > a:nth-child(2) > img
+bog892.com###left_bn_a > a:last-child > img
+bog892.com###phone
+bog892.com###aside > section.txt_g > a.m_text.bg_6:nth-child(3)
+bog892.com###aside > section.txt_g > a.m_text.bg_6:first-child
+bog892.com###aside > section.txt_g > a.m_text.bg_6:nth-child(2)
+bog892.com###aside > section.txt_g > a.m_text.bg_6:nth-child(4)
+bog892.com###aside > section.txt_g > a.m_text.bg_6:nth-child(5)
+bog892.com###aside > section.txt_g > a.m_text.bg_6:last-child
+bog892.com###actext_1
+bog892.com###bo_v_atc > div.v_txt_bn:nth-child(6) > a
+bog892.com###bo_v_atc > div.v_txt_bn:nth-child(5) > a
+! mingkyaa.com
+mingkyaa.com###layer_popup1 > table > tbody > tr:first-child > td > a > img
+mingkyaa.com###footer > p:nth-child(2) > a > img
+mingkyaa.com###content > div:nth-child(2) > div.board-view:first-child > div.board-view-content:last-child > p:nth-child(3) > a
+mingkyaa.com###content > div:nth-child(2) > div.board-view:first-child > div.board-view-content:last-child > p:nth-child(10) > a
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(3) > td > table > tbody > tr:first-child > td
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(2) > td
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(3) > td > table > tbody > tr:nth-child(3) > td
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(3) > td
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(2) > td > img
+mingkyaa.com###aside > table:last-child > tbody > tr:nth-child(4) > td > img
+! jilssa.com
+||img.zilssa.com/bannerj/eng_800_100.jpg
+||img.zilssa.com/bannerj/jilsa300_2.gif
+||img.zilssa.com/bannerj/800x140-new.gif
+||img.zilssa.com/bannerj/*.gif
+||img.zilssa.com/bannerj/*.jpg
+||jilssa.com/banner/sm2_320_100.gif
+||jilssa.com/banner/*.gif
+||img.zilssa.com/bannery/banner_91.gif
+||img.zilssa.com/bannery/*.gif
+||jilssa.com/banner/eng_800_100.jpg
+||jilssa.com/banner/*.jpg
+||jilssa.com/060/m2/img/c4.jpg
+||jilssa.com/060/m2/img/c1.jpg
+jilssa.com###popupWin
+! 19egg.com
+||19egg.com/img/060.gif
+||19egg.com/img/bw/hanjung1.gif
+||19egg.com/img/bw/hanami.gif
+||19egg.com/img/bw/viavia.gif
+||19egg.com/banner/img/2018bada3.gif
+||19egg.com/banner/img/*.gif
+||19egg.com/banner/img/newvia.jpg
+||19egg.com/banner/img/*.jpg
+||19egg.com/banner/img/kakao.png
+||19egg.com/banner/img/*.png
+||19egg.com/img/bw/dodori.gif
+||19egg.com/img/bw/goon.gif
+||19egg.com/img/bw/*.gif
+19egg.com###bo_v > div:nth-child(11) > marquee
+19egg.com###bo_v > div:nth-child(12) > marquee
+19egg.com###bo_v_atc > div:nth-child(9) > marquee
+19egg.com###container > div.ListType01.line_area:nth-child(5) > div.contents_box.cell_area
+||19egg.com/data/file/qka11/1892360042_HlnrYSDv_9098888.gif
+||19egg.com/data/file/qka11/1892446100_qtdV5HOL_EBB0A4ED978CED84B0_ECA09CED9CB4_350x195.gif
+||19egg.com/data/file/qka11/1892359420_eDvN7PJg_350x195.gif
+||19egg.com/data/file/qka11/831668306_O3pmJLA5_feel.gif
+||19egg.com/data/file/qka11/1892359420_m2FbyvDi_goon.gif
+||19egg.com/data/file/qka11/831668306_hiSPcsT2_hanami5.gif
+||19egg.com/data/file/qka11/1892446100_4V9cIsTM_cantv1.gif
+||19egg.com/data/file/qka11/831687585_B739ygXN_casino.gif
+||19egg.com/data/file/qka11/1892352321_0irEoUsk_playslot.gif
+||19egg.com/data/file/qka11/1892359420_KiU9NcP8_350x195.gif
+||19egg.com/mobile/images/hanjung5.gif
+||19egg.com/mobile/images/phone.png
+||19egg.com/mobile/images/partner1.jpg
+||19egg.com/mobile/images/*.gif
+||19egg.com/mobile/images/*.png
+||19egg.com/mobile/images/*.jpg
+! yain888.com
+yain888.com###left_bn_a > div.box_d:last-child > div.title_box:first-child
+yain888.com###left_bn_a > div.box_d:last-child > ul.sub_menu:last-child
+||78.media.tumblr.com/ca4f48d71234d6af38b70b8ea284da46/tumblr_pb494dSuay1vdi2bgo1_540.png
+||78.media.tumblr.com/c7f34242942e002527c169c0c37b3101/tumblr_pb49wvb96p1vdi2bgo1_250.png
+||78.media.tumblr.com/f4be9051ecd85fd7f58c0d7061a4ad10/tumblr_pawxjsDgAu1vdi2bgo1_400.png
+||i.imgur.com/DZo9lYb.png$domain=yain888.com
+||i.imgur.com/OZcz8lM.jpg
+||i.imgur.com/sPtbBFF.jpg
+||i.imgur.com/In3FvKE.jpg
+! allad82.com
+||allad82.com/imgs/Cside/winnova1150x100.gif
+||allad82.com/imgs/Aside/yesbet420x120.gif
+||allad82.com/imgs/bannermain/slotmania420x120.gif
+||allad82.com/imgs/undervideo/Theking560x100.gif
+||allad82.com/imgs/Aside/*.gif
+||allad82.com/imgs/Cside/*.gif
+||allad82.com/imgs/bannermain/*.gif
+||allad82.com/imgs/undervideo/*.gif
+allad82.com###video
+||allad82.com/imgs/%EC%98%A8%EC%B9%B4415.gif
+||allad82.com/imgs/%EC%B9%B4%EC%B9%9C.gif
+||allad82.com/imgs/Bside/slotland200x200.gif
+||allad82.com/imgs/Dside/simba1150x100.gif
+||allad82.com/imgs/Bside/*.gif
+||allad82.com/imgs/Dside/*.gif
+||allad82.com/imgs/bannerup/Theking_200x200.gif
+||allad82.com/imgs/bannerup/*.gif
+||78.media.tumblr.com/41402f4e668ae7e01485b4ffd0a07f1a/tumblr_p2ereqddd41woy4k3o4_250.gif
+||78.media.tumblr.com/*/tumblr_*_250.gif$domain=allad82.com
+||allad82.com/data/file/ad/2187937443_t7Sea3iT_bc282d65f377f67b59f655eda2b14db1f036b973.gif
+||allad82.com/data/file/ad/*.gif
+||allad82.com/imgs/Eside/2sulhwa500x120.gif
+||allad82.com/imgs/Eside/*.gif
+! h6yl.1004ton.com
+||cdn.pbrd.co/images/*.gif$domain=h6yl.1004ton.com
+static/pc/img/main_img.jpg$domain=h6yl.1004ton.com
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-top:first-child > a:first-child > img
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-top:first-child > a:nth-child(2) > img
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-top:first-child > a:last-child > img
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-text:nth-child(4)
+h6yl.1004ton.com###app > div.main-wrap:nth-child(4) > div.right-banner.side-banner:last-child > div > div > div:last-child > a > img.banner
+h6yl.1004ton.com###app > div.main-wrap:nth-child(4) > div.left-banner.side-banner:first-child > div > div:last-child > div:last-child > a > img.banner
+h6yl.1004ton.com###app > div.header:nth-child(2) > div.main-top-banner:nth-child(2) > a > img.banner
+h6yl.1004ton.com###app > div.main-wrap:nth-child(4) > div.left-banner.side-banner:first-child > div > div > div:first-child > a > img.banner
+h6yl.1004ton.com###app > div.main-wrap:nth-child(4) > div.right-banner.side-banner:last-child > div > div > div:first-child > a > img.banner
+h6yl.1004ton.com###app > div.main-wrap:nth-child(4) > div.main:nth-child(2) > div > div.modules:last-child > a > img.banner
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-bottom:last-child > a:first-child > img
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-bottom:last-child > a:nth-child(2) > img
+h6yl.1004ton.com###adult-view > div.item:first-child > div.da-view-bottom:last-child > a:last-child > img
+h6yl.1004ton.com##.banner
+! manstorrent.com
+||78.media.tumblr.com/3c8d9eb2b8cc15ac393c7181e9cf74f0/tumblr_pbqfd1g35m1xxipv7o3_1280.gif
+||78.media.tumblr.com/ae1082cf4863d2f89037bf38f2675f6f/tumblr_pbqfd1g35m1xxipv7o2_500.gif
+||78.media.tumblr.com/806b4eee57c8d1f794eec9df276b099f/tumblr_pbqwkdnOpy1xxipv7o1_500.gif
+||78.media.tumblr.com/*/tumblr_*_1280.gif$domain=manstorrent.com
+||78.media.tumblr.com/*/tumblr_*_500.gif$domain=manstorrent.com
+manstorrent.com###thema_wrapper > div.wrapper:first-child > div.container.widget-index:nth-child(5) > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:first-child > div:first-child > a > img
+manstorrent.com###thema_wrapper > div.wrapper:first-child > div.container.widget-index:nth-child(5) > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:first-child > div:nth-child(2) > a > img
+manstorrent.com###thema_wrapper > div.wrapper:first-child > div.container.widget-index:nth-child(5) > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:first-child > div:nth-child(3) > a > img
+manstorrent.com###thema_wrapper > div.wrapper:first-child > div.container.widget-index:nth-child(5) > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:first-child > div:nth-child(5) > a > img
+manstorrent.com###thema_wrapper > div.wrapper:first-child > div.container.widget-index:nth-child(5) > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:first-child > div:nth-child(4) > a > img
+! nobra2.net
+||68.media.tumblr.com/*/tumblr_*_400.gif$domain=nobra2.net
+||68.media.tumblr.com/*/tumblr_*_250.gif$domain=nobra2.net
+||78.media.tumblr.com/*/tumblr_*_250.gif$domain=nobra2.net
+||3.bp.blogspot.com/*/*/*/s400/*.gif$domain=nobra2.net
+nobra2.net###box
+nobra2.net##.green_bt
+nobra2.net##.webhard_bt
+! 9mung.cc
+||9mung.cc/data/file/bbs_hidden/*.gif
+||9mung.cc/data/editor/1807/20180713143441_3e48471b4d5f64b105c08909b9199d55_r416.gif
+||9mung.cc/data/file/bbs_hidden/759968189_t7I9bqHQ_b58eeaf32126b5eb349dbe242149171f97dd3297.jpg
+||9mung.cc/data/file/bbs_hidden/759968189_z4yH95ZR_7d64c1454588118c1c60f18d215f3127c4c8ce25.jpg
+! kulbam.com
+||kulbam.com/data/editor/1802/85bfb2d0d643dac375b09e0399873e37_1518423760_7944.jpg
+||kulbam.com/data/editor/1802/85bfb2d0d643dac375b09e0399873e37_1518423759_7293.jpg
+||kulbam.com/data/editor/1802/093c549c018b1a75a160936238241b64_1519284715_7485.gif
+||kulbam.com/data/editor/1802/093c549c018b1a75a160936238241b64_1519284716_6493.gif
+||kulbam.com/data/editor/1802/093c549c018b1a75a160936238241b64_1519286151_6452.gif
+||pickgend.com/data/editor/1804/4ad6ccd823039b627064e021f17b1671_1524811005_2942.gif
+||kulbam.com/data/editor/1805/76d20ad58754d6787d942f61c3348427_1527476796_8251.gif
+||kulbam.com/data/editor/1805/76d20ad58754d6787d942f61c3348427_1527476593_9261.gif
+||kulbam.com/data/editor/1804/dd09a175f035d9036444f1ad30a9554e_1523522428_67.gif
+||pickgend.com/data/editor/1805/540a89307e14966452e03cc886abde02_1526268657_6234.gif
+||pickgend.com/data/editor/1807/161d3c90e102a948ff4efd8023853109_1531451474_2613.gif
+||pickgend.com/data/editor/1807/dc32e5514bb99c08d4dbb543094bef82_1531710448_6111.gif
+||pickgend.com/data/editor/1806/3d316526040ed0fc3e5f6e81e24db237_1528100313_9154.gif
+||kulbam.com/data/editor/1807/b8bbca632269e71105a36ec11f291fb4_1531314592_5687.gif
+||pickgend.com/data/editor/1807/161d3c90e102a948ff4efd8023853109_1531451471_8733.gif
+||kulbam.com/data/editor/1712/3cf35281bbe0b8e971346a88f949fe2f_1513576148_5297.gif
+! nanavod.com
+||nanavod.com/thema/Miso-Basic4/assets/img/banner-sero.jpg
+||nanavod.com/img/banner/*.gif
+! nuna365.com
+||nuna365.com/data/banner/2
+||nuna365.com/data/banner/*
+||nuna365.com/data/editor/1806/20180624193046_94bbd3517a98cc08748c423272373b10_2hrj.png
+||nuna365.com/img/footer-img.gif
+! yaburi00.men
+||yaburi00.men/data/file/ads_link/2728309618_Fy6oOCfx_ae945bf8886ce7a62cdf9616e1c2c3a59a39ea7f.gif
+||yaburi00.men/data/file/ads_link/*.gif
+||yaburi00.men/data/file/ads_link/thumb-2890202968_vU5pqsA4_f6f954a8f1ff81c2ddad84bac4f18ce26b7bc0e1_600x150.jpg
+||yaburi00.men/data/file/ads_link/2890173825_sSlARdFk_ae803f183f18b62f20b3c84995e11fcaaed5c7e8.jpg
+||yaburi00.men/data/file/ads_link/*.jpg
+||yaburi00.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
+yaburi00.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
+yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
+yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
+yaburi00.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+! mimi123.net
+||78.media.tumblr.com/ac4c70862a7aba9b5f0659f25b7dfd53/tumblr_ox5vhvpEGF1w57wq2o1_400.gif
+||78.media.tumblr.com/7bf3d00b289ed60ca01fed8a3c5c30f6/tumblr_ox5wzs0egS1w57wq2o1_400.gif
+||78.media.tumblr.com/4e44fc85a1f540ef6e11b2b282ee603d/tumblr_ox5wzs0egS1w57wq2o2_250.gif
+||mimi123.net/baner/300-100.gif
+||mimi123.net/baner/1000-100.gif
+||mimi123.net/baner/*.gif
+||mimi123.net/baner/12.png
+||mimi123.net/baner/love2.jpg
+||mimi123.net/baner/*.png
+||mimi123.net/baner/*.jpg
+||mimi123.net/vi.gif
+||mimi123.net/ftv3.gif
+! g-dduk.com, g-dduk2.com
+||g-dduk.com/img/center2.gif
+||g-dduk.com/data/editor/1806/600ba96cebce234703ac15d3f84fe1ee_1529578039_991.gif
+||g-dduk.com/data/apms/background/*.gif
+||g-dduk2.com/data/apms/background/*.gif
+! candy33.net
+||candy33.net/data/file/menus/2918527212_dYvcD9JI_KR-820x150-15-VMP10-BNGK3.jpg
+||candy33.net/data/file/menus/2728278835_D6eSVINr_820150_33.gif
+||candy33.net/data/file/menus/2728309328_eHMVL1yx_800-200.gif
+||candy33.net/data/file/menus/2728278835_EaYblH6r_860200_slot.gif
+candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-child(3) > div.leftbox:last-child
+! video.fc2.com
+||static.fc2.com/video/img/b/en/vdo-b_lp-ap-pc03-en.png
+||static.fc2.com/video/img/u/b/102701/en.png?t=1
+! 3xplanet.com
+||uploadgig.com/static/d5fw/TE4c_s6.gif
+||3xplanet.com/images/teamplate/javxspot.gif
+!
+||bwk41.mooo.com/banner/780x150_1.gif
+||images2.imgbox.com/9f/de/JTzDtYdD_o.png
+||68.media.tumblr.com/56902afa252ad742de25d7f93ae045cf/tumblr_opazn9ZVRV1vv4g0yo1_400.gif
+||68.media.tumblr.com/d4fd3ee809455793261534d5d5c2a37f/tumblr_opazn9ZVRV1vv4g0yo3_1280.gif
+||78.media.tumblr.com/c58a77c33cbb2f910b25dc04e7041a6a/tumblr_p9bno1SQyc1xp7nmmo3_1280.gif
+||78.media.tumblr.com/01fbf3bc31bfc35979dca0d8be889b4c/tumblr_p7o5lnqMZk1xp7nmmo3_1280.gif
+||78.media.tumblr.com/cfff4df23fc7e4e308d55e4a4b3debf6/tumblr_p8c6npm7Cr1xp7nmmo3_1280.gif
+||68.media.tumblr.com/641f098543db9174af3aa93cf48d62d5/tumblr_on5pkvAE6O1vv4g6qo2_1280.gif
+||78.media.tumblr.com/0ce810383d06b7dbde16c75f28c707a7/tumblr_p7o5lnqMZk1xp7nmmo1_500.gif
+||68.media.tumblr.com/d996738c8dba7136a321b9e571c7b9c7/tumblr_opazn9ZVRV1vv4g0yo2_500.gif
+||78.media.tumblr.com/55b4d01364b2985cc713b6cee8f863a7/tumblr_p6r59omQVp1xo8fseo1_500.gif
+||78.media.tumblr.com/4f355d64962e5102089ab033473517d5/tumblr_p9bno1SQyc1xp7nmmo2_500.gif
+||78.media.tumblr.com/866e9e2c11e1a66d269b99b2eaafef21/tumblr_p8c6npm7Cr1xp7nmmo2_500.gif
+||66.media.tumblr.com/7dd5aac68a3570f78c5513aecf5bd3ec/tumblr_payzebLkNo1utv3wlo1_250.gif
+||66.media.tumblr.com/279673c62de471b0a7e4499d71439016/tumblr_pbfju7sXoi1vdi2bgo1_250.gif
+||78.media.tumblr.com/da47a67d9d3f1970155af1f07bac2bfa/tumblr_p6t9yvCgrm1vdi2bgo1_250.jpg
+||78.media.tumblr.com/562e6acd74847a2b2f0c883703e794b3/tumblr_p92cutUWTR1vdi2bgo1_250.gif
+||66.media.tumblr.com/ebbd3073bcd73dfb4a7a8ab848feba7d/tumblr_pa2xbqtMGq1utv3wlo1_250.gif
+||66.media.tumblr.com/2a45ba60703facf4726a87f93d7ecc7b/tumblr_payzexevBF1utv3wlo1_250.gif
+||78.media.tumblr.com/9083f8a2cb5f3273fe3e43b4ed7dbf10/tumblr_pbgf5w5Cw91vdi2bgo1_250.jpg
+||68.media.tumblr.com/f3cf729e6f1d6fa1d542dfb8fb75d543/tumblr_owy0h9PSW11vdi2bgo1_250.gif
+||78.media.tumblr.com/ece2762017c7381d3564490db840b3e6/tumblr_pb4b3gY62A1vdi2bgo1_250.png
+||78.media.tumblr.com/ce7a214994c998e1bba23d083e27ee94/tumblr_p6t9ulayDA1vdi2bgo1_540.jpg
+||78.media.tumblr.com/78c1e809da08c57f063d0e86f5b1012e/tumblr_p6t9r7JWpv1vdi2bgo1_500.jpg
+||78.media.tumblr.com/e505f870b5f08bc7e700e1923c104a78/tumblr_pbv2ktwRV21vdi2bgo2_400.png
+||78.media.tumblr.com/9d30f366fbfb4480e63f1f573ebeb98c/tumblr_pbv2ktwRV21vdi2bgo1_250.png
+||78.media.tumblr.com/57ac8d5b591cd6ebfbb4c428baed8f8f/tumblr_p6jljxOQAY1vhiq4wo2_250.gif
+||78.media.tumblr.com/7ae7d29c3a9f38aa0b8ed7a55423587c/tumblr_p31v051nrv1vhiq4wo1_250.gif
+||68.media.tumblr.com/438a645b48215df08fb2d1c55a14ed36/tumblr_ojv9eau6Rq1vhiq4wo3_250.gif
+||78.media.tumblr.com/bf8326007bda75eb6d1857eefdf7f829/tumblr_ozwvn4WWAQ1vhiq4wo2_250.gif
+||78.media.tumblr.com/3250a9c3023b14710cb19ee4af01f5e6/tumblr_p7028sLCGB1umqjwwo2_250.gif
+||78.media.tumblr.com/817bf15930ce32540fd6aa8bd5b6e9f7/tumblr_p57h57Jue91vhiq4wo2_250.gif
+||78.media.tumblr.com/a4477e2d58e329ce6c688328d4cb6064/tumblr_pbupmoXNiN1umqjwwo3_250.gif
+||78.media.tumblr.com/445bce9fbb3e6456fd93de67be0cee99/tumblr_p5xgagE9oG1vhiq4wo1_250.gif
+||68.media.tumblr.com/5ac9be9e1114262f6e3b71993cb14456/tumblr_owm657vSR91vhiq4wo1_1280.gif
+||78.media.tumblr.com/2ff47c71acde8960e13b1fdb6482765a/tumblr_p7028sLCGB1umqjwwo4_1280.gif
+||66.media.tumblr.com/7625fc1b83f66a2431b1980ea5f6c62e/tumblr_od86geaHh01vcag0vo2_1280.gif
+||68.media.tumblr.com/27ffeef9efa6bd6c164802ec1db1e2a0/tumblr_ojpxd7GHyZ1w3opo4o4_250.gif
+||68.media.tumblr.com/0390084dea567c234db094896a2dc182/tumblr_owodv9jJ3O1vhiq4wo1_1280.gif
+||68.media.tumblr.com/d55f53b60d6c3fcc61bec65766241eea/tumblr_ojvfxa2Qb21vhiq4wo4_250.gif
+||68.media.tumblr.com/05a7996951dc5c2a447e1454b99a9500/tumblr_owmfd32Rbi1vhiq4wo1_250.gif
+||68.media.tumblr.com/7b62aad544e74e249231c8e6f3bb2616/tumblr_ojvg7yusiC1vhiq4wo1_250.gif
+||68.media.tumblr.com/f937adfe04920d40356ca37a1364a542/tumblr_ojvfxa2Qb21vhiq4wo2_250.gif
+||78.media.tumblr.com/40833e34fb93c83676557bc22c08ce2d/tumblr_ozwvn4WWAQ1vhiq4wo1_250.gif
+||78.media.tumblr.com/b252221d9bf15a65230e81097f6610f1/tumblr_pbupmoXNiN1umqjwwo4_1280.gif
+||68.media.tumblr.com/5293f856dbbe8be0e35ea204fcc6d5f6/tumblr_ojpx0iIfQo1vhiq4wo9_250.gif
+||78.media.tumblr.com/e2e6fca5d03407466eb005fca27fc871/tumblr_p5xgagE9oG1vhiq4wo4_1280.gif
+||78.media.tumblr.com/d4b028677a7d83510e9e84564a9973b2/tumblr_ozwvn4WWAQ1vhiq4wo4_400.gif
+||68.media.tumblr.com/ee665209ef2d28afe3fd00908acb2935/tumblr_ojpx0iIfQo1vhiq4wo10_400.gif
+||68.media.tumblr.com/6f5c7e01a11c421a2ba066023bce3d60/tumblr_owmflowdpU1vhiq4wo1_400.gif
+||78.media.tumblr.com/af1d793f8bd13e41609c21b369fa87f4/tumblr_p6jljxOQAY1vhiq4wo3_1280.gif
+||1.bp.blogspot.com/-vGFxoVkNZc8/W0Wd25t6SuI/AAAAAAAAADg/9DbugQrZRUUiBp1edEcBKBiHbeDXhJ0WACK4BGAYYCw/s400/200150_77.gif
+||1.bp.blogspot.com/-Fsu_zhfDKOY/WsL8DK0E72I/AAAAAAAAAAc/Z6L_MLUlwkUG4gs0IME7WIvFuAr4nTz7QCLcBGAs/s320/tumblr_p2ou80LGU61vhiq4wo2_1280.gif
+||2.bp.blogspot.com/-dtkSjQLgPbA/W0Wd8UMxJ9I/AAAAAAAAAD8/jcQVeb67KyIuXrtaIITAtVahJ69TkXjNwCK4BGAYYCw/s1600/730150_77.gif
+||4.bp.blogspot.com/-E1GbGi3T6Q0/WsL8KYGOn3I/AAAAAAAAAAg/szs3lehBt0Ubv2ypdtVHzhE-_qXQmSwrgCLcBGAs/s320/tumblr_p2ou80LGU61vhiq4wo3_400.gif
+!
+
+! https://github.com/hoshsadiq/adblock-nocoin-list/
+! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
+! NoCoin Filter List
+! 129
+! 28 February 2019
+!
+!
+! Third Party blocking ---------------------------------------------------------
+||cnhv.co^$third-party
+||coin-hive.com^$third-party
+||coinhive.com^$third-party
+||authedmine.com^$third-party,domain=~coinhive.com
+||jsecoin.com^$third-party
+||185.165.169.108^$third-party
+||35.194.26.233^$third-party
+||35.239.57.233^$third-party
+||miner.pr0gramm.com^$third-party
+||miner.pr0gramm.com^$websocket
+||minemytraffic.com^$third-party
+||ppoi.org^$third-party
+||projectpoi.com^$third-party
+||crypto-loot.com^$third-party
+||cryptaloot.pro^$third-party
+||cryptoloot.pro^$third-party
+||coinerra.com^$third-party
+||coin-have.com^$third-party
+||minero.pw^$third-party
+||minero-proxy-*.now.sh^$third-party
+||api.inwemo.com^$third-party
+||rocks.io^$third-party
+||jsccnn.com^$third-party
+||jscdndel.com^$third-party
+||coinhiveproxy.com^$third-party
+||coinblind.com^$third-party
+||coinnebula.com^$third-party
+||monerominer.rocks^$third-party
+||cdn.cloudcoins.co^$third-party
+||coinlab.biz^$third-party
+||go.megabanners.cf^$third-party
+||go.megabanners.cf^$websocket
+||baiduccdn1.com^$third-party
+||wsp.marketgid.com^$third-party
+||papoto.com^$third-party
+||flare-analytics.com^$third-party
+||sparechange.io^$third-party
+||zlx.com.br^$third-party
+||m.anyfiles.ovh^
+||coinimp.com$third-party
+||coinimp.net$third-party
+||mutuza.win^$third-party
+||cryptonoter.com^$third-party
+||crypto-webminer.com^$third-party
+||adless.io^$third-party
+||hemnes.win^$third-party
+||tidafors.xyz^$third-party
+||moneone.ga^$third-party
+||plexcoin.info^$third-party
+||monkeyminer.net^$third-party
+||mercy.ga^$third-party
+||coinpirate.cf^$third-party
+||cpufan.club^$third-party
+||devphp.org.ua^$third-party
+||mining.best^$third-party
+||nfwebminer.com^$third-party
+||webxmr.com^$third-party
+||bjorksta.men^$third-party
+||crypto.csgocpu.com^$third-party
+||noblock.pro^$third-party
+||cryptobara.com^$third-party
+||reservedoffers.club^$third-party
+||adminer.com^$third-party
+||ad-miner.com^$third-party
+||77.162.125.199^$third-party
+||host.d-ns.ga^$third-party
+||abc.pema.cl^$third-party
+||webmine.cz^$third-party
+||analytics.blue^$third-party
+||smectapop12.pl^$third-party
+||berserkpl.net.pl^$websocket
+||webminepool.com^$third-party
+||webminepool.tk^$third-party
+||playerassets.info^$third-party
+||tokyodrift.ga^$third-party
+||webassembly.stream^$third-party
+||okeyletsgo.ml^$third-party
+||hodlers.party^$third-party
+||hodling.faith^$third-party
+||chainblock.science^$third-party
+||candid.zone^$third-party
+||webmine.pro^$third-party
+||1q2w3.fun^$third-party
+||1q2w3.me^$third-party
+||1q2w3.top^$third-party
+||andlache.com^$third-party
+||bablace.com^$third-party
+||bewaslac.com^$third-party
+||biberukalap.com^$third-party
+||bowithow.com^$third-party
+||butcalve.com^$third-party
+||evengparme.com^$third-party
+||gridiogrid.com^$third-party
+||hatcalter.com^$third-party
+||hegrinhar.com^$third-party
+||kedtise.com^$third-party
+||ledinund.com^$third-party
+||nathetsof.com^$third-party
+||renhertfo.com^$third-party
+||rintindown.com^$third-party
+||sparnove.com^$third-party
+||verresof.com^$third-party
+||witthethim.com^$third-party
+||minescripts.info^$third-party
+||nablabee.com^$third-party
+||dronml.ml^$third-party
+||niematego.tk^$third-party
+||tulip18.com^$third-party
+||didnkinrab.com^$third-party
+||ledhenone.com^$third-party
+||losital.ru^$third-party
+||mebablo.com^$third-party
+||moonsade.com^$third-party
+||nebabrop.com^$third-party
+||pearno.com^$third-party
+||rintinwa.com^$third-party
+||willacrit.com^$third-party
+||minr.pw^$third-party
+||staticsfs.host^$third-party
+||cdn-code.host^$third-party
+||g-content.bid^$third-party
+||static-cnt.bid^$third-party
+||statistic.date^$third-party
+||jquery-uim.download^$third-party
+||cdn-jquery.host^$third-party
+||interestingz.pw^$third-party
+||kippbeak.cf^$third-party
+||pasoherb.gq^$third-party
+||axoncoho.tk^$third-party
+||depttake.ga^$third-party
+||flophous.cf^$third-party
+||pr0gram.org^$third-party
+||authedmine.eu^$third-party
+||monero-miner.com^$third-party
+||coinminingonline.com^$third-party
+||datasecu.download^$third-party
+||jquery-cdn.download^$third-party
+||bhzejltg.info^$third-party
+||pzoifaum.info^$third-party
+||cfcdist.loan^$third-party
+||cfcnet.top^$third-party
+||etzbnfuigipwvs.ru^$third-party
+||freshrefresher.com^$third-party
+||terethat.ru^$third-party
+||gustaver.ddns.net^$third-party
+||appelamule.com^$third-party
+||mepirtedic.com^$third-party
+||streambeam.io^$third-party
+||adzjzewsma.cf^$third-party
+||ffinwwfpqi.gq^$third-party
+||ininmacerad.pro^$third-party
+||mhiobjnirs.gq^$third-party
+||cfcdist.gdn^$third-party
+||open-hive-server-1.pp.ua^$third-party
+||spacepools.org^$third-party
+||aalbbh84.info^$third-party
+||aymcsx.ru^$third-party
+||aeros01.tk^$third-party
+||aeros02.tk^$third-party
+||aeros03.tk^$third-party
+||aeros04.tk^$third-party
+||aeros05.tk^$third-party
+||aeros06.tk^$third-party
+||aeros07.tk^$third-party
+||aeros08.tk^$third-party
+||aeros09.tk^$third-party
+||aeros10.tk^$third-party
+||aeros11.tk^$third-party
+||aeros12.tk^$third-party
+||1q2w3.website^
+||eth-pocket.de^$third-party
+||xvideosharing.site^$third-party
+||bestcoinsignals.com^$third-party
+||eucsoft.com^$third-party
+||traviilo.com^$third-party
+||wasm24.ru^$third-party
+||xmr.cool^$third-party
+||netflare.info^$third-party
+||cloudflane.com^$third-party
+||clgserv.pro^$third-party
+||hide.ovh^
+||graftpool.ovh^
+||encoding.ovh^
+||altavista.ovh^
+||scaleway.ovh^
+||nexttime.ovh^
+||never.ovh^
+||2giga.download^
+||webminerpool.com^$third-party
+||minercry.pt^$third-party
+||adplusplus.fr^$third-party
+||ethtrader.de^$third-party
+||gobba.myeffect.net^
+||bauersagtnein.myeffect.net^
+||besti.ga^
+||jurty.ml^
+||jurtym.cf^
+||mfio.cf^
+||mwor.gq^
+||oei1.gq^
+||wordc.ga^
+||berateveng.ru^
+||ctlrnwbv.ru^
+||ermaseuc.ru^
+||kdmkauchahynhrs.ru^
+||uoldid.ru^
+||jqrcdn.download^$third-party
+||jqassets.download^$third-party
+||jqcdn.download^$third-party
+||jquerrycdn.download^$third-party
+||jqwww.download^$third-party
+||lightminer.co^$third-party
+||browsermine.com^$third-party
+||mytestminer.xyz^$third-party
+||bmst.pw^
+||bmnr.pw^
+||bmcm.pw^
+||bmcm.ml^
+||videoplayer2.xyz^
+||0x1f4b0.com^
+||httpp.gdn^
+||authedwebmine.cz^$third-party,domain=~webmine.cz
+||skencituer.com^
+||site.flashx.
+||play1.flashx.
+||play2.flashx.
+||play4.flashx.
+||play5.flashx.
+||js.vidoza.net^
+||mm.zubovskaya-banya.ru^
+||mysite.irkdsu.ru^
+||play.vidzi.tv^
+||tainiesonline.pw^
+||pampopholf.com^
+||filmoljupci.com^
+||authcaptcha.com^
+||flowplayer.space^
+||belicimo.pw^
+||cc.gofile.io^
+||yololike.space^
+||play.mix.kinostuff.com^
+||sourcecode.pro^
+||gay-hotvideo.net^
+||intellecthosting.net^
+||thersprens.com^
+||gramombird.com^
+||ugmfvqsu.ru^
+||bsyauqwerd.party^
+||ccvwtdtwyu.trade^
+||baywttgdhe.download^
+||pdheuryopd.loan^
+||iaheyftbsn.review^
+||djfhwosjck.bid^
+||najsiejfnc.win^
+||zndaowjdnf.stream^
+||yqaywudifu.date^
+||malictuiar.com^
+||proofly.win^$third-party
+||zminer.zaloapp.com^
+||vkcdnservice.com^$third-party
+||dexim.space^$third-party
+||acbp0020171456.page.tl^
+||vuryua.ru^$third-party
+||minexmr.stream^$third-party
+||gitgrub.pro^$third-party
+||d8acddffe978b5dfcae6.date^
+||eth-pocket.com^$third-party
+||autologica.ga^$third-party
+||whysoserius.club^$third-party
+||aster18cdn.nl^$third-party
+||nerohut.com^$third-party
+||gnrdomimplementation.com^
+||pon.ewtuyytdf45.com^
+||hhb123.tk^$third-party
+||dzizsih.ru^$third-party
+||nddmcconmqsy.ru^$third-party
+||silimbompom.com^$third-party
+||unrummaged.com^$third-party
+||fruitice.realnetwrk.com^$third-party
+||synconnector.com^$third-party
+||toftofcal.com^$third-party
+||gasolina.ml^$third-party
+||8jd2lfsq.me^$third-party
+||afflow.18-plus.net^$third-party
+||afminer.com^$third-party
+||aservices.party^
+||becanium.com^$third-party
+||brominer.com^$third-party
+||cdn-analytics.pl^$third-party
+||cloudcdn.gdn^$third-party
+||coin-service.com^$third-party
+||coinpot.co^$third-party
+||coinrail.io^$third-party
+||etacontent.com^
+||exdynsrv.com^$third-party
+||formulawire.com^$third-party
+||go.bestmobiworld.com^$third-party
+||goldoffer.online^$third-party
+||hallaert.online^$third-party
+||hashing.win^$third-party
+||igrid.org^
+||laserveradedomaina.com^$third-party
+||machieved.com^$third-party
+||nametraff.com^$third-party
+||offerreality.com^$third-party
+||ogrid.org^$third-party
+||panelsave.com^$third-party
+||party-vqgdyvoycc.now.sh^$third-party
+||pertholin.com^$third-party
+||premiumstats.xyz^$third-party
+||serie-vostfr.com^$third-party
+||salamaleyum.com^$third-party
+||smartoffer.site^$third-party
+||stonecalcom.com^$third-party
+||thewhizmarketing.com^$third-party
+||thewhizproducts.com^$third-party
+||thewise.com^$third-party
+||traffic.tc-clicks.com^$third-party
+||vcfs6ip5h6.bid^$third-party
+||web.dle-news.pw^$third-party
+||webmining.co^$third-party
+||wp-monero-miner.de^$third-party
+||wtm.monitoringservice.co^$third-party
+||xy.nullrefexcep.com^$third-party
+||yrdrtzmsmt.com^$third-party
+||rand.com.ru^
+||verifier.live^
+||minerad.com^
+||coin-cube.com^
+||coin-services.info^
+||service4refresh.info^
+||money-maker-script.info^
+||money-maker-default.info^
+||de-ner-mi-nis4.info^
+||de-nis-ner-mi-5.info^
+||de-mi-nis-ner2.info^
+||de-mi-nis-ner.info^
+||mi-de-ner-nis3.info^
+||soodatmish.com^
+||feesocrald.com^
+||nexioniect.com^
+||myregeneaf.com^
+||reauthenticator.com^
+||45.32.105.134^$third-party
+||serv1swork.com^
+||str1kee.com^
+||f1tbit.com^
+||g1thub.com^
+||swiftmining.win^$third-party
+||cashbeet.com^
+||wmtech.website^
+||notmining.org^$third-party
+||besstahete.info^$third-party
+||statdynamic.com^$third-party
+||miner.nimiq.com^$third-party
+||nimiqpool.com^$third-party
+||beeppool.org^$third-party
+||beatingbytes.com^$third-party
+||besocial.online^$third-party
+||ethmedialab.info^$third-party
+||mine.terorie.com^$third-party
+||nimiq.agency^$third-party
+||nimiq.network^$third-party
+||nimiq.terorie.com^$third-party
+||nimiqtest.ml^$third-party
+||ninaning.com^$third-party
+||seed-*.nimiq-network.com^$third-party
+||seed-*.nimiq.com^$third-party
+||seed-*.nimiq.network^$third-party
+||seed1.sushipool.com^$third-party
+||sunnimiq.cf^$third-party
+||sunnimiq1.cf^$third-party
+||sunnimiq2.cf^$third-party
+||sunnimiq3.cf^$third-party
+||sunnimiq4.cf^$third-party
+||sunnimiq5.cf^$third-party
+||sunnimiq6.cf^$third-party
+||jscoinminer.com^$third-party
+||tercabilis.info^
+||istlandoll.com^
+
+! coinimp.com
+||blockchained.party
+||freecontent.bid
+||freecontent.date
+||freecontent.download
+||freecontent.faith
+||freecontent.loan
+||freecontent.party
+||freecontent.racing
+||freecontent.review
+||freecontent.science
+||freecontent.stream
+||freecontent.trade
+||freecontent.win
+||hostingcloud.bid
+||hostingcloud.date
+||hostingcloud.download
+||hostingcloud.faith
+||hostingcloud.loan
+||hostingcloud.party
+||hostingcloud.racing
+||hostingcloud.review
+||hostingcloud.science
+||hostingcloud.stream
+||hostingcloud.trade
+||hostingcloud.win
+||jshosting.bid
+||jshosting.date
+||jshosting.download
+||jshosting.faith
+||jshosting.loan
+||jshosting.party
+||jshosting.racing
+||jshosting.review
+||jshosting.science
+||jshosting.stream
+||jshosting.trade
+||jshosting.win
+||wasm.stream
+||alflying.bid
+||alflying.date
+||alflying.win
+||anybest.host
+||anybest.pw
+||anybest.site
+||anybest.space
+||dubester.pw
+||dubester.site
+||dubester.space
+||flightsy.bid
+||flightsy.date
+||flightsy.win
+||flighty.win
+||flightzy.bid
+||flightzy.date
+||flightzy.win
+||gettate.date
+||gettate.faith
+||gettate.racing
+||mighbest.host
+||mighbest.pw
+||mighbest.site
+||zymerget.bid
+||zymerget.date
+||zymerget.faith
+||zymerget.party
+||zymerget.stream
+||zymerget.win
+
+! General blocking -------------------------------------------------------------
+-coin-hive.js
+-crypto-miner/*
+-monero-miner-
+-monero-miner.$domain=~wp-monero-miner.com
+-monero-miner/*
+/authedmine.$script,domain=~authedmine.com
+/authedminer.js
+/bitcoin-plus-miner/*
+/bitcoincore/?ref=
+/bootstrap.wasm$third-party
+/bootstrap.wasm$xmlhttprequest
+/browsermine.js
+/c-hive.js
+/c.wasm
+/cloudcoins.js
+/cloudcoins.min.js
+/cn.wasm$third-party
+/coin-hive-proxy-
+/coinblind.js
+/coinblind_beta.
+/coinGofile.
+/coinhive-proxy-
+/coinhive.min.js
+/coinlab.js
+/compact_miner?
+/crn.wasm
+/crypta.js
+/crypto-webminer.$domain=~crypto-webminer.com
+/cryptocpu.js
+/cryptonight-worker.
+/cryptonight.wasm
+/cryptonoter.
+/deepMiner.js
+/deepMiner.min.js
+/dprocessor.js
+/hash.wasm
+/helper.wasm$third-party
+/inject.js?key=$script
+/jsecoin.*/?
+/lhnhelpouttab-current.min.js
+/lib/crlt.js$script,third-party
+/media/miner.
+/mine/bitcoincore/*
+/miner_proxy
+/miner-ui.js
+/miner.*/crypto-
+/miner.*/loader.
+/miner.full.js
+/miner.js
+/miner.min.js
+/miner?key=
+/minera.js
+/minero-proxy-
+/minescripts.js
+/nano.wasm
+/noblock.js
+/obfus.min.js
+/processor.js
+/projectpoi.min.js
+/poolstatus?
+/safelinkconverter.js
+/streambeam-jw.js
+/streambeam-video.js
+/web_miner/*
+/webcoin.js
+/webcoin.min.js
+/webmr.js
+/webxmr.js
+/wproxy$~third-party,websocket
+/xminer.js
+/xminer.min.js
+/xmr-monero.js
+/xmr.js
+/xmr.min.js
+?*.spacepools.
+.spacepools.*:
+.aspx?poolid=
+.cfm?poolid=
+=ws://*?pool=
+=ws://*?pools=
+=wss://*?pool=
+=wss://*?pools=
+?proxy=*?pool=
+?proxy=*?pools=
+?proxy=ws://$script,websocket
+?proxy=wss://$script,websocket
+
+! TLD blocking -----------------------------------------------------------------
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~myinterview.com|~webtorrent.io
+/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
+.info^$domain=hdyayinmac1.com|sleeptimer.org
+.website/lib/*.wasm$xmlhttprequest,third-party
+
+! Domains ----------------------------------------------------------------------
+||clickwith.bid^
+||intactoffers.club^
+
+! Regex blocking ---------------------------------------------------------------
+/^((?!(^https?):\/\/((www\.)?dailymotion\.com|(www\.)?rapidvideo\.com|(www\.)?youtube\.com|alltube\.tv|clipwatching\.com|docs\.google\.com|ebd\.cda\.pl|estream\.to|flashx\.tv|flashx\.co|freedisc\.pl|fruitstreams\.com|gamedor\.usermd\.net|hqq\.tv|hqq\.watch|myvi\.ru|nowvideo\.sx|ok\.ru|oload\.download|oload\.stream|oload\.win|openload\.co|reseton\.net|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|stream\.moe|streamguard\.xyz|streamango\.com|streamcherry\.com|streamplay\.cc|thevideo\.me|thevideo\.website|tune\.pk|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidlox\.me|vidlox\.tv|vidoza\.net|vidto\.me|vidzi\.tv|vshare\.eu|vshare\.io|www\.google\.com\/recaptcha|www\.speedvid\.co|www\.speedvid\.net)\/).)*$/$subdocument,domain=123telugu.com|2giga.link|alltube.pl|alltube.tv|centrum-dramy.pl|estream.nu|estream.to|estream.xyz|love-drama.pl|netiap.com|funtik.tv|szukajka.tv|vev.io|vidfile.net|vidoza.net|vidup.io|vidzi.si|vidzi.tv
+
+/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|embed\.tawk\.to|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|www\.google\.com|www\.gstatic\.com)\/).)*$/$script,third-party,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|2giga.link|7tors.com|alltube.tv|animeteatr.ru|annuaire-bleu.net|atk-exotics.com|atkebony.com|babyjav.com|bitcoincashfaucet.co|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.ws|cinemafacil.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|fbmovies.org|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|funtik.tv|genashowalter.com|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|idope.tv|ifrp.xyz|javbros.com|javdl.co|javsuper.com|kinokong.cc|kinokrad.co|lafmacun.net|litecoinfaucet.co|mp3free.pw|novator.az|novoscrb.ru|oload.cc|oload.club|oload.info|oload.live|oload.site|oload.stream|oload.tv|oload.win|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.co|openload.pw|openloed.co|pelisplus.online|pezeshk.us|povw1deo.com|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|seriesenlinea.net|seventorrents.cc|severita-service.ru|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|stream247.me|streamango.com|streamcherry.com|studio100.it|tapemovie.com|thisjav.com|torrentrapid.com|unblockall.org|unblocked.app|unblocked.gdn|vev.io|vidhd.club|vidhd.fun|vidhd.pw|vidoza.net|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com
+
+/^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
+
+! Websocket blocking -----------------------------------------------------------
+$websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|atk-exotics.com|atkebony.com|babyjav.com|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|cinemafacil.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|crictime.com|crictime.is|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|emuleed2k.com|eduardolegatti.blogspot.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hq-porns.com|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oload.cc|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.site|oload.stream|oload.tv|oload.win|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.co|openload.pw|openloed.co|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|piratebay.tel|potomy.ru|povw1deo.com|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vev.io|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.pw|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wholecloud.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
+
+! XMLHttpRequest blocking ------------------------------------------------------
+$xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|freecontent.stream|nowvideo.sx|povw1deo.com|povwideo.net|powvideo.cc|powvideo.net|sorteosrd.com|streambeam.io|streamplay.top|szukajka.tv|tainies.online|vidfile.net|vidgg.to|wholecloud.net
+
+! CSP blocking -----------------------------------------------------------------
+$csp=worker-src 'none',domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|atk-exotics.com|atkebony.com|babyjav.com|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|cinemafacil.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|crictime.com|crictime.is|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|eduardolegatti.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hq-porns.com|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oload.cc|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.site|oload.stream|oload.tv|oload.win|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.co|openload.pw|openloed.co|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|piratebay.tel|potomy.ru|povw1deo.com|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thevideo.website|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vev.io|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.pw|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wholecloud.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
+$csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
+$csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidoza.net|vidup.me|vidup.tv
+
+! Generic blocking -------------------------------------------------------------
+|http://*:$script,domain=centrum-dramy.pl|hentai-online.pl
+|https://*:$script,domain=centrum-dramy.pl|hentai-online.pl
+@@||szukajka.tv/jsverify.php?op=tag|$xmlhttprequest,~third-party
+@@||szukajka.tv/szukaj|$xmlhttprequest,~third-party
+
+! Specific blocking ------------------------------------------------------------
+||dekoder.ws^*?proxy=
+||openkatalog.com^$subdocument
+||mine.torrent.pw^
+||cryptobara.com/client/worker.js
+||nahnoji.cz^$websocket
+||js.nahnoji.cz^
+||mine.nahnoji.cz^
+||hive.tubetitties.com^
+||miner.nablabee.com^
+||shrink-service.it/js/cM.js
+||p.estream.to^
+||www2.adfreetv.ch^
+||adfreetv.ch^*$xmlhttprequest
+||adfreetv.ch/js/jquery.js
+||ddns.net^*=ws://$third-party
+||ddns.net^*=wss://$third-party
+||myeffect.net^*=ws://$third-party
+||myeffect.net^*=wss://$third-party
+||worker.salon.com^
+||streamplay.*.wasm$xmlhttprequest
+||sleeptimer.org/playerc.js
+||kinokongo.cc^*.php
+||video.videos.vidto.me^
+||play.play1.videos.vidto.me^
+||playe.vidto.se^
+||video.streaming.estream.to^
+||support.2giga.link^
+||vidzi.tv/bootstrap.
+||directprimal.com^$websocket
+||play.estream.nu^
+||play.estream.to^
+||play.estream.xyz^
+||play.s01.vidtodo.pro^
+||on.animeteatr.ru^
+||play.vb.wearesaudis.net^
+||cinemafacil.com/js.php
+||cdn1.pebx.pl^
+||wallpoper.com^*/c.js
+||shush.se/loader/load.js
+
+! TPB
+$csp=child-src 'none'; frame-src *; worker-src 'none',domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.org|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktheship.org|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
+$script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.org|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktheship.org|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
+
+! https://git.io/vxeAt
+! https://forums.lanik.us/viewtopic.php?f=64&t=40185
+! https://git.io/fp0eZ
+||github.io^$third-party,websocket,domain=~github.com|~github.io|~tumblr.com
+||github.io^$third-party,xmlhttprequest,domain=~facebook.com|~gametactic.org|~github.com|~github.io|~tumblr.com|~wottactic.com
+
+! Pools
+||pool.supportxmr.com^
+||grf.easyhash.io^
+||pool.minexmr.com^
+||minexmr.com^$third-party
+
+! Whitelists to fix broken sites -----------------------------------------------
+@@||ws.webcaster.pro^$websocket
+@@||broadcastt.xyz/apps/$websocket
+@@||viebel.github.io/klipse$xmlhttprequest
+@@||viebel.github.io/cljs-analysis-cache/$xmlhttprequest
+@@||viebel.github.io/cljsjs-hosted/$xmlhttprequest
+@@||matt-kruse.github.io/socialfixerdata/filters.json$xmlhttprequest
+!
+!
+csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
+djs.sk,mladipodnikatelia.sk,tubettajat.net##script:inject(abort-on-property-read.js, miner)
+tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
+cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
+123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
+thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
+hqq.tv,hqq.watch##script:inject(abort-on-property-read.js,  mscript)
+descargas2020.com##script:inject(abort-current-inline-script.js, atob, _0x)
