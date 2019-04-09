@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.04.09.03
+! Version: 2019.04.09.04
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -499,8 +499,6 @@ ani24yoi.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:fir
 ani24yoi.com###dsq-app5299
 ani24yoi.com##.view_info_comment_box
 ani24yoi.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
-ani24yoi.com##.view_box_left > div:nth-of-type(4)
-ani24yoi.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div:last-child
 ! anidas6.me, coolani.net
 coolani.net###download-app
 coolani.net###left_out > div:nth-child(2) > iframe
