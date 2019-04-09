@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.04.09.00
+! Version: 2019.04.09.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -486,38 +486,13 @@ cafe.naver.com###plugFloatingBannerDiv
 ||emusk.tistory.com/3%EB%B2%88%EC%97%90%EC%84%9C%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%9C%20js%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%86%8C
 
 ! Bad Ad
-!
-||utildown.co.kr/*
-||event.me.co.kr/*
-||event.filecast.co.kr/*
-||anime.gogopi.96.lt^
-||webnovel.heydate.pe.hu^
-||webnovelad.heydate.pe.hu^
-||toon.heydate.pe.hu^
-||qqlive.heydate.pe.hu^
-||qqlive1.heydate.pe.hu^
-||www.wikidia.xyz^
-||dailymovie.xyz/banner/*.gif
-||dailymovie.xyz^
-||webis19in.heydate.pe.hu^
-||heydate.pe.hu^
-||auu.3381.esy.es^
-||main.3381.esy.es^
-||3381.esy.es^
-||s18.postimg.org/w4d5a7o2x/me_160_600.gif
-||event.filecast.co.kr/images/fc_banner_120x600.gif
-||event.filecast.co.kr/images/fc_banner_728x90.gif
-||event.me.co.kr/img/bnr_120_600_3.png
-||event.me.co.kr/img/bnr_120_600_2.png
-||event.me.co.kr/img/bnr_729_90.png
-||event.me.co.kr/img/bnr_728_90_3.png
-||img.qq.co.kr/partner/banner/170600.gif
-||moviezoa.cafe24.com/img/coinbanner.gif
-||brob3.bayabar.com/myasg/count.asp?cid=@8SbvNmLh9WbhRmd05yd3d3LvoDc0RHa&w^
-||skycom.ca/NewAd/banner/Henckels_250.gif
-||img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile6.uf.tistory.com%2Fimage%2F2566284758A86A7037E858
-||cfile26.uf.tistory.com/image/25221C3458F6366622AFA8
-||cfile22.uf.tistory.com/image/27595F3658A4904009DB2D
+! ani24ski.com, ani24yoi.com
+ani24yoi.com##div:nth-of-type(1) > [href^="/ads.php"]
+ani24yoi.com##.view_box_right > [href^="/ads.php"]
+ani24yoi.com##a[href^="/ads.php"]:nth-of-type(2)
+ani24yoi.com##div.view_box:nth-child(13) > div:first-child > a
+ani24yoi.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:first-child
+ani24yoi.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ! anidas6.me, coolani.net
 coolani.net###download-app
 coolani.net###left_out > div:nth-child(2) > iframe
@@ -698,6 +673,38 @@ kvod24.com###content > div.popular:last-child
 ! videotongs.com
 videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 > div.popular > div.best_content:last-child
 videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 > div.popular > div.best_title:first-child
+!
+||utildown.co.kr/*
+||event.me.co.kr/*
+||event.filecast.co.kr/*
+||anime.gogopi.96.lt^
+||webnovel.heydate.pe.hu^
+||webnovelad.heydate.pe.hu^
+||toon.heydate.pe.hu^
+||qqlive.heydate.pe.hu^
+||qqlive1.heydate.pe.hu^
+||www.wikidia.xyz^
+||dailymovie.xyz/banner/*.gif
+||dailymovie.xyz^
+||webis19in.heydate.pe.hu^
+||heydate.pe.hu^
+||auu.3381.esy.es^
+||main.3381.esy.es^
+||3381.esy.es^
+||s18.postimg.org/w4d5a7o2x/me_160_600.gif
+||event.filecast.co.kr/images/fc_banner_120x600.gif
+||event.filecast.co.kr/images/fc_banner_728x90.gif
+||event.me.co.kr/img/bnr_120_600_3.png
+||event.me.co.kr/img/bnr_120_600_2.png
+||event.me.co.kr/img/bnr_729_90.png
+||event.me.co.kr/img/bnr_728_90_3.png
+||img.qq.co.kr/partner/banner/170600.gif
+||moviezoa.cafe24.com/img/coinbanner.gif
+||brob3.bayabar.com/myasg/count.asp?cid=@8SbvNmLh9WbhRmd05yd3d3LvoDc0RHa&w^
+||skycom.ca/NewAd/banner/Henckels_250.gif
+||img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile6.uf.tistory.com%2Fimage%2F2566284758A86A7037E858
+||cfile26.uf.tistory.com/image/25221C3458F6366622AFA8
+||cfile22.uf.tistory.com/image/27595F3658A4904009DB2D
 !
 
 ! Bad Ad (2)
