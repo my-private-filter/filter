@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.02.00
+! Version: 2019.05.02.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -716,6 +716,8 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile6.uf.tistory.com%2Fimage%2F2566284758A86A7037E858
 ||cfile26.uf.tistory.com/image/25221C3458F6366622AFA8
 ||cfile22.uf.tistory.com/image/27595F3658A4904009DB2D
+||4.bp.blogspot.com/-BuJFgyMYIJ4/VPcbxW70LBI/AAAAAAAADzk/byRKqMdjLow/s1600/%E1%84%8A%E1%85%A5%E1%86%AF250.gif
+||wimg.filewa.com/event/images/filewa/banner_243-230.gif
 !
 
 ! Bad Ad (2)
