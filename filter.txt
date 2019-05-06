@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.02.01
+! Version: 2019.05.06.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -895,6 +895,49 @@ toktok.club###latest > div.right:last-child > h2:first-child
 toktok.club###video_bts > ul > li:first-child > a > div.down_bt
 toktok.club###video_bts > ul > li:last-child > a > div.ad_remover
 toktok.club###view_method
+! mana11.com
+||i.imgur.com/CEO3d82.gif
+||i.imgur.com/rBcMoKG.gif
+||i.imgur.com/FeiUnKZ.gif
+||i.imgur.com/64TlhpR.gif
+||i.imgur.com/URogfJt.gif
+||i.imgur.com/HtP6Qdh.gif
+||i.imgur.com/6WRYs9k.png
+||1.bp.blogspot.com/-9S0MUMrbjhs/XKSSaGjXOxI/AAAAAAAAAAM/p5RLp_0FVjM-xe42tQjOk_qBuolEqtUDACLcBGAs/s1600/%25EC%2595%2584%25EC%2583%25A4%25EB%25B2%25B3_400x100.gif
+||1.bp.blogspot.com/-4DDTIe7LhnU/XKanWf5NR9I/AAAAAAAAAAQ/kgljJV80QEMPyN6XHxHeXpubt4jCBC_hQCLcBGAs/s1600/%25EB%25A6%25AC%25EC%25B1%25A0%25EB%2593%259C_400x100.gif
+||2.bp.blogspot.com/-tI8ip-eHNn0/XGBc_rF3diI/AAAAAAAAACE/MmFbbgMuhLQe0FoFDuY2OjYq8Ky9QIZfgCLcBGAs/s1600/400x100.gif
+||2.bp.blogspot.com/-RL12UzmkkJM/XKG2PBrw1NI/AAAAAAAAADQ/zsMZY1i-yuISTUnPskN_3tkKPoEpB0BHACLcBGAs/s1600/%25EB%25A7%2588%25EB%2582%259879_400_100.gif
+||3.bp.blogspot.com/-fJqlABlk_IE/XKDbsKwa2VI/AAAAAAAAABQ/0_Pz3E8dg3M6wjLoF6fgQKBM34jgFr4NgCEwYBhgL/s1600/%25EB%25A7%2588%25EB%2582%259879.gif
+||4.bp.blogspot.com/-xXnQkQUG25U/XKS-Th1S9pI/AAAAAAAAAIQ/fpK19z1fhvIkUED6fMs42sJajVdvD2cywCLcBGAs/s1600/400x100.gif
+||1.bp.blogspot.com/-bFDKQ11fL2Q/XBzSn-Jxy0I/AAAAAAAAAww/frHRei5DYXw-4v5bezlBruMWnsSDnJwVACLcBGAs/s1600/ad-rabel.png
+||1.bp.blogspot.com/-bhajnz6597c/XC23LWKqz4I/AAAAAAAAAz8/p5hHHbDRghM0SaUV1zhQQNIiy3_wR0LPgCLcBGAs/s1600/banner-6.png
+||2.bp.blogspot.com/-DpiRHylepwA/XG-YtHU03VI/AAAAAAAABDU/0uR4fkMdPWMMpya6UjxRjwJ8-RtJwJv5gCLcBGAs/s1600/%25EC%25BD%2594%25EB%25AF%25B9%25EC%258A%25A4-%25EB%25B0%25A4%25EC%2595%25A0%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598.png
+||2.bp.blogspot.com/-1AGFIWkqsEU/XJNtGcDX91I/AAAAAAAABFs/ewclB2RMVqEcly47DFSLr8dm_jpIprUnQCLcBGAs/s1600/dds.png
+||3.bp.blogspot.com/-EPTRWD97SH4/XK2OONaqclI/AAAAAAAABHY/CuCoDmDR_xQdZlTeCnluXden5Pd7u4KfACLcBGAs/s1600/cc.png
+||3.bp.blogspot.com/-NNx-aIoZf_k/XL6PaCi6MdI/AAAAAAAAADk/QmGbghtUI2UF-akWTDqAjYqnboMSXjBIQCLcBGAs/s1600/KR-272x259-20-AXMC8.png
+||4.bp.blogspot.com/--ow-_SFRXag/XC22x5p9yyI/AAAAAAAAAzY/Dmgv-c2dRF4Yy9Z-qxGHTwIE0FfQ7R_kACLcBGAs/s1600/banner-1.png
+||4.bp.blogspot.com/-DZBne9_M76s/XC225aOOECI/AAAAAAAAAzg/x-cGfzfyYcERBHnkNCoj7t6fkCY4NkdEQCLcBGAs/s1600/banner-2.png
+! adulti68.com
+||i.imgur.com/qFj6FRJ.gif
+||i.imgur.com/JfWXwNF.gif
+||i.imgur.com/f44e536.gif
+||i.imgur.com/EGs3uSC.gif
+||i.imgur.com/0muKz3b.png
+||i.imgur.com/DY7cZ2R.png
+||78.media.tumblr.com/9a010c09809eeba0f9eff263c1a3c696/tumblr_p6lkuh90Ci1xoh8n4o3_400.gif
+||78.media.tumblr.com/37ea3e53b5dcc7df1a7677f827d9f379/tumblr_p7kzm0Qeen1wu2snvo1_400.gif
+||78.media.tumblr.com/9a010c09809eeba0f9eff263c1a3c696/tumblr_p6lkuh90Ci1xoh8n4o3_400.gif
+||66.media.tumblr.com/93a45201c4a24fc877706ae97336cf30/tumblr_pbhdetXKd91wu2snvo1_400.gif
+||2.bp.blogspot.com/-41-iXjFnlE8/XBr3UgM_lPI/AAAAAAAAACc/emCBoj6y73gOZVLb8vCNzeislyaBwwm6QCLcBGAs/s320/12121.gif
+||3.bp.blogspot.com/-X6NFR3Varxg/XIcGEaU8ezI/AAAAAAAAAbM/lOM8yreTIGoNBqa836kI2oxueuoxGMjHQCLcBGAs/s1600/toptoy.gif
+||2.bp.blogspot.com/-9Tgcd6L3_AI/XMlLQ-k-avI/AAAAAAAAAFY/ZkxUzJbmUY8ppn1NZ_qTEGQSV-5W2uRuACLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4_400x100.gif
+||4.bp.blogspot.com/-GtDt4ECU8bM/XMmL6fUoV4I/AAAAAAAAACU/W_8oGG3QDOsy3w0al_hjfZea2Y10IYTJACLcBGAs/s1600/400x100.gif
+||4.bp.blogspot.com/-IO3xituKXm8/XC8Q7CO7i1I/AAAAAAAAA4Q/r4hvI9PItXoiGm-PhWZIXSyuhvTLARZ3gCLcBGAs/s1600/ad-main-6.png
+||2.bp.blogspot.com/-5BaMt1yaCpk/XJNb3mlYL6I/AAAAAAAABFU/2STuENo8dmwVq3dn5oF9MG8WHkt_qm_LwCLcBGAs/s1600/aas.png
+||3.bp.blogspot.com/-wTvIjXNOTHY/XC8Qw-YktJI/AAAAAAAAA38/XtJnk6_B2ysu5pauyx-iqTaGprnESiMMgCLcBGAs/s1600/ad-main-2.png
+||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
+||1.bp.blogspot.com/-bTUUwNExIuU/XG-YtP7PL7I/AAAAAAAABDQ/MSHjN0VVEnIOiWSeG-pWh_O4OwlDnvohQCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EB%25B0%25A4%25EC%2595%25A0-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598.png
+||2.bp.blogspot.com/-So5CMlC8_fM/XJYLcKE_0EI/AAAAAAAABG0/8CFPyPV8NcEmZQGgdteQzYMlaOJ7PDLigCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EA%25B8%25B0%25EB%258A%25A5%25EC%25B6%2594%25EA%25B0%2580%25EB%25B0%25B0%25EB%2584%2588.gif
 !
 
 ! Bad Ad (3)
