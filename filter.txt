@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.06.00
+! Version: 2019.05.06.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -924,20 +924,26 @@ toktok.club###view_method
 ||i.imgur.com/EGs3uSC.gif
 ||i.imgur.com/0muKz3b.png
 ||i.imgur.com/DY7cZ2R.png
-||78.media.tumblr.com/9a010c09809eeba0f9eff263c1a3c696/tumblr_p6lkuh90Ci1xoh8n4o3_400.gif
+||66.media.tumblr.com/f492fba3e54d484723bc25ddd25b79c4/tumblr_pbhdetXKd91wu2snvo2_250.gif
+||66.media.tumblr.com/93a45201c4a24fc877706ae97336cf30/tumblr_pbhdetXKd91wu2snvo1_400.gif
+||78.media.tumblr.com/41bdc173e221560979555a9923820de9/tumblr_p6lkuh90Ci1xoh8n4o2_400.gif
+||78.media.tumblr.com/5e43a1e3074174c63120f8922b33377d/tumblr_p7kzmkChRf1wu2snvo1_250.gif
+||78.media.tumblr.com/0c15d0baf4f09dffd7c078cff867ab1f/tumblr_p6ll19gYeV1xoh8n4o3_250.gif
 ||78.media.tumblr.com/37ea3e53b5dcc7df1a7677f827d9f379/tumblr_p7kzm0Qeen1wu2snvo1_400.gif
 ||78.media.tumblr.com/9a010c09809eeba0f9eff263c1a3c696/tumblr_p6lkuh90Ci1xoh8n4o3_400.gif
-||66.media.tumblr.com/93a45201c4a24fc877706ae97336cf30/tumblr_pbhdetXKd91wu2snvo1_400.gif
+||1.bp.blogspot.com/-bTUUwNExIuU/XG-YtP7PL7I/AAAAAAAABDQ/MSHjN0VVEnIOiWSeG-pWh_O4OwlDnvohQCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EB%25B0%25A4%25EC%2595%25A0-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598.png
+||1.bp.blogspot.com/-d55HK4jWQn4/XMlLPuHfXyI/AAAAAAAAAFU/17gWV1-r6IAyW2PFxbCKTnRMCFz0g-2CQCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4_150X250.gif
+||2.bp.blogspot.com/-So5CMlC8_fM/XJYLcKE_0EI/AAAAAAAABG0/8CFPyPV8NcEmZQGgdteQzYMlaOJ7PDLigCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EA%25B8%25B0%25EB%258A%25A5%25EC%25B6%2594%25EA%25B0%2580%25EB%25B0%25B0%25EB%2584%2588.gif
+||2.bp.blogspot.com/-hfjty1Njd9E/XGBdYDiVhDI/AAAAAAAAACU/1Stmb-Yze3kWv5_LTXBUvjwww8SiTopfgCLcBGAs/s1600/150x250.gif
 ||2.bp.blogspot.com/-41-iXjFnlE8/XBr3UgM_lPI/AAAAAAAAACc/emCBoj6y73gOZVLb8vCNzeislyaBwwm6QCLcBGAs/s320/12121.gif
-||3.bp.blogspot.com/-X6NFR3Varxg/XIcGEaU8ezI/AAAAAAAAAbM/lOM8yreTIGoNBqa836kI2oxueuoxGMjHQCLcBGAs/s1600/toptoy.gif
-||2.bp.blogspot.com/-9Tgcd6L3_AI/XMlLQ-k-avI/AAAAAAAAAFY/ZkxUzJbmUY8ppn1NZ_qTEGQSV-5W2uRuACLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4_400x100.gif
-||4.bp.blogspot.com/-GtDt4ECU8bM/XMmL6fUoV4I/AAAAAAAAACU/W_8oGG3QDOsy3w0al_hjfZea2Y10IYTJACLcBGAs/s1600/400x100.gif
-||4.bp.blogspot.com/-IO3xituKXm8/XC8Q7CO7i1I/AAAAAAAAA4Q/r4hvI9PItXoiGm-PhWZIXSyuhvTLARZ3gCLcBGAs/s1600/ad-main-6.png
 ||2.bp.blogspot.com/-5BaMt1yaCpk/XJNb3mlYL6I/AAAAAAAABFU/2STuENo8dmwVq3dn5oF9MG8WHkt_qm_LwCLcBGAs/s1600/aas.png
+||2.bp.blogspot.com/-9Tgcd6L3_AI/XMlLQ-k-avI/AAAAAAAAAFY/ZkxUzJbmUY8ppn1NZ_qTEGQSV-5W2uRuACLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4_400x100.gif
+||3.bp.blogspot.com/-X6NFR3Varxg/XIcGEaU8ezI/AAAAAAAAAbM/lOM8yreTIGoNBqa836kI2oxueuoxGMjHQCLcBGAs/s1600/toptoy.gif
 ||3.bp.blogspot.com/-wTvIjXNOTHY/XC8Qw-YktJI/AAAAAAAAA38/XtJnk6_B2ysu5pauyx-iqTaGprnESiMMgCLcBGAs/s1600/ad-main-2.png
 ||3.bp.blogspot.com/-dYQxXfS1_ik/XC8QxttdklI/AAAAAAAAA4A/opHaVYBXPGQJXE6OQMJxsGo0VeZAcn94ACLcBGAs/s1600/ad-main-1.png
-||1.bp.blogspot.com/-bTUUwNExIuU/XG-YtP7PL7I/AAAAAAAABDQ/MSHjN0VVEnIOiWSeG-pWh_O4OwlDnvohQCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EB%25B0%25A4%25EC%2595%25A0-%25EC%2595%2584%25EC%259D%25B4%25EC%25BD%2598.png
-||2.bp.blogspot.com/-So5CMlC8_fM/XJYLcKE_0EI/AAAAAAAABG0/8CFPyPV8NcEmZQGgdteQzYMlaOJ7PDLigCLcBGAs/s1600/%25EC%2596%25B4%25EB%25A5%25B8%25EC%2595%2584%25EC%259D%25B4%25EA%25B8%25B0%25EB%258A%25A5%25EC%25B6%2594%25EA%25B0%2580%25EB%25B0%25B0%25EB%2584%2588.gif
+||4.bp.blogspot.com/-GtDt4ECU8bM/XMmL6fUoV4I/AAAAAAAAACU/W_8oGG3QDOsy3w0al_hjfZea2Y10IYTJACLcBGAs/s1600/400x100.gif
+||4.bp.blogspot.com/-IO3xituKXm8/XC8Q7CO7i1I/AAAAAAAAA4Q/r4hvI9PItXoiGm-PhWZIXSyuhvTLARZ3gCLcBGAs/s1600/ad-main-6.png
+||4.bp.blogspot.com/-OArWY-lQvuw/XMmL6RhOu_I/AAAAAAAAACQ/d5VuiXzXctcL6-WKpd7KLPMoCjfjvd0KACLcBGAs/s1600/150x250.gif
 !
 
 ! Bad Ad (3)
