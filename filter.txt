@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.07.00
+! Version: 2019.05.08.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -947,6 +947,8 @@ toktok.club###view_method
 !
 
 ! Bad Ad (3)
+! pornhub.com
+pornhub.com###hotVideosSection > .alpha
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif
 ! rank19.com
