@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.21.00
+! Version: 2019.05.21.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -488,7 +488,7 @@ cafe.naver.com###plugFloatingBannerDiv
 ||emusk.tistory.com/3%EB%B2%88%EC%97%90%EC%84%9C%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%9C%20js%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%86%8C
 
 ! Bad Ad
-! ani24ski.com, ani24yoi.com
+! ani24ski.com, ani24yoi.com, ani24show.com
 ||files2.goodcdnnetwork.com/img/pc_main.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad15_160x600.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad3_160x600_2.gif$domain=ani24yoi.com
@@ -502,10 +502,19 @@ ani24yoi.com##div:nth-of-type(1) > [href^="/ads.php"]
 ani24yoi.com##div.view_box:nth-child(13) > div:first-child > a
 ani24yoi.com##.view_box_right > [href^="/ads.php"]
 ani24yoi.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:first-child
-||disqus.com/embed/comments/?base=default&f=ani24^
 ani24yoi.com###dsq-app5299
 ani24yoi.com##.view_info_comment_box
 ani24yoi.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
+||disqus.com/embed/comments/?base=default&f=ani24^
+ani24show.com##a[href^="/ads.php"]:nth-of-type(2)
+ani24show.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
+ani24show.com##div:nth-of-type(1) > [href^="/ads.php"]
+ani24show.com##div.view_box:nth-child(13) > div:first-child > a
+ani24show.com##.view_box_right > [href^="/ads.php"]
+ani24show.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:first-child
+ani24show.com###dsq-app5299
+ani24show.com##.view_info_comment_box
+ani24show.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
 ! anidas6.me, coolani.net
 coolani.net###download-app
 coolani.net###left_out > div:nth-child(2) > iframe
