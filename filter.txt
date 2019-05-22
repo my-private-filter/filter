@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.23.00
+! Version: 2019.05.23.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -819,28 +819,28 @@ hodu*.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hoducomics.com/text_click.php?link=4^
 hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
 hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-! funitoon01.com
-||funitoon01.com/banner/*.gif^
-||funitoon01.com/banner/*.png^
-||funitoon01.com/banner/*.jpg^
-funitoon01.com##.banner-inner
-funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
-funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
-funitoon01.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
-funitoon01.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
-funitoon01.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
-funitoon01.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
-funitoon01.com##.on.menu-li > .nav-height.menu-a
-funitoon01.com##td.off:nth-of-type(3) > .menu-a
-funitoon01.com##td.off:nth-of-type(5) > .menu-a
-funitoon01.com##td.off:nth-of-type(6) > .menu-a
-funitoon01.com##tr > .on > .menu-a
-funitoon01.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
-funitoon01.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
-funitoon01.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
-funitoon01.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
-funitoon01.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
-funitoon01.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
+! funitoon03.com
+||funitoon03.com/banner/*.gif^
+||funitoon03.com/banner/*.png^
+||funitoon03.com/banner/*.jpg^
+funitoon03.com##.banner-inner
+funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
+funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
+funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
+funitoon03.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
+funitoon03.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+funitoon03.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
+funitoon03.com##.on.menu-li > .nav-height.menu-a
+funitoon03.com##td.off:nth-of-type(3) > .menu-a
+funitoon03.com##td.off:nth-of-type(5) > .menu-a
+funitoon03.com##td.off:nth-of-type(6) > .menu-a
+funitoon03.com##tr > .on > .menu-a
+funitoon03.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
+funitoon03.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
+funitoon03.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
+funitoon03.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
+funitoon03.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
+funitoon03.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
 ||funitoon*.com/banner/*.gif^
 ||funitoon*.com/banner/*.png^
 ||funitoon*.com/banner/*.jpg^
