@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.21.01
+! Version: 2019.05.23.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -751,6 +751,14 @@ mangashow*.me##.banner
 ||img4.mangashow2.me/data/editor/1902/5fa88a29cd1234cf65c9be0aacf97414.gif^
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
+! funbe08.com
+||funbe08.com/bann/*.gif
+||funbe08.com/bann/*.png
+||funbe08.com/bann/*.jpg
+||s10.histats.com/js15_as.js
+||funbe*.com/bann/*.gif
+||funbe*.com/bann/*.png
+||funbe*.com/bann/*.jpg
 ! hodu63.com, soo.gd/comics
 ||hodu63.com/upload/banner/*.gif^
 ||hodu63.com/upload/banner/*.png^
@@ -1465,8 +1473,8 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 158
-! 18 May 2019
+! 159
+! 22 May 2019
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -1864,6 +1872,7 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ||freecontent.trade
 ||freecontent.win
 ||hostcontent.live
+||hostingcloud.accountant
 ||hostingcloud.bid
 ||hostingcloud.date
 ||hostingcloud.download
@@ -2086,6 +2095,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 ||cdn1.pebx.pl^
 ||wallpoper.com^*/c.js
 ||shush.se/loader/load.js
+||uptostream.com/assets/$subdocument
 
 ! TPB
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.org|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktheship.org|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
