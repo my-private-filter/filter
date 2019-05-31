@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.23.01
+! Version: 2019.05.31.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -194,6 +194,8 @@ dolwe.me
 ||t.hanstrackr.com/track.min.js
 ||authedmine.com/lib/authedmine.min.js
 ||authedmine.com^
+||cryptaloot.pro^
+||xmr.mining.best^
 
 ! Malware
 ||screencapture.tech/image293.jpg
@@ -586,56 +588,80 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2) > a
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
-! bujatv15.me, bujatv.me
-bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv15.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv15.me###left_out > div:first-child > a:last-child > img
-bujatv15.me###left_out > div:nth-child(2) > a:last-child > img
-bujatv15.me###right_out > div:first-child > a:last-child > img
-bujatv15.me###right_out > div:nth-child(2) > a:last-child > img
-bujatv15.me###left_out > div:last-child > a:last-child > img
-bujatv15.me###right_out > div:last-child > a:last-child > img
+! bujatv2.xyz, bujatv15.me, bujatv.me
+bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv2.xyz###left_out > div:first-child > a:last-child > img
+bujatv2.xyz###left_out > div:nth-child(2) > a:last-child > img
+bujatv2.xyz###right_out > div:first-child > a:last-child > img
+bujatv2.xyz###right_out > div:nth-child(2) > a:last-child > img
+bujatv2.xyz###left_out > div:last-child > a:last-child > img
+bujatv2.xyz###right_out > div:last-child > a:last-child > img
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
-bujatv15.me##li.adult_li:nth-of-type(5) > [href="https://www.bujatv15.me/19/adult.html"]
-bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv*.me###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv*.me###left_out > div:first-child > a:last-child > img
-bujatv*.me###left_out > div:nth-child(2) > a:last-child > img
-bujatv*.me###right_out > div:first-child > a:last-child > img
-bujatv*.me###right_out > div:nth-child(2) > a:last-child > img
-bujatv*.me###left_out > div:last-child > a:last-child > img
-bujatv*.me###right_out > div:last-child > a:last-child > img
-! dasiboda.site
-||dasiboda.site/dasi_media/2018/06/w_mytown.jpg
-||dasiboda.site/dasi_media/2018/06/w_mytown.jpg
-||dasiboda.site/dasi_media/2018/05/bada.gif
-||dasiboda.site/dasi_media/2018/06/prm180180.gif
-||dasiboda.site/dasi_media/2018/05/b_300.gif
-||dasiboda.site/dasi_media/2018/06/sang180.gif
-||dasiboda.site/dasi_media/2018/05/180x180.gif
-||dasiboda.site/dasi_media/2018/06/dfb300.gif
-||dasiboda.site/dasi_media/2018/06/colortv.gif
-||dasiboda.site/dasi_media/2018/05/simbago.gif
-||dasiboda.site/dasi_media/2018/06/sang300.gif
-||dasiboda.site/dasi_media/2018/06/n300.gif
-||dasiboda.site/dasi_media/2018/05/300x300_01.gif
-||dasiboda.site/dasi_media/2018/05/300_300.gif
-||dasiboda.site/dasi_media/2018/06/colortv728.gif
-||dasiboda.site/dasi_media/2018/06/colortv728.gif
-||dasiboda.site/dasi_media/2018/05/bada.gif
-||dasiboda.site/dasi_media/2018/06/adams728.gif
-||dasiboda.site/dasi_media/20*/*/*.gif^
-dasiboda.site##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1) > .col-md-12.column_container.wpb_column > .vc_column-inner
-dasiboda.site##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
-dasiboda.site##.sidebar.col-sm-12.col-md-4
-dasiboda.site##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda.site##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
-dasiboa.site##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
+bujatv2.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv2.xyz/19/adult.html"]
+bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv*.xyz###left_out > div:first-child > a:last-child > img
+bujatv*.xyz###left_out > div:nth-child(2) > a:last-child > img
+bujatv*.xyz###right_out > div:first-child > a:last-child > img
+bujatv*.xyz###right_out > div:nth-child(2) > a:last-child > img
+bujatv*.xyz###left_out > div:last-child > a:last-child > img
+bujatv*.xyz###right_out > div:last-child > a:last-child > img
+! dasiboda3.com, dasiboda.site
+||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda3.com/dasi_media/2018/05/bada.gif
+||dasiboda3.com/dasi_media/2018/06/prm180180.gif
+||dasiboda3.com/dasi_media/2018/05/b_300.gif
+||dasiboda3.com/dasi_media/2018/06/sang180.gif
+||dasiboda3.com/dasi_media/2018/05/180x180.gif
+||dasiboda3.com/dasi_media/2018/06/dfb300.gif
+||dasiboda3.com/dasi_media/2018/06/colortv.gif
+||dasiboda3.com/dasi_media/2018/05/simbago.gif
+||dasiboda3.com/dasi_media/2018/06/sang300.gif
+||dasiboda3.com/dasi_media/2018/06/n300.gif
+||dasiboda3.com/dasi_media/2018/05/300x300_01.gif
+||dasiboda3.com/dasi_media/2018/05/300_300.gif
+||dasiboda3.com/dasi_media/2018/06/colortv728.gif
+||dasiboda3.com/dasi_media/2018/06/colortv728.gif
+||dasiboda3.com/dasi_media/2018/05/bada.gif
+||dasiboda3.com/dasi_media/2018/06/adams728.gif
+||dasiboda3.com/dasi_media/20*/*/*.gif^
+dasiboda3.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1) > .col-md-12.column_container.wpb_column > .vc_column-inner
+dasiboda3.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
+dasiboda3.com##.sidebar.col-sm-12.col-md-4
+dasiboda3.com##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda3.com##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
+dasiboda3.com##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
+||dasiboda*.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda*.com/dasi_media/2018/06/w_mytown.jpg
+||dasiboda*.com/dasi_media/2018/05/bada.gif
+||dasiboda*.com/dasi_media/2018/06/prm180180.gif
+||dasiboda*.com/dasi_media/2018/05/b_300.gif
+||dasiboda*.com/dasi_media/2018/06/sang180.gif
+||dasiboda*.com/dasi_media/2018/05/180x180.gif
+||dasiboda*.com/dasi_media/2018/06/dfb300.gif
+||dasiboda*.com/dasi_media/2018/06/colortv.gif
+||dasiboda*.com/dasi_media/2018/05/simbago.gif
+||dasiboda*.com/dasi_media/2018/06/sang300.gif
+||dasiboda*.com/dasi_media/2018/06/n300.gif
+||dasiboda*.com/dasi_media/2018/05/300x300_01.gif
+||dasiboda*.com/dasi_media/2018/05/300_300.gif
+||dasiboda*.com/dasi_media/2018/06/colortv728.gif
+||dasiboda*.com/dasi_media/2018/06/colortv728.gif
+||dasiboda*.com/dasi_media/2018/05/bada.gif
+||dasiboda*.com/dasi_media/2018/06/adams728.gif
+||dasiboda*.com/dasi_media/20*/*/*.gif^
+dasiboda*.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1) > .col-md-12.column_container.wpb_column > .vc_column-inner
+dasiboda*.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
+dasiboda*.com##.sidebar.col-sm-12.col-md-4
+dasiboda*.com##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda*.com##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
+dasiboa*.com##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
 ||i.imgur.com/iN6yiTk.jpg
 ||i.imgur.com/QT14DGl.jpg
 ||i.imgur.com/O02mcth.jpg
@@ -751,42 +777,42 @@ mangashow*.me##.banner
 ||img4.mangashow2.me/data/editor/1902/5fa88a29cd1234cf65c9be0aacf97414.gif^
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
-! funbe08.com
-||funbe08.com/bann/*.gif
-||funbe08.com/bann/*.png
-||funbe08.com/bann/*.jpg
+! funbe09.com
+||funbe09.com/bann/*.gif
+||funbe09.com/bann/*.png
+||funbe09.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
 ||funbe*.com/bann/*.gif
 ||funbe*.com/bann/*.png
 ||funbe*.com/bann/*.jpg
-! hodu63.com, soo.gd/comics
-||hodu63.com/upload/banner/*.gif^
-||hodu63.com/upload/banner/*.png^
-||hodu63.com/upload/banner/*.jpg^
-||hodu63.com/text_click.php?link=3^
-||hodu63.com/text_click.php?link=4^
-hodu63.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu63.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu63.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu63.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu63.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu63.com##div.c_img > [href^="/banner_click.php"]
-hodu63.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu63.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu63.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu63.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu63.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu63.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu63.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu63.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu63.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu63.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu63.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu63.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu63.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu63.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu63.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu63.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+! hodu64.com, soo.gd/comics
+||hodu64.com/upload/banner/*.gif^
+||hodu64.com/upload/banner/*.png^
+||hodu64.com/upload/banner/*.jpg^
+||hodu64.com/text_click.php?link=3^
+||hodu64.com/text_click.php?link=4^
+hodu64.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu64.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu64.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu64.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu64.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu64.com##div.c_img > [href^="/banner_click.php"]
+hodu64.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu64.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu64.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu64.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu64.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu64.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu64.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu64.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu64.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu64.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu64.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu64.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu64.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu64.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu64.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu64.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu*.com/upload/banner/*.gif^
 ||hodu*.com/upload/banner/*.png^
 ||hodu*.com/upload/banner/*.jpg^
@@ -819,28 +845,28 @@ hodu*.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hoducomics.com/text_click.php?link=4^
 hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
 hoducomics.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-! funitoon03.com
-||funitoon03.com/banner/*.gif^
-||funitoon03.com/banner/*.png^
-||funitoon03.com/banner/*.jpg^
-funitoon03.com##.banner-inner
-funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
-funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
-funitoon03.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
-funitoon03.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
-funitoon03.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
-funitoon03.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
-funitoon03.com##.on.menu-li > .nav-height.menu-a
-funitoon03.com##td.off:nth-of-type(3) > .menu-a
-funitoon03.com##td.off:nth-of-type(5) > .menu-a
-funitoon03.com##td.off:nth-of-type(6) > .menu-a
-funitoon03.com##tr > .on > .menu-a
-funitoon03.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
-funitoon03.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
-funitoon03.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
-funitoon03.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
-funitoon03.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
-funitoon03.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
+! funitoon04.com
+||funitoon04.com/banner/*.gif^
+||funitoon04.com/banner/*.png^
+||funitoon04.com/banner/*.jpg^
+funitoon04.com##.banner-inner
+funitoon04.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(1)
+funitoon04.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(2)
+funitoon04.com##.widget-side > div.widget-box:nth-of-type(2) > div:nth-of-type(3)
+funitoon04.com##li.off.menu-li:nth-of-type(3) > .nav-height.menu-a
+funitoon04.com##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+funitoon04.com##li.off.menu-li:nth-of-type(6) > .nav-height.menu-a
+funitoon04.com##.on.menu-li > .nav-height.menu-a
+funitoon04.com##td.off:nth-of-type(3) > .menu-a
+funitoon04.com##td.off:nth-of-type(5) > .menu-a
+funitoon04.com##td.off:nth-of-type(6) > .menu-a
+funitoon04.com##tr > .on > .menu-a
+funitoon04.com##.clearfix > li:nth-of-type(4) > [href^="/bbs/board.php"]
+funitoon04.com##.clearfix > li:nth-of-type(6) > [href^="/bbs/board.php"]
+funitoon04.com##.clearfix > li:nth-of-type(7) > [href^="/bbs/board.php"]
+funitoon04.com##div.panel:nth-of-type(3) > .ca-head > .no-sub
+funitoon04.com##div.panel:nth-of-type(5) > .ca-head > .no-sub
+funitoon04.com##div.panel:nth-of-type(6) > .ca-head > .no-sub
 ||funitoon*.com/banner/*.gif^
 ||funitoon*.com/banner/*.png^
 ||funitoon*.com/banner/*.jpg^
@@ -1473,8 +1499,8 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 159
-! 22 May 2019
+! 163
+! 30 May 2019
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -1855,6 +1881,7 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ||jscoinminer.com^$third-party
 ||tercabilis.info^
 ||istlandoll.com^
+||bitcoin-pay.eu^$third-party
 
 ! coinimp.com
 ||blockchained.party
@@ -1925,7 +1952,6 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ||mighbest.pw
 ||mighbest.site
 ||webassembly.stream
-||webchain.network
 ||zymerget.bid
 ||zymerget.date
 ||zymerget.faith
@@ -2034,18 +2060,18 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ! Regex blocking ---------------------------------------------------------------
 /^((?!(^https?):\/\/((www\.)?(dailymotion\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|alltube\.tv|clipwatching\.com|docs\.google\.com|ebd\.cda\.pl|estream\.to|flashx\.tv|flashx\.co|freedisc\.pl|fruitstreams\.com|gamedor\.usermd\.net|hqq\.tv|hqq\.watch|myvi\.ru|nowvideo\.sx|ok\.ru|oload\.download|oload\.stream|oload\.win|openload\.co|reseton\.net|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|stream\.moe|streamguard\.xyz|streamango\.com|streamcherry\.com|streamplay\.cc|thevideo\.me|thevideo\.website|tune\.pk|uptostream\.com|video\.sibnet\.ru|vidfile\.net|vidlox\.me|vidlox\.tv|vidoza\.net|vidto\.me|vidzi\.tv|vshare\.eu|vshare\.io|www\.google\.com|www\.speedvid\.co|www\.speedvid\.net)\/).)*$/$subdocument,domain=123telugu.com|2giga.link|alltube.pl|alltube.tv|centrum-dramy.pl|estream.nu|estream.to|estream.xyz|love-drama.pl|netiap.com|funtik.tv|szukajka.tv|vev.io|vidfile.net|vidoza.co|vidoza.net|vidup.io|vidzi.si|vidzi.tv
 
-/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|embed\.tawk\.to|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|2giga.link|7tors.com|alltube.tv|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bitcoincashfaucet.co|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.ws|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|cracklists.com|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|fbmovies.org|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|extratorrent.cd|extratorrent.si|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|funtik.tv|genashowalter.com|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|hospital.plus|idope.tv|ifrp.xyz|javbros.com|javdl.co|javsuper.com|kapuso.be|kinokong.cc|kinokrad.co|lafmacun.net|litecoinfaucet.co|mobology.ir|mp3free.pw|neurozinzin.com|novator.az|novoscrb.ru|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pelisplus.online|pezeshk.us|pinoyrewind.info|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rednubes.de|seriesenlinea.net|seventorrents.cc|severita-service.ru|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|stream247.me|streamango.com|streamcherry.com|studio100.it|tapemovie.com|thisjav.com|torrentrapid.com|unblockall.org|unblocked.app|unblocked.gdn|vev.io|vidhd.club|vidhd.host|vidhd.fun|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|voirfilms.mx|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu
+/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|embed\.tawk\.to|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|2giga.link|7tors.com|alltube.tv|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bitcoincashfaucet.co|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.ws|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|cracklists.com|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|fbmovies.org|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|extratorrent.cd|extratorrent.si|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|funtik.tv|genashowalter.com|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|thehdvid.club|thehdvid.fun|thehdvid.host|thehdvid.icu|thehdvid.life|thehdvid.live|thehdvid.online|thehdvid.pro|thehdvid.pw|thehdvid.site|thehdvid.space|thehdvid.tv|thehdvid.website|thehdvid.world|thehdvid.xyz|hdvid.xyz|hospital.plus|ianimes.co|ianimes.top|idope.tv|ifrp.xyz|javbros.com|javdl.co|javsuper.com|kapuso.be|kinokong.cc|kinokrad.co|lafmacun.net|litecoinfaucet.co|mobology.ir|mp3free.pw|neurozinzin.com|novator.az|novoscrb.ru|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pelisplus.online|pezeshk.us|pinoyrewind.info|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rednubes.de|seriesenlinea.net|seventorrents.cc|severita-service.ru|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|stream247.me|streamango.com|streamcherry.com|studio100.it|tapemovie.com|thisjav.com|torrentrapid.com|unblockall.org|unblocked.app|unblocked.gdn|vev.io|vidhd.club|vidhd.host|vidhd.fun|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|voirfilms.mx|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu
 
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
 
 ! Websocket blocking -----------------------------------------------------------
-$websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|cracklists.com|crictime.com|crictime.is|crimedocumentary.com|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|eduardolegatti.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hospital.plus|hq-porns.com|hqq.tv|hqq.watch|ianimes.co|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kapuso.be|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|mobology.ir|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|neurozinzin.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|pinoyrewind.info|piratebay.tel|potomy.ru|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|rednubes.de|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vev.io|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.mx|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
+$websocket,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|cracklists.com|crictime.com|crictime.is|crimedocumentary.com|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|eduardolegatti.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|thehdvid.club|thehdvid.fun|thehdvid.host|thehdvid.icu|thehdvid.life|thehdvid.live|thehdvid.online|thehdvid.pro|thehdvid.pw|thehdvid.site|thehdvid.space|thehdvid.tv|thehdvid.website|thehdvid.world|thehdvid.xyz|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hospital.plus|hq-porns.com|hqq.tv|hqq.watch|ianimes.co|ianimes.top|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kapuso.be|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|mobology.ir|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|neurozinzin.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|pinoyrewind.info|piratebay.tel|potomy.ru|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|rednubes.de|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vev.io|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.mx|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
 
 ! XMLHttpRequest blocking ------------------------------------------------------
 $xmlhttprequest,domain=adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|ddmix.net|dekoder.ws|nowvideo.sx|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|sorteosrd.com|streambeam.io|streamplay.top|szukajka.tv|tainies.online|vidfile.net|vidgg.to
 
 ! CSP blocking -----------------------------------------------------------------
-$csp=worker-src 'none',domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|cracklists.com|crictime.com|crictime.is|crimedocumentary.com|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|eduardolegatti.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hospital.plus|hq-porns.com|ianimes.co|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kapuso.be|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|mobology.ir|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|neurozinzin.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|pinoyrewind.info|piratebay.tel|potomy.ru|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|rednubes.de|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.mx|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
+$csp=worker-src 'none',domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|123telugu.com|1q2w3.website|2giga.link|300mbfilms.co|7tors.com|adfreetv.ch|ajplugins.com|akvideo.stream|alltube.pl|alltube.tv|alstreams.org|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bigspeeds.com|bitcoincashfaucet.co|biter.tv|bitvid.sx|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.in|bypassed.ws|bypassed.wtf|byter.tv|catrumahminimalis.me|centrum-dramy.pl|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cloudtime.to|cmovieshd.nl|coinfaucet.eu|coinhub.win|coinminingonline.com|cracklists.com|crictime.com|crictime.is|crimedocumentary.com|ddmix.net|dekoder.ws|deltabit.co|descargas2020.com|djs.sk|domnuleprimar.ro|dragonballzpolo.blogspot.com|drama-cool.me|eduardolegatti.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|fileone.tv|filmai.ws|filmonet.com|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.biz|filmstreamvk.co|filmstreamvk.com|filmstreamvk.io|filmstreamvk.me|filmstreamvk.net|filmstreamvk.org|filmstreamvk.site|filmstreamvk.top|filmstreamvk.ws|filmstreamvk1.net|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|full-mp3.com|funtik.tv|genashowalter.com|gofile.io|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|thehdvid.club|thehdvid.fun|thehdvid.host|thehdvid.icu|thehdvid.life|thehdvid.live|thehdvid.online|thehdvid.pro|thehdvid.pw|thehdvid.site|thehdvid.space|thehdvid.tv|thehdvid.website|thehdvid.world|thehdvid.xyz|hdvid.xyz|hdyayinmac1.com|hentai-online.pl|hospital.plus|hq-porns.com|ianimes.co|ianimes.top|idope.tv|ifrp.xyz|ikwildepiratebay.xyz|indiaproxydl.org|intactoffers.club|javbros.com|javdl.co|javsuper.com|jkanime.net|kapuso.be|kickass.cd|kinohabr.net|kinokongo.cc|kinoprofi.org|kinosha.cc|kinostuff.com|lafmacun.net|leitor.net|lewd.ninja|litecoinfaucet.co|logovo.net|love-drama.pl|luckybitco.in|mladipodnikatelia.sk|mobology.ir|monero-miner.com|movie4k.is|mp3free.pw|mrunlock.icu|myfeed4u.net|myvidaanime.com|nahnoji.cz|netiap.com|neurozinzin.com|nod-key.su|novator.az|novoscrb.ru|nowvideo.sx|oipeirates.online|oladblock.me|oladblock.services|oladblock.xyz|oload.cc|oload.press|oload.cloud|oload.club|oload.download|oload.fun|oload.info|oload.live|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.win|olpair.com|onlinevideoconverter.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pw|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.icu|ovid.live|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.world|pebx.pl|peliculas24.me|pelisplus.online|pezeshk.us|pinoyrewind.info|piratebay.tel|potomy.ru|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rapidvideo.com|reactor.cc|rednubes.de|reservedoffers.club|salon.com|seriesenlinea.net|seventorrents.cc|severita-service.ru|sherlockonline.ru|shrink-service.it|shush.se|sickrage.ca|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|sorteosrd.com|stream247.me|streamango.com|streambeam.io|streamcherry.com|streamplay.me|streamplay.top|studio100.it|szukajka.tv|tainies.online|tapemovie.com|tarntercum.ru|theappguruz.com|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|thisjav.com|tokyodrift.ga|tomadivx.tv|torrentrapid.com|tubetitties.com|tugaanimado.net|unblockall.org|unblocked.app|unblocked.gdn|unblocked.ms|unblocked.vet|unblocked.wtf|uptobox.com|uptostream.com|vidfile.net|vidgg.to|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.site|vidhd.space|vidhd.world|vidhd.pw|vidoza.co|vidoza.net|vidstodo.me|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|vidup.me|vidup.tv|vidzi.si|vidzi.tv|void.cat|voirfilm.ws|voirfilms.mx|voirfilms.ws|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu|zona.plus
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|extratorrent.si|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.ch|thevideo.io|thevideo.me|thevideo.us|vidoza.co|vidoza.net|vidup.me|vidup.tv
 
@@ -2123,11 +2149,11 @@ $script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airpro
 @@||matt-kruse.github.io/socialfixerdata/$xmlhttprequest
 !
 !
-csgoconfigs.com##script:inject(abort-current-inline-script.js, m, CH.Anonymous)
-djs.sk,mladipodnikatelia.sk,tubettajat.net##script:inject(abort-on-property-read.js, miner)
-tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
-cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
-123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
-thepiratebay.*##script:inject(abort-on-property-read.js, _wm)
-hqq.tv,hqq.watch##script:inject(abort-on-property-read.js,  mscript)
-descargas2020.com##script:inject(abort-current-inline-script.js, atob, _0x)
+csgoconfigs.com##+js(abort-current-inline-script.js, m, CH.Anonymous)
+djs.sk,mladipodnikatelia.sk,tubettajat.net##+js(abort-on-property-read.js, miner)
+tasma.ru,vidzi.tv##+js(abort-on-property-write.js, decodeURIComponent)
+cloudtime.to,nowvideo.sx,sleeptimer.org,tomadivx.tv,wholecloud.net##+js(abort-on-property-read.js, WebAssembly)
+123telugu.com,netiap.com,tomtop.com##+js(abort-on-property-read.js, _0x7bc7)
+thepiratebay.*##+js(abort-on-property-read.js, _wm)
+hqq.tv,hqq.watch##+js(abort-on-property-read.js,  mscript)
+descargas2020.com##+js(abort-current-inline-script.js, atob, _0x)
