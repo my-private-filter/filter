@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.05.31.00
+! Version: 2019.05.31.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -490,7 +490,7 @@ cafe.naver.com###plugFloatingBannerDiv
 ||emusk.tistory.com/3%EB%B2%88%EC%97%90%EC%84%9C%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%9C%20js%ED%8C%8C%EC%9D%BC%20%EC%A3%BC%EC%86%8C
 
 ! Bad Ad
-! ani24ski.com, ani24yoi.com, ani24show.com
+! ani24show.com, ani24yoi.com, ani24ski.com
 ||files2.goodcdnnetwork.com/img/pc_main.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad15_160x600.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad3_160x600_2.gif$domain=ani24yoi.com
@@ -517,7 +517,7 @@ ani24show.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:fi
 ani24show.com###dsq-app5299
 ani24show.com##.view_info_comment_box
 ani24show.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
-! anidas6.me, coolani.net
+! coolani.net, anidas6.me
 coolani.net###download-app
 coolani.net###left_out > div:nth-child(2) > iframe
 coolani.net###left_out > div:nth-child(2) > a:last-child > img
@@ -557,7 +557,7 @@ coolani.net###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 ##li.no_mobile:nth-of-type(10) > [href="http://qqlive.heydate.pe.hu"]
 ##li.adult_li:nth-of-type(9) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 coolani.net##li.adult_li:nth-of-type(4) > [href="https://www.coolani.net/ani/adult.html"]
-! ani119.xyz, feelani.com
+! feelani.com, ani119.xyz
 feelani.com###left_out > div:nth-child(2) > iframe
 feelani.com###right_out > div:nth-child(2) > iframe
 feelani.com###left_out > div:last-child > iframe:last-child
@@ -598,12 +598,12 @@ bujatv2.xyz###right_out > div:first-child > a:last-child > img
 bujatv2.xyz###right_out > div:nth-child(2) > a:last-child > img
 bujatv2.xyz###left_out > div:last-child > a:last-child > img
 bujatv2.xyz###right_out > div:last-child > a:last-child > img
+bujatv2.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv2.xyz/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
-bujatv2.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv2.xyz/19/adult.html"]
 bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
 bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
 bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
@@ -613,6 +613,7 @@ bujatv*.xyz###right_out > div:first-child > a:last-child > img
 bujatv*.xyz###right_out > div:nth-child(2) > a:last-child > img
 bujatv*.xyz###left_out > div:last-child > a:last-child > img
 bujatv*.xyz###right_out > div:last-child > a:last-child > img
+bujatv*.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv*.xyz/19/adult.html"]
 ! dasiboda3.com, dasiboda.site
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
