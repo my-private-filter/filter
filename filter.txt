@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.07.14.00
+! Version: 2019.07.14.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -766,11 +766,21 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||i65.tinypic.com/dc54kh.gif
 ||i65.tinypic.com/2vt734o.gif
 ||i67.tinypic.com/2mcyrcw.gif
+||i65.tinypic.com/nwh2kl.gif
 manamoa3.net##.ad-banner-widget, .main-banner
-manamoa*.net##.ad-banner-widget, .main-banner
-manamoa.net##.ad-banner-widget, .main-banner
+manamoa3.net##.ad-banner-widget, .fit-banner
+manamoa3.net##.ad-banner-widget, .ad-mobile-fit
+manamoa3.net##.ad-banner-widget
 manamoa3.net##.banner
+manamoa*.net##.ad-banner-widget, .main-banner
+manamoa*.net##.ad-banner-widget, .fit-banner
+manamoa*.net##.ad-banner-widget, .ad-mobile-fit
+manamoa*.net##.ad-banner-widget
 manamoa*.net##.banner
+manamoa.net##.ad-banner-widget, .main-banner
+manamoa.net##.ad-banner-widget, .fit-banner
+manamoa.net##.ad-banner-widget, .ad-mobile-fit
+manamoa.net##.ad-banner-widget
 manamoa.net##.banner
 mangashow5.me##.banner
 mangashow*.me##.banner
