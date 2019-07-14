@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.07.14.02
+! Version: 2019.07.14.03
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -770,11 +770,20 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||i68.tinypic.com/347xpcp.gif
 ||i67.tinypic.com/2z906r5.gif
 ||i64.tinypic.com/167send.gif
+||i67.tinypic.com/4hyvpe.jpg
+||i67.tinypic.com/1yr3fb.gif
+||i67.tinypic.com/2eea0ie.gif
+||i67.tinypic.com/vzzoko.gif
 manamoa3.net##.ad-banner-widget, .main-banner
 manamoa3.net##.ad-banner-widget, .fit-banner
 manamoa3.net##.ad-banner-widget, .ad-mobile-fit
 manamoa3.net##.ad-banner-widget
 manamoa3.net##.banner
+manamoa3.net##.at-content > p
+manamoa3.net##.fit-banner.ad-banner-widget
+manamoa3.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa3.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa3.net##div.main-banner.ad-banner-widget:nth-of-type(3)
 manamoa3.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
 manamoa3.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
 manamoa3.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
@@ -786,6 +795,11 @@ manamoa*.net##.ad-banner-widget, .fit-banner
 manamoa*.net##.ad-banner-widget, .ad-mobile-fit
 manamoa*.net##.ad-banner-widget
 manamoa*.net##.banner
+manamoa*.net##.at-content > p
+manamoa*.net##.fit-banner.ad-banner-widget
+manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(3)
 manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
 manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
 manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
@@ -797,20 +811,25 @@ manamoa.net##.ad-banner-widget, .fit-banner
 manamoa.net##.ad-banner-widget, .ad-mobile-fit
 manamoa.net##.ad-banner-widget
 manamoa.net##.banner
+manamoa.net##.at-content > p
+manamoa.net##.fit-banner.ad-banner-widget
+manamoa.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa.net##div.main-banner.ad-banner-widget:nth-of-type(3)
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
 manamoa.net##.at-main.at-col.col-md-9 > p
-mangashow5.me##.banner
-mangashow*.me##.banner
-188.214.128.5##.banner
 ||*.bp.blogspot.com/-*/XG_*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.gif^
 ||*.bp.blogspot.com/-*/XG_*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.jpg^
 ||*.bp.blogspot.com/-*/XG*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.gif^
 ||*.bp.blogspot.com/-*/XG*/AAAAAAAAH*/*/s1600/BN_ID-*-*x*.jpg^
 ||img4.mangashow2.me/data/editor/1902/5fa88a29cd1234cf65c9be0aacf97414.gif^
+mangashow5.me##.banner
+mangashow*.me##.banner
+188.214.128.5##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 ! funbe13.com
