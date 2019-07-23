@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.07.24.00
+! Version: 2019.07.24.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -376,10 +376,10 @@ dolwe.me
 ||superdomain711.info/m074z9o9Lqi.FRk^
 ||morgem.ru/test/get.php?pid=[machine_id^
 !
-! https://www.virustotal.com/#/file/cbe9ebb2c709d36bea7ea127fff9cf12eceff247f750d21df34c6e4dc67383a7/detection
+! https://www.virustotal.com/gui/file/cbe9ebb2c709d36bea7ea127fff9cf12eceff247f750d21df34c6e4dc67383a7/detection
 ||clarisse-guillochon.fr/%EB%B6%81%ED%95%9C-%ED%8F%B0%ED%8A%B8-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C
 ||ogenconsult.com/fil.php?agjkgfbqtxs=ebb681ed959c5fed8fb0ed8ab82e657865
-! https://www.virustotal.com/#/file/53e49396b19270b0165c72caba602e6abaa81d3ead62ad6e196fdae06c44914a/detection
+! https://www.virustotal.com/gui/file/53e49396b19270b0165c72caba602e6abaa81d3ead62ad6e196fdae06c44914a/detection
 ||rawside.kr/?p=42415
 ||hotelrandhawainternational.com/ddd.php?ocinoinzooyy=6a77706c617965725feb8f99ec9881ec83812e657865
 ! etc: GandCrab v4
@@ -413,7 +413,7 @@ dolwe.me
 ||bit.ly/2RXynvb
 ||husebzc.nchel.xyz^
 !
-! https://www.virustotal.com/#/ip-address/47.244.55.134
+! https://www.virustotal.com/gui/ip-address/47.244.55.134/relations
 ||auction.pige03.com/login1.php?id=201811025846012
 ||auction.pige03.com^
 ||pay.naver.paqe14.com/?pd=co.kr18p
@@ -423,39 +423,48 @@ dolwe.me
 ||pay.naver.paqe22.com/index.php?id=903151616
 ||pay.naver.page22.com/sub1.php
 ||pay.naver.paqe22.com^
-! https://www.virustotal.com/#/ip-address/47.74.49.51
+||47.244.55.134^
+!
+! https://www.virustotal.com/gui/ip-address/47.74.49.51/relations
 ||pay.naver.page653.com^
 ||pay.naver.page964.com^
 ||pay.naver.pige24.com^
+||pay.naver-cafe04.com/sub1.php
+||pay.naver-cafe04.com^
+||pay.naver-cafe01.com^
+||pay.naver.cofe54.com^
+||pay.naver.cofe14.com^
 ||47.74.49.51^
 !
-! https://www.virustotal.com/#/ip-address/172.247.116.95
+! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
 ||goo.gl/PNcrzw
 ||vtnytovtllexlwd.dothome.co.kr^
-||m.site.naver.com/0t1TV^
+||m.site.naver.com/0t1TV
 ||jiyoun1212.freeoda.com^
 ||aratv365.com/login.asp
 ||aratv365.com^
-||naver1024.com^
+||yasi9002.com/login.asp
+||yasi9002.com^
+||creep0515.com/login.asp
+||creep0515.com/ajax.asp
+||creep0515.com^
 ||rocyoung3.com/login.asp
 ||rocyoung3.com^
 ||kimun2011.com/login.asp
 ||kimun2011.com^
-||yasi9002.com/login.asp
-||yasi9002.com^
-||creep0515.com/login.asp
-||creep0515.com^
+||naver1024.com^
 ||172.247.116.95^
 !
-! https://www.virustotal.com/#/ip-address/172.247.116.59
+! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
 ||0395jz.cn^
 ||g123.ga^
 ||h123.ga^
+||yds8899.com/login.asp
+||yds8899.com/ajax.asp
+||yds8899.com^
 ||www.yds8899.com^
 ||yes56789.com/login.asp
 ||yes56789.com^
-||yds8899.com/login.asp
-||yds8899.com^
 ||pcy8540.com/login.asp
 ||pcy8540.com^
 ||172.247.116.59^
