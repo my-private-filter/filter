@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.07.21.00
+! Version: 2019.07.24.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -432,6 +432,8 @@ dolwe.me
 ! https://www.virustotal.com/#/ip-address/172.247.116.95
 ||goo.gl/PNcrzw
 ||vtnytovtllexlwd.dothome.co.kr^
+||m.site.naver.com/0t1TV^
+||jiyoun1212.freeoda.com^
 ||aratv365.com/login.asp
 ||aratv365.com^
 ||naver1024.com^
@@ -444,6 +446,7 @@ dolwe.me
 ||creep0515.com/login.asp
 ||creep0515.com^
 ||172.247.116.95^
+!
 ! https://www.virustotal.com/#/ip-address/172.247.116.59
 ||0395jz.cn^
 ||g123.ga^
@@ -840,34 +843,34 @@ mangashow*.me##.banner
 ||funbe*.com/bann/*.gif
 ||funbe*.com/bann/*.png
 ||funbe*.com/bann/*.jpg
-! hodu78.com, soo.gd/comics
-||hodu78.com/upload/banner/*.gif^
-||hodu78.com/upload/banner/*.png^
-||hodu78.com/upload/banner/*.jpg^
-||hodu78.com/text_click.php?link=3^
-||hodu78.com/text_click.php?link=4^
-hodu78.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu78.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu78.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu78.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu78.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu78.com##div.c_img > [href^="/banner_click.php"]
-hodu78.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu78.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu78.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu78.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu78.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu78.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu78.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu78.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu78.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu78.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu78.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu78.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu78.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu78.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu78.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu78.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+! hodu79.com, soo.gd/comics
+||hodu79.com/upload/banner/*.gif^
+||hodu79.com/upload/banner/*.png^
+||hodu79.com/upload/banner/*.jpg^
+||hodu79.com/text_click.php?link=3^
+||hodu79.com/text_click.php?link=4^
+hodu79.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu79.com##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu79.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu79.com##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu79.com##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu79.com##div.c_img > [href^="/banner_click.php"]
+hodu79.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu79.com##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu79.com##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu79.com##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu79.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu79.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu79.com##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu79.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu79.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu79.com##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu79.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu79.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu79.com##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu79.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu79.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu79.com##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu*.com/upload/banner/*.gif^
 ||hodu*.com/upload/banner/*.png^
 ||hodu*.com/upload/banner/*.jpg^
