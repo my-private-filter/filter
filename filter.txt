@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.07.26.00
+! Version: 2019.07.26.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -385,7 +385,7 @@ dolwe.me
 ||filer2.1apps.com^
 ||kuku675.site11.com/data/zero/log.txt
 ||jejuseongahn.org/hboard4/data/cheditor/badu/log.txt
-||rotcian.com/host/img/jpg/download.php?filename=^
+||rotcian.com/host/img/jpg/download.php?filename=^
 ||marsnav.ru/java3/Panel/fre.php
 ||vairina.top/20190706_089785.xls
 ||vairina.top^
@@ -395,7 +395,7 @@ dolwe.me
 ||fighiting1013.org/2
 ||naoei3-tosma.96.lt/1
 ||naoei3-tosma.96.lt/3
-||greenvillageflowers.com/soon/soon/vb.php^
+||greenvillageflowers.com/soon/soon/vb.php
 ||marsnav.ru/msn/Panel/fre.php
 ||orderlynet.net/r5.exe
 ||gozdeelektronik.net/wp-content/themes/0111/movie.png
