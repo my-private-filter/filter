@@ -467,7 +467,11 @@ dolwe.me
 ||xml.adservme.com/click?adv=213697^
 ||xml.adservme.com^
 ||thefuncoolstuff.com/enter.html?target=oscar-yar-gUVnRfVE&geo=KR&src=melichrous-badger&camp=ppv-cid-dsk&geo=KR&cid=zr23c9b702aed511e99e280aa031a6fe4c0dfa78ec5415411c9df3bf81041e246b03999696044af4f31b
+||thefuncoolstuff.com/enter.html?^
 ||thencouserechan.info/QTWSGWW?tag_id=605725&sub_id1=&sub_id2=-2098010942871200350&cookie_id=1bb681aa-cdf1-4373-a274-73923a9536d0&lp=stanley_ab&tb=redirect&allb=redirect&ob=redirect&href=https%3A%2F%2Fnameketathar.pro%2F%3Ftid%3D605725%26noocp%3D1
+||thencouserechan.info/^
+||radiorage.com/index.jhtml?partner=ZXxpt535&s2=-1772909515794932713&s1=605725
+||radiorage.com/index.jhtml?partner=^
 !
 
 ! Phishing, Smishing
