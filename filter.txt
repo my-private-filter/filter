@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.06.00
+! Version: 2019.08.12.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -515,6 +515,20 @@ dolwe.me
 ||pay.naver.cofe14.com^
 ||47.74.49.51^
 !
+! https://www.virustotal.com/gui/ip-address/47.245.8.6/relations
+||pay.naver89.com/?pd=20190811-8983
+||pay.naver89.com/login.php
+||pay.naver89.com
+||pay.naver00.com/sub1.php
+||pay.naver00.com^
+||pay.cofe64.com/favicon.ico
+||pay.cofe64.com^
+||pay.naver.page446.com^
+||pay.naver.cofe92.com^
+||pay.naver48.com^
+||me.sysre.net^
+||47.245.8.6^
+!
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
 ||goo.gl/PNcrzw
 ||vtnytovtllexlwd.dothome.co.kr^
@@ -565,6 +579,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/185.224.137.164/relations
+||c-naver.com/sidebar.asp?bn=0&qy=
+||c-naver.com^
 ||member-center.pe.hu/account/^
 ||member-center.pe.hu/account/?m=viewChangePasswd&menu=security&token_help=YW5nZWwMMdawag==
 ||member-center.pe.hu^
