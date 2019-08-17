@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.15.00
+! Version: 2019.08.17.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -491,6 +491,7 @@ dolwe.me
 ||bvdseiu.qathol.xyz^
 ||bit.ly/2RXynvb
 ||husebzc.nchel.xyz^
+||fgncju.mdfxo.com.cn^
 !
 ! https://www.virustotal.com/gui/ip-address/47.244.55.134/relations
 ||auction.pige03.com/login1.php?id=201811025846012
