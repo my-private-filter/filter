@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.17.00
+! Version: 2019.08.19.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -529,6 +529,11 @@ dolwe.me
 ||pay.naver48.com^
 ||me.sysre.net^
 ||47.245.8.6^
+!
+! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
+||pay.naver.ipage601.com^
+||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
+||pay.naver.ipage503.com^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
 ||goo.gl/PNcrzw
