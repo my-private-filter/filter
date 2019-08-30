@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.30.02
+! Version: 2019.08.30.03
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -17,6 +17,10 @@
 
 ! Naver Cafe Editor's Pick
 section.cafe.naver.com###content > div.home_editors:first-child > ul.home_editors_pick_list:nth-child(2)
+!
+! Naver Cafe Recent List
+section.cafe.naver.com###content > div.home_user:nth-child(2) > div.home_recent:last-child > ul.recent_list:nth-child(2)
+!
 
 ! AfreecaTV Player
 ||afupd1.afreecatv.com/afreecatvstreamer_installer.exe
