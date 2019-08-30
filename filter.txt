@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.30.01
+! Version: 2019.08.30.02
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -1012,7 +1012,7 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 
 ! Bad Ad (2)
-! manamoa3.net, manamoa.net, mangashow5.me, https://188.214.128.5
+! manamoa12.net, manamoa3.net, manamoa.net, mangashow5.me, https://188.214.128.5
 ||i63.tinypic.com/5x510h.gif
 ||i63.tinypic.com/1zmgmtx.gif
 ||i65.tinypic.com/122c9av.gif
@@ -1027,6 +1027,22 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||i67.tinypic.com/1yr3fb.gif
 ||i67.tinypic.com/2eea0ie.gif
 ||i67.tinypic.com/vzzoko.gif
+manamoa12.net##.ad-banner-widget, .main-banner
+manamoa12.net##.ad-banner-widget, .fit-banner
+manamoa12.net##.ad-banner-widget, .ad-mobile-fit
+manamoa12.net##.ad-banner-widget
+manamoa12.net##.banner
+manamoa12.net##.at-content > p
+manamoa12.net##.fit-banner.ad-banner-widget
+manamoa12.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa12.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa12.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa12.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa12.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa12.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa12.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa12.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa12.net##.at-main.at-col.col-md-9 > p
 manamoa3.net##.ad-banner-widget, .main-banner
 manamoa3.net##.ad-banner-widget, .fit-banner
 manamoa3.net##.ad-banner-widget, .ad-mobile-fit
