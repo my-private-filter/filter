@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.30.03
+! Version: 2019.08.30.04
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -20,6 +20,10 @@ section.cafe.naver.com###content > div.home_editors:first-child > ul.home_editor
 !
 ! Naver Cafe Recent List
 section.cafe.naver.com###content > div.home_user:nth-child(2) > div.home_recent:last-child > ul.recent_list:nth-child(2)
+!
+! Naver Cafe Theme
+section.cafe.naver.com###content > div.home_theme:last-child > div.common_scroll_box:nth-child(2)
+section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_frame:last-child > ul.common_list:first-child
 !
 
 ! AfreecaTV Player
