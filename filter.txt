@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.30.05
+! Version: 2019.08.30.06
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -506,6 +506,17 @@ dolwe.me
 ||gookle.com^
 ||uuun.me/MeM8AK
 ||onbyuns.pjina.con.cn^
+!
+! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
+||ktoic7.fndik.xyz^
+||doujc1.fndik.xyz^
+||fewby8.fndik.xyz^
+||tpixv5.fndik.xyz^
+||gtvsk1.fndik.xyz^
+||gypas5.fndik.xyz^
+||wivjl9.fndik.xyz^
+||woujc1.yisre.xyz^
+||gpadb6.yisre.xyz^
 !
 ! https://www.virustotal.com/gui/ip-address/47.244.55.134/relations
 ||auction.pige03.com/login1.php?id=201811025846012
