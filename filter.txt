@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.08.31.01
+! Version: 2019.09.02.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -1136,7 +1136,34 @@ mangashow*.me##.banner
 ||funbe*.com/bann/*.gif
 ||funbe*.com/bann/*.png
 ||funbe*.com/bann/*.jpg
-! hodu02.net, hodu81.com, soo.gd/comics
+! hoduco.net, hodu02.net, hodu81.com, soo.gd/comics
+||hoduco.net/upload/banner/*.gif^
+||hoduco.net/upload/banner/*.png^
+||hoduco.net/upload/banner/*.jpg^
+||hoduco.net/text_click.php?link=3^
+||hoduco.net/text_click.php?link=4^
+hoduco.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hoduco.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hoduco.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hoduco.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hoduco.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hoduco.net##div.c_img > [href^="/banner_click.php"]
+hoduco.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hoduco.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hoduco.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hoduco.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hoduco.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hoduco.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hoduco.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hoduco.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hoduco.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hoduco.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hoduco.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hoduco.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hoduco.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu02.net/upload/banner/*.gif^
 ||hodu02.net/upload/banner/*.png^
 ||hodu02.net/upload/banner/*.jpg^
