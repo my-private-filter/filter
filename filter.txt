@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.10.01
+! Version: 2019.09.11.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -512,6 +512,14 @@ dolwe.me
 ||gookle.com^
 ||uuun.me/MeM8AK
 ||onbyuns.pjina.con.cn^
+!
+! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
+||qw-xa.top/favicon.ico
+||qw-xa.top^
+||qw-xm.top/favicon.ico
+||qw-xm.top^
+||qw-xb.top/favicon.ico
+||qw-xb.top^
 ||f31uy5.tumblr.com/?wtrcj^
 ||f31uy5.tumblr.com^
 ||qw-bu.top/m/^
