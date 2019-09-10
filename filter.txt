@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.11.00
+! Version: 2019.09.11.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -514,16 +514,16 @@ dolwe.me
 ||onbyuns.pjina.con.cn^
 !
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
-||qw-xa.top/favicon.ico
-||qw-xa.top^
-||qw-xm.top/favicon.ico
-||qw-xm.top^
-||qw-xb.top/favicon.ico
-||qw-xb.top^
 ||f31uy5.tumblr.com/?wtrcj^
 ||f31uy5.tumblr.com^
 ||qw-bu.top/m/^
 ||qw-bu.top^
+||qw-xb.top/favicon.ico
+||qw-xb.top^
+||qw-xm.top/favicon.ico
+||qw-xm.top^
+||qw-xa.top/favicon.ico
+||qw-xa.top^
 !
 ! https://www.virustotal.com/gui/ip-address/36.230.207.22/relations
 ||aa.cjlogisdm.cn^
@@ -646,6 +646,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/125.209.210.98/relations
+||m.site.naver.com/0tywF
+||popkon.konkuk.ac.kr/bbs/list.html?table=bbs_21&idxno=6394&page=1&total=5&sc_area=&sc_word=%E3%85%81%E3%84%B44%E3%85%87%E3%85%81645%E3%84%B4%E3%85%87465%E3%85%81645
 ||m.site.naver.com/0tuii
 ||popkon.konkuk.ac.kr/bbs/list.html?table=bbs_21&idxno=6386&page=1&total=3&sc_area=&sc_word=%E3%84%B4%E3%85%81516%E3%85%87546%E3%85%81564%E3%85%87%E3%85%81
 ||m.site.naver.com/0tqfH
