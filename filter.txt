@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.11.02
+! Version: 2019.09.11.03
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -646,6 +646,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/125.209.210.98/relations
+||m.site.naver.com/0tyy2
+||popkon.konkuk.ac.kr/bbs/list.html?table=bbs_21&idxno=6394&page=1&total=5&sc_area=&sc_word=%E3%84%B4%E3%85%8115%E3%85%871%E3%85%8165615
 ||m.site.naver.com/0tyxG
 ||popkon.konkuk.ac.kr/bbs/list.html?table=bbs_21&idxno=6394&page=1&total=5&sc_area=&sc_word=%E3%84%B4%E3%85%81%E3%85%8715%E3%85%81
 ||m.site.naver.com/0tywF
