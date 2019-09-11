@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.11.04
+! Version: 2019.09.11.05
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -584,6 +584,23 @@ dolwe.me
 ||pay.naver.ipage503.com^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||olive3377x.0pe.kr/login.asp
+||olive3377x.0pe.kr^
+||sm12241004sm.0pe.kr/favicon.ico
+||sm12241004sm.0pe.kr^
+||naver567890.0pe.kr/favicon.ico
+||naver567890.0pe.kr^
+||lovelove00x.0pe.kr/favicon.ico
+||lovelove00x.0pe.kr^
+||plus300kr.0pe.kr/favicon.ico
+||plus300kr.0pe.kr^
+||creep0515.com^
+||mungjoo76.0pe.kr/favicon.ico
+||mungjoo76.0pe.kr^
+||koonabin.0pe.kr/favicon.ico
+||koonabin.0pe.kr^
+||sky456789.0pe.kr/favicon.ico
+||sky456789.0pe.kr^
 ||eunbi1130.0pe.kr/login.asp
 ||eunbi1130.0pe.kr/public/js/index.js
 ||eunbi1130.0pe.kr^
@@ -646,6 +663,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/125.209.210.98/relations
+||m.site.naver.com/0tz2G
+||blog-imgs-111.fc2.com/s/p/k/spkuplrxoohbozgnemfh/vtnxsovarrlerdjqhpikxrqgpozkwzd.html
 ||m.site.naver.com/0tyyO
 ||popkon.konkuk.ac.kr/bbs/list.html?table=bbs_21&idxno=6394&page=1&total=5&sc_area=&sc_word=sa4da456a456qadqwohifas
 ||m.site.naver.com/0tyy2
