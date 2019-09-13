@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.11.05
+! Version: 2019.09.13.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -584,6 +584,8 @@ dolwe.me
 ||pay.naver.ipage503.com^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||mino8969x.0pe.kr/login.asp
+||mino8969x.0pe.kr^
 ||olive3377x.0pe.kr/login.asp
 ||olive3377x.0pe.kr^
 ||sm12241004sm.0pe.kr/favicon.ico
@@ -663,6 +665,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/125.209.210.98/relations
+||m.site.naver.com/0tzAK
+||blog-imgs-111.fc2.com/s/p/k/spkuplrxoohbozgnemfh/cauidzglccwpcoubsatvicbyhgrcor.html
 ||m.site.naver.com/0tz2G
 ||blog-imgs-111.fc2.com/s/p/k/spkuplrxoohbozgnemfh/vtnxsovarrlerdjqhpikxrqgpozkwzd.html
 ||m.site.naver.com/0tyyO
@@ -1874,8 +1878,8 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 174
-! 27 Jul 2019
+! 175
+! 12 Sep 2019
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -2392,7 +2396,6 @@ candy33.net##div.subbar:nth-child(7) > div.container:last-child > div.aside:nth-
 /nano.wasm
 /noblock.js
 /obfus.min.js
-/processor.js
 /projectpoi.min.js
 /poolstatus?
 /safelinkconverter.js
