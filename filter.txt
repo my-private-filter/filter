@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.19.01
+! Version: 2019.09.19.02
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -584,7 +584,16 @@ dolwe.me
 ||pay.naver.ipage503.com^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||evan0909.0pe.kr/login.asp
+||evan0909.0pe.kr^
+||navertv1024.bu.to/favicon.ico
+||navertv1024.bu.to^
+||anamhnyun.0pe.kr/favicon.ico
+||anamhnyun.0pe.kr^
+||hyoree3548.0pe.kr/favicon.ico
+||hyoree3548.0pe.kr^
 ||mino8969x.0pe.kr/login.asp
+||mino8969x.0pe.kr/favicon.ico
 ||mino8969x.0pe.kr^
 ||olive3377x.0pe.kr/login.asp
 ||olive3377x.0pe.kr^
