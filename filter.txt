@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.13.00
+! Version: 2019.09.19.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -828,6 +828,7 @@ ani24go.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:firs
 ani24go.com###dsq-app5299
 ani24go.com##.view_info_comment_box
 ani24go.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
+ani24go.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-child
 ani24ski.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24ski.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24yoi.com##a[href^="/ads.php"]:nth-of-type(2)
@@ -839,6 +840,7 @@ ani24yoi.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:fir
 ani24yoi.com###dsq-app5299
 ani24yoi.com##.view_info_comment_box
 ani24yoi.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
+ani24yoi.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-child
 ani24show.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24show.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24show.com##div:nth-of-type(1) > [href^="/ads.php"]
@@ -848,6 +850,7 @@ ani24show.com##div.view_box:nth-child(13) > div.view_box_right:last-child > a:fi
 ani24show.com###dsq-app5299
 ani24show.com##.view_info_comment_box
 ani24show.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
+ani24show.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-child
 ! coolani.net, anidas6.me
 coolani.net###download-app
 coolani.net###left_out > div:nth-child(2) > iframe
@@ -1224,6 +1227,78 @@ hoduco.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+||hodu02.net/img/banner/*.gif^
+||hodu02.net/img/banner/*.jpg^
+||hodu02.net/img/banner/*.png^
+||hodu02.net/upload/banner/*.gif^
+||hodu02.net/upload/banner/*.png^
+||hodu02.net/upload/banner/*.jpg^
+||hodu02.net/text_click.php?link=3^
+||hodu02.net/text_click.php?link=4^
+hodu02.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu02.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu02.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu02.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu02.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu02.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu02.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu02.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu02.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu02.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu02.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu02.net##div.c_img > [href^="/banner_click.php"]
+hodu02.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu02.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu02.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu02.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu02.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu02.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu02.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu02.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu02.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu02.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu02.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu02.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu02.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu02.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu02.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu02.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+||hodu*.net/img/banner/*.gif^
+||hodu*.net/img/banner/*.jpg^
+||hodu*.net/img/banner/*.png^
+||hodu*.net/upload/banner/*.gif^
+||hodu*.net/upload/banner/*.png^
+||hodu*.net/upload/banner/*.jpg^
+||hodu*.net/text_click.php?link=3^
+||hodu*.net/text_click.php?link=4^
+hodu*.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu*.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu*.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu*.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu*.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu*.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu*.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu*.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu*.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu*.net##div.c_img > [href^="/banner_click.php"]
+hodu*.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu*.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu*.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu*.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu*.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu*.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu*.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu*.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu*.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu*.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu*.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu*.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu*.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu*.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ! funitoon05.com
 ||funitoon05.com/banner/*.gif^
 ||funitoon05.com/banner/*.png^
