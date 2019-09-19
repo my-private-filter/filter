@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.19.00
+! Version: 2019.09.19.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -639,12 +639,17 @@ dolwe.me
 ||yds8899.com^
 ||www.yds8899.com^
 ||yes56789.com/login.asp
+||yes56789.com/uploadfiles/2019030800363090728.jpg
 ||yes56789.com^
 ||pcy8540.com/login.asp
 ||pcy8540.com^
 ||172.247.116.59^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.76/relations
+||fdxidyfk.0pe.kr/login.asp
+||fdxidyfk.0pe.kr^
+||tqlvqahm.0pe.kr/favicon.ico
+||tqlvqahm.0pe.kr^
 ||peter0323.com^
 ||pss7327.com^
 !
@@ -665,6 +670,11 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/125.209.210.98/relations
+||m.site.naver.com/0tEoW
+||m.site.naver.com/0tEnk
+||57tn5016.tistory.com/entry/%E3%85%81%E3%85%87%EB%82%98%E3%85%93%E3%85%82
+||57tn5016.tistory.com^
+||timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568907496046&di=d0d695d4289a9dd7bac1d3e24ec2f731&imgtype=0&src=http%3A%2F%2Fp.ananas.chaoxing.com%2Fstar3%2Forigin%2F353a26d4124d60fcd6a8a4910af3e383.gif
 ||m.site.naver.com/0tzAK
 ||blog-imgs-111.fc2.com/s/p/k/spkuplrxoohbozgnemfh/cauidzglccwpcoubsatvicbyhgrcor.html
 ||m.site.naver.com/0tz2G
