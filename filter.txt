@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.09.20.00
+! Version: 2019.09.21.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -489,6 +489,14 @@ dolwe.me
 ||google.kookea.ltd^
 ||httpswww.october-gift-card.cards^
 ||videonews.best^
+!
+! Mobile Pop-up Ads
+||p1.maranhesduve.club^
+||p2.maranhesduve.club^
+||p3.maranhesduve.club^
+||p4.maranhesduve.club^
+||pixel.maranhesduve.club^
+||maranhesduve.club^
 !
 
 ! Phishing, Smishing
