@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.17.00
+! Version: 2019.10.17.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -541,16 +541,21 @@ dolwe.me
 ||bb.cjlogisdm.cn^
 ||cjlogisdm.cn^
 !
-! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
-||ktoic7.fndik.xyz^
-||doujc1.fndik.xyz^
-||fewby8.fndik.xyz^
-||tpixv5.fndik.xyz^
-||gtvsk1.fndik.xyz^
-||gypas5.fndik.xyz^
-||wivjl9.fndik.xyz^
-||woujc1.yisre.xyz^
-||gpadb6.yisre.xyz^
+! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
+||pay.naver.ipage601.com^
+||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
+||pay.naver.ipage503.com^
+!
+! https://www.virustotal.com/gui/ip-address/47.74.49.51/relations
+||pay.naver.page653.com^
+||pay.naver.page964.com^
+||pay.naver.pige24.com^
+||pay.naver-cafe04.com/sub1.php
+||pay.naver-cafe04.com^
+||pay.naver-cafe01.com^
+||pay.naver.cofe54.com^
+||pay.naver.cofe14.com^
+||47.74.49.51^
 !
 ! https://www.virustotal.com/gui/ip-address/47.244.55.134/relations
 ||auction.pige03.com/login1.php?id=201811025846012
@@ -563,17 +568,6 @@ dolwe.me
 ||pay.naver.page22.com/sub1.php
 ||pay.naver.paqe22.com^
 ||47.244.55.134^
-!
-! https://www.virustotal.com/gui/ip-address/47.74.49.51/relations
-||pay.naver.page653.com^
-||pay.naver.page964.com^
-||pay.naver.pige24.com^
-||pay.naver-cafe04.com/sub1.php
-||pay.naver-cafe04.com^
-||pay.naver-cafe01.com^
-||pay.naver.cofe54.com^
-||pay.naver.cofe14.com^
-||47.74.49.51^
 !
 ! https://www.virustotal.com/gui/ip-address/47.245.8.6/relations
 ||pay.naver89.com/?pd=20190811-8983
@@ -589,12 +583,73 @@ dolwe.me
 ||me.sysre.net^
 ||47.245.8.6^
 !
-! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
-||pay.naver.ipage601.com^
-||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
-||pay.naver.ipage503.com^
+! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
+||ktoic7.fndik.xyz^
+||doujc1.fndik.xyz^
+||fewby8.fndik.xyz^
+||tpixv5.fndik.xyz^
+||gtvsk1.fndik.xyz^
+||gypas5.fndik.xyz^
+||wivjl9.fndik.xyz^
+||woujc1.yisre.xyz^
+||gpadb6.yisre.xyz^
+!
+! https://www.virustotal.com/gui/ip-address/139.180.141.39/relations
+||nids.nhn-login.com/nidlogin.login
+||nids.nhn-login.com^
+||nid.nhn-login.com^
+||outlook.login-oauth.net^
+||account.outlook-live.net^
+||password.outlook-live.net^
+||sign.nhn-login.com^
+||webmail.nhn-login.com^
+||mail.nhn-login.com^
+||account.nhn-login.com^
+||thewillsystem.login-oauth.net^
+||mails.login-oauth.net^
+||mail.login-oauth.net^
+||139.180.141.39^
+!
+! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
+||0395jz.cn^
+||g123.ga^
+||h123.ga^
+||yds8899.com/login.asp
+||yds8899.com/ajax.asp
+||yds8899.com^
+||www.yds8899.com^
+||yes56789.com/login.asp
+||yes56789.com/uploadfiles/2019030800363090728.jpg
+||yes56789.com^
+||pcy8540.com/login.asp
+||pcy8540.com^
+||172.247.116.59^
+!
+! https://www.virustotal.com/gui/ip-address/172.247.116.76/relations
+||fdxhdy.bu.to/favicon.ico
+||fdxhdy.bu.to^
+||qdyidy.0pe.kr/favicon.ico
+||qdyidy.0pe.kr^
+||agqnba.0pe.kr/favicon.ico
+||agqnba.0pe.kr^
+||sjdojelq.0pe.kr^
+||viffk.0pe.kr/favicon.ico
+||viffk.0pe.kr^
+||fdxidyfk.0pe.kr/login.asp
+||fdxidyfk.0pe.kr^
+||tqlvqahm.0pe.kr/favicon.ico
+||tqlvqahm.0pe.kr^
+||peter0323.com^
+||pss7327.com^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||hypark7812.0pe.kr/login.asp
+||hypark7812.0pe.kr^
+||free10043x.0pe.kr/favicon.ico
+||free10043x.0pe.kr^
+||janetmiaa.0pe.kr^
+||ok145050x.0pe.kr/favicon.ico
+||ok145050x.0pe.kr^
 ||liebejyko.0pe.kr/login.asp
 ||liebejyko.0pe.kr^
 ||jungsun457.0pe.kr/favicon.ico
@@ -656,60 +711,18 @@ dolwe.me
 ||naver1024.com^
 ||172.247.116.95^
 !
-! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
-||0395jz.cn^
-||g123.ga^
-||h123.ga^
-||yds8899.com/login.asp
-||yds8899.com/ajax.asp
-||yds8899.com^
-||www.yds8899.com^
-||yes56789.com/login.asp
-||yes56789.com/uploadfiles/2019030800363090728.jpg
-||yes56789.com^
-||pcy8540.com/login.asp
-||pcy8540.com^
-||172.247.116.59^
-!
-! https://www.virustotal.com/gui/ip-address/172.247.116.76/relations
-||fdxhdy.bu.to/favicon.ico
-||fdxhdy.bu.to^
-||qdyidy.0pe.kr/favicon.ico
-||qdyidy.0pe.kr^
-||agqnba.0pe.kr/favicon.ico
-||agqnba.0pe.kr^
-||sjdojelq.0pe.kr^
-||viffk.0pe.kr/favicon.ico
-||viffk.0pe.kr^
-||fdxidyfk.0pe.kr/login.asp
-||fdxidyfk.0pe.kr^
-||tqlvqahm.0pe.kr/favicon.ico
-||tqlvqahm.0pe.kr^
-||peter0323.com^
-||pss7327.com^
-!
-! https://www.virustotal.com/gui/ip-address/139.180.141.39/relations
-||nids.nhn-login.com/nidlogin.login
-||nids.nhn-login.com^
-||nid.nhn-login.com^
-||outlook.login-oauth.net^
-||account.outlook-live.net^
-||password.outlook-live.net^
-||sign.nhn-login.com^
-||webmail.nhn-login.com^
-||mail.nhn-login.com^
-||account.nhn-login.com^
-||thewillsystem.login-oauth.net^
-||mails.login-oauth.net^
-||mail.login-oauth.net^
-||139.180.141.39^
-!
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0u1Ha
+||blog-imgs-131.fc2.com/5/1/e/51equwaswwe/fdxhcyfkbbvobntar.html
+||nlfplgnsjjdwkvbizibdqkifp.tistory.com^
+||yes-naver.coo.kr^
 ||m.site.naver.com/0u1Dq
 ||ahwodlf.tistory.com/entry/%EB%8C%80%EB%B0%95%EB%BD%95%ED%95%98%EA%B3%A0-%EC%84%B1%EB%A7%A4-%EB%A7%A4-%ED%95%98%EA%B3%A0%EB%8F%84-%EB%B0%B0%EC%9A%B0%EB%90%98%EB%8A%94-%EC%82%AC%ED%9A%8C
+||ahwodlf.tistory.com^
 ||m.site.naver.com/0u1AQ
 ||m.site.naver.com/0tVKH
 ||nobinka.tistory.com/entry/usmwqmty%EC%86%A1-%ED%98%9C-%EA%B5%90-%EC%A0%90%EC%A0%90-%EC%8B%A4%EB%A7%9D%ED%95%B4%EB%84%A4
+||nobinka.tistory.com^
 ||m.site.naver.com/0tZ5f
 ||m.site.naver.com/0tOrl
 ||cdn-ak.f.st-hatena.com/images/fotolife/r/rabit2017navercom/20190610/20190610150417.gif
