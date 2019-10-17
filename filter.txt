@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.17.01
+! Version: 2019.10.17.02
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -529,11 +529,8 @@ dolwe.me
 ||f31uy5.tumblr.com^
 ||qw-bu.top/m/^
 ||qw-bu.top^
-||qw-xb.top/favicon.ico
 ||qw-xb.top^
-||qw-xm.top/favicon.ico
 ||qw-xm.top^
-||qw-xa.top/favicon.ico
 ||qw-xa.top^
 !
 ! https://www.virustotal.com/gui/ip-address/36.230.207.22/relations
@@ -575,7 +572,6 @@ dolwe.me
 ||pay.naver89.com
 ||pay.naver00.com/sub1.php
 ||pay.naver00.com^
-||pay.cofe64.com/favicon.ico
 ||pay.cofe64.com^
 ||pay.naver.page446.com^
 ||pay.naver.cofe92.com^
@@ -626,18 +622,13 @@ dolwe.me
 ||172.247.116.59^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.76/relations
-||fdxhdy.bu.to/favicon.ico
 ||fdxhdy.bu.to^
-||qdyidy.0pe.kr/favicon.ico
 ||qdyidy.0pe.kr^
-||agqnba.0pe.kr/favicon.ico
 ||agqnba.0pe.kr^
 ||sjdojelq.0pe.kr^
-||viffk.0pe.kr/favicon.ico
 ||viffk.0pe.kr^
 ||fdxidyfk.0pe.kr/login.asp
 ||fdxidyfk.0pe.kr^
-||tqlvqahm.0pe.kr/favicon.ico
 ||tqlvqahm.0pe.kr^
 ||peter0323.com^
 ||pss7327.com^
@@ -645,53 +636,36 @@ dolwe.me
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
 ||hypark7812.0pe.kr/login.asp
 ||hypark7812.0pe.kr^
-||free10043x.0pe.kr/favicon.ico
 ||free10043x.0pe.kr^
 ||janetmiaa.0pe.kr^
-||ok145050x.0pe.kr/favicon.ico
 ||ok145050x.0pe.kr^
 ||liebejyko.0pe.kr/login.asp
 ||liebejyko.0pe.kr^
-||jungsun457.0pe.kr/favicon.ico
 ||jungsun457.0pe.kr^
 ||hakibbang.0pe.kr/login.asp
 ||hakibbang.0pe.kr^
 ||evan0909.0pe.kr/login.asp
 ||evan0909.0pe.kr^
-||navertv1024.bu.to/favicon.ico
 ||navertv1024.bu.to^
-||anamhnyun.0pe.kr/favicon.ico
 ||anamhnyun.0pe.kr^
-||hyoree3548.0pe.kr/favicon.ico
 ||hyoree3548.0pe.kr^
 ||mino8969x.0pe.kr/login.asp
-||mino8969x.0pe.kr/favicon.ico
 ||mino8969x.0pe.kr^
 ||olive3377x.0pe.kr/login.asp
 ||olive3377x.0pe.kr^
-||sm12241004sm.0pe.kr/favicon.ico
 ||sm12241004sm.0pe.kr^
-||naver567890.0pe.kr/favicon.ico
 ||naver567890.0pe.kr^
-||lovelove00x.0pe.kr/favicon.ico
 ||lovelove00x.0pe.kr^
-||plus300kr.0pe.kr/favicon.ico
 ||plus300kr.0pe.kr^
 ||creep0515.com^
-||mungjoo76.0pe.kr/favicon.ico
 ||mungjoo76.0pe.kr^
-||koonabin.0pe.kr/favicon.ico
 ||koonabin.0pe.kr^
-||sky456789.0pe.kr/favicon.ico
 ||sky456789.0pe.kr^
 ||eunbi1130.0pe.kr/login.asp
 ||eunbi1130.0pe.kr/public/js/index.js
 ||eunbi1130.0pe.kr^
-||doojumc.0pe.kr/favicon.ico
 ||doojumc.0pe.kr^
-||anam8566x.0pe.kr/favicon.ico
 ||anam8566x.0pe.kr^
-||hiincheol.0pe.kr/favicon.ico
 ||hiincheol.0pe.kr^
 ||goo.gl/PNcrzw
 ||vtnytovtllexlwd.dothome.co.kr^
@@ -789,7 +763,6 @@ dolwe.me
 ||user-manage-center.hol.es/cfr/?m=login&token_help=cmtuYWtl
 ||user-manage-center.hol.es/login/reading.php?uid=53gipark_plk
 ||user-manage-center.hol.es/login/?m=viewChangePasswd&menu=security&token_help=NTNnaXBhcms=
-||user-manage-center.hol.es/favicon.ico
 ||user-manage-center.hol.es/185.224.137.164
 ||user-manage-center.hol.es^
 ||profimunkavedelmis.hu/~ferenczi/errys/GD/index.php
