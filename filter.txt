@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.17.02
+! Version: 2019.10.17.03
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -523,6 +523,7 @@ dolwe.me
 ||urlzs.com/3okAx?uymjop
 ||ilogen.top^
 ||bit.ly/2lX1qjF
+||naver.com-securitychange.pw^
 !
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
 ||f31uy5.tumblr.com/?wtrcj^
@@ -532,16 +533,19 @@ dolwe.me
 ||qw-xb.top^
 ||qw-xm.top^
 ||qw-xa.top^
+||23.234.51.239^
 !
 ! https://www.virustotal.com/gui/ip-address/36.230.207.22/relations
 ||aa.cjlogisdm.cn^
 ||bb.cjlogisdm.cn^
 ||cjlogisdm.cn^
+||36.230.207.22^
 !
 ! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
 ||pay.naver.ipage601.com^
 ||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
 ||pay.naver.ipage503.com^
+||47.74.45.124^
 !
 ! https://www.virustotal.com/gui/ip-address/47.74.49.51/relations
 ||pay.naver.page653.com^
@@ -589,6 +593,7 @@ dolwe.me
 ||wivjl9.fndik.xyz^
 ||woujc1.yisre.xyz^
 ||gpadb6.yisre.xyz^
+||114.42.12.246^
 !
 ! https://www.virustotal.com/gui/ip-address/139.180.141.39/relations
 ||nids.nhn-login.com/nidlogin.login
@@ -632,6 +637,7 @@ dolwe.me
 ||tqlvqahm.0pe.kr^
 ||peter0323.com^
 ||pss7327.com^
+||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
 ||hypark7812.0pe.kr/login.asp
@@ -755,6 +761,37 @@ dolwe.me
 ! https://www.virustotal.com/gui/ip-address/185.224.137.164/relations
 ||c-naver.com/sidebar.asp?bn=0&qy=
 ||c-naver.com^
+||rrnaver.com^
+||daum-center.net^
+||udaum.net^
+||kakao-check.esy.es^
+||daum-mail-team.pe.hu^
+||daum-user2.pe.hu^
+||nhhp.xyz^
+||daum-user2-help.pe.hu^
+||daum-user.pe.hu^
+||acount-google-team.hol.es^
+||nid-user-center.pe.hu^
+||nid-protect-team.pe.hu^
+||user-protect-center.pe.hu^
+||naver-safe-domain.pe.hu^
+||nid-member-team.pe.hu^
+||daum-user-center.pe.hu^
+||daum-notice.esy.es^
+||narve-acunt.esy.es^
+||cs-net-daum.esy.es^
+||daum-user-center.esy.es^
+||icloud.accountsignin.eu^
+||accountsignin.eu^
+||daum-member-settings.esy.es^
+||csdaum-help.esy.es^
+||daum-master-center.pe.hu^
+||googletabsnew.org^
+||instagrambegen.net^
+||amazoncustomer-login-account.castomerdata.xyz^
+||awsrm.us^
+||loginmicrosoftsupport.online^
+||online-secureaccount.tk^
 ||member-center.pe.hu/account/^
 ||member-center.pe.hu/account/?m=viewChangePasswd&menu=security&token_help=YW5nZWwMMdawag==
 ||member-center.pe.hu^
@@ -770,6 +807,7 @@ dolwe.me
 ||profimunkavedelmis.hu^
 ||web-master-center.16mb.com/hallym/?m=login&token_help=c3dlZQ==
 ||manager-daum-help.hol.es/MyAccount/?m=viewChangePasswd&menu=security&token_help=d3N4ZHJmdg==
+||manager-daum-help.hol.es^
 ||nid-management-team.890m.com/naver/js/
 ||nid-management-team.890m.com^
 ||hostrele.fr/frparis/frparis/6772d3dc8e9cb3581e7a9ccc09a78905
@@ -822,6 +860,32 @@ dolwe.me
 ||ponsashop.com^
 ||hash-nice.com^
 ||185.224.137.164^
+!
+! https://www.virustotal.com/gui/ip-address/192.203.145.170/relations
+||www.nid.naver.com.se^
+||nid.naver.com.se^
+||www.nid.usernaver.com^
+||nid.usernaver.com^
+||naver.com.ec^
+||m-naver.com^
+||googleapis.com.se^
+||gloole.net^
+||clients6.gloole.net^
+||plus.gloole.net^
+||sslgstatic.gloole.net^
+||gsuite.gloole.net^
+||www.gloole.net^
+||plusgoogleapis.gloole.net^
+||domains.gloole.net^
+||wwwgoogleapis.gloole.net^
+||contentgoogleapis.gloole.net^
+||accounts.gloole.net^
+||play.gloole.net^
+||apis.gloole.net^
+||gapis.com.co^
+||accounts.gapis.com.co^
+||myaccount.gapis.com.co^
+||192.203.145.170^
 !
 
 ! Pornography
