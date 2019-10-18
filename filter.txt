@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.18.00
+! Version: 2019.10.18.01
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -448,6 +448,34 @@ dolwe.me
 ||tilesoutlet.com.au/fd/update/index.php
 ||27.102.70.196/1.dat
 ||92.38.135.67/2.dat
+!
+! https://blog.alyac.co.kr/2563
+||cdn2.onedrive-sd.com/?Jym6qDao5U02JRkuoGxAqYU-sick@daejindmp.co.kr-e8S8vIv06UwW7eXo76sTuN0
+||windows-afx-update.com/f1611
+||windows-afx-update.com/core/1
+||windows-afx-update.com/core/2
+||windows-afx-update.com/core
+||windows-afx-update.com^
+||185.212.128.146^
+||cdn1.onedrive-sd.com^
+||cdn2.onedrive-sd.com^
+||cdn3.onedrive-sd.com^
+||onedrive-sd.com^
+||38.135.122.153^
+||dropbox-en.com^
+||onedrive-download.com^
+||onedrive-download-en.com^
+||windows-en-us-update.com^
+||office365-eu-update.com^
+||onedrive-en.com^
+||office365-us-update.com^
+||windows-fsd-update.com^
+||dropbox-download.com^
+||windows-msd-update.com^
+||onedrive-cdn.com^
+||googledrive-en.com^
+||windows-cnd-update.com^
+||windows-update-02-en.com^
 !
 ! https://www.virustotal.com/gui/file/cbe9ebb2c709d36bea7ea127fff9cf12eceff247f750d21df34c6e4dc67383a7/detection
 ||clarisse-guillochon.fr/%EB%B6%81%ED%95%9C-%ED%8F%B0%ED%8A%B8-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C
