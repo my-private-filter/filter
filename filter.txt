@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.18.01
+! Version: 2019.10.21.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -386,6 +386,7 @@ dolwe.me
 ||11k.online/Ad/constants/9n0wkj6hpz86.json
 ||superdomain711.info/m074z9o9Lqi.FRk^
 ||morgem.ru/test/get.php?pid=[machine_id^
+||bonzi.link^
 !
 ! Alyac Blog 20190603 ~ 20190725
 ||jejuseongahn.org/hboard4/data/file/AccountChooser/confirm
@@ -949,7 +950,9 @@ cafe.naver.com###plugFloatingBannerDiv
 
 ! Bad Ad
 ! ani24zo.com, ani24go.com, ani24show.com, ani24yoi.com, ani24ski.com
+||i0.wp.com/files2.goodcdnnetwork.com/img/ad1436x100.gif
 ||disqus.com/embed/comments/?base=default&f=ani24^
+ani24zo.com##a.main_ad:nth-of-type(1)
 ani24zo.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24zo.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24zo.com##div:nth-of-type(1) > [href^="/ads.php"]
@@ -960,6 +963,7 @@ ani24zo.com###dsq-app5299
 ani24zo.com##.view_info_comment_box
 ani24zo.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
 ani24zo.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-child
+ani24go.com##a.main_ad:nth-of-type(1)
 ani24go.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24go.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24go.com##div:nth-of-type(1) > [href^="/ads.php"]
@@ -970,8 +974,10 @@ ani24go.com###dsq-app5299
 ani24go.com##.view_info_comment_box
 ani24go.com##div.view_box:nth-child(13) > div.view_box_left:nth-child(2) > div.view_info_comment_box:nth-child(4)
 ani24go.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-child
+ani24ski.com##a.main_ad:nth-of-type(1)
 ani24ski.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24ski.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
+ani24yoi.com##a.main_ad:nth-of-type(1)
 ani24yoi.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24yoi.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24yoi.com##div:nth-of-type(1) > [href^="/ads.php"]
@@ -987,6 +993,7 @@ ani24yoi.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:first-ch
 ||files2.goodcdnnetwork.com/img/ad3_160x600_2.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad3_300x600.gif$domain=ani24yoi.com
 ||files2.goodcdnnetwork.com/img/ad*_*.gif$domain=ani24yoi.com
+ani24show.com##a.main_ad:nth-of-type(1)
 ani24show.com##a[href^="/ads.php"]:nth-of-type(2)
 ani24show.com##div.wrap:nth-child(12) > div.main_ani_list:last-child > a:nth-child(2)
 ani24show.com##div:nth-of-type(1) > [href^="/ads.php"]
