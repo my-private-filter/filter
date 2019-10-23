@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.21.00
+! Version: 2019.10.23.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -477,6 +477,9 @@ dolwe.me
 ||googledrive-en.com^
 ||windows-cnd-update.com^
 ||windows-update-02-en.com^
+! https://blog.alyac.co.kr/2572
+||windows-service-en.com/f2121
+||windows-service-en.com^
 !
 ! https://www.virustotal.com/gui/file/cbe9ebb2c709d36bea7ea127fff9cf12eceff247f750d21df34c6e4dc67383a7/detection
 ||clarisse-guillochon.fr/%EB%B6%81%ED%95%9C-%ED%8F%B0%ED%8A%B8-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C
@@ -669,6 +672,18 @@ dolwe.me
 ||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||ifakfahneexrepwducvxkedajayscytafwwqjxiovmvoqdxvsc.ddv500.xyz^
+||nlgqlgnskkdwkvcjzibdqkjgpaytdytafxexqepvdtcvxkedaj.ddv500.xyz^
+||ayscytafwwqjxiovtcvxkeczipnisnovarrlerdjqhpikxrqnw.ddv500.xyz^
+||nlfplgnsjjdwkvbizibdqkifpqoisnjvarrlesdjqhqjlysqnx.ddv500.xyz^
+||trlwrmtyqqjcqbhpfohjwqpmvxvpavqxgyxrkyjpwnwpreywtd.ddv500.xyz^
+||vtnytovasrlesdjqhqjlysruecavfavcizzsreqwducvxkfdaj.ddv500.xyz^
+||ywqbwrydvuohvgmtktmobvurayvqavrxduunhufmtkslgtnmjs.ddv500.xyz^
+||vtnytovasslesdjrhqqsfzyvemkeokfmriicvjuahyhacpjheo.ddv500.xyz^
+||nlgqlgnskkdwkvcjzibdqkjgpigakgbinfeyrfqwdudwylfeak.ddv500.xyz^
+||wuoytgnskkdwkvbjzibdqkjgpvkeokfmriicvjuahyhacpjheo.ddv500.xyz^
+||ddv500.xyz^
+||t.naver.ddv500.xyz^
 ||hypark7812.0pe.kr/login.asp
 ||hypark7812.0pe.kr^
 ||free10043x.0pe.kr^
@@ -788,9 +803,11 @@ dolwe.me
 ||m.site.naver.com/0ayuX
 !
 ! https://www.virustotal.com/gui/ip-address/185.224.137.164/relations
+||nid-master-team.890m.com^
+||rrnaver.com^
+||member-manage-team.hol.es^
 ||c-naver.com/sidebar.asp?bn=0&qy=
 ||c-naver.com^
-||rrnaver.com^
 ||daum-center.net^
 ||udaum.net^
 ||kakao-check.esy.es^
@@ -893,8 +910,10 @@ dolwe.me
 ! https://www.virustotal.com/gui/ip-address/192.203.145.170/relations
 ||www.nid.naver.com.se^
 ||nid.naver.com.se^
+||naver.com.se^
 ||www.nid.usernaver.com^
 ||nid.usernaver.com^
+||usernaver.com^
 ||naver.com.ec^
 ||m-naver.com^
 ||googleapis.com.se^
@@ -1327,44 +1346,45 @@ mangashow*.me##.banner
 ||funbe*.com/bann/*.gif
 ||funbe*.com/bann/*.png
 ||funbe*.com/bann/*.jpg
-! hodu05.net, hoduco.net, hodu81.com, soo.gd/comics
-||hodu05.net/img/banner/*.gif^
-||hodu05.net/img/banner/*.jpg^
-||hodu05.net/img/banner/*.png^
-||hodu05.net/upload/banner/*.gif^
-||hodu05.net/upload/banner/*.png^
-||hodu05.net/upload/banner/*.jpg^
-||hodu05.net/text_click.php?link=3^
-||hodu05.net/text_click.php?link=4^
-hodu05.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
-hodu05.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu05.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu05.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu05.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu05.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu05.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu05.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu05.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu05.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu05.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu05.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu05.net##div.c_img > [href^="/banner_click.php"]
-hodu05.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu05.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu05.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu05.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu05.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu05.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu05.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu05.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu05.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu05.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu05.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu05.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu05.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu05.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu05.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu05.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+! hodu06.net, hoduco.net, hodu81.com, soo.gd/comics
+||hodu06.net/img/banner/*.gif^
+||hodu06.net/img/banner/*.jpg^
+||hodu06.net/img/banner/*.png^
+||hodu06.net/upload/banner/*.gif^
+||hodu06.net/upload/banner/*.png^
+||hodu06.net/upload/banner/*.jpg^
+||hodu06.net/text_click.php?link=3^
+||hodu06.net/text_click.php?link=4^
+hodu06.net##[src="//uchat.ch/hoduhodu"]
+hodu06.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu06.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu06.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu06.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu06.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu06.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu06.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu06.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu06.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu06.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu06.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu06.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu06.net##div.c_img > [href^="/banner_click.php"]
+hodu06.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu06.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu06.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu06.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu06.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu06.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu06.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu06.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu06.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu06.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu06.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu06.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu06.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu06.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu06.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu06.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu*.net/img/banner/*.gif^
 ||hodu*.net/img/banner/*.jpg^
 ||hodu*.net/img/banner/*.png^
@@ -1373,6 +1393,7 @@ hodu05.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu*.net/upload/banner/*.jpg^
 ||hodu*.net/text_click.php?link=3^
 ||hodu*.net/text_click.php?link=4^
+hodu*.net##[src="//uchat.ch/hoduhodu"]
 hodu*.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
 hodu*.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
 hodu*.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
@@ -1410,6 +1431,7 @@ hodu*.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hoduco.net/upload/banner/*.jpg^
 ||hoduco.net/text_click.php?link=3^
 ||hoduco.net/text_click.php?link=4^
+hodu.net##[src="//uchat.ch/hoduhodu"]
 hoduco.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
 hoduco.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
 hoduco.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
