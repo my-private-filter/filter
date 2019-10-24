@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.23.00
+! Version: 2019.10.24.00
 ! Expires: 1 days (update frequency)
 
 ! Exception
@@ -1265,39 +1265,39 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 
 ! Bad Ad (2)
-! manamoa16.net, manamoa.net, mangashow5.me, https://188.214.128.5
-manamoa16.net##.ad-banner-widget, .main-banner
-manamoa16.net##.ad-banner-widget, .fit-banner
-manamoa16.net##.ad-banner-widget, .ad-mobile-fit
-manamoa16.net##.ad-banner-widget
-manamoa16.net##.banner
-manamoa16.net##.at-content > p
-manamoa16.net##.fit-banner.ad-banner-widget
-manamoa16.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-manamoa16.net##div.main-banner.ad-banner-widget:nth-of-type(2)
-manamoa16.net##div.main-banner.ad-banner-widget:nth-of-type(3)
-manamoa16.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
-manamoa16.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
-manamoa16.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
-manamoa16.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
-manamoa16.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
-manamoa16.net##.at-main.at-col.col-md-9 > p
-manamoa*.net##.ad-banner-widget, .main-banner
-manamoa*.net##.ad-banner-widget, .fit-banner
-manamoa*.net##.ad-banner-widget, .ad-mobile-fit
-manamoa*.net##.ad-banner-widget
-manamoa*.net##.banner
-manamoa*.net##.at-content > p
-manamoa*.net##.fit-banner.ad-banner-widget
-manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(2)
-manamoa*.net##div.main-banner.ad-banner-widget:nth-of-type(3)
-manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
-manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
-manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
-manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
-manamoa*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
-manamoa*.net##.at-main.at-col.col-md-9 > p
+! manamoa17.net, manamoa.net, mangashow5.me, https://188.214.128.5
+manamoa17.net##.ad-banner-widget, .main-banner
+manamoa17.net##.ad-banner-widget, .fit-banner
+manamoa17.net##.ad-banner-widget, .ad-mobile-fit
+manamoa17.net##.ad-banner-widget
+manamoa17.net##.banner
+manamoa17.net##.at-content > p
+manamoa17.net##.fit-banner.ad-banner-widget
+manamoa17.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa17.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa17.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa17.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa17.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa17.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa17.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa17.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa17.net##.at-main.at-col.col-md-9 > p
+manamoa1*.net##.ad-banner-widget, .main-banner
+manamoa1*.net##.ad-banner-widget, .fit-banner
+manamoa1*.net##.ad-banner-widget, .ad-mobile-fit
+manamoa1*.net##.ad-banner-widget
+manamoa1*.net##.banner
+manamoa1*.net##.at-content > p
+manamoa1*.net##.fit-banner.ad-banner-widget
+manamoa1*.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa1*.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa1*.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa1*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa1*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa1*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa1*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa1*.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa1*.net##.at-main.at-col.col-md-9 > p
 manamoa.net##.ad-banner-widget, .main-banner
 manamoa.net##.ad-banner-widget, .fit-banner
 manamoa.net##.ad-banner-widget, .ad-mobile-fit
@@ -1314,6 +1314,9 @@ manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
 manamoa.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
 manamoa.net##.at-main.at-col.col-md-9 > p
+||img.ironmancdn.xyz/upload/11663a312f4418d921579f60af20d296.gif
+||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png
+||img.ironmancdn.xyz/upload/d76f47e2c52d038d0a51c8d9a15eb7e7.gif
 ||i63.tinypic.com/5x510h.gif
 ||i63.tinypic.com/1zmgmtx.gif
 ||i65.tinypic.com/122c9av.gif
