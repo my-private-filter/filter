@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.25.02
+! Version: 2019.10.25.03
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -705,6 +705,7 @@ dolwe.me
 ||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||jhblgcjoffzsfrxevdwylfebkomgqlhotkkexkwcjajceqljgp.ddv500.xyz^
 ||mkeokfmrjicvjuahyhacpjietaysdytafxwqjxiovmvoqdxwtc.ddv500.xyz^
 ||ljdojelqiibuitgnengivpoludbvfbwdizztmalrypyrtgayvf.ddv500.xyz^
 ||xvpzuqxcttnguflsjslnauspypnisnipvmmfzmxelckdfsmlir.ddv500.xyz^
@@ -784,6 +785,9 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0u9vJ
+||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/khc3-1-23-3-mhdkpggatgryfwexzmgfcl.html
+||zxrbwszeccwpdoubsbuwjdbyh.tistory.com^
 ||m.site.naver.com/0u9th
 ||bereyong.tistory.com/entry/fcxhcyek
 ||bereyong.tistory.com^
