@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.25.03
+! Version: 2019.10.25.04
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -705,6 +705,8 @@ dolwe.me
 ||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||xupzuqwcttmgtelsjrkmztspyqoitojqvnngznyemclegtnmjs.ddv500.xyz^
+||trlvqmtyppjcpbhofngivpoluvtoytovbsslfsdkrhqjlysrox.ddv500.xyz^
 ||jhblgcjoffzsfrxevdwylfebkomgqlhotkkexkwcjajceqljgp.ddv500.xyz^
 ||mkeokfmrjicvjuahyhacpjietaysdytafxwqjxiovmvoqdxwtc.ddv500.xyz^
 ||ljdojelqiibuitgnengivpoludbvfbwdizztmalrypyrtgayvf.ddv500.xyz^
@@ -785,6 +787,9 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0u9Ag
+||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/2wf_______fd-s-32-efs-________wsef23rdf.html
+||zxrbwszeccwpdoubsbuwjdbyh.tistory.com^
 ||m.site.naver.com/0u9vJ
 ||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/khc3-1-23-3-mhdkpggatgryfwexzmgfcl.html
 ||zxrbwszeccwpdoubsbuwjdbyh.tistory.com^
@@ -1006,6 +1011,7 @@ dolwe.me
 ||syfg.0pe.kr^
 ||nj191.0pe.kr^
 ||woohuije100408220807.0pe.kr^
+||202.182.109.83^
 !
 
 ! Pornography
