@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.25.00
+! Version: 2019.10.25.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -687,8 +687,13 @@ dolwe.me
 ||172.247.116.59^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.76/relations
+||xn--xb65efgoihqoan32dqwdqraxgb-pf6dta35pn953p.werbaboi.xyz^
+||xn--xb65e9567n32dqwdqraxgb-pf6dta35pn953p.werbaboi.xyz^
+||xn--xb65e9567n32raxgb-pf6dta35pn953p.werbaboi.xyz^
+||xn--0pdhoa84baaga5a5cxb65e9567n32raxgb.werbaboi.xyz^
 ||fdxhdy.bu.to^
 ||qdyidy.0pe.kr^
+||viffk.0pe.kr^
 ||agqnba.0pe.kr^
 ||sjdojelq.0pe.kr^
 ||viffk.0pe.kr^
@@ -764,6 +769,10 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0u9th
+||bereyong.tistory.com/entry/fcxhcyek
+||bereyong.tistory.com^
+||m.site.naver.com/0u9lA
 ||m.site.naver.com/0u1Ha
 ||blog-imgs-131.fc2.com/5/1/e/51equwaswwe/fdxhcyfkbbvobntar.html
 ||nlfplgnsjjdwkvbizibdqkifp.tistory.com^
@@ -962,6 +971,22 @@ dolwe.me
 ||accounts.gapis.com.co^
 ||myaccount.gapis.com.co^
 ||192.203.145.170^
+!
+! https://www.virustotal.com/gui/ip-address/202.182.109.83/relations
+||xn--939au0gp6l9of.bu.to^
+||lllll.0pe.kr^
+||woohuije0807.0pe.kr^
+||xn--vh3bn4gpl71o.bu.to^
+||xn--z92bt1i0qbp2g.bu.to^
+||dngmlwp0807.0pe.kr^
+||xn--vg1b002a54d08m.bu.to^
+||xn--z92b13l1qe0xn.bu.to^
+||asronajivc.bu.to^
+||psqggoacrm.bu.to^
+||joyenjoy8282.0pe.kr^
+||syfg.0pe.kr^
+||nj191.0pe.kr^
+||woohuije100408220807.0pe.kr^
 !
 
 ! Pornography
