@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.26.03
+! Version: 2019.10.28.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -601,6 +601,33 @@ dolwe.me
 ||cjlogisdm.cn^
 ||36.230.207.22^
 !
+! https://www.virustotal.com/gui/ip-address/45.135.223.3/relations
+||igalgbinfeyrfqwdpyrtgayveomgqmhotkkexlwcjajcvicbyh.ddv500.xyz^
+||wuoytpwbssmftekrirkmztolusqkuplsxooibpagnxgzboigdn.ddv500.xyz^
+||igblgbioffysfqxeudwylfebkkhcmhdjpggztgryfwexzmgfcl.ddv500.xyz^
+||qojtojqwnnganyfmdlegtnmjsvsnxsovarrlercovmvoqdxvsb.ddv500.xyz^
+||ljeojelqiibuitahxgzxkedajzxrbxszevvpiwhnulunpcwurb.ddv500.xyz^
+||igalgbpummfymxdlbkdfsmlirkhcmhcjpggztgryfwexzmgfcl.ddv500.xyz^
+||usmxsnuzrqkdrcipgpikxrqnwwuoytpwbssmfsekriregtnmjs.ddv500.xyz^
+||vtnytovasrlesdjxoxqsfzxueqoisojqvnmgzsdjrhqjlysrox.ddv500.xyz^
+||ljdojelqiibuitzhxgzboiheurpjupkrdvuohvgmtktmobvuqa.ddv500.xyz^
+||davfawdizztmzkrypxqsfzyvegeynjelqhhbuitzgxgzboigdn.ddv500.xyz^
+||hfzjfahmddxqepvctcvxkeczjnlfqlgnskkdwkvbjzibdqkjgp.ddv500.xyz^
+||fdxhdyfkbbvocntaratvicaxhzxrcxszewvpiwhnulunpcwvsb.ddv500.xyz^
+||caueavchyyslzkqxoxqsfzxueomgrmhotllexlwcevexzmgebl.ddv500.xyz^
+||usmwxszewvpiwhnulunpcwvrbvtnxsovarrlerdjqhqilxsqnw.ddv500.xyz^
+||trlwrmtyqpjcqbhofohjwqpmvsqkuplsxooiboagnemfhuonkt.ddv500.xyz^
+||yvqavrydnnhanzfmdlegtnmjshfzjeahmddxqdpvctyrtgazwf.ddv500.xyz^
+||mkepkfmrjjcvjuaiyhacwqpmvbztezubgyxrkyjpwnwwylfeak.ddv500.xyz^
+||mkepkfmrjjcvjuaiyhacpjifofcxhcxekbbuobmahxgzboihen.ddv500.xyz^
+||nkfpkgmsjjcwjubizhacpjifoomgqlhotkkexkwcjaibdqkjgp.ddv500.xyz^
+||igalgbinffyrfqweudwylfebkywqawryduuohvgmtktmobvtqa.ddv500.xyz^
+||wupzupwbttmftelsirkmztspyzxrbxszewvpiwhnulunpcwvrb.ddv500.xyz^
+||nlfplgnsjjdwkcipgpikxrpmvywqbwrydvuohvgmtktmobvura.ddv500.xyz^
+||vtnytovasslesdjrhqjlysroxsqkuplsxooibpagnengivpnkt.ddv500.xyz^
+||xvpavqxcuunguflsjslnautqzmkeokfmrjicvjuahyhajwqolv.ddv500.xyz^
+||45.135.223.3^
+!
 ! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
 ||pay.naver.ipage601.com^
 ||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
@@ -707,6 +734,10 @@ dolwe.me
 ||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
+||wmhrmipullfylwdkbjcerlkhqifakfbhneexrepwducvqdxwtc.ddv500.xyz^
+||jhblhcjogfzsgrxevexzmgfblvtnytovasslesdjrhqqsfzyve.ddv500.xyz^
+||sqkuqlzevvpiwhnulunpcwuxgkhctojqwnnganyfmclelysrox.ddv500.xyz^
+||vtnytovasslesdjrhqjlysroxsqkuplsxooibpagnengivpnkt.ddv500.xyz^
 ||xvpzuqxcttngtflsjrkmztspynlgqlgntkkdxkvcjzibdqkjgp.ddv500.xyz^
 ||xupzuqwcttmgtelsjrkmztspyqoitojqvnngznyemclegtnmjs.ddv500.xyz^
 ||trlvqmtyppjcpbhofngivpoluvtoytovbsslfsdkrhqjlysrox.ddv500.xyz^
@@ -790,6 +821,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0ua2i
+||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/pmhrm3ioull3eylwkr1hqjlysro2x.html
 ||m.site.naver.com/0u9Ds
 ||winnyiee.tistory.com/entry/rfzjeahm
 ||winnyiee.tistory.com^
@@ -873,6 +906,7 @@ dolwe.me
 ||m.site.naver.com/0ayuX
 !
 ! https://www.virustotal.com/gui/ip-address/185.224.137.164/relations
+||mail-korea.pe.hu^
 ||nid-master-team.890m.com^
 ||rrnaver.com^
 ||member-manage-team.hol.es^
