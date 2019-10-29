@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.28.00
+! Version: 2019.10.29.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -602,6 +602,12 @@ dolwe.me
 ||36.230.207.22^
 !
 ! https://www.virustotal.com/gui/ip-address/45.135.223.3/relations
+||ljdojelqihbuitzgxgzboihenaysdytafxxqjxiowmvoqdxwtc.ddv500.xyz^
+||xupzuqwcttmgtelsjrkmztspyusmxsnuzrqkdrcipgpikxrqnw.ddv500.xyz^
+||hfzjfahmdatmalrzpyrtgazwfsqlvqlsyppbvitahygzboihen.ddv500.xyz^
+||zwrbwryevvoivgnultmvicbyhdbvfbwdizztmalrypyrtgaycl.ddv500.xyz^
+||nlfpkgnsjjdwkvcjajcerlkgqywrbwryevvoivgnuktmobvura.ddv500.xyz^
+||sqkuplsxooiboagnemfhuonktqoisnjqvmmgzmyelcexzmgebk.ddv500.xyz^
 ||igalgbinfeyrfqwdpyrtgayveomgqmhotkkexlwcjajcvicbyh.ddv500.xyz^
 ||wuoytpwbssmftekrirkmztolusqkuplsxooibpagnxgzboigdn.ddv500.xyz^
 ||igblgbioffysfqxeudwylfebkkhcmhdjpggztgryfwexzmgfcl.ddv500.xyz^
@@ -821,6 +827,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0ucx0
+||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/vs112nxsnuarkexkvcj3aibdqkjgp.html
 ||m.site.naver.com/0ua2i
 ||blog-imgs-129.fc2.com/i/g/a/igalgubgyyrkyjpxnwpr/pmhrm3ioull3eylwkr1hqjlysro2x.html
 ||m.site.naver.com/0u9Ds
