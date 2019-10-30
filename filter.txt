@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.30.02
+! Version: 2019.10.30.03
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -847,6 +847,7 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Phishing - m.site.naver.com
+||m.site.naver.com/0ue6r
 ||m.site.naver.com/0ue3F
 ||3daisy.tistory.com/entry/gewgq4556ljdojelu
 ||3daisy.tistory.com^
