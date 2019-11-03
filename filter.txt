@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.10.31.00
+! Version: 2019.11.03.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -595,6 +595,14 @@ dolwe.me
 ||qw-xa.top^
 ||23.234.51.239^
 !
+! https://www.virustotal.com/gui/ip-address/27.255.80.219/relations
+||pay.naver.pagesav.com/joonggonara/?pd=20190828155905382216
+||pay.naver.vpdjeujnv.com/joonggonara/m_login.php?pd=20191022015006541540
+||pay.naver.vpdjeujnv.com^
+||naver.pay.pagesav.com^
+||27.255.80.219/android.apk
+||27.255.80.219^
+!
 ! https://www.virustotal.com/gui/ip-address/36.230.207.22/relations
 ||aa.cjlogisdm.cn^
 ||bb.cjlogisdm.cn^
@@ -602,65 +610,26 @@ dolwe.me
 ||36.230.207.22^
 !
 ! https://www.virustotal.com/gui/ip-address/45.135.223.2/relations
-||rpjupkydpnhrnipu.werbaboi.xyz^
-||ljdnjelxkicupkrw.werbaboi.xyz^
+||xn--hq1bo4ed36a.werbaboi.xyz^
+||xn--hu5b25bg3j.werbaboi.xyz^
 ||xn--2r5b1f.werbaboi.xyz^
 ||xn--wr3b04h23r.werbaboi.xyz^
+||xn--aqlvqmty-3b5arb.werbaboi.xyz^
 ||kangnam.werbaboi.xyz^
 ||pandoratv.werbaboi.xyz^
+||werbaboi.xyz^
 ||232.w-ang.xin^
 ||45.135.223.2^
 !
 ! https://www.virustotal.com/gui/ip-address/45.135.223.3/relations
+||savor007.0pe.kr^
+||tv.naver.com.davfawdizztmzkrypxxzmgfcl.ddv500.xyz^
 ||tv.naver.com.omgqlho_tkkexlwcjajcerljgp.ddv500.xyz^
-||hfakfahneexrepwducvxkedajtrlvrmtyqpjcqbhofohjwqplv.ddv500.xyz^
-||ywrbwryevvoivgnuktmobvuraywqavryduuohvgmtktmobvtqz.ddv500.xyz^
-||ayscxtafwwqjxiovmvoqdxvsbomgqmhotkkexlwcjajcerljgq.ddv500.xyz^
-||zxrbxszevvwpdoubsbuwjdbyhomgqlhotkkexlwcjajcerljgw.ddv500.xyz^
-||jhcmhcjpggztgryfvexzmgfcltrlwrmtyqqjcqbowmvoqdxwtc.ddv500.xyz^
-||fdxhdyfkbbvocntaratvicaxhwuoyupwbssmftekrirkmztroy.ddv500.xyz^
-||ayscytafxwqjxiovmvoqdxvschfakfahneexrepwduvoqdxwtc.ddv500.xyz^
-||geyjezgldcwhugmtkslnautqzomhrmhoulleylwdkbjcerlkhq.ddv500.xyz^
-||mkfpkfmsjjcvjubiyhacpjifohezjezgmddwqdovctbuwjdczi.ddv500.xyz^
-||jhblhcjofmgznyelclegtnlirigakgbineeyrfqwdudwylfdak.ddv500.xyz^
-||jhblhcjoffzsgrxevexzmgeblusmxsnuzrrkdrciqgpikxrqnw.ddv500.xyz^
-||qojtojlqihbuitzgxgzboihenayscxtafwwqjxioqhpikxrqnw.ddv500.xyz^
-||ecwgcxejaaunbmszqzsuhbzwgljdnielqhhbuitzgxgzbuonkt.ddv500.xyz^
-||ljdojelqihbuitzgxgzboihenaysdytafxxqjxiowmvoqdxwtc.ddv500.xyz^
-||xupzuqwcttmgtelsjrkmztspyusmxsnuzrqkdrcipgpikxrqnw.ddv500.xyz^
-||hfzjfahmdatmalrzpyrtgazwfsqlvqlsyppbvitahygzboihen.ddv500.xyz^
-||zwrbwryevvoivgnultmvicbyhdbvfbwdizztmalrypyrtgaycl.ddv500.xyz^
-||nlfpkgnsjjdwkvcjajcerlkgqywrbwryevvoivgnuktmobvura.ddv500.xyz^
-||sqkuplsxooiboagnemfhuonktqoisnjqvmmgzmyelcexzmgebk.ddv500.xyz^
-||igalgbinfeyrfqwdpyrtgayveomgqmhotkkexlwcjajcvicbyh.ddv500.xyz^
-||wuoytpwbssmftekrirkmztolusqkuplsxooibpagnxgzboigdn.ddv500.xyz^
-||igblgbioffysfqxeudwylfebkkhcmhdjpggztgryfwexzmgfcl.ddv500.xyz^
-||qojtojqwnnganyfmdlegtnmjsvsnxsovarrlercovmvoqdxvsb.ddv500.xyz^
-||ljeojelqiibuitahxgzxkedajzxrbxszevvpiwhnulunpcwurb.ddv500.xyz^
-||igalgbpummfymxdlbkdfsmlirkhcmhcjpggztgryfwexzmgfcl.ddv500.xyz^
-||usmxsnuzrqkdrcipgpikxrqnwwuoytpwbssmfsekriregtnmjs.ddv500.xyz^
-||vtnytovasrlesdjxoxqsfzxueqoisojqvnmgzsdjrhqjlysrox.ddv500.xyz^
-||ljdojelqiibuitzhxgzboiheurpjupkrdvuohvgmtktmobvuqa.ddv500.xyz^
-||davfawdizztmzkrypxqsfzyvegeynjelqhhbuitzgxgzboigdn.ddv500.xyz^
-||hfzjfahmddxqepvctcvxkeczjnlfqlgnskkdwkvbjzibdqkjgp.ddv500.xyz^
-||fdxhdyfkbbvocntaratvicaxhzxrcxszewvpiwhnulunpcwvsb.ddv500.xyz^
-||caueavchyyslzkqxoxqsfzxueomgrmhotllexlwcevexzmgebl.ddv500.xyz^
-||usmwxszewvpiwhnulunpcwvrbvtnxsovarrlerdjqhqilxsqnw.ddv500.xyz^
-||trlwrmtyqpjcqbhofohjwqpmvsqkuplsxooiboagnemfhuonkt.ddv500.xyz^
-||yvqavrydnnhanzfmdlegtnmjshfzjeahmddxqdpvctyrtgazwf.ddv500.xyz^
-||mkepkfmrjjcvjuaiyhacwqpmvbztezubgyxrkyjpwnwwylfeak.ddv500.xyz^
-||mkepkfmrjjcvjuaiyhacpjifofcxhcxekbbuobmahxgzboihen.ddv500.xyz^
-||nkfpkgmsjjcwjubizhacpjifoomgqlhotkkexkwcjaibdqkjgp.ddv500.xyz^
-||igalgbinffyrfqweudwylfebkywqawryduuohvgmtktmobvtqa.ddv500.xyz^
-||wupzupwbttmftelsirkmztspyzxrbxszewvpiwhnulunpcwvrb.ddv500.xyz^
-||nlfplgnsjjdwkcipgpikxrpmvywqbwrydvuohvgmtktmobvura.ddv500.xyz^
-||vtnytovasslesdjrhqjlysroxsqkuplsxooibpagnengivpnkt.ddv500.xyz^
-||xvpavqxcuunguflsjslnautqzmkeokfmrjicvjuahyhajwqolv.ddv500.xyz^
+||ddv500.xyz^
 ||45.135.223.3^
 !
 ! https://www.virustotal.com/gui/ip-address/47.74.45.124/relations
 ||pay.naver.ipage601.com^
-||pay.naver.ipage503.com/pf/naverpay_dn/z_img/fav_naver.ico
 ||pay.naver.ipage503.com^
 ||47.74.45.124^
 !
@@ -749,7 +718,6 @@ dolwe.me
 ||xn--xb65e9567n32dqwdqraxgb-pf6dta35pn953p.werbaboi.xyz^
 ||xn--xb65e9567n32raxgb-pf6dta35pn953p.werbaboi.xyz^
 ||xn--0pdhoa84baaga5a5cxb65e9567n32raxgb.werbaboi.xyz^
-||werbaboi.xyz^
 ||fdxhdy.bu.to^
 ||qdyidy.0pe.kr^
 ||viffk.0pe.kr^
@@ -764,40 +732,6 @@ dolwe.me
 ||172.247.116.76^
 !
 ! https://www.virustotal.com/gui/ip-address/172.247.116.95/relations
-||wmhrmipullfylwdkbjcerlkhqifakfbhneexrepwducvqdxwtc.ddv500.xyz^
-||jhblhcjogfzsgrxevexzmgfblvtnytovasslesdjrhqqsfzyve.ddv500.xyz^
-||sqkuqlzevvpiwhnulunpcwuxgkhctojqwnnganyfmclelysrox.ddv500.xyz^
-||vtnytovasslesdjrhqjlysroxsqkuplsxooibpagnengivpnkt.ddv500.xyz^
-||xvpzuqxcttngtflsjrkmztspynlgqlgntkkdxkvcjzibdqkjgp.ddv500.xyz^
-||xupzuqwcttmgtelsjrkmztspyqoitojqvnngznyemclegtnmjs.ddv500.xyz^
-||trlvqmtyppjcpbhofngivpoluvtoytovbsslfsdkrhqjlysrox.ddv500.xyz^
-||jhblgcjoffzsfrxevdwylfebkomgqlhotkkexkwcjajceqljgp.ddv500.xyz^
-||mkeokfmrjicvjuahyhacpjietaysdytafxwqjxiovmvoqdxwtc.ddv500.xyz^
-||ljdojelqiibuitgnengivpoludbvfbwdizztmalrypyrtgayvf.ddv500.xyz^
-||xvpzuqxcttnguflsjslnauspypnisnipvmmfzmxelckdfsmlir.ddv500.xyz^
-||ljdnielqhhbuhtzgxfyanhgdmigakfbineeyreqwdudvykfdaj.ddv500.xyz^
-||kidnidkqhhauhiowmvoqdxwtcomgqmhotlkexlwcjajcerlkgq.ddv500.xyz^
-||cavfavcieeyreqwducvxkedajqoisnjqvmmgznyelclegtnlir.ddv500.xyz^
-||vtnytovasrlesdjqhqjlysroxywrbwrydvvohvgnuktmobvura.ddv500.xyz^
-||gezjezgmddwqdovcsbuwjdcziqoisojqvmmgznyelclxzmgfbl.ddv500.xyz^
-||davfawdizztmzkrypxqylfdajecwgbxejaaunbmszqzsuhbzwf.ddv500.xyz^
-||nlgqlggmddwqdovctbuwjdczidbvcxszewwpiwhnvlunpcwvsb.ddv500.xyz^
-||dbvfawdizztmzlrypxqsautqzlidnidkqhhauhszgratvicbyh.ddv500.xyz^
-||canytovasslesdjrhqjlysroxywqupkrwoohaozfndmfhuonkt.ddv500.xyz^
-||mkeokfmrjrlercjqhpikxrqnwtqlvqmsfwwpjwhovmunpcwvsb.ddv500.xyz^
-||xvqavqxcunganyfmclegtihendbvgbwdiaatmalrzktmobvtqa.ddv500.xyz^
-||tqlvqlsyppicptahygzboihenjhblgcjhyyslzkqxoqjerlkhq.ddv500.xyz^
-||ifakfahneexrepwducvxkedajayscytafwwqjxiovmvoqdxvsc.ddv500.xyz^
-||nlgqlgnskkdwkvcjzibdqkjgpaytdytafxexqepvdtcvxkedaj.ddv500.xyz^
-||ayscytafwwqjxiovtcvxkeczipnisnovarrlerdjqhpikxrqnw.ddv500.xyz^
-||nlfplgnsjjdwkvbizibdqkifpqoisnjvarrlesdjqhqjlysqnx.ddv500.xyz^
-||trlwrmtyqqjcqbhpfohjwqpmvxvpavqxgyxrkyjpwnwpreywtd.ddv500.xyz^
-||vtnytovasrlesdjqhqjlysruecavfavcizzsreqwducvxkfdaj.ddv500.xyz^
-||ywqbwrydvuohvgmtktmobvurayvqavrxduunhufmtkslgtnmjs.ddv500.xyz^
-||vtnytovasslesdjrhqqsfzyvemkeokfmriicvjuahyhacpjheo.ddv500.xyz^
-||nlgqlgnskkdwkvcjzibdqkjgpigakgbinfeyrfqwdudwylfeak.ddv500.xyz^
-||wuoytgnskkdwkvbjzibdqkjgpvkeokfmriicvjuahyhacpjheo.ddv500.xyz^
-||ddv500.xyz^
 ||t.naver.ddv500.xyz^
 ||hypark7812.0pe.kr/login.asp
 ||hypark7812.0pe.kr^
@@ -851,6 +785,15 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0uh1l
+||lena05150727.freevar.com^
+||kangsuok123.freeoda.com^
+||zxrbwszevvpbpagnengivpnku.tistory.com/entry/%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4
+||zxrbwszevvpbpagnengivpnku.tistory.com^
+||high0627.freeoda.com^
+||hoy.kr/n2ZZq
+||blog-imgs-131.fc2.com/1/3/w/13wmbwnh6j3s/igakfbineeyreqwduc.html
+||rpjupkrwouohvgmtktmobvuratrlvq.tistory.com/entry/%EC%98%A4%EB%9E%AB%EB%8F%99%EC%95%88-%EC%9C%A0%EC%A7%80%EB%90%98%EC%96%B4-%EC%99%94%EB%8D%98-%EA%B0%9C%EB%B3%84-%EC%B9%B4%ED%8E%98-%ED%99%88%EC%9D%98%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%82%B0%EB%9C%BB%ED%95%98%EA%B2%8C-%EB%B3%80%EA%B2%BD%ED%96%88%EC%96%B4%EC%9A%94
 ||bit.ly/2PGhGlA
 ||bit.ly/334A6R9
 ||m.site.naver.com/0ue6r
