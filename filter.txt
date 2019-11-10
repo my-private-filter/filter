@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.10.01
+! Version: 2019.11.10.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -804,6 +804,8 @@ dolwe.me
 ||bit.ly/34NG0q4
 ||geyiezglccwpdoubsbuw.0pe.kr^
 ||blog-imgs-133.fc2.com/u/1/r/u1rm2ulxmrpn/jh329blgcjoffzsfrxevdwylgebk.html
+||hoy.kr/apPIA
+||blog-imgs-133.fc2.com/u/1/r/u1rm2ulxmrpn/wu4ssmftekrirpreywtc.html
 ||hoy.kr/ZXxLf
 ||sinzang9.0pe.kr^
 ||blog-imgs-133.fc2.com/u/1/r/u1rm2ulxmrpn/kid3nid6kqhhauhszg6w.html
