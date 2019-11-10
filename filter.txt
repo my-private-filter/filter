@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.10.00
+! Version: 2019.11.10.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -28,11 +28,11 @@ section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_fr
 ! https://blog.naver.com/nzelbomb/221007445194
 ! https://dawnlog.net/10
 ! ||talkchannel-api.kakao.com$app=com.kakao.talk,important
-||tg.kakao.com^$app=com.kakao.talk,important
+! ||tg.kakao.com^$app=com.kakao.talk,important
 !
 ! KakaoTalk PC
 ! https://dawnlog.net/13
-||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
+! ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
 !
 
 ! Exception : WeMakePrice & Others
