@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.11.00
+! Version: 2019.11.13.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -585,6 +585,9 @@ dolwe.me
 ||bit.ly/2lX1qjF
 ||naver.com-securitychange.pw^
 !
+! https://www.virustotal.com/gui/ip-address/112.175.85.150/relations
+||210.117.121.212:80/tm/?a=CR&b=WIN&c=500000974602&d=32&e=2102&f=^
+!
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
 ||f31uy5.tumblr.com/?wtrcj^
 ||f31uy5.tumblr.com^
@@ -680,6 +683,8 @@ dolwe.me
 ||47.245.8.6^
 !
 ! https://www.virustotal.com/gui/ip-address/61.14.209.7/relations
+||rpjtokrwnnhaozfmdmfhuomjspnhrnipullfymxdkbkdfsmkhrhoopy1982.coo.kr^
+||cavfavcizzwpkvbizibdqrpmvczuezvchyyssfqnulunpcwvsb.coo.kr^
 ||wmhrmipullfylwdkbjcerlkhq.coo.kr^
 ||ss.hh.to^
 ||suhyun-emoticon4.coo.kr^
@@ -1081,6 +1086,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2pkfAgM
+||blog-imgs-133.fc2.com/u/1/r/u1rm2ulxmrpn/zxrbwszevvpiwhnulunpcwura.html
 ||bit.ly/2NBmoA0
 ||m.site.naver.com/0uotL
 ||1strate.tistory.com/entry/kicmidkpxvpavqxcxvpavqxcrpkupkrxfdxhcyfkchblgcjodavfawdibztkgbin
