@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.01
+! Version: 2019.11.22.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -60,6 +60,13 @@ ppomppu.co.kr##.bridge
 ||afupd1.afreecatv.com^
 vod.afreecatv.com##.chat_memoyo
 play.afreecatv.com##.chat_area
+!
+! AfreecaTV Mobile
+m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > a.app_view:last-child
+m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:last-child
+m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:first-child
+m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child
+!
 
 ! Forbidden
 ||ilbe.com^
