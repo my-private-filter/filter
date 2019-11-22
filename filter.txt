@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.02
+! Version: 2019.11.22.03
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -66,6 +66,8 @@ m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-c
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:last-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:first-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child
+m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child > span
+m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child
 !
 
 ! Forbidden
