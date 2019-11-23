@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.06
+! Version: 2019.11.22.07
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -74,6 +74,8 @@ m.afreecatv.com###video > div.footer_area:nth-child(8) > div.app_area:last-child
 m.afreecatv.com###app_v
 m.afreecatv.com###video > div.footer_area:nth-child(8) > div.app_area:last-child
 m.afreecatv.com###scroller > a.appstore:nth-child(3)
+m.afreecatv.com###video > div.player_area:nth-child(4) > div.case_area.case7 > div.case_box > p:nth-child(2)
+m.afreecatv.com###go_vod_player
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3)
 !
 
