@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.03
+! Version: 2019.11.22.04
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -46,6 +46,7 @@ section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_fr
 @@||11st.co.kr/connect/Gateway.tmall^$domain=s.ppomppu.co.kr,third-party
 @@||search.wemakeprice.com^$domain=search.wemakeprice.com
 @@||wlg.shinhancard.com^$domain=vbv.shinhancard.com
+!
 
 ! PpomPpu
 ! https://blog.naver.com/nzelbomb/221007445194
@@ -54,6 +55,7 @@ m.ppomppu.co.kr###tabs-container
 m.ppomppu.co.kr##.bbs_ad1
 ppomppu.co.kr##.column-2.column
 ppomppu.co.kr##.bridge
+!
 
 ! AfreecaTV Player
 ||afupd1.afreecatv.com/afreecatvstreamer_installer.exe
@@ -61,13 +63,15 @@ ppomppu.co.kr##.bridge
 vod.afreecatv.com##.chat_memoyo
 play.afreecatv.com##.chat_area
 !
-! AfreecaTV Mobile
+! AfreecaTV Mobile Web
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > a.app_view:last-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:last-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child > span.ng-scope:first-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > p:first-child
 m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child > span
 m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child
+m.afreecatv.com###p_content_wrap > div.player_bar:first-child > a.title:first-child
+m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3)
 !
 
 ! Forbidden
@@ -110,6 +114,7 @@ m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_g
 ?grpid=1WVN2$domain=daum.net
 ||cafe.daum.net/parkgunhye^
 ?grpid=nqKg$domain=daum.net
+!
 
 ! from DDanzi Group
 ad.nbms.naver.com
@@ -142,6 +147,7 @@ veta.naver.com
 videost.nmv.naver.com
 vts.rmcnmv.naver.com
 wrd.naver.com
+!
 
 ! from Namu Wiki
 shorte.st
