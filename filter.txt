@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.04
+! Version: 2019.11.22.05
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -71,6 +71,11 @@ m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-c
 m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child > span
 m.afreecatv.com###sub > div.player_area:nth-child(3) > div.player_v > div.play_group.btn_wrap:nth-child(3) > button.btn_hd:first-child
 m.afreecatv.com###p_content_wrap > div.player_bar:first-child > a.title:first-child
+m.afreecatv.com###video > div.footer_area:nth-child(8) > div.app_area:last-child > p:first-child > span:last-child
+m.afreecatv.com###video > div.footer_area:nth-child(8) > div.app_area:last-child > p:first-child
+m.afreecatv.com###app_v > span
+m.afreecatv.com###app_v
+m.afreecatv.com###video > div.footer_area:nth-child(8) > div.app_area:last-child
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3)
 !
 
