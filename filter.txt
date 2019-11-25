@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.22.07
+! Version: 2019.11.25.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -636,6 +636,20 @@ dolwe.me
 ||36.230.207.22^
 !
 ! https://www.virustotal.com/gui/ip-address/45.135.223.2/relations
+||tavv.nover.cloud^
+||bzwhvqqvxupzrmty.0pe.kr^
+||zwrbdyflayscyahm.nover.cloud^
+||dbvgbwdi24.nover.cloud^
+||bztdyu.0pe.kr^
+||xn--2j1bu5reneixc723a.werbaboi.xyz^
+||불쌍하다야.werbaboi.xyz^
+||ljdnielq.0pe.kr^
+||xn--rbwszeaonlgqlgnt-1y2d8gsab14pr093tqmla.werbaboi.xyz^
+||햅ᄒᄑᄒ패ᅩrbwszeaᄆonlgqlgnt.werbaboi.xyz^
+||xn--sqkuqlszwrbwszeaonlgqlgnt-oy3g8dvga.werbaboi.xyz^
+||sqkᄌᄌᄂuqlszwrbwszeaᄆonlgqlgnt.werbaboi.xyz^
+||xn--vg1b002akoc0co7f.werbaboi.xyz^
+||연예인뉴스.werbaboi.xyz^
 ||xn--hl0bw94bi5a53w.werbaboi.xyz^
 ||안타까운.werbaboi.xyz^
 ||xn--wr3b04ho7cg9u.werbaboi.xyz^
@@ -705,6 +719,28 @@ dolwe.me
 ||47.245.8.6^
 !
 ! https://www.virustotal.com/gui/ip-address/61.14.209.7/relations
+||xn--9m1bw71d.coo.kr^
+||팬더.coo.kr^
+||xn--2j1b232d.coo.kr^
+||판다.coo.kr^
+||suhyun-emoticongo.oco.kr^
+||kkulyadam.coo.kr^
+||newbalance.oco.kr^
+||2ndlesswhy.coo.kr^
+||kixx.cco.kr^
+||gosoo536.nn.to^
+||dicoalwkdivckajwhrahvyawjdcccx.coo.kr^
+||c1gwef.coo.kr^
+||wwwnbkoreacomeventblackfridayteaser2019.ce.to^
+||nbkorea.oco.kr^
+||bxejaaunams.coo.kr^
+||insvalley.oco.kr^
+||2-plan.oco.kr^
+||ss.hh.to^
+||navertime.coo.kr^
+||emoticon-suhyun.coo.kr^
+||m2web.cco.kr^
+||geyiezglcxrkxjpwnvokwrpmvwtoytpwbssmfsdkizibdqkjgp2222.coo.kr^
 ||rpjtokrwnnhaozfmdmfhuomjspnhrnipullfymxdkbkdfsmkhrhoopy1982.coo.kr^
 ||cavfavcizzwpkvbizibdqrpmvczuezvchyyssfqnulunpcwvsb.coo.kr^
 ||wmhrmipullfylwdkbjcerlkhq.coo.kr^
@@ -988,6 +1024,14 @@ dolwe.me
 ||dev201.naonsoft.kr^
 ||61.14.209.7^
 !
+! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||omgqmhotusmwsnuvrpjtokrw.nover.cloud^
+||zwrbdyfptoytpvblnkfpkgmsayscxtafrlayscyahm.nover.cloud^
+||zwrbdyfptoytpvbpnhsnipuljeojelnkfpkgmsayscxtafrlayscyahm.nover.cloud^
+||zwrbdyfptoytpvbpnhsnipuljeojelrlayscyahm.nover.cloud^
+||jhblmhotomgqmhot.nover.cloud^
+||nover.cloud^
+!
 ! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
 ||ktoic7.fndik.xyz^
 ||doujc1.fndik.xyz^
@@ -1108,6 +1152,11 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0uLM3
+||tellme0314.tistory.com/entry/wuoytpwbomgrmhotigblgbiogeyiezglfysdytaf
+||tellme0314.tistory.com^
+||대박방송.bu.to^
+||%C3%AB%C2%8C%C2%80%C3%AB%C2%B0%C2%95%C3%AB%C2%B0%C2%A9%C3%AC%C2%86%C2%A1.bu.to^
 ||m.site.naver.com/0utZv
 ||blog-imgs-133.fc2.com/u/1/r/u1rm2ulxmrpn/omgr324mhotllexlwckajcerlkhq.html
 geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%ED%98%84-%EC%95%88%EC%9E%AC%ED%98%84-%EB%82%98%EC%81%9C
@@ -1259,6 +1308,7 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||m.site.naver.com/0ayuX
 !
 ! https://www.virustotal.com/gui/ip-address/185.224.137.164/relations
+||mail-manager.pe.hu^
 ||mail-korea.pe.hu^
 ||nid-master-team.890m.com^
 ||rrnaver.com^
@@ -1393,6 +1443,25 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||192.203.145.170^
 !
 ! https://www.virustotal.com/gui/ip-address/202.182.109.83/relations
+||vokhua.com1.kr^
+||nomu12.0pe.kr^
+||www.0pe.kr^
+||vwoohuije0807.0pe.kr^
+||happymoney.0pe.kr^
+||mok003.bu.to^
+||hanei.0pe.kr^
+||a913.0pe.kr^
+||dngmlwp0807.0pe.kr^
+||dtrndoaxcr.bu.to^
+||fongwmcoaa.bu.to^
+||xn--939au0gptbvz6a.bu.to^
+||강남뉴스.bu.to^
+||todo.com1.kr^
+||jwseo001.com^
+||xn--vk1bx9m6sa04s.bu.to^
+||대박신문.bu.to^
+||orangudizztmzkrypxqs.0pe.kr^
+||usnxsnuarrkerccjaibd.0pe.kr^
 ||orangudizztmzkrypxqs.0pe.kr^
 ||usnxsnuarrkerccjaibd.0pe.kr^
 ||bgbgbgded.bu.to^
