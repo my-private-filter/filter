@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.27.00
+! Version: 2019.11.28.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -33,6 +33,14 @@ section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_fr
 ! KakaoTalk PC
 ! https://dawnlog.net/13
 ! ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
+!
+
+! SKB의 PC대수 체크
+! https://ktsmemo.cafe24.com/s/life/334
+! https://ktsmemo.cafe24.com/s/life/331
+||210.117.121.212:80/tm/?a=^
+||210.117.121.212:8080/tm/?a=^
+||210.117.121.212^
 !
 
 ! Exception : WeMakePrice & Others
@@ -1160,6 +1168,10 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||스마일발송실.게요.com^
+||xn--hz2bq6bexhs3aij78u.xn--o79ar70c.com^
+||%c3%ac%c2%8a%c2%a4%c3%ab%c2%a7%c2%88%c3%ac%c2%9d%c2%bc%c3%ab%c2%b0%c2%9c%c3%ac%c2%86%c2%a1%c3%ac%c2%8b%c2%a4.%c3%aa%c2%b2%c2%8c%c3%ac%c2%9a%c2%94.com^
+||blog-imgs-131.fc2.com/p/u/r/purh04th14iu/ywqb23wrydvvohvg4578muktmobvura.html
 ||네이버티비.걸그룹.com^
 ||xn--950bt9solb04rboo.xn--369am2aq5v.com^
 ||blog-imgs-131.fc2.com/p/u/r/purh04th14iu/sqkvqlsxppibpagoen23givp32olu.html
