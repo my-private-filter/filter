@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.28.00
+! Version: 2019.11.28.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -614,9 +614,6 @@ dolwe.me
 ||naver.com-securitychange.pw^
 ||bit.ly/2D6GFql?wfy
 ||dailymile.com/e/kJOH
-!
-! https://www.virustotal.com/gui/ip-address/112.175.85.150/relations
-||210.117.121.212:80/tm/?a=CR&b=WIN&c=500000974602&d=32&e=2102&f=^
 !
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
 ||f31uy5.tumblr.com/?wtrcj^
