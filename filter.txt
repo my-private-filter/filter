@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.28.01
+! Version: 2019.11.28.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -35,12 +35,33 @@ section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_fr
 ! ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
 !
 
-! SKB의 PC대수 체크
+! 통신사의 인터넷 접속 PC 대수 제한
+! SKB 210.117.121.212 (직접 경험함)
 ! https://ktsmemo.cafe24.com/s/life/334
 ! https://ktsmemo.cafe24.com/s/life/331
-||210.117.121.212:80/tm/?a=^
-||210.117.121.212:8080/tm/?a=^
+||210.117.121.212:80/tm/^
+||210.117.121.212:8080/tm/^
 ||210.117.121.212^
+!
+! SKB 210.117.120.114
+||210.117.120.114:8080/tm/nt/^
+||210.117.120.114^
+!
+! SKB 210.117.120.67
+! https://blog.naver.com/kyoungseop/220536564841
+||210.117.120.67:8080/Ac/Nt^
+||210.117.120.67^
+!
+! KT 168.126.130.229
+! https://automobility.tistory.com/1518
+||168.126.130.229/tm/nt/^
+||168.126.130.229^
+!
+! KT 221.152.164.179
+||221.152.164.179^
+!
+! KT 59.1.79.198
+||59.1.79.198^
 !
 
 ! Exception : WeMakePrice & Others
@@ -1035,6 +1056,7 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||trlwrmtygeyjezglgeyiezgl.nover.cloud^
 ||zwrbdyflayscyahm.nover.cloud^
 ||dbvgbwdi24.nover.cloud^
 ||omgqmhotusmwsnuvrpjtokrw.nover.cloud^
@@ -1165,6 +1187,12 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2R0Csx2
+||nuno0626.tistory.com/entry/뉴dani9스qy081데fah01스au90크
+||nuno0626.tistory.com/entry/xn--dani9qy081fah01au90-9075erzhiw5hla0975f
+||nuno0626.tistory.com^
+||뉴스데스크.기대돼.com^
+||xn--vg1bss187aba457o.xn--ok0b84gvva.com^
 ||스마일발송실.게요.com^
 ||xn--hz2bq6bexhs3aij78u.xn--o79ar70c.com^
 ||%c3%ac%c2%8a%c2%a4%c3%ab%c2%a7%c2%88%c3%ac%c2%9d%c2%bc%c3%ab%c2%b0%c2%9c%c3%ac%c2%86%c2%a1%c3%ac%c2%8b%c2%a4.%c3%aa%c2%b2%c2%8c%c3%ac%c2%9a%c2%94.com^
