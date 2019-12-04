@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.11.28.03
+! Version: 2019.12.05.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1056,6 +1056,11 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||xn--vg1bjkp6u63g.bu.to^
+||대박뉴스.bu.to^
+||ifakfahnaysdytafpnhrniyd.nover.cloud^
+||trlvrmtysqkuplsxigalgbin.nover.cloud^
+||sqlvqlsxtrmwrmtzayscxtaf.nover.cloud^
 ||trlwrmtygeyjezglgeyiezgl.nover.cloud^
 ||zwrbdyflayscyahm.nover.cloud^
 ||dbvgbwdi24.nover.cloud^
@@ -1066,6 +1071,15 @@ dolwe.me
 ||jhblmhotomgqmhot.nover.cloud^
 ||nover.cloud^
 ||103.118.221.147^
+!
+! https://www.virustotal.com/gui/ip-address/103.119.1.171/relations
+||youtuba.top^
+||103.119.1.171^
+!
+! https://www.virustotal.com/gui/ip-address/103.119.44.236/relations
+||rpjtokrwnnhaozfmdmfhnhfcm.ddv500.xyz/7477.html
+||ljeojelqiibylxdkbjcerlkhq.ddv500.xyz/7477.html
+||103.119.44.236^
 !
 ! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
 ||ktoic7.fndik.xyz^
@@ -1187,6 +1201,25 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2sFqFdq
+||jgblgbioecwhcxejusmxsnuz.tumblr.com/post/189471113278/fdxidyfkdbvfawdplidniekqigallhotdavfjelq
+||jgblgbioecwhcxejusmxsnuz.tumblr.com^
+||ysmr7174.tistory.com/entry/%EB%A1%9C%EB%94%A9
+||bit.ly/2LhCEo5
+||blog-imgs-129.fc2.com/k/r/f/krfxpbnoxnpf/omgqlh65otkkexkwc76jaiwylfebk.html
+||blog-imgs-129.fc2.com/k/r/f/krfxpbnoxnpf/^
+||zxrbwszevvppcoubsatvicbyh.tistory.com^
+||m.site.naver.com/0uVqz
+||ysmr7174.tistory.com/entry/igakgbingeyidzglkicnidkpnlgqlgntjhitojqvpnhsnivavsnxsnua
+||ysmr7174.tistory.com^
+||bit.ly/37S0VLb
+||jmh990326.tistory.com/entry/sqkvqlsxvtnxtovazxscxszfbztdyubgywrbdyfkusmxsnuzecwhcxejxupzupwc
+||jmh990326.tistory.com^
+||bit.ly/35NOQoa
+||ghkdwlalszz.tistory.com/entry/geyidzglpnisnipugeyjezglecwgbxejnlgqlgntigakgbinsqkuplsxkicmidkp
+||ghkdwlalszz.tistory.com^
+||bit.ly/2L1PLcI
+||blog-imgs-131.fc2.com/p/u/r/purh04th14iu/jhb23mhcjogfzsgrxeve34xzmgfcl.html
 ||구혜선안재현이혼에피해.거야.com^
 ||xn--2e0br78ah5ctpat9dujg42f2mav5b0g7m.xn--v69a088b.com^
 ||blog-imgs-131.fc2.com/p/u/r/purh04th14iu/qoito243jqvnngznyemc45legtnmjs.html
@@ -2049,54 +2082,55 @@ mangashow*.me##.banner
 !
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
-! funbe15.com
-||funbe15.com/bann/*.gif
-||funbe15.com/bann/*.png
-||funbe15.com/bann/*.jpg
+!
+! funbe25.com
+||funbe25.com/bann/*.gif
+||funbe25.com/bann/*.png
+||funbe25.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
 ||funbe*.com/bann/*.gif
 ||funbe*.com/bann/*.png
 ||funbe*.com/bann/*.jpg
 !
-! hodu09.net, hoduco.net, hodu81.com, soo.gd/comics
-||hodu09.net/img/banner/*.gif^
-||hodu09.net/img/banner/*.jpg^
-||hodu09.net/img/banner/*.png^
-||hodu09.net/upload/banner/*.gif^
-||hodu09.net/upload/banner/*.png^
-||hodu09.net/upload/banner/*.jpg^
-||hodu09.net/text_click.php?link=3^
-||hodu09.net/text_click.php?link=4^
-hodu09.net##[src="//uchat.ch/hoduhodu"]
-hodu09.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
-hodu09.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu09.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu09.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu09.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu09.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu09.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu09.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu09.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu09.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu09.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu09.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu09.net##div.c_img > [href^="/banner_click.php"]
-hodu09.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu09.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu09.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu09.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu09.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu09.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu09.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu09.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu09.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu09.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu09.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu09.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu09.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu09.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu09.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu09.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+! hodu10.net, hoduco.net, hodu81.com, soo.gd/comics
+||hodu10.net/img/banner/*.gif^
+||hodu10.net/img/banner/*.jpg^
+||hodu10.net/img/banner/*.png^
+||hodu10.net/upload/banner/*.gif^
+||hodu10.net/upload/banner/*.png^
+||hodu10.net/upload/banner/*.jpg^
+||hodu10.net/text_click.php?link=3^
+||hodu10.net/text_click.php?link=4^
+hodu10.net##[src="//uchat.ch/hoduhodu"]
+hodu10.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu10.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu10.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu10.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu10.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu10.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu10.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu10.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu10.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu10.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu10.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu10.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu10.net##div.c_img > [href^="/banner_click.php"]
+hodu10.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu10.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu10.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu10.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu10.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu10.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu10.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu10.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu10.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu10.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu10.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu10.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu10.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu10.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu10.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu10.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 ||hodu*.net/img/banner/*.gif^
 ||hodu*.net/img/banner/*.jpg^
 ||hodu*.net/img/banner/*.png^
