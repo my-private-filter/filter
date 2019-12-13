@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.13.01
+! Version: 2019.12.13.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -745,6 +745,8 @@ dolwe.me
 ||47.245.8.6^
 !
 ! https://www.virustotal.com/gui/ip-address/61.14.209.7/relations
+||gw.ecocab.cco.kr^
+||emoticon-suhyunyo.cco.kr^
 ||xn--9m1bw71d.coo.kr^
 ||팬더.coo.kr^
 ||xn--2j1b232d.coo.kr^
@@ -1056,8 +1058,28 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||fdxhdfmriicvjuahyhacpjheom.werbaboi.xyz^
+||diuqdq09haphqqna.werbaboi.xyz^
+||긴급속보입니다.nover.cloud^
+||xn--kj0b5ct3nhdv37c0vgw9k.nover.cloud^
+||뉴스대박이다.nover.cloud^
+||xn--vg1b9hzcs65b2hijph.nover.cloud^
+||대박이다.nover.cloud^
+||xn--2j1b2b100by9l.nover.cloud^
+||긴급속보요.nover.cloud^
+||xn--kj0b5cv82croe5ph.nover.cloud^
+||긴급속보네.nover.cloud^
+||xn--kj0b5c95huvsesf.nover.cloud^
+||소문천국.nover.cloud^
+||xn--3e0bo5x30eyxm.nover.cloud^
+||긴급속보.nover.cloud^
+||xn--kj0b5cv82croe.nover.cloud^
 ||소문나라.nover.cloud^
 ||xn--910bs4k59ceri.nover.cloud^
+||어이없네.nover.cloud^
+||xn--950by30btbt4h.nover.cloud^
+||대박이네.nover.cloud^
+||xn--950b78ak5oy9l.nover.cloud^
 ||대박뉴스.bu.to^
 ||xn--vg1bjkp6u63g.bu.to^
 ||ifakfahnaysdytafpnhrniyd.nover.cloud^
@@ -1203,6 +1225,13 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/38uDtE5
+||usmxxupzusmx.tumblr.com/post/189646058527/ifakspkuunhrljdnvtnxzxsc
+||usmxxupzusmx.tumblr.com^
+||shlee7100.tistory.com/entry/geyjfdxipnzjecwhtrlwrpjusqeovtny
+||shlee7100.tistory.com^
+||클릭확인해주.요.net^
+||xn--py2b85wj7apxp6ogsmb.xn--2n5b.net^
 ||bit.ly/2sFqFdq
 ||jgblgbioecwhcxejusmxsnuz.tumblr.com/post/189471113278/fdxidyfkdbvfawdplidniekqigallhotdavfjelq
 ||jgblgbioecwhcxejusmxsnuz.tumblr.com^
@@ -1544,6 +1573,7 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||192.203.145.170^
 !
 ! https://www.virustotal.com/gui/ip-address/202.182.109.83/relations
+||woohuije0807.0pe.kr^
 ||vokhua.com1.kr^
 ||nomu12.0pe.kr^
 ||www.0pe.kr^
@@ -1581,7 +1611,6 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||강남방송.bu.to^
 ||mail.com1.kr^
 ||lllll.0pe.kr^
-||woohuije0807.0pe.kr^
 ||xn--vh3bn4gpl71o.bu.to^
 ||서울방송.bu.to^
 ||xn--z92bt1i0qbp2g.bu.to^
