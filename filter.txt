@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.13.02
+! Version: 2019.12.13.03
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1052,6 +1052,12 @@ dolwe.me
 ||dev201.naonsoft.kr^
 ||61.14.209.7^
 !
+! https://www.virustotal.com/gui/ip-address/102.38.254.253/relations
+||mkeojfmriicviuahygzboihen.yangnoo.xyz^
+||bytdyubgxxrkxipwnvoqdxwtc.yangnoo.xyz^
+||yangnoo.xyz^
+||102.38.254.253^
+!
 ! https://www.virustotal.com/gui/ip-address/102.129.175.131/relations
 ||kicnidkphhathsygwfyanhgdmtrlvqmtyppjcpbhofngivwvsb.ckworld.xyz^
 ||ckworld.xyz^
@@ -1225,6 +1231,9 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||urmwrmtzqqjdqbipgohjwqpmvu.ckworld.xyz/8584.html
+||zxrbwszevvppcoubsatvicbyh.tistory.com^
+||bit.ly/2PMgR9k
 ||bit.ly/38uDtE5
 ||usmxxupzusmx.tumblr.com/post/189646058527/ifakspkuunhrljdnvtnxzxsc
 ||usmxxupzusmx.tumblr.com^
@@ -1239,7 +1248,6 @@ dolwe.me
 ||bit.ly/2LhCEo5
 ||blog-imgs-129.fc2.com/k/r/f/krfxpbnoxnpf/omgqlh65otkkexkwc76jaiwylfebk.html
 ||blog-imgs-129.fc2.com/k/r/f/krfxpbnoxnpf/^
-||zxrbwszevvppcoubsatvicbyh.tistory.com^
 ||m.site.naver.com/0uVqz
 ||ysmr7174.tistory.com/entry/igakgbingeyidzglkicnidkpnlgqlgntjhitojqvpnhsnivavsnxsnua
 ||ysmr7174.tistory.com^
