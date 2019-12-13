@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.12.00
+! Version: 2019.12.13.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3549,7 +3549,145 @@ www.nate.com##.area_shopping_today
 ||teads.tv^$third-party
 ||tiara.daum.net^$third-party
 ||track.maillink.co.kr^$third-party
+!
+!
+! ###############################################
+! Whitelist
+! ###############################################
 
+! Personal websites: andromedarabbit
+@@||unchartedsky.com$document
+@@||andromedarabbit.net$document
+@@||andromedarabbit.disqus.com$document
+
+! Personal favorites: andromedarabbit
+@@||mozilla.org$document
+@@||evernote.com$document
+@@||netflix.com$document
+@@||giphy.com$document
+@@||admin.google.com$document
+@@||developers.google.com$document
+
+! Third-party websites:
+@@||*.onelogin.com^$document
+
+! Third-party apps:
+@@||*.istarbucks.co.kr^$app=com.starbucks.co
+@@||api.branch.io^$app=com.medium.reader
+@@||cdn.branch.io^$app=com.medium.reader
+
+! ###############################################
+! Blacklist
+! ###############################################
+||amazon-adsystem.com^$third-party
+||ad.daum.net^$third-party
+||tiara.daum.net^$third-party
+||adinsight.co.kr^$third-party
+||criteo.net^$third-party
+||app.link^$third-party
+||track.maillink.co.kr^$third-party
+||ctrack.click.joongna.com^$third-party
+||firebaseio.com^$third-party
+||adpanchok.co.kr
+||cauly.co.kr^
+coinpan.com##.banner_img
+naver.com##.banner_inner
+||ad.reople.co.kr^$third-party
+||ednplus.com^$third-party
+||teads.tv^$third-party
+||dable.io^$third-party
+||adpnut.com^$third-party
+||adbiz2.co.kr^$third-party
+||innorame.com^$third-party
+! 중고나라
+||ctrack.click.joongna.com^
+
+! ###############################################
+! Blacklist - 뉴스
+! ###############################################
+! 신동아
+||google-analytics.com^$domain=shindonga.donga.com,third-party
+||facebook.net^$domain=shindonga.donga.com,third-party
+shindonga.donga.com###right_banner > div.banner
+shindonga.donga.com##.facebook_api
+! PPSS
+ppss.kr###ppss_ad2_image
+ppss.kr##.widget_text
+! 경향신문
+khan.co.kr##.ad_cnt
+! 조인스
+news.joins.com##.ab_adtxt_wrap
+news.joins.com###jpoditems
+||ad.imp.joins.com^$third-partys
+! 코인리더스
+||coinreaders.com/data/coinreaders_com/banner/*
+coinreaders.com##[id^="banner"]
+bloter.net##[class^="banner"]
+bloter.net##[class$="banner"]
+
+! ###############################################
+! Blacklist - SKT 스마트홈
+! ###############################################
+||recopick.com^
+||adoffice.11st.co.kr^
+||glpals.com^
+||screen.buzzvil.com^
+||adservice.google.com^
+
+! ###############################################
+! Blacklist - 안드로이드
+! ###############################################
+! Whoscall
+||ggad.whoscall.com^$app=gogolook.callgogolook2
+! LDOCE
+||facebook.com^$app=dictionary.english.freeapptck
+||fbcdn.net^$app=dictionary.english.freeapptck
+! HanaFax
+||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
+
+! ###############################################
+! Blacklist - 확증은 없으나 미심쩍은 곳
+! ###############################################
+||external.impression-neo.naver.com^
+!
+!
+! Personal favorites: binarydiver
+www.nate.com###adContainer
+www.nate.com###shopping
+www.nate.com##.area_shopping_today
+outlook.live.com###primaryContainer > div._n_h
+!
+!
+! ###############################################
+! Whitelist
+! ###############################################
+
+! Personal websites: eggtart
+
+! Personal favorites: eggtart
+
+! Dev tool Site
+@@||www.elastic.co$document
+@@//app.datadoghq.com^$document
+
+! ###############################################
+! Blacklist
+! ###############################################
+
+||keyword.ad.daum.net^
+||amazon-adsystem.com^$third-party
+||ad.daum.net^$third-party
+||tiara.daum.net^$third-party
+||adinsight.co.kr^$third-party
+||criteo.net^$third-party
+news1.kr###container > div.ad_wing_l:first-child
+sedaily.com###noticeAd_pc_wrap_img
+news.v.daum.net###adShopping
+media.daum.net###adShopping
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
+daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
+!
+!
 
 !
 !
