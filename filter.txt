@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.13.00
+! Version: 2019.12.13.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3481,6 +3481,8 @@ dream-post.com
 ! 25 Sep 2019
 !
 !
+! adguard-kr.txt
+!
 @@//app.datadoghq.com^$document
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
 @@||*.onelogin.com^$document
@@ -3550,6 +3552,8 @@ www.nate.com##.area_shopping_today
 ||tiara.daum.net^$third-party
 ||track.maillink.co.kr^$third-party
 !
+!
+! andromedarabbit.txt
 !
 ! ###############################################
 ! Whitelist
@@ -3651,12 +3655,16 @@ bloter.net##[class$="banner"]
 ||external.impression-neo.naver.com^
 !
 !
+! binarydiver.txt
+!
 ! Personal favorites: binarydiver
 www.nate.com###adContainer
 www.nate.com###shopping
 www.nate.com##.area_shopping_today
 outlook.live.com###primaryContainer > div._n_h
 !
+!
+! eggtart.txt
 !
 ! ###############################################
 ! Whitelist
