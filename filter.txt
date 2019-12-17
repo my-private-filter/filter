@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.17.01
+! Version: 2019.12.17.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1054,6 +1054,7 @@ dolwe.me
 ||61.14.209.7^
 !
 ! https://www.virustotal.com/gui/ip-address/102.38.254.253/relations
+||rpjupkrw1oohaozfndmfhuonkt.yangnoo.xyz^
 ||fdxidyfkcbvocntar6atobvura.yangnoo.xyz^
 ||usmwrgnsjjdwjvbiziadpkifo1.yangnoo.xyz^
 ||mkeojfmriicviuahygzboihen.yangnoo.xyz^
@@ -1067,6 +1068,7 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||casubiw91hoias8dahu1.nover.cloud^
 ||dashiodsa09y81h.nover.cloud^
 ||fdxhdfmriicvjuahyhacpjheom.werbaboi.xyz^
 ||diuqdq09haphqqna.werbaboi.xyz^
@@ -1235,6 +1237,15 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||sqlvqlsyppicpahhygzboihenmxi.youtuba.top/1654879.html
+||hfzjfahmddxqepvctcvxkeczjhsd.youtuba.top/1654879.html
+||bit.ly/34w9aJT
+||say8sgd8y9434niuo2t49y8sd.tumblr.com/post/189720402696/vzxionvsd09u832u0931
+||say8sgd8y9434niuo2t49y8sd.tumblr.com^
+||casa6971.tistory.com/entry/afasd801jlh9rdug9u1
+||casa6971.tistory.com^
+||mkfpavchzyslzkqxoxqsfzyvecoz.youtuba.top/1654879.html
+||bit.ly/34rBygk
 ||bit.ly/2YSc0rw
 ||wa09u12hieaf.tumblr.com/post/189717756882/xzcxz09ju9a0s09u1
 ||wa09u12hieaf.tumblr.com^
