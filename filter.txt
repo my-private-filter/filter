@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2019.12.13.03
+! Version: 2019.12.17.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -635,6 +635,7 @@ dolwe.me
 ||naver.com-securitychange.pw^
 ||bit.ly/2D6GFql?wfy
 ||dailymile.com/e/kJOH
+||180.178.63.211/hdone/^
 !
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
 ||f31uy5.tumblr.com/?wtrcj^
@@ -1053,6 +1054,8 @@ dolwe.me
 ||61.14.209.7^
 !
 ! https://www.virustotal.com/gui/ip-address/102.38.254.253/relations
+||fdxidyfkcbvocntar6atobvura.yangnoo.xyz^
+||usmwrgnsjjdwjvbiziadpkifo1.yangnoo.xyz^
 ||mkeojfmriicviuahygzboihen.yangnoo.xyz^
 ||bytdyubgxxrkxipwnvoqdxwtc.yangnoo.xyz^
 ||yangnoo.xyz^
@@ -1064,6 +1067,7 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||dashiodsa09y81h.nover.cloud^
 ||fdxhdfmriicvjuahyhacpjheom.werbaboi.xyz^
 ||diuqdq09haphqqna.werbaboi.xyz^
 ||긴급속보입니다.nover.cloud^
@@ -1231,6 +1235,17 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2YSc0rw
+||wa09u12hieaf.tumblr.com/post/189717756882/xzcxz09ju9a0s09u1
+||wa09u12hieaf.tumblr.com^
+||s0092.tistory.com/entry/ASDSA90J9U01209U
+||s0092.tistory.com^
+||bzmxsnuzrqkdrcipgpikqkjgpnz.ckworld.xyz/8584.html
+||kidnidkphhatozfndmfhuonktrd.ckworld.xyz/8584.html
+||usmwrnuzqqkdrcipgpikxrpmvuf.ckworld.xyz/8584.html
+||bit.ly/2LZlf3F
+||trmwrmtzqqjdqdkriqjlysroxw.youtuba.top/8584.html
+||bit.ly/2PSFy40
 ||urmwrmtzqqjdqbipgohjwqpmvu.ckworld.xyz/8584.html
 ||zxrbwszevvppcoubsatvicbyh.tistory.com^
 ||bit.ly/2PMgR9k
@@ -3740,8 +3755,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 179
-! 10 Nov 2019
+! 180
+! 15 Dec 2019
 !
 !
 ! Third Party blocking ---------------------------------------------------------
