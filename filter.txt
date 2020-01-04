@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.04.00
+! Version: 2020.01.04.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2157,14 +2157,11 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! funbe25.com
-||funbe25.com/bann/*.gif
-||funbe25.com/bann/*.png
-||funbe25.com/bann/*.jpg
+! funbe29.com
+||funbe29.com/bann/*.gif
+||funbe29.com/bann/*.png
+||funbe29.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
-||funbe*.com/bann/*.gif
-||funbe*.com/bann/*.png
-||funbe*.com/bann/*.jpg
 !
 ! hodu13.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu13.net/img/banner/*.gif^
@@ -2205,6 +2202,7 @@ hodu13.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
 hodu13.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
 hodu13.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
 hodu13.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hodu13.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 ||hoduco.net/img/banner/*.gif^
 ||hoduco.net/img/banner/*.jpg^
 ||hoduco.net/img/banner/*.png^
@@ -2243,6 +2241,7 @@ hoduco.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
 hoduco.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hoduco.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 !
 ! funitoon05.com
 ||funitoon05.com/banner/*.gif^
