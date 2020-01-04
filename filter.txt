@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.04.01
+! Version: 2020.01.04.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1711,16 +1711,6 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||202.182.109.83^
 !
 
-! Pornography
-||mtdamoa.com^
-||redtube.com^
-||vrfuckdolls.com^
-||mmoframes.com^
-||goo.gl/U7zoh5
-||spkupkrxoohbozgnemffsmlirqbm1yb.tumblr.com/post/181046757822/jhblhcjogfzsgrxevexzmgebljufsv^
-||m.hwr58.com^
-||hwr58.com^
-
 ! Ad
 //veta.naver.com/fxshow?su=SU10055
 ###enendictPopupDiv
@@ -1872,32 +1862,22 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatv2.xyz, bujatv15.me, bujatv.me
-bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv2.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv2.xyz###left_out > div:first-child > a:last-child > img
-bujatv2.xyz###left_out > div:nth-child(2) > a:last-child > img
-bujatv2.xyz###right_out > div:first-child > a:last-child > img
-bujatv2.xyz###right_out > div:nth-child(2) > a:last-child > img
-bujatv2.xyz###left_out > div:last-child > a:last-child > img
-bujatv2.xyz###right_out > div:last-child > a:last-child > img
-bujatv2.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv2.xyz/19/adult.html"]
+! bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+bubujatv.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bubujatv.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bubujatv.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bubujatv.com###left_out > div:first-child > a:last-child > img
+bubujatv.com###left_out > div:nth-child(2) > a:last-child > img
+bubujatv.com###right_out > div:first-child > a:last-child > img
+bubujatv.com###right_out > div:nth-child(2) > a:last-child > img
+bubujatv.com###left_out > div:last-child > a:last-child > img
+bubujatv.com###right_out > div:last-child > a:last-child > img
+bubujatv.com##li.adult_li:nth-of-type(5) > [href="https://www.bubujatv.com/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
-bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv*.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv*.xyz###left_out > div:first-child > a:last-child > img
-bujatv*.xyz###left_out > div:nth-child(2) > a:last-child > img
-bujatv*.xyz###right_out > div:first-child > a:last-child > img
-bujatv*.xyz###right_out > div:nth-child(2) > a:last-child > img
-bujatv*.xyz###left_out > div:last-child > a:last-child > img
-bujatv*.xyz###right_out > div:last-child > a:last-child > img
-bujatv*.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatv*.xyz/19/adult.html"]
 !
 ! dasiboda3.com, dasiboda.site
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
@@ -1924,30 +1904,6 @@ dasiboda3.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
 dasiboda3.com##.sidebar.col-sm-12.col-md-4
 dasiboda3.com##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda3.com##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
 dasiboda3.com##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
-||dasiboda*.com/dasi_media/2018/06/w_mytown.jpg
-||dasiboda*.com/dasi_media/2018/06/w_mytown.jpg
-||dasiboda*.com/dasi_media/2018/05/bada.gif
-||dasiboda*.com/dasi_media/2018/06/prm180180.gif
-||dasiboda*.com/dasi_media/2018/05/b_300.gif
-||dasiboda*.com/dasi_media/2018/06/sang180.gif
-||dasiboda*.com/dasi_media/2018/05/180x180.gif
-||dasiboda*.com/dasi_media/2018/06/dfb300.gif
-||dasiboda*.com/dasi_media/2018/06/colortv.gif
-||dasiboda*.com/dasi_media/2018/05/simbago.gif
-||dasiboda*.com/dasi_media/2018/06/sang300.gif
-||dasiboda*.com/dasi_media/2018/06/n300.gif
-||dasiboda*.com/dasi_media/2018/05/300x300_01.gif
-||dasiboda*.com/dasi_media/2018/05/300_300.gif
-||dasiboda*.com/dasi_media/2018/06/colortv728.gif
-||dasiboda*.com/dasi_media/2018/06/colortv728.gif
-||dasiboda*.com/dasi_media/2018/05/bada.gif
-||dasiboda*.com/dasi_media/2018/06/adams728.gif
-||dasiboda*.com/dasi_media/20*/*/*.gif^
-dasiboda*.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1) > .col-md-12.column_container.wpb_column > .vc_column-inner
-dasiboda*.com##div.vc_row-fluid.wpb_row.vc_row:nth-of-type(1)
-dasiboda*.com##.sidebar.col-sm-12.col-md-4
-dasiboda*.com##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:nth-child(2) > dasiboda*.com##div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element:last-child > div.wpb_wrapper > a > img
-dasiboa*.com##.nb-notice-wrap, .nb-top-fixed, .nb-layout-1
 ||i.imgur.com/iN6yiTk.jpg
 ||i.imgur.com/QT14DGl.jpg
 ||i.imgur.com/O02mcth.jpg
@@ -2162,6 +2118,8 @@ mangashow*.me##.banner
 ||funbe29.com/bann/*.png
 ||funbe29.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
+funbe29.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe29.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 !
 ! hodu13.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu13.net/img/banner/*.gif^
