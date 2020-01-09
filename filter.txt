@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.04.02
+! Version: 2020.01.10.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1068,6 +1068,7 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||gf8fd89yesgfhio4weohipe.nover.cloud^
 ||sdg98uygdsfhioufasjihol.nover.cloud^
 ||dwa98yfeajiop13hoi.nover.cloud^
 ||bsoj0afsjiop3t23y8.nover.cloud^
@@ -1154,6 +1155,9 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/144.48.242.107/relations
+||hfzkf3ahmekedrcjdujcerlks.youtuba.top^
+||sqkvqlsxppibpagoengivpol5.youtuba.top^
+||dbvgbwdittmfteksirkmztspywitfi.youtuba.top^
 ||sqlvqlsskjdwkvbizibdqkjgp.youtuba.top^
 ||144.48.242.107^
 !
@@ -1249,6 +1253,20 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/37TZ2wL
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/rpkupkrxoohaotzgxg3zboigd.html
+||bit.ly/35GMy9X
+||bit.ly/37GjYqS
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/wtoytszewwpiwhnvlu3npcwvs.html
+||bit.ly/2NbObX4
+||bit.ly/37MQ1FJ
+||fds9urgsoh8it4w2h8oigr98hdf.tumblr.com/post/190120661570/ssdf890udsfg08yewoihefw
+||alret98.tistory.com/entry/gsd90usef8ihf3eqhuoes908yfes
+||alret98.tistory.com^
+||bit.ly/2QnEh6x
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/trlvqfmriicvjuahyhacpjhe3.html
+||ecwhcxxcuungufltjslgtnmjs.tistory.com^
+||bit.ly/2MWJiAW
 ||bit.ly/2EVk8Ow
 ||gsd8udfgiojrino.tumblr.com/post/189862344964/gfde890uygewuoihfdhio
 ||wisesujeong6507.tistory.com/entry/sdb90usdv089ht32njlkhiosd
