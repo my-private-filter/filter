@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.10.00
+! Version: 2020.01.12.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2059,6 +2059,7 @@ manamoa23.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > di
 manamoa23.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
 manamoa23.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
 manamoa23.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa23.net###thema_wrapper > div.header-notification:first-child > a
 ||manamoa.net/img/banner/sol/*.gif
 ||manamoa.net/img/banner/jay/*.gif
 manamoa.net##.ad-banner-widget, .main-banner
@@ -2098,6 +2099,7 @@ manamoa.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.
 manamoa.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
 manamoa.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
 manamoa.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa.net###thema_wrapper > div.header-notification:first-child > a
 ||img.ironmancdn.xyz/upload/11663a312f4418d921579f60af20d296.gif
 ||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png
 ||img.ironmancdn.xyz/upload/d76f47e2c52d038d0a51c8d9a15eb7e7.gif
@@ -3570,6 +3572,7 @@ dream-post.com
 ! adguard-kr.txt
 !
 @@//app.datadoghq.com^$document
+@@||*.branch.io^$app=com.medium.reader
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
 @@||*.onelogin.com^$document
 @@||admin.google.com$document
@@ -3630,6 +3633,7 @@ www.nate.com##.area_shopping_today
 ||ggad.whoscall.com^$app=gogolook.callgogolook2
 ||glpals.com^
 ||google-analytics.com^$domain=shindonga.donga.com,third-party
+||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 ||innorame.com^$third-party
 ||keyword.ad.daum.net^
 ||recopick.com^
@@ -3663,8 +3667,7 @@ www.nate.com##.area_shopping_today
 
 ! Third-party apps:
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
-@@||api.branch.io^$app=com.medium.reader
-@@||cdn.branch.io^$app=com.medium.reader
+@@||*.branch.io^$app=com.medium.reader
 
 ! ###############################################
 ! Blacklist
@@ -3691,6 +3694,8 @@ naver.com##.banner_inner
 ||innorame.com^$third-party
 ! 중고나라
 ||ctrack.click.joongna.com^
+! 하나팩스
+||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 
 ! ###############################################
 ! Blacklist - 뉴스
