@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.15.00
+! Version: 2020.01.16.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1156,6 +1156,7 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/144.48.242.107/relations
+||omgrmhotlkexlwcjajcerlkh111.youtuba.top^
 ||vtnytovasslesdjrhqjlysro.youtuba.top^
 ||hfzkf3ahmekedrcjdujcerlks.youtuba.top^
 ||sqkvqlsxppibpagoengivpol5.youtuba.top^
@@ -1255,6 +1256,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2QZ5612
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/hfzjea677hmddxqdpvctcuxjexu.html
 ||bit.ly/3aanqfB
 ||09ufohui4kjbsdfiugq98y1.tumblr.com/post/190234681064/fdb08ye-9u13ohuifdsu903ouhisdfhoi19u
 ||th00918.tistory.com/entry/bfd890uef13oihsfgdohi
@@ -2028,47 +2031,47 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 
 ! Bad Ad (2)
-! manamoa24.net, manamoa.net, mangashow5.me, https://188.214.128.5
-||manamoa24.net/img/banner/sol/*.gif
-||manamoa24.net/img/banner/jay/*.gif
-manamoa24.net##.ad-banner-widget, .main-banner
-manamoa24.net##.ad-banner-widget, .fit-banner
-manamoa24.net##.ad-banner-widget, .ad-mobile-fit
-manamoa24.net##.ad-banner-widget
-manamoa24.net##.banner
-manamoa24.net##.at-content > p
-manamoa24.net##.fit-banner.ad-banner-widget
-manamoa24.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-manamoa24.net##div.main-banner.ad-banner-widget:nth-of-type(2)
-manamoa24.net##div.main-banner.ad-banner-widget:nth-of-type(3)
-manamoa24.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
-manamoa24.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
-manamoa24.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
-manamoa24.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
-manamoa24.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
-manamoa24.net##.at-main.at-col.col-md-9 > p
-manamoa24.net##.clearfix > li.nth-of-type (4)
-manamoa24.net###sidebar_menu_c4 > .is-sub
-manamoa24.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
-manamoa24.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
-manamoa24.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
-manamoa24.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
-manamoa24.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
-manamoa24.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
-manamoa24.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
-manamoa24.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa24.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa24.net###thema_wrapper > div.header-notification:first-child > a
+! manamoa25.net, manamoa.net, mangashow5.me, https://188.214.128.5
+||manamoa25.net/img/banner/sol/*.gif
+||manamoa25.net/img/banner/jay/*.gif
+manamoa25.net##.ad-banner-widget, .main-banner
+manamoa25.net##.ad-banner-widget, .fit-banner
+manamoa25.net##.ad-banner-widget, .ad-mobile-fit
+manamoa25.net##.ad-banner-widget
+manamoa25.net##.banner
+manamoa25.net##.at-content > p
+manamoa25.net##.fit-banner.ad-banner-widget
+manamoa25.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa25.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa25.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa25.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa25.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa25.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa25.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa25.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa25.net##.at-main.at-col.col-md-9 > p
+manamoa25.net##.clearfix > li.nth-of-type (4)
+manamoa25.net###sidebar_menu_c4 > .is-sub
+manamoa25.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+manamoa25.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
+manamoa25.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
+manamoa25.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
+manamoa25.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
+manamoa25.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
+manamoa25.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
+manamoa25.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa25.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa25.net###thema_wrapper > div.header-notification:first-child > a
 ||manamoa.net/img/banner/sol/*.gif
 ||manamoa.net/img/banner/jay/*.gif
 manamoa.net##.ad-banner-widget, .main-banner
