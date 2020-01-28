@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.24.00
+! Version: 2020.01.28.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -607,6 +607,26 @@ dolwe.me
 ||pixel.maranhesduve.club^
 ||maranhesduve.club^
 !
+! https://blog.alyac.co.kr/2725
+! 115.68.227.7
+||tor.kr/pDX^
+||new.naver.coi.kr^
+||news.naver.xco.kr^
+||news.naver.com.xco.kr^
+||daum.news.xco.kr^
+||chat.coi.kr^
+||info777.coi.kr^
+||chaturbate.com.coi.kr^
+||moa17.coi.kr^
+||poovinaeuv.coi.kr^
+||totopick.coi.kr^
+||doande.coi.kr^
+||lycos.coi.kr^
+||modacom.coi.kr^
+||xn--sticker-og20ag75g9ol.coi.kr^
+||yahoo.coi.kr^
+||ociduancoq.coi.kr^
+!
 
 ! Phishing, Smishing
 ||bitly.kr/dQpb
@@ -636,6 +656,8 @@ dolwe.me
 ||bit.ly/2D6GFql?wfy
 ||dailymile.com/e/kJOH
 ||180.178.63.211/hdone/^
+||hsud2.xyz/?davyjh
+||hsud2.xyz/^
 !
 ! https://www.virustotal.com/gui/ip-address/23.234.51.239/relations
 ||f31uy5.tumblr.com/?wtrcj^
@@ -1157,6 +1179,7 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/144.48.242.107/relations
+||usmwrnuzqqkdqcipgphkwrpmmkeojfmriicvjuahyhacpjhe.youtuba.top^
 ||vtnytovasrlesdjqhqjlysrhrpkupkrwoohaozgndmfhuonk.youtuba.top^
 ||xvpzvqxc2ttngufl4sjslnausp.youtuba.top^
 ||omgrmhotlkexlwcjajcerlkh111.youtuba.top^
@@ -1259,6 +1282,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2O0k3y2
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/ecwgbx3ejaaunatzgxfyanhgd.html
 ||bit.ly/38BCtgJ
 ||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/ecwhc3xejbaunbmszqzsuhbax.html
 ||bit.ly/3ahVUg8
