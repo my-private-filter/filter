@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.01.28.00
+! Version: 2020.02.06.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1090,6 +1090,9 @@ dolwe.me
 ||102.129.175.131^
 !
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
+||bdjp912hdiewfwpq.nover.cloud^
+||gdsoisdfgu9023oihfdoiw.nover.cloud^
+||bfdiohjsdfhoi89asjkol.nover.cloud^
 ||hfd9u4t39pijesgj90tdhojki.nover.cloud^
 ||gdfhiogre0u92jihnodfbnjl.nover.cloud^
 ||gf8fd89yesgfhio4weohipe.nover.cloud^
@@ -1179,6 +1182,8 @@ dolwe.me
 ||139.180.141.39^
 !
 ! https://www.virustotal.com/gui/ip-address/144.48.242.107/relations
+||lidnielqhaunamszqyrtgazwaxscxtzfwwpjwhovmunpcwvs.youtuba.top^
+||lidnielqhaunamszqyrtgazwaxscxtzfwwpjwhovmunpcwvs.youtuba.top^
 ||usmwrnuzqqkdqcipgphkwrpmmkeojfmriicvjuahyhacpjhe.youtuba.top^
 ||vtnytovasrlesdjqhqjlysrhrpkupkrwoohaozgndmfhuonk.youtuba.top^
 ||xvpzvqxc2ttngufl4sjslnausp.youtuba.top^
@@ -1282,6 +1287,22 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/370andB
+||sgfd9udf0ih32rhiosd.tumblr.com/post/190663250666/fbd09-idfb-u9f3nihesjioh
+||ester523.tistory.com/entry/BFH9U0D09U8EFQHOUIEWHUIJK
+||ester523.tistory.com^
+||bit.ly/37G1Dup
+||gsd8yg893198yvds9y813jk.tumblr.com/post/190568157330/hhgdihjodfgj9o410u9fsdhiol
+||qg222.tistory.com/entry/hfd98fdg09u32ouihsdgfhio32
+||qg222.tistory.com^
+||bit.ly/37ILCnG
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/tqlvqmsyppicpahofngivpol111.html
+||bit.ly/2uLi75H
+||sdf9urewgfoih3r98ygdsf09.tumblr.com/post/190532247836/hhgdf98udfg-u9352-9ojgf-u9023
+||jrleett.tistory.com/entry/gfduihgdsg98yr31ouhfsdpjhio
+||jrleett.tistory.com^
+||bit.ly/37O9vKc
+||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/sqlvql3syppicpahoe1ngivpol.html
 ||bit.ly/2O0k3y2
 ||blog-imgs-129.fc2.com/c/a/u/caueavchzyslzkqxoxqz/ecwgbx3ejaaunatzgxfyanhgd.html
 ||bit.ly/38BCtgJ
@@ -2420,6 +2441,7 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 ! pornhub.com
+##.removeAdLink
 pornhub.com###hotVideosSection > .alpha
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif
