@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.02.16.01
+! Version: 2020.02.16.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -662,7 +662,8 @@ dolwe.me
 ||pay.bunjang38.com^
 !
 ! Smishing : https://twitter.com/malwaretracekr
-! 2019.11.27. ~ 2020.02.16.20:44
+! 2019.11.27. ~ 2020.02.16.23:04
+||wa1wa1.com^
 ||ndrws.xyz^
 ||xsdwe.xyz^
 ||sxczs.xyz^
@@ -2388,13 +2389,13 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! funbe33.com
-||funbe33.com/bann/*.gif
-||funbe33.com/bann/*.png
-||funbe33.com/bann/*.jpg
+! funbe34.com
+||funbe34.com/bann/*.gif
+||funbe34.com/bann/*.png
+||funbe34.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
-funbe33.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe33.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe34.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe34.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 !
 ! hodu18.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu18.net/img/banner/*.gif^
