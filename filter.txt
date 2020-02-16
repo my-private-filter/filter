@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.02.13.01
+! Version: 2020.02.16.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -662,7 +662,14 @@ dolwe.me
 ||pay.bunjang38.com^
 !
 ! Smishing : https://twitter.com/malwaretracekr
-! 2019.11.27. ~ 2020.02.12.
+! 2019.11.27. ~ 2020.02.16.18:23
+||sxczs.xyz^
+||public.bn.files.1drv.com/y4mOl4wxjRp4dnkflaVG0MAl0NZ4o6a-48j3CX1HitjZfBJYKQTTNEGWhJ_QnSupacGWRBwjAYBgzWKiO-u2qwMmFF-D-WLzySEV08cgv8NP_8yWHq2sd3ojLQnpqp-Pwp2ov30WXG8WY1_tzLSXMJ-3v3bV8lscMCkYqn7en9MX7kiMqWXFZDfhTJMLSPIMZs3j-hEmP9F7lWgeyCuI5MpcoHWXa8Bf8YSm8a1huL9ypI?acc
+||gg.coupang.pro^
+||locale-icloud.com/?find=4574
+||uhgys.xyz/?ykexfr
+||bit.ly/2HjFfvd
+||xsegs.xyz^
 ||ysuhg.top/?vwtqno
 ||gfe.cjsenms.pro^
 ||df.spellmnh.pro^
@@ -2592,7 +2599,8 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 ! pornhub.com
-##.removeAdLink
+pornhub.com##.removeAdLink
+pornhub.com##.premiumPromoBannerWrapper
 pornhub.com###hotVideosSection > .alpha
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif
