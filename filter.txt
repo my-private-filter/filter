@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.02.27.00
+! Version: 2020.03.03.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2150,17 +2150,17 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
-bubujatv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bubujatv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bubujatv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bubujatv.site###left_out > div:first-child > a:last-child > img
-bubujatv.site###left_out > div:nth-child(2) > a:last-child > img
-bubujatv.site###right_out > div:first-child > a:last-child > img
-bubujatv.site###right_out > div:nth-child(2) > a:last-child > img
-bubujatv.site###left_out > div:last-child > a:last-child > img
-bubujatv.site###right_out > div:last-child > a:last-child > img
-bubujatv.site##li.adult_li:nth-of-type(5) > [href="https://www.bubujatv.site/19/adult.html"]
+! bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bubujatv.space###left_out > div:first-child > a:last-child > img
+bubujatv.space###left_out > div:nth-child(2) > a:last-child > img
+bubujatv.space###right_out > div:first-child > a:last-child > img
+bubujatv.space###right_out > div:nth-child(2) > a:last-child > img
+bubujatv.space###left_out > div:last-child > a:last-child > img
+bubujatv.space###right_out > div:last-child > a:last-child > img
+bubujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.bubujatv.space/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
@@ -2414,54 +2414,54 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! funbe36.com
-||funbe36.com/bann/*.gif
-||funbe36.com/bann/*.png
-||funbe36.com/bann/*.jpg
+! funbe37.com
+||funbe37.com/bann/*.gif
+||funbe37.com/bann/*.png
+||funbe37.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
-funbe36.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe36.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe37.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe37.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 !
-! hodu19.net, hoduco.net, hodu81.com, soo.gd/comics
-||hodu19.net/img/banner/*.gif^
-||hodu19.net/img/banner/*.jpg^
-||hodu19.net/img/banner/*.png^
-||hodu19.net/upload/banner/*.gif^
-||hodu19.net/upload/banner/*.png^
-||hodu19.net/upload/banner/*.jpg^
-||hodu19.net/text_click.php?link=3^
-||hodu19.net/text_click.php?link=4^
-hodu19.net##[src="//uchat.ch/hoduhodu"]
-hodu19.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
-hodu19.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu19.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu19.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu19.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu19.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu19.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu19.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu19.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu19.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu19.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu19.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu19.net##div.c_img > [href^="/banner_click.php"]
-hodu19.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu19.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu19.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu19.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu19.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu19.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu19.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu19.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu19.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu19.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu19.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu19.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu19.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu19.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu19.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu19.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
-hodu19.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
+! hodu20.net, hoduco.net, hodu81.com, soo.gd/comics
+||hodu20.net/img/banner/*.gif^
+||hodu20.net/img/banner/*.jpg^
+||hodu20.net/img/banner/*.png^
+||hodu20.net/upload/banner/*.gif^
+||hodu20.net/upload/banner/*.png^
+||hodu20.net/upload/banner/*.jpg^
+||hodu20.net/text_click.php?link=3^
+||hodu20.net/text_click.php?link=4^
+hodu20.net##[src="//uchat.ch/hoduhodu"]
+hodu20.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu20.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu20.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu20.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu20.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu20.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu20.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu20.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu20.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu20.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu20.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu20.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu20.net##div.c_img > [href^="/banner_click.php"]
+hodu20.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu20.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu20.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu20.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hodu20.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 ||hoduco.net/img/banner/*.gif^
 ||hoduco.net/img/banner/*.jpg^
 ||hoduco.net/img/banner/*.png^
