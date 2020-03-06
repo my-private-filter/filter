@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.03.00
+! Version: 2020.03.06.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2295,48 +2295,48 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 
 ! Bad Ad (2)
-! manamoa29.net, manamoa.net, mangashow5.me, https://188.214.129.5
-||manamoa29.net/img/banner/sol/*.gif
-||manamoa29.net/img/banner/jay/*.gif
-manamoa29.net##.ad-banner-widget, .main-banner
-manamoa29.net##.ad-banner-widget, .fit-banner
-manamoa29.net##.ad-banner-widget, .ad-mobile-fit
-manamoa29.net##.ad-banner-widget
-manamoa29.net##.banner
-manamoa29.net##.at-content > p
-manamoa29.net##.fit-banner.ad-banner-widget
-manamoa29.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-manamoa29.net##div.main-banner.ad-banner-widget:nth-of-type(2)
-manamoa29.net##div.main-banner.ad-banner-widget:nth-of-type(3)
-manamoa29.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
-manamoa29.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
-manamoa29.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
-manamoa29.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
-manamoa29.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
-manamoa29.net##.at-main.at-col.col-md-9 > p
-manamoa29.net##.clearfix > li.nth-of-type (4)
-manamoa29.net###sidebar_menu_c4 > .is-sub
-manamoa29.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
-manamoa29.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
-manamoa29.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
-manamoa29.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
-manamoa29.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
-manamoa29.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
-manamoa29.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
-manamoa29.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa29.net###thema_wrapper > div.header-notification:first-child > a
-manamoa29.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+! manamoa30.net, manamoa.net, mangashow5.me, https://188.214.130.5
+||manamoa30.net/img/banner/sol/*.gif
+||manamoa30.net/img/banner/jay/*.gif
+manamoa30.net##.ad-banner-widget, .main-banner
+manamoa30.net##.ad-banner-widget, .fit-banner
+manamoa30.net##.ad-banner-widget, .ad-mobile-fit
+manamoa30.net##.ad-banner-widget
+manamoa30.net##.banner
+manamoa30.net##.at-content > p
+manamoa30.net##.fit-banner.ad-banner-widget
+manamoa30.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa30.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa30.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa30.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa30.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa30.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa30.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa30.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa30.net##.at-main.at-col.col-md-9 > p
+manamoa30.net##.clearfix > li.nth-of-type (4)
+manamoa30.net###sidebar_menu_c4 > .is-sub
+manamoa30.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+manamoa30.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
+manamoa30.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
+manamoa30.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
+manamoa30.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
+manamoa30.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
+manamoa30.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
+manamoa30.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa30.net###thema_wrapper > div.header-notification:first-child > a
+manamoa30.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
 ||manamoa.net/img/banner/sol/*.gif
 ||manamoa.net/img/banner/jay/*.gif
 manamoa.net##.ad-banner-widget, .main-banner
@@ -2422,46 +2422,46 @@ mangashow*.me##.banner
 funbe37.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe37.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 !
-! hodu20.net, hoduco.net, hodu81.com, soo.gd/comics
-||hodu20.net/img/banner/*.gif^
-||hodu20.net/img/banner/*.jpg^
-||hodu20.net/img/banner/*.png^
-||hodu20.net/upload/banner/*.gif^
-||hodu20.net/upload/banner/*.png^
-||hodu20.net/upload/banner/*.jpg^
-||hodu20.net/text_click.php?link=3^
-||hodu20.net/text_click.php?link=4^
-hodu20.net##[src="//uchat.ch/hoduhodu"]
-hodu20.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
-hodu20.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu20.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu20.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu20.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu20.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu20.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu20.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu20.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu20.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu20.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu20.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu20.net##div.c_img > [href^="/banner_click.php"]
-hodu20.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu20.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu20.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu20.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu20.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu20.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu20.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu20.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
-hodu20.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
+! hodu21.net, hoduco.net, hodu81.com, soo.gd/comics
+||hodu21.net/img/banner/*.gif^
+||hodu21.net/img/banner/*.jpg^
+||hodu21.net/img/banner/*.png^
+||hodu21.net/upload/banner/*.gif^
+||hodu21.net/upload/banner/*.png^
+||hodu21.net/upload/banner/*.jpg^
+||hodu21.net/text_click.php?link=3^
+||hodu21.net/text_click.php?link=4^
+hodu21.net##[src="//uchat.ch/hoduhodu"]
+hodu21.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu21.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu21.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu21.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu21.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu21.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu21.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu21.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu21.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu21.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu21.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu21.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu21.net##div.c_img > [href^="/banner_click.php"]
+hodu21.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu21.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu21.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu21.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hodu21.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 ||hoduco.net/img/banner/*.gif^
 ||hoduco.net/img/banner/*.jpg^
 ||hoduco.net/img/banner/*.png^
