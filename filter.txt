@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.14.00
+! Version: 2020.03.15.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2414,6 +2414,10 @@ mangashow*.me##.banner
 !
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
+!
+! newtoki74.com & newtoki74.net
+newtoki74.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki74.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 !
 ! funbe38.com
 ||funbe38.com/bann/*.gif
