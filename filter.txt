@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.06.00
+! Version: 2020.03.14.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2150,30 +2150,31 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
-bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bubujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bubujatv.space###left_out > div:first-child > a:last-child > img
-bubujatv.space###left_out > div:nth-child(2) > a:last-child > img
-bubujatv.space###right_out > div:first-child > a:last-child > img
-bubujatv.space###right_out > div:nth-child(2) > a:last-child > img
-bubujatv.space###left_out > div:last-child > a:last-child > img
-bubujatv.space###right_out > div:last-child > a:last-child > img
-bubujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.bubujatv.space/19/adult.html"]
+! buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+buja-tv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+buja-tv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+buja-tv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+buja-tv.bar###left_out > div:first-child > a:last-child > img
+buja-tv.bar###left_out > div:nth-child(2) > a:last-child > img
+buja-tv.bar###right_out > div:first-child > a:last-child > img
+buja-tv.bar###right_out > div:nth-child(2) > a:last-child > img
+buja-tv.bar###left_out > div:last-child > a:last-child > img
+buja-tv.bar###right_out > div:last-child > a:last-child > img
+buja-tv.bar##li.adult_li:nth-of-type(5) > [href="https://www.buja-tv.bar/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! a17.sonagitv.net & a16.danbimovie.net, dasiboda3.com, dasiboda.site
-||a17.sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
-||a17.sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
-a17.sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
-a16.sonagitv.net###sonag-373785768 > a > img
-||a17.danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
-a17.danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
+! a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+||a19.sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
+||a19.sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
+a19.sonagitv.net###sonag-373785768 > a > img
+a19.sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
+||a19.danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
+||a19.danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
+a19.danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/05/bada.gif
@@ -2414,54 +2415,54 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! funbe37.com
-||funbe37.com/bann/*.gif
-||funbe37.com/bann/*.png
-||funbe37.com/bann/*.jpg
+! funbe38.com
+||funbe38.com/bann/*.gif
+||funbe38.com/bann/*.png
+||funbe38.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
-funbe37.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe37.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe38.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe38.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 !
-! hodu21.net, hoduco.net, hodu81.com, soo.gd/comics
-||hodu21.net/img/banner/*.gif^
-||hodu21.net/img/banner/*.jpg^
-||hodu21.net/img/banner/*.png^
-||hodu21.net/upload/banner/*.gif^
-||hodu21.net/upload/banner/*.png^
-||hodu21.net/upload/banner/*.jpg^
-||hodu21.net/text_click.php?link=3^
-||hodu21.net/text_click.php?link=4^
-hodu21.net##[src="//uchat.ch/hoduhodu"]
-hodu21.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
-hodu21.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu21.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu21.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu21.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
-hodu21.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
-hodu21.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
-hodu21.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
-hodu21.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
-hodu21.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu21.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu21.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
-hodu21.net##div.c_img > [href^="/banner_click.php"]
-hodu21.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu21.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu21.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
-hodu21.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
-hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
-hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-hodu21.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
-hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
-hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
-hodu21.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
-hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
-hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
-hodu21.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
-hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
-hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
-hodu21.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
-hodu21.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
+! hodu22.net, hoduco.net, hodu81.com, soo.gd/comics
+||hodu22.net/img/banner/*.gif^
+||hodu22.net/img/banner/*.jpg^
+||hodu22.net/img/banner/*.png^
+||hodu22.net/upload/banner/*.gif^
+||hodu22.net/upload/banner/*.png^
+||hodu22.net/upload/banner/*.jpg^
+||hodu22.net/text_click.php?link=3^
+||hodu22.net/text_click.php?link=4^
+hodu22.net##[src="//uchat.ch/hoduhodu"]
+hodu22.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu22.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu22.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu22.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu22.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu22.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu22.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu22.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu22.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu22.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu22.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu22.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu22.net##div.c_img > [href^="/banner_click.php"]
+hodu22.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu22.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu22.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu22.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu22.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu22.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu22.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu22.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu22.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu22.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu22.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu22.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu22.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu22.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu22.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu22.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hodu22.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 ||hoduco.net/img/banner/*.gif^
 ||hoduco.net/img/banner/*.jpg^
 ||hoduco.net/img/banner/*.png^
@@ -4056,8 +4057,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 183
-! 26 Feb 2020
+! 184
+! 13 Mar 2020
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -4607,7 +4608,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
