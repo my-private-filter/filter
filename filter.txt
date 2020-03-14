@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.15.00
+! Version: 2020.03.15.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2426,6 +2426,7 @@ newtoki74.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||s10.histats.com/js15_as.js
 funbe38.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe38.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe38.com##div.login-block:last-child > div.login-show
 !
 ! hodu22.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu22.net/img/banner/*.gif^
