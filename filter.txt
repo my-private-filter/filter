@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.27.00
+! Version: 2020.03.27.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2172,12 +2172,16 @@ bujatvtv.bar##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.bar/19/ad
 ||v1.sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
 ||v1.sonagitv.net/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
 ||v1.sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
+||v1.sonagitv.net/sonagi_media/sites/2/2020/03/net360-1.gif
+||v1.sonagitv.net/sonagi_media/sites/2/2020/03/yama360.gif
 v1.sonagitv.net###sonag-373785768 > a > img
 v1.sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
 ||v1.danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/03/powerb360.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/03/iioooiii360.jpg
+||v1.danbimovie.net/danbi_media/sites/3/2020/03/net360.gif
+||v1.danbimovie.net/danbi_media/sites/3/2020/03/yama360.gif
 v1.danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
