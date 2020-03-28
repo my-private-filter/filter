@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.29.03
+! Version: 2020.03.29.04
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2170,12 +2170,12 @@ bujatvtv.bar##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.bar/19/ad
 ! v1.sonagitv.net & v1.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
-||sonagitv.net/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
 ||sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/net360-1.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/yama360.gif
 ||sonagitv.net/sonagi_media/sites/2/*/*/*.gif^
-||sonagitv.net/sonagi_media/sites/2/*/*/*.jpg^
+||sonagitv.net/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
+!||sonagitv.net/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
 sonagitv.net###sonag-373785768 > a > img
 sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
@@ -2185,11 +2185,11 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child
 ||danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
 ||danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
 ||danbimovie.net/danbi_media/sites/3/2020/03/powerb360.gif
-||danbimovie.net/danbi_media/sites/3/2020/03/iioooiii360.jpg
 ||danbimovie.net/danbi_media/sites/3/2020/03/net360.gif
 ||danbimovie.net/danbi_media/sites/3/2020/03/yama360.gif
 ||danbimovie.net/danbi_media/sites/3/*/*/*.gif^
-||danbimovie.net/danbi_media/sites/3/*/*/*.jpg^
+||danbimovie.net/danbi_media/sites/3/2020/03/iioooiii360.jpg
+!||danbimovie.net/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
 danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 danbimovie.net###jtg-38722 > div.modula-items:first-child
 ||dasiboda3.com/dasi_media/*/*/*.jpg^
