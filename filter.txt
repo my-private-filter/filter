@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.03.27.03
+! Version: 2020.03.29.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2178,6 +2178,7 @@ v1.sonagitv.net###sonag-373785768 > a > img
 v1.sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
 v1.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
 v1.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
+v1.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 ||v1.danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/03/powerb360.gif
@@ -2185,6 +2186,24 @@ v1.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.ef
 ||v1.danbimovie.net/danbi_media/sites/3/2020/03/net360.gif
 ||v1.danbimovie.net/danbi_media/sites/3/2020/03/yama360.gif
 v1.danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
+||**.sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
+||**.sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
+||**.sonagitv.net/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
+||**.sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
+||**.sonagitv.net/sonagi_media/sites/2/2020/03/net360-1.gif
+||**.sonagitv.net/sonagi_media/sites/2/2020/03/yama360.gif
+**.sonagitv.net###sonag-373785768 > a > img
+**.sonagitv.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
+**.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
+**.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
+**.sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
+||**.danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
+||**.danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
+||**.danbimovie.net/danbi_media/sites/3/2020/03/powerb360.gif
+||**.danbimovie.net/danbi_media/sites/3/2020/03/iioooiii360.jpg
+||**.danbimovie.net/danbi_media/sites/3/2020/03/net360.gif
+||**.danbimovie.net/danbi_media/sites/3/2020/03/yama360.gif
+**.danbimovie.net##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/06/w_mytown.jpg
 ||dasiboda3.com/dasi_media/2018/05/bada.gif
@@ -2348,6 +2367,48 @@ manamoa32.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > di
 manamoa32.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
 manamoa32.net###thema_wrapper > div.header-notification:first-child > a
 manamoa32.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+! manamoa**.net, manamoa.net, mangashow5.me, https://188.214.132.5
+||manamoa**.net/img/banner/sol/*.gif
+||manamoa**.net/img/banner/jay/*.gif
+manamoa**.net##.ad-banner-widget, .main-banner
+manamoa**.net##.ad-banner-widget, .fit-banner
+manamoa**.net##.ad-banner-widget, .ad-mobile-fit
+manamoa**.net##.ad-banner-widget
+manamoa**.net##.banner
+manamoa**.net##.at-content > p
+manamoa**.net##.fit-banner.ad-banner-widget
+manamoa**.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa**.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa**.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa**.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa**.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa**.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa**.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa**.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa**.net##.at-main.at-col.col-md-9 > p
+manamoa**.net##.clearfix > li.nth-of-type (4)
+manamoa**.net###sidebar_menu_c4 > .is-sub
+manamoa**.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+manamoa**.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
+manamoa**.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
+manamoa**.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
+manamoa**.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
+manamoa**.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
+manamoa**.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
+manamoa**.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa**.net###thema_wrapper > div.header-notification:first-child > a
+manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
 ||manamoa.net/img/banner/sol/*.gif
 ||manamoa.net/img/banner/jay/*.gif
 manamoa.net##.ad-banner-widget, .main-banner
@@ -2425,20 +2486,35 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! newtoki56.com & newtoki56.net
-newtoki56.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki56.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki74.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki74.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+! sora1.la, sora.la
+||sora1.la/modules/manga/skins/default/img/*.gif?2
+||sora1.la/modules/manga/skins/default/img/*.gif
+||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora1.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
+||sora*.la/modules/manga/skins/default/img/*.gif?2
+||sora*.la/modules/manga/skins/default/img/*.gif
+||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! funbe40.com
-||funbe40.com/bann/*.gif
-||funbe40.com/bann/*.png
-||funbe40.com/bann/*.jpg
+! newtoki57.com & newtoki57.net
+newtoki57.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki57.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+!
+! funbe41.com
+||funbe41.com/bann/*.gif
+||funbe41.com/bann/*.png
+||funbe41.com/bann/*.jpg
 ||s10.histats.com/js15_as.js
-funbe40.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe40.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe40.com##div.login-block:last-child > div.login-show
+funbe41.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe41.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe41.com##div.login-block:last-child > div.login-show
+||funbe**.com/bann/*.gif
+||funbe**.com/bann/*.png
+||funbe**.com/bann/*.jpg
+||s10.histats.com/js15_as.js
+funbe**.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe**.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe**.com##div.login-block:last-child > div.login-show
 !
 ! hodu23.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu23.net/img/banner/*.gif^
@@ -2480,6 +2556,45 @@ hodu23.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
 hodu23.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
 hodu23.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
 hodu23.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
+||hodu**.net/img/banner/*.gif^
+||hodu**.net/img/banner/*.jpg^
+||hodu**.net/img/banner/*.png^
+||hodu**.net/upload/banner/*.gif^
+||hodu**.net/upload/banner/*.png^
+||hodu**.net/upload/banner/*.jpg^
+||hodu**.net/text_click.php?link=3^
+||hodu**.net/text_click.php?link=4^
+hodu**.net##[src="//uchat.ch/hoduhodu"]
+hodu**.net###banner_top_center > tbody > tr > td:first-child > iframe:first-child
+hodu**.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu**.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu**.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu**.net###banner_top_center > tbody > tr > td:first-child > a > img:first-child
+hodu**.net###banner_top_center > tbody > tr > td:nth-child(3) > a > img:first-child
+hodu**.net###banner_top_center > tbody > tr > td:last-child > a > img:first-child
+hodu**.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:first-child > a > img
+hodu**.net##div.new_viewer:nth-child(2) > ul.c_img:nth-child(3) > li:last-child > a > img
+hodu**.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu**.net##body > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu**.net##body > ul.c_img:nth-of-type(2) > li > [href^="/banner_click.php"]
+hodu**.net##div.c_img > [href^="/banner_click.php"]
+hodu**.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu**.net##.view > ul.c_img:nth-of-type(1) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu**.net##.view > ul.c_img:nth-of-type(2) > li:nth-of-type(1) > [href^="/banner_click.php"]
+hodu**.net##ul.c_img:nth-of-type(2) > li:nth-of-type(2) > [href^="/banner_click.php"]
+hodu**.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+hodu**.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+hodu**.net##body > table > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+hodu**.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+hodu**.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+hodu**.net##body > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+hodu**.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+hodu**.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+hodu**.net##body > table > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+hodu**.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)
+hodu**.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+hodu**.net##body > table > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+hodu**.net###thema_wrapper > header.at-header > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container > div.at-content > div.view-wrap:nth-child(13) > div.contents.panel.panel-default.view-head.no-attach:last-child > center:nth-child(3) > a:first-child > img:first-child
 ||hoduco.net/img/banner/*.gif^
 ||hoduco.net/img/banner/*.jpg^
 ||hoduco.net/img/banner/*.png^
