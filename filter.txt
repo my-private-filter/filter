@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.10.00
+! Version: 2020.04.10.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -531,6 +531,8 @@ dolwe.me
 ! https://blog.alyac.co.kr/2905
 ||bit.ly/3aSTMeI
 ||app.box.com/s/u3ihmqfw45qg0qk7b4nz391esrw9qay2
+||bit.ly/2Rs7oG2
+||app.box.com/s/6sllxcbclqudizyvegn37sq5py7hvmaz
 !
 ! https://blog.alyac.co.kr/2563
 ||cdn2.onedrive-sd.com/?Jym6qDao5U02JRkuoGxAqYU-sick@daejindmp.co.kr-e8S8vIv06UwW7eXo76sTuN0
