@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.09.00
+! Version: 2020.04.10.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2013,6 +2013,9 @@ cafe.naver.com###plugFloatingBannerDiv
 ||tistory1.daumcdn.net/tistory/2908925/skin/images/anti_abp.png
 
 ! Bad Ad
+! moeni.org
+||moeni.org/img/sponsor/250x80.gif
+!
 ! ani24do.com, ani24zo.com, ani24go.com, ani24show.com, ani24yoi.com, ani24ski.com
 ||i0.wp.com/files2.goodcdnnetwork.com/img/ad1436x100.gif
 ||disqus.com/embed/comments/?base=default&f=ani24^
@@ -2154,24 +2157,24 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
-bujatvtv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatvtv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatvtv.bar###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatvtv.bar###left_out > div:first-child > a:last-child > img
-bujatvtv.bar###left_out > div:nth-child(2) > a:last-child > img
-bujatvtv.bar###right_out > div:first-child > a:last-child > img
-bujatvtv.bar###right_out > div:nth-child(2) > a:last-child > img
-bujatvtv.bar###left_out > div:last-child > a:last-child > img
-bujatvtv.bar###right_out > div:last-child > a:last-child > img
-bujatvtv.bar##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.bar/19/adult.html"]
+! bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatvtv.xyz###left_out > div:first-child > a:last-child > img
+bujatvtv.xyz###left_out > div:nth-child(2) > a:last-child > img
+bujatvtv.xyz###right_out > div:first-child > a:last-child > img
+bujatvtv.xyz###right_out > div:nth-child(2) > a:last-child > img
+bujatvtv.xyz###left_out > div:last-child > a:last-child > img
+bujatvtv.xyz###right_out > div:last-child > a:last-child > img
+bujatvtv.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.xyz/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v2.sonagitv.net & v2.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v3.sonagitv.net & v3.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
