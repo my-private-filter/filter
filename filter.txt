@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.10.01
+! Version: 2020.04.10.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -466,6 +466,15 @@ dolwe.me
 ||morgem.ru/test/get.php?pid=[machine_id^
 ||bonzi.link^
 !
+! 몸캠피싱 C&C (읍믹아재 제보)
+||app.apphome05.xyz^
+!
+! https://blog.alyac.co.kr/2905
+||bit.ly/3aSTMeI
+||app.box.com/s/u3ihmqfw45qg0qk7b4nz391esrw9qay2
+||bit.ly/2Rs7oG2
+||app.box.com/s/6sllxcbclqudizyvegn37sq5py7hvmaz
+!
 ! Alyac Blog 20190603 ~ 20190725
 ||jejuseongahn.org/hboard4/data/file/AccountChooser/confirm
 ||ago2.co.kr/data/file/AccountChooser/download
@@ -527,12 +536,6 @@ dolwe.me
 ||tilesoutlet.com.au/fd/update/index.php
 ||27.102.70.196/1.dat
 ||92.38.135.67/2.dat
-!
-! https://blog.alyac.co.kr/2905
-||bit.ly/3aSTMeI
-||app.box.com/s/u3ihmqfw45qg0qk7b4nz391esrw9qay2
-||bit.ly/2Rs7oG2
-||app.box.com/s/6sllxcbclqudizyvegn37sq5py7hvmaz
 !
 ! https://blog.alyac.co.kr/2563
 ||cdn2.onedrive-sd.com/?Jym6qDao5U02JRkuoGxAqYU-sick@daejindmp.co.kr-e8S8vIv06UwW7eXo76sTuN0
