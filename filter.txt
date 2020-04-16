@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.10.02
+! Version: 2020.04.16.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -7,7 +7,7 @@
 ! @@||wcs.naver.net^ ! uBlock Origin
 ! @@||cc.naver.com/cc^
 ! @@||cs.naver.com^
-ㅇ
+
 ! Naver BGM
 ||cafe.naver.com/BGMPlayer.nhn^
 ||blog.naver.com/common/lib/musicplayer^
@@ -564,6 +564,7 @@ dolwe.me
 ||googledrive-en.com^
 ||windows-cnd-update.com^
 ||windows-update-02-en.com^
+!
 ! https://blog.alyac.co.kr/2572
 ||windows-service-en.com/f2121
 ||windows-service-en.com^
@@ -638,7 +639,7 @@ dolwe.me
 ||ociduancoq.coi.kr^
 !
 
-! Phishing, Smishing
+! Phishing, Smishing(SMS)
 ||bitly.kr/dQpb
 ||hosta.mentc.xyz/44807768716d19^
 ||hosta.mentc.xyz^
@@ -672,6 +673,8 @@ dolwe.me
 ||pay.bunjang38.com^
 ||pay.naver.cafe-169.com/?pd=55472
 ||pay.naver.cafe-169.com^
+||is.gd/ZNozL8^
+||band-jin.com/s11/^
 !
 ! Smishing : https://twitter.com/malwaretracekr
 ! 2019.11.27. ~ 2020.02.20.PM3:28
@@ -1484,6 +1487,9 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||bit.ly/2wFNijY
+||blog-imgs-133.fc2.com/c/a/u/caueavchzyzsgrxevexz/zxrcbwdizztmalrypyrtgayv.html
+||vtnytovasrlesdjqhqsuhbax.tistory.com^
 ||bit.ly/370andB
 ||sgfd9udf0ih32rhiosd.tumblr.com/post/190663250666/fbd09-idfb-u9f3nihesjioh
 ||ester523.tistory.com/entry/BFH9U0D09U8EFQHOUIEWHUIJK
@@ -1939,6 +1945,7 @@ geyiwszevvpiw.tistory.com/entry/%EA%B5%AC%ED%98%9C%EC%84%A0-%EC%95%88%EC%9E%AC%E
 ||192.203.145.170^
 !
 ! https://www.virustotal.com/gui/ip-address/202.182.109.83/relations
+||kicmhdkpggatgsyfwfxa.0pe.kr^
 ||woohuije0807.0pe.kr^
 ||vokhua.com1.kr^
 ||nomu12.0pe.kr^
@@ -2162,24 +2169,24 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
-bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatvtv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatvtv.xyz###left_out > div:first-child > a:last-child > img
-bujatvtv.xyz###left_out > div:nth-child(2) > a:last-child > img
-bujatvtv.xyz###right_out > div:first-child > a:last-child > img
-bujatvtv.xyz###right_out > div:nth-child(2) > a:last-child > img
-bujatvtv.xyz###left_out > div:last-child > a:last-child > img
-bujatvtv.xyz###right_out > div:last-child > a:last-child > img
-bujatvtv.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.xyz/19/adult.html"]
+! bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatvtv.fun###left_out > div:first-child > a:last-child > img
+bujatvtv.fun###left_out > div:nth-child(2) > a:last-child > img
+bujatvtv.fun###right_out > div:first-child > a:last-child > img
+bujatvtv.fun###right_out > div:nth-child(2) > a:last-child > img
+bujatvtv.fun###left_out > div:last-child > a:last-child > img
+bujatvtv.fun###right_out > div:last-child > a:last-child > img
+bujatvtv.fun##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.fun/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v3.sonagitv.net & v3.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v4.sonagitv.net & v4.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2308,48 +2315,48 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 
 ! Bad Ad (2)
-! manamoa33.net, manamoa.net, mangashow5.me, https://188.214.133.5
-||manamoa33.net/img/banner/sol/*.gif^
-||manamoa33.net/img/banner/jay/*.gif^
-manamoa33.net##.ad-banner-widget, .main-banner
-manamoa33.net##.ad-banner-widget, .fit-banner
-manamoa33.net##.ad-banner-widget, .ad-mobile-fit
-manamoa33.net##.ad-banner-widget
-manamoa33.net##.banner
-manamoa33.net##.at-content > p
-manamoa33.net##.fit-banner.ad-banner-widget
-manamoa33.net##div.main-banner.ad-banner-widget:nth-of-type(1)
-manamoa33.net##div.main-banner.ad-banner-widget:nth-of-type(2)
-manamoa33.net##div.main-banner.ad-banner-widget:nth-of-type(3)
-manamoa33.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
-manamoa33.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
-manamoa33.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
-manamoa33.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
-manamoa33.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
-manamoa33.net##.at-main.at-col.col-md-9 > p
-manamoa33.net##.clearfix > li.nth-of-type (4)
-manamoa33.net###sidebar_menu_c4 > .is-sub
-manamoa33.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
-manamoa33.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
-manamoa33.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
-manamoa33.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
-manamoa33.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
-manamoa33.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
-manamoa33.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
-manamoa33.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
-manamoa33.net###thema_wrapper > div.header-notification:first-child > a
-manamoa33.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+! manamoa34.net, manamoa.net, mangashow5.me, https://188.214.134.5
+||manamoa34.net/img/banner/sol/*.gif^
+||manamoa34.net/img/banner/jay/*.gif^
+manamoa34.net##.ad-banner-widget, .main-banner
+manamoa34.net##.ad-banner-widget, .fit-banner
+manamoa34.net##.ad-banner-widget, .ad-mobile-fit
+manamoa34.net##.ad-banner-widget
+manamoa34.net##.banner
+manamoa34.net##.at-content > p
+manamoa34.net##.fit-banner.ad-banner-widget
+manamoa34.net##div.main-banner.ad-banner-widget:nth-of-type(1)
+manamoa34.net##div.main-banner.ad-banner-widget:nth-of-type(2)
+manamoa34.net##div.main-banner.ad-banner-widget:nth-of-type(3)
+manamoa34.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > a:first-child > img
+manamoa34.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:first-child > img
+manamoa34.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:nth-child(3) > img
+manamoa34.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child > a:last-child > img
+manamoa34.net###thema_wrapper > div.at-body:nth-child(4) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > p:first-child
+manamoa34.net##.at-main.at-col.col-md-9 > p
+manamoa34.net##.clearfix > li.nth-of-type (4)
+manamoa34.net###sidebar_menu_c4 > .is-sub
+manamoa34.net##li.off.menu-li:nth-of-type(5) > .nav-height.menu-a
+manamoa34.net##div.div-title-underbar:nth-of-type(5) > .en.font-16.border-navy.div-title-underbar-bold > b
+manamoa34.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(1)
+manamoa34.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(2)
+manamoa34.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(3)
+manamoa34.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(4)
+manamoa34.net##div.widget-box:nth-of-type(6) > .basic-post-list > .post-list > li.ellipsis:nth-of-type(5)
+manamoa34.net###thema_wrapper > nav.at-menu:nth-child(3) > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-float.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(5) > a.menu-a.nav-height:first-child
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.div-title-underbar:nth-child(5) > span.div-title-underbar-bold.border-navy.font-16.en > b
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container.widget-index:last-child > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:first-child > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(2) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(3) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:nth-child(4) > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
+manamoa34.net###thema_wrapper > div.header-notification:first-child > a
+manamoa34.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
 ||manamoa**.net/img/banner/sol/*.gif^
 ||manamoa**.net/img/banner/jay/*.gif^
 manamoa**.net##.ad-banner-widget, .main-banner
@@ -2435,13 +2442,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki58.com & newtoki58.net
-newtoki58.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki58.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki58.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki58.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki58.com/data/banner/*
-newtoki58.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki59.com & newtoki59.net
+newtoki59.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki59.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki59.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki59.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki59.com/data/banner/*
+newtoki59.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2449,7 +2456,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe41.com
+! funbe.life, funbe41.com
+||funbe.life/bann/*.gif^
+||funbe.life/bann/*.png^
+||funbe.life/bann/*.jpg^
+||s10.histats.com/js15_as.js
+funbe.life###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.life##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.life##div.login-block:last-child > div.login-show
 ||funbe41.com/bann/*.gif^
 ||funbe41.com/bann/*.png^
 ||funbe41.com/bann/*.jpg^
