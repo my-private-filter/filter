@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.16.00
+! Version: 2020.04.24.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2169,24 +2169,26 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
-bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatvtv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatvtv.fun###left_out > div:first-child > a:last-child > img
-bujatvtv.fun###left_out > div:nth-child(2) > a:last-child > img
-bujatvtv.fun###right_out > div:first-child > a:last-child > img
-bujatvtv.fun###right_out > div:nth-child(2) > a:last-child > img
-bujatvtv.fun###left_out > div:last-child > a:last-child > img
-bujatvtv.fun###right_out > div:last-child > a:last-child > img
-bujatvtv.fun##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.fun/19/adult.html"]
+!
+! bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+!
+bujatvtv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatvtv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatvtv.site###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatvtv.site###left_out > div:first-child > a:last-child > img
+bujatvtv.site###left_out > div:nth-child(2) > a:last-child > img
+bujatvtv.site###right_out > div:first-child > a:last-child > img
+bujatvtv.site###right_out > div:nth-child(2) > a:last-child > img
+bujatvtv.site###left_out > div:last-child > a:last-child > img
+bujatvtv.site###right_out > div:last-child > a:last-child > img
+bujatvtv.site##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.site/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v4.sonagitv.net & v4.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v5.sonagitv.net & v5.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2442,13 +2444,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki59.com & newtoki59.net
-newtoki59.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki59.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki59.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki59.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki59.com/data/banner/*
-newtoki59.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki60.com & newtoki60.net
+newtoki60.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki60.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki60.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki60.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki60.com/data/banner/*
+newtoki60.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2457,13 +2459,6 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
 ! funbe.life, funbe41.com
-||funbe.life/bann/*.gif^
-||funbe.life/bann/*.png^
-||funbe.life/bann/*.jpg^
-||s10.histats.com/js15_as.js
-funbe.life###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.life##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.life##div.login-block:last-child > div.login-show
 ||funbe41.com/bann/*.gif^
 ||funbe41.com/bann/*.png^
 ||funbe41.com/bann/*.jpg^
@@ -2478,6 +2473,13 @@ funbe41.com##div.login-block:last-child > div.login-show
 funbe**.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe**.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 funbe**.com##div.login-block:last-child > div.login-show
+||funbe.life/bann/*.gif^
+||funbe.life/bann/*.png^
+||funbe.life/bann/*.jpg^
+||s10.histats.com/js15_as.js
+funbe.life###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.life##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.life##div.login-block:last-child > div.login-show
 !
 ! hodu23.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu23.net/img/banner/*.gif^
@@ -4646,7 +4648,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
