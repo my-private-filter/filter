@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.24.00
+! Version: 2020.04.26.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1353,6 +1353,10 @@ dolwe.me
 ||ljeojelqiibylxdkbjcerlkhq.ddv500.xyz/7477.html
 ||103.119.44.236^
 !
+! https://www.virustotal.com/gui/ip-address/103.215.80.85/detection
+||navertv10248854521.o-r.kr^
+||103.215.80.85^
+!
 ! https://www.virustotal.com/gui/ip-address/114.42.12.246/relations
 ||ktoic7.fndik.xyz^
 ||doujc1.fndik.xyz^
@@ -1487,6 +1491,8 @@ dolwe.me
 ||172.247.116.95^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0wO9t
+||vtnytovasrlesdjqhqsuhbax.tistory.com/entry/아직-등록된-글이-없습니다
 ||bit.ly/2wFNijY
 ||blog-imgs-133.fc2.com/c/a/u/caueavchzyzsgrxevexz/zxrcbwdizztmalrypyrtgayv.html
 ||vtnytovasrlesdjqhqsuhbax.tistory.com^
