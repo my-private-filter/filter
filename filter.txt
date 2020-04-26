@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.04.26.00
+! Version: 2020.04.26.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -4101,8 +4101,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 185
-! 18 Mar 2020
+! 186
+! 24 Mar 2020
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -4654,7 +4654,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
