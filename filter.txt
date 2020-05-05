@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.05.01.00
+! Version: 2020.05.05.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1280,6 +1280,9 @@ dolwe.me
 ||kicnidkphhathsygwfyanhgdmtrlvqmtyppjcpbhofngivwvsb.ckworld.xyz^
 ||ckworld.xyz^
 !
+! https://www.virustotal.com/gui/ip-address/103.96.75.178/relations
+||noggin0111xxxaax.0pe.kr^
+!
 ! https://www.virustotal.com/gui/ip-address/103.118.221.147/relations
 ||bdjp912hdiewfwpq.nover.cloud^
 ||gdsoisdfgu9023oihfdoiw.nover.cloud^
@@ -1387,6 +1390,9 @@ dolwe.me
 ||dbvgbwdittmfteksirkmztspywitfi.youtuba.top^
 ||sqlvqlsskjdwkvbizibdqkjgp.youtuba.top^
 !
+! https://www.virustotal.com/gui/ip-address/144.48.242.253/relations
+||asdlfkjwefk123sdfdfh.0pe.kr^
+!
 ! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
 ||0395jz.cn^
 ||g123.ga^
@@ -1476,6 +1482,15 @@ dolwe.me
 ||naver1024.com^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0wXDT
+||gajawater.tistory.com/4
+||gajawater.tistory.com^
+||m.site.naver.com/0wXBC
+||bit.ly/2zaaPLm
+||nshebge.tumblr.com/?1
+||m.site.naver.com/0wX38
+||zwrbwszevvpivgnuemfhuonk.tistory.com/entry/환영합니다
+||zwrbwszevvpivgnuemfhuonk.tistory.com^
 ||cutt.ly/MygSKv0
 ||bit.ly/3aK6Q51
 ||m.site.naver.com/0wP7q
@@ -2163,18 +2178,18 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
 !
-! bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-bujatvtv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatvtv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatvtv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatvtv.space###left_out > div:first-child > a:last-child > img
-bujatvtv.space###left_out > div:nth-child(2) > a:last-child > img
-bujatvtv.space###right_out > div:first-child > a:last-child > img
-bujatvtv.space###right_out > div:nth-child(2) > a:last-child > img
-bujatvtv.space###left_out > div:last-child > a:last-child > img
-bujatvtv.space###right_out > div:last-child > a:last-child > img
-bujatvtv.space##li.adult_li:nth-of-type(5) > [href="https://www.bujatvtv.space/19/adult.html"]
+bujabujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujabujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujabujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujabujatv.xyz###left_out > div:first-child > a:last-child > img
+bujabujatv.xyz###left_out > div:nth-child(2) > a:last-child > img
+bujabujatv.xyz###right_out > div:first-child > a:last-child > img
+bujabujatv.xyz###right_out > div:nth-child(2) > a:last-child > img
+bujabujatv.xyz###left_out > div:last-child > a:last-child > img
+bujabujatv.xyz###right_out > div:last-child > a:last-child > img
+bujabujatv.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujabujatv.xyz/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
@@ -2429,10 +2444,10 @@ mangashow*.me##.banner
 ! hiyobi.me, xn--9w3b15m8vo.asia
 ||xn--9w3b15m8vo.asia/dist/tjqjql/6duck.jpg
 !
-! sora1.la, sora.la
-||sora1.la/modules/manga/skins/default/img/*.gif?2^
-||sora1.la/modules/manga/skins/default/img/*.gif^
-||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora1.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
+! sora2.la, sora1.la, sora.la
+||sora2.la/modules/manga/skins/default/img/*.gif?2^
+||sora2.la/modules/manga/skins/default/img/*.gif^
+||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora2.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 ||sora*.la/modules/manga/skins/default/img/*.gif?2^
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
@@ -2451,8 +2466,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.info, funbe.life, funbe41.com
+! funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.vip/bann/*.gif^
+||funbe.vip/bann/*.png^
+||funbe.vip/bann/*.jpg^
+funbe.vip###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.vip##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.vip##div.login-block:last-child > div.login-show
 ||funbe41.com/bann/*.gif^
 ||funbe41.com/bann/*.png^
 ||funbe41.com/bann/*.jpg^
