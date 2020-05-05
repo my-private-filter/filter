@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.05.05.00
+! Version: 2020.05.05.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1482,6 +1482,8 @@ dolwe.me
 ||naver1024.com^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0wXD5
+||zwrbwszevvpivgnuemfhuonk.tistory.com/entry/안내-구글-서치콘솔-플러그인-오픈
 ||m.site.naver.com/0wXDT
 ||gajawater.tistory.com/4
 ||gajawater.tistory.com^
