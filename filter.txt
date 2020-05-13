@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.05.05.01
+! Version: 2020.05.13.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -675,6 +675,10 @@ dolwe.me
 ||pay.naver.cafe-169.com^
 ||is.gd/ZNozL8^
 ||band-jin.com/s11/^
+||sites.google.com/view/software-adword-developement/home?gclid=Cj0KCQjw-r71BRDuARIsAB7i_QNYZ7UK4l8cSq6RgaxGszdHqW6mks25sR4BniQaC6Mr8Ne10rXp3BAaAojWEALw_wcB&gclsrc=aw.ds
+||vk.com/away.php?to=https%3A%2F%2Fappktnodgmsk.com%2Fbastard&post=491475663_271&cc_key=
+||where.name/n345d
+||app.box.com/s/ta4pwehhnmqwa1vmvcuc1b0pcheuu305
 !
 ! Smishing : https://twitter.com/malwaretracekr
 ! 2019.11.27. ~ 2020.02.20.PM3:28
@@ -2198,7 +2202,7 @@ bujabujatv.xyz##li.adult_li:nth-of-type(5) > [href="https://www.bujabujatv.xyz/1
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v6.sonagitv.net & v6.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v7.sonagitv.net & v7.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.net/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.net/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2454,13 +2458,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki60.com & newtoki60.net
-newtoki60.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki60.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki60.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki60.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki60.com/data/banner/*
-newtoki60.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki61.com & newtoki61.net
+newtoki61.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki61.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki61.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki61.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki61.com/data/banner/*
+newtoki61.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2468,8 +2472,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.care/bann/*.gif^
+||funbe.care/bann/*.png^
+||funbe.care/bann/*.jpg^
+funbe.care###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.care##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.care##div.login-block:last-child > div.login-show
 ||funbe.vip/bann/*.gif^
 ||funbe.vip/bann/*.png^
 ||funbe.vip/bann/*.jpg^
