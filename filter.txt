@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.05.31.00
+! Version: 2020.06.01.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -679,6 +679,11 @@ dolwe.me
 ||vk.com/away.php?to=https%3A%2F%2Fappktnodgmsk.com%2Fbastard&post=491475663_271&cc_key=
 ||where.name/n345d
 ||app.box.com/s/ta4pwehhnmqwa1vmvcuc1b0pcheuu305
+!
+! 스미싱 : 가짜 휴대폰 본인인증
+||kr-ys.com^
+||ex-kr.com^
+||capeyo.net^
 !
 ! Smishing : https://twitter.com/malwaretracekr
 ! 2019.11.27. ~ 2020.02.20.PM3:28
@@ -2500,8 +2505,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.me/bann/*.gif^
+||funbe.me/bann/*.png^
+||funbe.me/bann/*.jpg^
+funbe.me###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.me##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.me##div.login-block:last-child > div.login-show
 ||funbe.live/bann/*.gif^
 ||funbe.live/bann/*.png^
 ||funbe.live/bann/*.jpg^
