@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.03.00
+! Version: 2020.06.03.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2803,6 +2803,32 @@ toktok.club###view_method
 pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com###hotVideosSection > .alpha
+!
+! yaburi28.men
+||www.yaburi28.men/data/file/ads_link/*.gif^
+||www.yaburi28.men/data/file/upso_primeum/*.gif^
+yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.on:nth-child(8)
+yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(2)
+yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(8)
+yaburi28.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:first-child
+yaburi28.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:nth-child(7)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:first-child
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(2)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(3)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(4)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(5)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(6)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(7)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(8)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:nth-child(45)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(46)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(47)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(48)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(49)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(50)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(51)
+yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:last-child
+!
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif^
 ! rank19.com
