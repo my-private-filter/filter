@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.03.01
+! Version: 2020.06.03.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2805,8 +2805,10 @@ pornhub.com##.premiumPromoBannerWrapper
 pornhub.com###hotVideosSection > .alpha
 !
 ! yaburi28.men
-||www.yaburi28.men/data/file/ads_link/*.gif^
-||www.yaburi28.men/data/file/upso_primeum/*.gif^
+||yaburi28.men/data/file/ads_link/*.gif^
+||yaburi28.men/data/file/ads_link/*.jpg^
+||yaburi28.men/data/file/upso_primeum/*.gif^
+||yaburi28.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
 yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.on:nth-child(8)
 yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(2)
 yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(8)
@@ -2828,6 +2830,43 @@ yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widge
 yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(50)
 yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(51)
 yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:last-child
+yaburi28.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
+yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
+yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
+yaburi28.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+||yaburi**.men/data/file/ads_link/*.gif^
+||yaburi**.men/data/file/ads_link/*.jpg^
+||yaburi**.men/data/file/upso_primeum/*.gif^
+||yaburi**.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
+yaburi**.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.on:nth-child(8)
+yaburi**.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(2)
+yaburi**.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(8)
+yaburi**.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:first-child
+yaburi**.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:nth-child(7)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:first-child
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(2)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(3)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(4)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(5)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(6)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(7)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(8)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:nth-child(45)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(46)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(47)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(48)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(49)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(50)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(51)
+yaburi**.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:last-child
+yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
+yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
+yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
+yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 !
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif^
@@ -3168,19 +3207,6 @@ nobra2.net##.webhard_bt
 ||nuna365.com/data/banner/*
 ||nuna365.com/data/editor/1806/20180624193046_94bbd3517a98cc08748c423272373b10_2hrj.png
 ||nuna365.com/img/footer-img.gif
-! yaburi00.men
-||yaburi00.men/data/file/ads_link/2728309618_Fy6oOCfx_ae945bf8886ce7a62cdf9616e1c2c3a59a39ea7f.gif
-||yaburi00.men/data/file/ads_link/*.gif
-||yaburi00.men/data/file/ads_link/thumb-2890202968_vU5pqsA4_f6f954a8f1ff81c2ddad84bac4f18ce26b7bc0e1_600x150.jpg
-||yaburi00.men/data/file/ads_link/2890173825_sSlARdFk_ae803f183f18b62f20b3c84995e11fcaaed5c7e8.jpg
-||yaburi00.men/data/file/ads_link/*.jpg
-||yaburi00.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
-yaburi00.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
-yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
-yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
-yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
-yaburi00.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
-yaburi00.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 ! mimi123.net
 ||78.media.tumblr.com/ac4c70862a7aba9b5f0659f25b7dfd53/tumblr_ox5vhvpEGF1w57wq2o1_400.gif
 ||78.media.tumblr.com/7bf3d00b289ed60ca01fed8a3c5c30f6/tumblr_ox5wzs0egS1w57wq2o1_400.gif
