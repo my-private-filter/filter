@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.03.02
+! Version: 2020.06.05.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -684,6 +684,12 @@ dolwe.me
 ||kr-ys.com^
 ||ex-kr.com^
 ||capeyo.net^
+!
+! 리다이렉트 - 설문조사 사칭
+||theyou-lost.icu^
+||i-took-eyes.xyz^
+||greatprize-here2.life^
+||contambeat6.live^
 !
 ! Smishing : https://twitter.com/malwaretracekr
 ! 2019.11.27. ~ 2020.02.20.PM3:28
@@ -2491,13 +2497,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki63.com & newtoki63.net
-newtoki63.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki63.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki63.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki63.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki63.com/data/banner/*
-newtoki63.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki64.com & newtoki64.net
+newtoki64.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki64.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki64.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki64.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki64.com/data/banner/*
+newtoki64.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
