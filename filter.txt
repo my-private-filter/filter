@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.07.00
+! Version: 2020.06.07.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2510,8 +2510,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.page/bann/*.gif^
+||funbe.page/bann/*.png^
+||funbe.page/bann/*.jpg^
+funbe.page###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.page##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.page##div.login-block:last-child > div.login-show
 ||funbe.me/bann/*.gif^
 ||funbe.me/bann/*.png^
 ||funbe.me/bann/*.jpg^
@@ -2536,18 +2542,6 @@ funbe.care##div.login-block:last-child > div.login-show
 funbe.vip###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe.vip##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 funbe.vip##div.login-block:last-child > div.login-show
-||funbe41.com/bann/*.gif^
-||funbe41.com/bann/*.png^
-||funbe41.com/bann/*.jpg^
-funbe41.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe41.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe41.com##div.login-block:last-child > div.login-show
-||funbe**.com/bann/*.gif^
-||funbe**.com/bann/*.png^
-||funbe**.com/bann/*.jpg^
-funbe**.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe**.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe**.com##div.login-block:last-child > div.login-show
 ||funbe.info/bann/*.gif^
 ||funbe.info/bann/*.png^
 ||funbe.info/bann/*.jpg^
@@ -2560,6 +2554,24 @@ funbe.info##div.login-block:last-child > div.login-show
 funbe.life###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe.life##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 funbe.life##div.login-block:last-child > div.login-show
+||funbe.*/bann/*.gif^
+||funbe.*/bann/*.png^
+||funbe.*/bann/*.jpg^
+funbe.*###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.*##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.*##div.login-block:last-child > div.login-show
+||funbe41.com/bann/*.gif^
+||funbe41.com/bann/*.png^
+||funbe41.com/bann/*.jpg^
+funbe41.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe41.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe41.com##div.login-block:last-child > div.login-show
+||funbe**.com/bann/*.gif^
+||funbe**.com/bann/*.png^
+||funbe**.com/bann/*.jpg^
+funbe**.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe**.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe**.com##div.login-block:last-child > div.login-show
 !
 ! hodu23.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu23.net/img/banner/*.gif^
