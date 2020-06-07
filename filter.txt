@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.05.00
+! Version: 2020.06.07.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2202,7 +2202,6 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-!
 ! bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
 bujabujatv.online###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
@@ -2221,7 +2220,7 @@ bujabujatv.online##li.adult_li:nth-of-type(5) > [href="https://www.bujabujatv.on
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v2.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v3.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2805,10 +2804,9 @@ toktok.club###view_method
 !
 
 ! Bad Ad (3)
-! pornhub.com
-pornhub.com##.removeAdLink
-pornhub.com##.premiumPromoBannerWrapper
-pornhub.com###hotVideosSection > .alpha
+! totodomain.net
+||totodomain.net/img/*.gif^
+||totodomain.net/data/by_banner/*.gif^
 !
 ! yaburi28.men
 ||yaburi28.men/data/file/ads_link/*.gif^
@@ -2873,6 +2871,93 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > di
 yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
 yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+!
+! bame29.net
+||bame29.net/img/*/*.gif^
+||bame**.net/img/*/*.gif^
+!
+! ddaltime34.com
+||ddaltime34.com/img/*/*.gif^
+||ddaltime**.com/img/*/*.gif^
+!
+! dogjoa28.net
+||dogjoa28.net/img/*/*.gif^
+||dogjoa**.net/img/*/*.gif^
+!
+! yadong12.net
+||yadong12.net/img/*.png^
+||yadong12.net/Uploads/images/*/*.gif^
+||yadong12.net/Uploads/images/*/*.png^
+||yadong**.net/img/*.png^
+||yadong**.net/Uploads/images/*/*.gif^
+||yadong**.net/Uploads/images/*/*.png^
+!
+! opcity1.com
+||opcity1.com/data/file/main/*.jpg^
+||opcity1.com/data/file/main/*.gif^
+||opcity*.com/data/file/main/*.jpg^
+||opcity*.com/data/file/main/*.gif^
+!
+! sxxk1.com
+||sxxk1.com/img/bn/*.gif^
+||sxxk1.com/img/t1/*.gif^
+||sxxk1.com/img/b2/*.gif^
+||sxxk1.com/img/*.jpg^
+||sxxk1.com/img/*.gif^
+||sxxk*.com/img/bn/*.gif^
+||sxxk*.com/img/t1/*.gif^
+||sxxk*.com/img/b2/*.gif^
+||sxxk*.com/img/*.jpg^
+||sxxk*.com/img/*.gif^
+!
+! sorabada18.com
+||66.media.tumblr.com/*/*.gif^$domain=sorabada18.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada18.com
+||78.media.tumblr.com/*/*.png^$domain=sorabada18.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada18.com
+||66.media.tumblr.com/*/*.gif^$domain=sorabada**.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada**.com
+||78.media.tumblr.com/*/*.png^$domain=sorabada**.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada**.com
+!
+! 19bam06.xyz
+||19bam06.xyz/banner/img/*.gif^
+||19bam06.xyz/banner/img/*.jpg^
+||19bam06.xyz/img/bw/*.gif^
+||19bam06.xyz/img/*.gif^
+||19bam06.xyz/data/file/qka11/*.gif^
+||19bam**.xyz/banner/img/*.gif^
+||19bam**.xyz/banner/img/*.jpg^
+||19bam**.xyz/img/bw/*.gif^
+||19bam**.xyz/img/*.gif^
+||19bam**.xyz/data/file/qka11/*.gif^
+!
+! msanyang13.com
+||msanyang13.com/har/*.gif^
+||msanyang**.com/har/*.gif^
+!
+! duri47.com
+||i.imgur.com/*.gif^$domain=duri47.com
+||i.imgur.com/*.gif^$domain=duri**.com
+!
+! ddalja1.com
+||bananatv10.com/data/apms/background/*.gif^
+||bananatv10.com/data/apms/background/*.jpg^
+||ddalja1.com/data/apms/background/*.gif^
+||ddalja1.com/data/apms/background/*.jpg^
+||ddalja1.com/img/*.gif^
+||bananatv**.com/data/apms/background/*.gif^
+||bananatv**.com/data/apms/background/*.jpg^
+||ddalja*.com/data/apms/background/*.gif^
+||ddalja*.com/data/apms/background/*.jpg^
+||ddalja*.com/img/*.gif^
+!
+
+! Bad Ad (4)
+! pornhub.com
+pornhub.com##.removeAdLink
+pornhub.com##.premiumPromoBannerWrapper
+pornhub.com###hotVideosSection > .alpha
 !
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif^
