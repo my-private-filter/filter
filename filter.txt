@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.07.01
+! Version: 2020.06.08.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2816,11 +2816,15 @@ toktok.club###view_method
 !
 
 ! Bad Ad (3)
-! totodomain.net
+! https://totodomain.net
 ||totodomain.net/img/*.gif^
 ||totodomain.net/data/by_banner/*.gif^
+||totodomain.net/data/editor/*/*.png^
+||totodomain.net/data/file/casinodomain/thumb-*_*_*_*.png^
+||totodomain.net/data/file/totodomain/thumb-*_*_*_*.png^
+totodomain.net###wrapper > div.left_menu:nth-child(2) > div.popular_menu:nth-child(2) > section.MainTop3:first-child > div.row
 !
-! yaburi28.men
+! https://yaburi28.men
 ||yaburi28.men/data/file/ads_link/*.gif^
 ||yaburi28.men/data/file/ads_link/*.jpg^
 ||yaburi28.men/data/file/upso_primeum/*.gif^
@@ -2884,19 +2888,19 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > di
 yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
 yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 !
-! bame29.net
+! https://bame29.net
 ||bame29.net/img/*/*.gif^
 ||bame**.net/img/*/*.gif^
 !
-! ddaltime34.com
+! https://ddaltime34.com
 ||ddaltime34.com/img/*/*.gif^
 ||ddaltime**.com/img/*/*.gif^
 !
-! dogjoa28.net
+! https://dogjoa28.net
 ||dogjoa28.net/img/*/*.gif^
 ||dogjoa**.net/img/*/*.gif^
 !
-! yadong12.net
+! https://yadong12.net
 ||yadong12.net/img/*.png^
 ||yadong12.net/Uploads/images/*/*.gif^
 ||yadong12.net/Uploads/images/*/*.png^
@@ -2904,13 +2908,13 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||yadong**.net/Uploads/images/*/*.gif^
 ||yadong**.net/Uploads/images/*/*.png^
 !
-! opcity1.com
+! https://opcity1.com
 ||opcity1.com/data/file/main/*.jpg^
 ||opcity1.com/data/file/main/*.gif^
 ||opcity*.com/data/file/main/*.jpg^
 ||opcity*.com/data/file/main/*.gif^
 !
-! sxxk1.com
+! https://sxxk1.com
 ||sxxk1.com/img/bn/*.gif^
 ||sxxk1.com/img/t1/*.gif^
 ||sxxk1.com/img/b2/*.gif^
@@ -2922,7 +2926,7 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||sxxk*.com/img/*.jpg^
 ||sxxk*.com/img/*.gif^
 !
-! sorabada18.com
+! https://sorabada18.com
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada18.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada18.com
 ||78.media.tumblr.com/*/*.png^$domain=sorabada18.com
@@ -2932,7 +2936,7 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||78.media.tumblr.com/*/*.png^$domain=sorabada**.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada**.com
 !
-! 19bam06.xyz
+! https://19bam06.xyz
 ||19bam06.xyz/banner/img/*.gif^
 ||19bam06.xyz/banner/img/*.jpg^
 ||19bam06.xyz/img/bw/*.gif^
@@ -2948,11 +2952,11 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||msanyang13.com/har/*.gif^
 ||msanyang**.com/har/*.gif^
 !
-! duri47.com
+! https://duri47.com
 ||i.imgur.com/*.gif^$domain=duri47.com
 ||i.imgur.com/*.gif^$domain=duri**.com
 !
-! ddalja1.com
+! https://ddalja1.com
 ||bananatv10.com/data/apms/background/*.gif^
 ||bananatv10.com/data/apms/background/*.jpg^
 ||ddalja1.com/data/apms/background/*.gif^
