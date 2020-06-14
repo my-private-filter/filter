@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/joyfuI/search-link-fix/master/search-link-fix.
 
 Adblock Warning Removal List :
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+Anti-circumvention (ABP filters) : 
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
