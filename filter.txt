@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.14.00
+! Version: 2020.06.14.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -22,6 +22,11 @@ section.cafe.naver.com###content > div.home_user:nth-child(2) > div.home_recent:
 section.cafe.naver.com###content > div.home_theme:last-child > div.common_scroll_box:nth-child(2)
 section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_frame:last-child > ul.common_list:first-child
 section.cafe.naver.com###content > div.home_theme:last-child > div.home_theme_frame:last-child > div.common_page:last-child
+!
+
+! 삼성 날씨 앱 광고
+||dr9xthplobr1x.cloudfront.net^
+||www.kr-weathernews.com/smart/MWEB/img/life/banner*
 !
 
 ! KakaoTalk App
