@@ -5,3 +5,7 @@ https://easylist-downloads.adblockplus.org/koreanlist.txt
 https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js
 
 https://raw.githubusercontent.com/joyfuI/search-link-fix/master/search-link-fix.user.js
+
+---
+
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
