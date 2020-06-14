@@ -8,4 +8,5 @@ https://raw.githubusercontent.com/joyfuI/search-link-fix/master/search-link-fix.
 
 ---
 
+Adblock Warning Removal List
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
