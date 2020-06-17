@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.14.01
+! Version: 2020.06.17.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -695,6 +695,11 @@ dolwe.me
 ||i-took-eyes.xyz^
 ||greatprize-here2.life^
 ||contambeat6.live^
+!
+! 유명 마스크 판매 업체를 위장하여 개인정보를 탈취하는 가짜 사이트
+! https://blog.alyac.co.kr/3060
+||welkeesmall.com^
+||106.249.25.33^
 !
 ! Smishing : https://twitter.com/malwaretracekr
 ! 2019.11.27. ~ 2020.02.20.PM3:28
@@ -2207,18 +2212,18 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-bujabujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujabujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujabujatv.space###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujabujatv.space###left_out > div:first-child > a:last-child > img
-bujabujatv.space###left_out > div:nth-child(2) > a:last-child > img
-bujabujatv.space###right_out > div:first-child > a:last-child > img
-bujabujatv.space###right_out > div:nth-child(2) > a:last-child > img
-bujabujatv.space###left_out > div:last-child > a:last-child > img
-bujabujatv.space###right_out > div:last-child > a:last-child > img
-bujabujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.bujabujatv.space/19/adult.html"]
+bujatv.art###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv.art###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv.art###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv.art###left_out > div:first-child > a:last-child > img
+bujatv.art###left_out > div:nth-child(2) > a:last-child > img
+bujatv.art###right_out > div:first-child > a:last-child > img
+bujatv.art###right_out > div:nth-child(2) > a:last-child > img
+bujatv.art###left_out > div:last-child > a:last-child > img
+bujatv.art###right_out > div:last-child > a:last-child > img
+bujatv.art##li.adult_li:nth-of-type(5) > [href="https://www.bujatv.art/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
