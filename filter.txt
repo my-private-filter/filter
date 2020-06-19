@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.19.00
+! Version: 2020.06.19.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2060,6 +2060,10 @@ cafe.naver.com###plugFloatingBannerDiv
 ||g-plug.pstatic.net/*_*/*_*/*.jpg^
 ||g-plug.pstatic.net/*_*/*_*/*.png^
 ||g-plug.pstatic.net/*_*/*_*/*.gif^
+!
+! https://robintrack.net
+robintrack.net###root > div.bp3-dark > div:first-child > iframe:first-child
+||robintrack.net/thcx/970_250/index.html
 !
 
 ! Anti Ad
