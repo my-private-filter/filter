@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.06.19.01
+! Version: 2020.06.20.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2526,8 +2526,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.shop/bann/*.gif^
+||funbe.shop/bann/*.png^
+||funbe.shop/bann/*.jpg^
+funbe.shop###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.shop##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.shop##div.login-block:last-child > div.login-show
 ||funbe.icu/bann/*.gif^
 ||funbe.icu/bann/*.png^
 ||funbe.icu/bann/*.jpg^
@@ -2848,6 +2854,8 @@ toktok.club###view_method
 totodomain.net###wrapper > div.left_menu:nth-child(2) > div.popular_menu:nth-child(2) > section.MainTop3:first-child > div.row
 !
 ! https://xhamster13.com
+xhamster13.com##.clipstore-results
+xhamster13.com##.wih-cams-widget, .mobile-bottom, .rendered
 xhamster13.com##div.main-wrap:nth-child(2) > header.no-popunder.promo:first-child > a.promo-message.promo-message__banner.promo-message__with-button:last-child
 xhamster13.com##div.main-wrap:nth-child(3) > a.promo-message.promo-message__banner.promo-message__with-button:nth-child(6)
 xhamster13.com##div.main-wrap:nth-child(3) > div.wih-spot-container.wih-spot-container--top:nth-child(8)
@@ -3001,11 +3009,8 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ! pornhub.com
 pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
-pornhub.com###hotVideosSection > .alpha
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
-pornhub.com##div.premiumPromoBannerWrapper:nth-child(5) > div.container > div.premiumPromoBanner > a.promoBannerClassAnchor.removeAdLink > img.premiumPromoBannerImage.js-premiumPromoBannerImage:last-child
-pornhub.com##div.wrapper:nth-child(8) > div.premiumPromoBannerWrapper:nth-child(2) > div.container > div.premiumPromoBanner > a.promoBannerClassAnchor.removeAdLink > img.premiumPromoBannerImage:last-child
-||ci.phncdn.com/pics/promobanners/000/002/311/1589571564.png?cache=2020061802$domain=pornhub.com
+pornhub.com###hotVideosSection > .alpha
 !
 ! dogjoa.net
 ||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif^
