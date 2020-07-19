@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.07.12.00
+! Version: 2020.07.19.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -906,6 +906,9 @@ dolwe.me
 ||bb.cjlogisdm.cn^
 ||cjlogisdm.cn^
 !
+! https://www.virustotal.com/gui/ip-address/43.252.228.135/relations
+||sea5148.0pe.kr^
+!
 ! https://www.virustotal.com/gui/ip-address/45.87.80.116/relations
 ||cafe380642.ml^
 !
@@ -1419,6 +1422,9 @@ dolwe.me
 ||asdlkfjfnm2345iregmn.o-r.kr^
 ||asdlfkjwefk123sdfdfh.0pe.kr^
 !
+! https://www.virustotal.com/gui/ip-address/156.230.56.87/relations
+||gfkois.kro.kr^
+!
 ! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
 ||0395jz.cn^
 ||g123.ga^
@@ -1508,6 +1514,11 @@ dolwe.me
 ||naver1024.com^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0CrFT
+||iskstv.tistory.com/entry/gbmikopfdvjoipsdjopkpojopjoipdsfihohjipo90urjpiogr09u92jipsdf
+||iskstv.tistory.com^
+||sea5148.tistory.com/8
+||sea5148.tistory.com^
 ||m.site.naver.com/0x8HI
 ||zkah1234.tistory.com/5
 ||m.site.naver.com/0x8Hz
@@ -2217,25 +2228,25 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-bujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv.club###left_out > div:first-child > a:last-child > img
-bujatv.club###left_out > div:nth-child(2) > a:last-child > img
-bujatv.club###right_out > div:first-child > a:last-child > img
-bujatv.club###right_out > div:nth-child(2) > a:last-child > img
-bujatv.club###left_out > div:last-child > a:last-child > img
-bujatv.club###right_out > div:last-child > a:last-child > img
-bujatv.club##li.adult_li:nth-of-type(5) > [href="https://www.bujatv.club/19/adult.html"]
+bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+bujatv.link###left_out > div:first-child > a:last-child > img
+bujatv.link###left_out > div:nth-child(2) > a:last-child > img
+bujatv.link###right_out > div:first-child > a:last-child > img
+bujatv.link###right_out > div:nth-child(2) > a:last-child > img
+bujatv.link###left_out > div:last-child > a:last-child > img
+bujatv.link###right_out > div:last-child > a:last-child > img
+bujatv.link##li.adult_li:nth-of-type(5) > [href="https://www.bujatv.link/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v8.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v9.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2512,13 +2523,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki67.com & newtoki67.net
-newtoki67.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki67.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki67.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki67.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki67.com/data/banner/*
-newtoki67.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki68.com & newtoki68.net
+newtoki68.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki68.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki68.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki68.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki68.com/data/banner/*
+newtoki68.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2526,8 +2537,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
+||funbe.run/bann/*.gif^
+||funbe.run/bann/*.png^
+||funbe.run/bann/*.jpg^
+funbe.run###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.run##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.run##div.login-block:last-child > div.login-show
 ||funbe.news/bann/*.gif^
 ||funbe.news/bann/*.png^
 ||funbe.news/bann/*.jpg^
@@ -2878,38 +2895,38 @@ xhamster13.com##div.main-wrap:nth-child(2) > header.no-popunder.promo:first-chil
 xhamster13.com##div.main-wrap:nth-child(3) > a.promo-message.promo-message__banner.promo-message__with-button:nth-child(6)
 xhamster13.com##div.main-wrap:nth-child(3) > div.wih-spot-container.wih-spot-container--top:nth-child(8)
 !
-! https://yaburi28.men
-||yaburi28.men/data/file/ads_link/*.gif^
-||yaburi28.men/data/file/ads_link/*.jpg^
-||yaburi28.men/data/file/upso_primeum/*.gif^
-||yaburi28.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
-yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.on:nth-child(8)
-yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(2)
-yaburi28.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(8)
-yaburi28.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:first-child
-yaburi28.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:nth-child(7)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:first-child
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(2)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(3)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(4)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(5)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(6)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(7)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(8)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:nth-child(45)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(46)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(47)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(48)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(49)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(50)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(51)
-yaburi28.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:last-child
-yaburi28.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
-yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
-yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
-yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
-yaburi28.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
-yaburi28.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+! https://yaburi30.men
+||yaburi30.men/data/file/ads_link/*.gif^
+||yaburi30.men/data/file/ads_link/*.jpg^
+||yaburi30.men/data/file/upso_primeum/*.gif^
+||yaburi30.men/thema/YABURI_BASIC_THEME/img/banner/c_mo.jpg
+yaburi30.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.on:nth-child(8)
+yaburi30.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(2)
+yaburi30.men###undefined-sticky-wrapper > nav.at-menu > div.pc-menu:first-child > div.nav-visible:nth-child(2) > div.at-container > div.nav-top.nav-both.nav-slide > ul.menu-ul > li.menu-li.off:nth-child(8)
+yaburi30.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:first-child
+yaburi30.men###menu-all > div.at-container.table-responsive > table.table:first-child > tbody > tr > td.off:nth-child(7)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:first-child
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(2)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(3)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(4)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(5)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(6)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(7)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(8)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-head:nth-child(45)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(46)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(47)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(48)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(49)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(50)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:nth-child(51)
+yaburi30.men###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-2.pull-left.at-col.at-side.ybm:last-child > div.widget-box:nth-child(2) > div.yb-category > div.ca-sub1.off:last-child
+yaburi30.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-8.pull-right.at-main.col-xs-12.ybm:nth-child(2) > div.row > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(5) > div.row > div.div-tab.tabs
+yaburi30.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi30.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(3) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(11) > div.row > div.div-tab.tabs
+yaburi30.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(5) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
+yaburi30.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
+yaburi30.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 ||yaburi**.men/data/file/ads_link/*.gif^
 ||yaburi**.men/data/file/ads_link/*.jpg^
 ||yaburi**.men/data/file/upso_primeum/*.gif^
@@ -2942,22 +2959,22 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > di
 yaburi**.men###thema_wrapper > div.at-body:nth-child(10) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(10) > div.row > div.div-tab.tabs
 yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div.row.at-row > div.col-md-8.pull-right.at-main.ybm:nth-child(2) > div.view-wrap:nth-child(4) > div.widget-box.col-md-12.col-xs-12.pcmainup.p_side_0:nth-child(4) > div.row > div.div-tab.tabs
 !
-! https://bame30.net
-||bame30.net/img/*/*.gif^
+! https://bame32.net
+||bame32.net/img/*/*.gif^
 ||bame**.net/img/*/*.gif^
 !
-! https://ddaltime34.com
-||ddaltime34.com/img/*/*.gif^
+! https://ddaltime38.com
+||ddaltime38.com/img/*/*.gif^
 ||ddaltime**.com/img/*/*.gif^
 !
-! https://dogjoa28.net
-||dogjoa28.net/img/*/*.gif^
+! https://dogjoa32.net
+||dogjoa32.net/img/*/*.gif^
 ||dogjoa**.net/img/*/*.gif^
 !
-! https://yadong13.net
-||yadong13.net/img/*.png^
-||yadong13.net/Uploads/images/*/*.gif^
-||yadong13.net/Uploads/images/*/*.png^
+! https://yadong14.net
+||yadong14.net/img/*.png^
+||yadong14.net/Uploads/images/*/*.gif^
+||yadong14.net/Uploads/images/*/*.png^
 ||yadong**.net/img/*.png^
 ||yadong**.net/Uploads/images/*/*.gif^
 ||yadong**.net/Uploads/images/*/*.png^
@@ -2968,46 +2985,45 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||opcity*.com/data/file/main/*.jpg^
 ||opcity*.com/data/file/main/*.gif^
 !
-! https://sxxk5.com
-||sxxk5.com/img/bn/*.gif^
-||sxxk5.com/img/t1/*.gif^
-||sxxk5.com/img/b2/*.gif^
-||sxxk5.com/img/*.jpg^
-||sxxk5.com/img/*.gif^
+! https://sxxk6.com
+||sxxk6.com/img/bn/*.gif^
+||sxxk6.com/img/t1/*.gif^
+||sxxk6.com/img/b2/*.gif^
+||sxxk6.com/img/*.jpg^
+||sxxk6.com/img/*.gif^
 ||sxxk*.com/img/bn/*.gif^
 ||sxxk*.com/img/t1/*.gif^
 ||sxxk*.com/img/b2/*.gif^
 ||sxxk*.com/img/*.jpg^
 ||sxxk*.com/img/*.gif^
 !
-! https://sorabada19.com
-||66.media.tumblr.com/*/*.gif^$domain=sorabada19.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada19.com
-||78.media.tumblr.com/*/*.png^$domain=sorabada19.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada19.com
+! https://sorabada20.com
+||66.media.tumblr.com/*/*.gif^$domain=sorabada20.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada20.com
+||78.media.tumblr.com/*/*.png^$domain=sorabada20.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada20.com
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada**.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada**.com
 ||78.media.tumblr.com/*/*.png^$domain=sorabada**.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada**.com
 !
-! https://19bam06.xyz
-||19bam07.xyz/banner/img/*.gif^
-||19bam07.xyz/banner/img/*.jpg^
-||19bam07.xyz/img/bw/*.gif^
-||19bam07.xyz/img/*.gif^
-||19bam07.xyz/data/file/qka11/*.gif^
+! https://19bam08.xyz
+||19bam08.xyz/banner/img/*.gif^
+||19bam08.xyz/banner/img/*.jpg^
+||19bam08.xyz/img/bw/*.gif^
+||19bam08.xyz/img/*.gif^
+||19bam08.xyz/data/file/qka11/*.gif^
 ||19bam**.xyz/banner/img/*.gif^
 ||19bam**.xyz/banner/img/*.jpg^
 ||19bam**.xyz/img/bw/*.gif^
 ||19bam**.xyz/img/*.gif^
 ||19bam**.xyz/data/file/qka11/*.gif^
 !
-! https://msanyang13.com
-||msanyang13.com/har/*.gif^
-||msanyang**.com/har/*.gif^
+! https://mulsn.com
+||mulsn.com.com/har/*.gif^
 !
-! https://duri49.com
-||i.imgur.com/*.gif^$domain=duri49.com
+! https://duri54.com
+||i.imgur.com/*.gif^$domain=duri54  .com
 ||i.imgur.com/*.gif^$domain=duri**.com
 !
 ! https://ddalja1.com
@@ -4178,6 +4194,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 hani.co.kr##[class^="ad-"]
 hani.co.kr##[id^="ad_"]
+investchosun.com##div.article_content_right
+investchosun.com##div.banner
 khan.co.kr##.ad_cnt
 media.daum.net###adShopping
 naver.com##.banner_inner
@@ -4309,6 +4327,9 @@ bloter.net##[class$="banner"]
 ! 한겨례
 hani.co.kr##[class^="ad-"]
 hani.co.kr##[id^="ad_"]
+! 조선
+investchosun.com##div.article_content_right
+investchosun.com##div.banner
 
 ! ###############################################
 ! Blacklist - SKT 스마트홈
@@ -4384,8 +4405,8 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 187
-! 30 Apr 2020
+! 189
+! 13 Jul 2020
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -4949,7 +4970,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! Regex blocking ---------------------------------------------------------------
 /^((?!(^https?):\/\/((www\.)?(dailymotion\.com|google\.com|gstatic\.com|rapidvideo\.com|recaptcha\.net|youtube\.com)|alltube\.tv|clipwatching\.com|docs\.google\.com|ebd\.cda\.pl|estream\.to|flashx\.tv|flashx\.co|freedisc\.pl|fruitstreams\.com|gamedor\.usermd\.net|gounlimited\.to|hqq\.tv|hqq\.watch|myvi\.ru|nowvideo\.sx|ok\.ru|oload\.download|oload\.stream|oload\.win|onlystream.tv|openload\.co|reseton\.net|rutube\.ru|sendvid\.com|st\.chatango\.com|staty\.portalradiowy\.pl|stream\.moe|streamguard\.xyz|streamango\.com|streamcherry\.com|streamplay\.cc|thevideo\.me|thevideo\.website|tune\.pk|uptostream\.com|verystream\.com|video\.sibnet\.ru|vidfile\.net|vidlox\.me|vidlox\.tv|vidoza\.net|vidspace\.io|vidto\.me|vidzi\.tv|vshare\.eu|vshare\.io|www\.speedvid\.co|www\.speedvid\.net)\/).)*$/$subdocument,domain=123telugu.com|alltube.pl|alltube.tv|centrum-dramy.pl|estream.nu|estream.to|estream.xyz|love-drama.pl|netiap.com|funtik.tv|szukajka.tv|vev.io|vidfile.net|vidoza.co|vidoza.net|vidup.io|vidzi.si|vidzi.tv
 
-/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|embed\.tawk\.to|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|7tors.com|alltube.tv|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bitcoincashfaucet.co|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.ws|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|cracklists.com|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|funtik.tv|genashowalter.com|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|vidon.xyz|hdvid.xyz|hospital.plus|ianimes.co|ianimes.top|idope.tv|ifrp.xyz|javbros.com|javdl.co|javsuper.com|kapuso.be|kinokong.cc|kinokrad.co|lafmacun.net|litecoinfaucet.co|mobology.ir|mp3free.pw|neurozinzin.com|novator.az|novoscrb.ru|oladblock.me|oladblock.services|oladblock.xyz|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.info|oload.life|oload.live|oload.monster|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|olpair.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pro|onvid.pw|onvid.site|onvid.space|onvid.website|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.club|ovid.fun|ovid.host|ovid.icu|ovid.life|ovid.live|ovid.online|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.website|ovid.world|ovid.xyz|pelisplus.online|pezeshk.us|pinoyrewind.info|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rednubes.de|seriesenlinea.net|seventorrents.cc|severita-service.ru|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|stream247.me|streamango.com|streamcherry.com|studio100.it|tapemovie.com|thehdvid.club|thehdvid.fun|thehdvid.host|thehdvid.icu|thehdvid.life|thehdvid.live|thehdvid.online|thehdvid.pro|thehdvid.pw|thehdvid.site|thehdvid.space|thehdvid.tv|thehdvid.website|thehdvid.world|thehdvid.xyz|thepiratebay.org|thevidhd.club|thevidhd.fun|thevidhd.host|thevidhd.icu|thevidhd.life|thevidhd.live|thevidhd.online|thevidhd.pro|thevidhd.pw|thevidhd.site|thevidhd.space|thevidhd.tv|thevidhd.website|thevidhd.world|thevidhd.xyz|thisjav.com|torrentrapid.com|tpbay.xyz|unblockall.org|unblocked.app|unblocked.gdn|vev.io|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.pw|vidhd.site|vidhd.space|vidhd.world|vidoza.co|vidoza.net|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|voirfilms.mx|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu
+/^((?!(^https?):\/\/((www\.)?(recaptcha\.net)|ajax\.googleapis\.com|cdn\.jsdelivr\.net|cdn\.vidoza\.(co|net)|cdnjs\.cloudflare\.com|code\.jquery\.com|code\.responsivevoice\.org|codeorigin\.jquery\.com|content\.jwplatform\.com|dualstack\.f3\.shared\.global\.fastly\.net|embed\.tawk\.to|maxcdn\.bootstrapcdn\.com|p\.jwpcdn\.com|player\.twitch\.tv|player\.vimeo\.com|releases\.flowplayer\.org|s\.ytimg\.com|static\.escdn\.co|vjs\.zencdn\.net|vk\.com|(www\.)(google\.com|gstatic\.com))\/).)*$/$script,third-party,domain=123moviesgo.nl|123movieshub.asia|123movieshub.cx|7tors.com|alltube.tv|animeteatr.ru|annuaire-bleu.net|arnaques-internet.info|atk-exotics.com|atkebony.com|babyjav.com|bamekoohrang.ir|bitcoincashfaucet.co|bmovie123.me|bmoviego.me|bmovies123.me|btstors.com|bustrain.net|bypassed.ws|chemikino.ru|cinemafacil.com|citypaintsupplyghana.com|clipwatching.com|cmovieshd.nl|coinfaucet.eu|coinhub.win|cracklists.com|crimedocumentary.com|deltabit.co|descargas2020.com|domnuleprimar.ro|dragonballzpolo.blogspot.com|emuleed2k.com|estream.nu|estream.to|estream.xyz|extratorrent.cd|extratorrent.si|fbmovies.org|filmovix.com|filmovix.net|filmovix.org|filmstreamvk.site|filmyhd.cz|firstone.tv|firstonetv.eu|firstonetv.live|flashx.cc|flashx.co|flashx.pw|flashx.sx|flashx.to|flashx.tv|flashx.ws|fmoviesgo.me|fruitadblock.net|fruithosts.net|fruitstreams.com|funtik.tv|genashowalter.com|gomovie123.me|gomovies123.me|happyjav.com|hdvid.life|hdvid.tv|vidon.xyz|hdvid.xyz|hospital.plus|ianimes.co|ianimes.top|idope.tv|ifrp.xyz|javbros.com|javdl.co|javsuper.com|kapuso.be|kinokong.cc|kinokrad.co|lafmacun.net|litecoinfaucet.co|mobology.ir|mp3free.pw|neurozinzin.com|novator.az|novoscrb.ru|oladblock.me|oladblock.services|oladblock.xyz|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.info|oload.life|oload.live|oload.monster|oload.press|oload.services|oload.site|oload.space|oload.stream|oload.tv|oload.website|oload.win|olpair.com|onvid.club|onvid.fun|onvid.host|onvid.icu|onvid.online|onvid.pro|onvid.pw|onvid.site|onvid.space|onvid.website|onvid.xyz|openload.cc|openload.co|openload.fun|openload.pw|openloed.co|ovid.club|ovid.fun|ovid.host|ovid.icu|ovid.life|ovid.live|ovid.online|ovid.pro|ovid.pw|ovid.site|ovid.space|ovid.website|ovid.world|ovid.xyz|pelisplus.online|pezeshk.us|pinoyrewind.info|povwideo.cc|povwideo.net|powvideo.cc|powvideo.net|protect-iframe.com|protect-link.biz|proxyportal.eu|rednubes.de|seriesenlinea.net|seventorrents.cc|severita-service.ru|skyback.ru|skytorrents.co|skytorrents.me|sleeptimer.org|stream247.me|streamango.com|streamcherry.com|studio100.it|tapemovie.com|thehdvid.club|thehdvid.fun|thehdvid.host|thehdvid.icu|thehdvid.life|thehdvid.live|thehdvid.online|thehdvid.pro|thehdvid.pw|thehdvid.site|thehdvid.space|thehdvid.tv|thehdvid.website|thehdvid.world|thehdvid.xyz|thepiratebay.org|thevidhd.club|thevidhd.fun|thevidhd.host|thevidhd.icu|thevidhd.life|thevidhd.live|thevidhd.online|thevidhd.pro|thevidhd.pw|thevidhd.site|thevidhd.space|thevidhd.tv|thevidhd.website|thevidhd.world|thevidhd.xyz|thisjav.com|torrentrapid.com|tpbay.xyz|unblockall.org|unblocked.app|unblocked.gdn|vev.io|vidhd.club|vidhd.fun|vidhd.host|vidhd.online|vidhd.pro|vidhd.pw|vidhd.site|vidhd.space|vidhd.world|vidoza.co|vidoza.net|vidto.me|vidto.se|vidtod.me|vidtodo.com|vidtodo.me|vidtodo.pro|vidtudu.com|vidup.io|voirfilms.mx|wallpoper.com|watch-free.co|watchfreemovies.tv|wearesaudis.net|wwtors.com|xmovies8.nl|ya3ale.com|yazilir.com|yourjav.com|zenexplayer.com|ziurim.eu
 
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|ovh|party|pro|pw|racing|review|rocks|ru|science|site|space|stream|tk|top|trade|webcam|win|xyz|zone)\.\/(.*)/$script,third-party
 
@@ -5014,7 +5035,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.n
 
 ! TPB
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.org|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktheship.org|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
-$script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktheship.org|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
+$script,websocket,domain=ahoypirate.click|ahoypirate.in|ahoypiratebaai.eu|airproxyproxy.pw|airproxytpb.red|alivbay.org|batpirate.info|bay.maik.rocks|bayception.pw|baypirate.click|baypiratebay.be|baypirateproxy.org|baypirateproxy.pw|bayproxy.eu|bypassed.st|capjackproxy.net|cruzing.xyz|depiratenbaai.nl|duckingproxy.eu|hyperproxy.net|ikwildepiratebay.org|ikwildepiratebay.xyzbrowse|indiaproxy.in|indiaproxydl.orgbrowse|magnetbay.eu|noobnoob.rocks|pietpiraat.org|pirat2.club|pirataibay.in|piratbaypirate.link|pirate.bet|pirate.blue|pirate.trade|pirateahoy.net|piratebaai.click|piratebaai.club|piratebay.click|piratebay.red|piratebay.telbrowse|piratebay.town|piratebay.website|piratebay247.net|piratebayblocked.com|piratebaymirror.eu|piratebayproxy.tf|piratebays.be|piratebays.co|piratenbucht.eu|piratepirate.eu|pirateprox.club|pirateproxy.click|pirateproxy.ist|pirateproxy.mx|pirateproxy.tf|pirateproxy.wf|pirateproxy.yt|piratetoday.click|proxybayduck.fi|proxydl.cf|proxyfl.info|proxyindia.net|proxyme.site|proxyme.win|proxyoneahoy.net|proxypirate.in|proxypirate.website|proxyproxyproxy.nl|proxyship.click|proxytpb.org|proxytpb.pw|rowpirate.org|superbay.link|thehiddenbay.cc|themagnetbay.info|thepbay.ga|thepirate.click|thepirate.xyz|thepiratebay-proxy.com|thepiratebay.bet|thepiratebay.blue|thepiratebay.cr|thepiratebay.futbol|thepiratebay.kiwi|thepiratebay.pet|thepiratebay.pictures|thepiratebay.red|thepiratebay.rocks|thepiratebay.se.net|thepiratebay.tel|thepiratebay.wtf|thepirateproxy.host|thepirateproxy.pro|thepirateproxy.win|thepirateproxy.ws|tpb.crushus.com|tpb.one|tpb.tw|tpbairproxy.in|tpbbay.eu|tpbduck.com|tpbmirror.us|tpbmonk.com|tpbonion.win|tpbpirate.info|tpbpirate.pw|tpbpirate.site|tpbportal.in|tpbproxy.club|tpbproxy.win|tpbproxyone.org|tpbrun.win|tpproxy.website|ukpirate.click|ukpirate.org|ukpirateproxy.xyz|unblockedhyperbay.info|unblocktpb.com|urbanproxy.eu|wearepirates.click|zombay.org
 
 ! Pools
 ||pool.supportxmr.com^
