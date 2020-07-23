@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.07.20.00
+! Version: 2020.07.23.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -1426,6 +1426,9 @@ dolwe.me
 ! https://www.virustotal.com/gui/ip-address/156.230.56.87/relations
 ||gfkois.kro.kr^
 !
+! https://www.virustotal.com/gui/ip-address/171.22.116.117/relations
+||naver1024tv.0pe.kr^
+!
 ! https://www.virustotal.com/gui/ip-address/172.247.116.59/relations
 ||0395jz.cn^
 ||g123.ga^
@@ -1515,6 +1518,10 @@ dolwe.me
 ||naver1024.com^
 !
 ! Naver Phishing - m.site.naver.com, bit.ly
+||m.site.naver.com/0Cv5V
+||m.site.naver.com/0Cv0u
+||yci5627com85ac47d8a5sa2d1w878fg.tistory.com/entry/환영합니다
+||yci5627com85ac47d8a5sa2d1w878fg.tistory.com^
 ||hajiyoung38.tistory.com/38
 ||hajiyoung38.tistory.com^
 ||m.site.naver.com/0CrFT
@@ -2231,25 +2238,25 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! thebujatv.xyz, bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-bujatv.link###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-bujatv.link###left_out > div:first-child > a:last-child > img
-bujatv.link###left_out > div:nth-child(2) > a:last-child > img
-bujatv.link###right_out > div:first-child > a:last-child > img
-bujatv.link###right_out > div:nth-child(2) > a:last-child > img
-bujatv.link###left_out > div:last-child > a:last-child > img
-bujatv.link###right_out > div:last-child > a:last-child > img
-bujatv.link##li.adult_li:nth-of-type(5) > [href="https://www.bujatv.link/19/adult.html"]
+thebujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+thebujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+thebujatv.xyz###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+thebujatv.xyz###left_out > div:first-child > a:last-child > img
+thebujatv.xyz###left_out > div:nth-child(2) > a:last-child > img
+thebujatv.xyz###right_out > div:first-child > a:last-child > img
+thebujatv.xyz###right_out > div:nth-child(2) > a:last-child > img
+thebujatv.xyz###left_out > div:last-child > a:last-child > img
+thebujatv.xyz###right_out > div:last-child > a:last-child > img
+thebujatv.xyz##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.xyz/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v9.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v10.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2526,13 +2533,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki68.com & newtoki68.net
-newtoki68.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki68.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki68.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki68.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki68.com/data/banner/*
-newtoki68.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki69.com & newtoki69.net
+newtoki69.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki69.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki69.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki69.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki69.com/data/banner/*
+newtoki69.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
