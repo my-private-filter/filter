@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.07.28.00
+! Version: 2020.08.04.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -684,6 +684,9 @@ dolwe.me
 ||vk.com/away.php?to=https%3A%2F%2Fappktnodgmsk.com%2Fbastard&post=491475663_271&cc_key=
 ||where.name/n345d
 ||app.box.com/s/ta4pwehhnmqwa1vmvcuc1b0pcheuu305
+||BItlY.kR/ktacH7az8PX
+||www.so.com/link?m=b0IOjbxzxZlyIG5%2F8ls0DtJ5Pi3PRux6EWSwo07Oloqmr3PSiv2c0lnjrMb9QZu4CY25SZ9DA1wOYHTFGWJo3wIARUpPnSNSpI21EaBpHyoyTYTOwgMIvX910cap1OQ8t5o22idQZINTuLbYgg3hMYQ%3D%3D/?gkywfolwel
+||vxzkkrijla.duckdns.org^
 !
 ! 스미싱 : 가짜 휴대폰 본인인증
 ||kr-ys.com^
@@ -2238,25 +2241,25 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! thebujatv.club, thebujatv.xyz, bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! thebujatv.fun, thebujatv.club, thebujatv.xyz, bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-thebujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-thebujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-thebujatv.club###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-thebujatv.club###left_out > div:first-child > a:last-child > img
-thebujatv.club###left_out > div:nth-child(2) > a:last-child > img
-thebujatv.club###right_out > div:first-child > a:last-child > img
-thebujatv.club###right_out > div:nth-child(2) > a:last-child > img
-thebujatv.club###left_out > div:last-child > a:last-child > img
-thebujatv.club###right_out > div:last-child > a:last-child > img
-thebujatv.club##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.club/19/adult.html"]
+thebujatv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+thebujatv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+thebujatv.fun###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+thebujatv.fun###left_out > div:first-child > a:last-child > img
+thebujatv.fun###left_out > div:nth-child(2) > a:last-child > img
+thebujatv.fun###right_out > div:first-child > a:last-child > img
+thebujatv.fun###right_out > div:nth-child(2) > a:last-child > img
+thebujatv.fun###left_out > div:last-child > a:last-child > img
+thebujatv.fun###right_out > div:last-child > a:last-child > img
+thebujatv.fun##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.fun/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v10.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v11.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2547,104 +2550,14 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
-||funbe.space/bann/*.gif^
-||funbe.space/bann/*.png^
-||funbe.space/bann/*.jpg^
-funbe.space###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.space##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.space##div.login-block:last-child > div.login-show
-||funbe.run/bann/*.gif^
-||funbe.run/bann/*.png^
-||funbe.run/bann/*.jpg^
-funbe.run###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.run##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.run##div.login-block:last-child > div.login-show
-||funbe.news/bann/*.gif^
-||funbe.news/bann/*.png^
-||funbe.news/bann/*.jpg^
-funbe.news###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.news##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.news##div.login-block:last-child > div.login-show
-||funbe.biz/bann/*.gif^
-||funbe.biz/bann/*.png^
-||funbe.biz/bann/*.jpg^
-funbe.biz###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.biz##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.biz##div.login-block:last-child > div.login-show
-||funbe.cloud/bann/*.gif^
-||funbe.cloud/bann/*.png^
-||funbe.cloud/bann/*.jpg^
-funbe.cloud###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.cloud##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.cloud##div.login-block:last-child > div.login-show
-||funbe.shop/bann/*.gif^
-||funbe.shop/bann/*.png^
-||funbe.shop/bann/*.jpg^
-funbe.shop###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.shop##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.shop##div.login-block:last-child > div.login-show
-||funbe.icu/bann/*.gif^
-||funbe.icu/bann/*.png^
-||funbe.icu/bann/*.jpg^
-funbe.icu###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.icu##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.icu##div.login-block:last-child > div.login-show
-||funbe.page/bann/*.gif^
-||funbe.page/bann/*.png^
-||funbe.page/bann/*.jpg^
-funbe.page###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.page##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.page##div.login-block:last-child > div.login-show
-||funbe.me/bann/*.gif^
-||funbe.me/bann/*.png^
-||funbe.me/bann/*.jpg^
-funbe.me###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.me##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.me##div.login-block:last-child > div.login-show
-||funbe.live/bann/*.gif^
-||funbe.live/bann/*.png^
-||funbe.live/bann/*.jpg^
-funbe.live###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.live##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.live##div.login-block:last-child > div.login-show
-||funbe.care/bann/*.gif^
-||funbe.care/bann/*.png^
-||funbe.care/bann/*.jpg^
-funbe.care###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.care##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.care##div.login-block:last-child > div.login-show
-||funbe.vip/bann/*.gif^
-||funbe.vip/bann/*.png^
-||funbe.vip/bann/*.jpg^
-funbe.vip###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.vip##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.vip##div.login-block:last-child > div.login-show
-||funbe.info/bann/*.gif^
-||funbe.info/bann/*.png^
-||funbe.info/bann/*.jpg^
-funbe.info###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.info##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.info##div.login-block:last-child > div.login-show
-||funbe.life/bann/*.gif^
-||funbe.life/bann/*.png^
-||funbe.life/bann/*.jpg^
-funbe.life###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.life##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.life##div.login-block:last-child > div.login-show
-||funbe.*/bann/*.gif^
-||funbe.*/bann/*.png^
-||funbe.*/bann/*.jpg^
-funbe.*###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.*##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.*##div.login-block:last-child > div.login-show
-||funbe41.com/bann/*.gif^
-||funbe41.com/bann/*.png^
-||funbe41.com/bann/*.jpg^
-funbe41.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe41.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe41.com##div.login-block:last-child > div.login-show
+||funbe.cx/bann/*.gif^
+||funbe.cx/bann/*.png^
+||funbe.cx/bann/*.jpg^
+funbe.cx###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.cx##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.cx##div.login-block:last-child > div.login-show
 ||funbe**.com/bann/*.gif^
 ||funbe**.com/bann/*.png^
 ||funbe**.com/bann/*.jpg^
