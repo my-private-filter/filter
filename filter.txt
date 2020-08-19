@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.08.19.00
+! Version: 2020.08.19.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2404,8 +2404,12 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ! Bad Ad (2)
 !
 ! manamoa53.net, manamoa.net, mangashow5.me, https://188.214.136.5
+||manamoa53.net/img/banner/ma/*.gif^
+||manamoa53.net/img/banner/9x/*.gif^
+||manamoa53.net/img/banner/whop/*.gif^
 ||manamoa53.net/img/banner/sol/*.gif^
 ||manamoa53.net/img/banner/jay/*.gif^
+||manamoa53.net/img/banner/*/*.gif^
 manamoa53.net##.ad-banner-widget, .main-banner
 manamoa53.net##.ad-banner-widget, .fit-banner
 manamoa53.net##.ad-banner-widget, .ad-mobile-fit
@@ -2445,8 +2449,12 @@ manamoa53.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > di
 manamoa53.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
 manamoa53.net###thema_wrapper > div.header-notification:first-child > a
 manamoa53.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+||manamoa**.net/img/banner/ma/*.gif^
+||manamoa**.net/img/banner/9x/*.gif^
+||manamoa**.net/img/banner/whop/*.gif^
 ||manamoa**.net/img/banner/sol/*.gif^
 ||manamoa**.net/img/banner/jay/*.gif^
+||manamoa**.net/img/banner/*/*.gif^
 manamoa**.net##.ad-banner-widget, .main-banner
 manamoa**.net##.ad-banner-widget, .fit-banner
 manamoa**.net##.ad-banner-widget, .ad-mobile-fit
@@ -2486,6 +2494,7 @@ manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > di
 manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
 manamoa**.net###thema_wrapper > div.header-notification:first-child > a
 manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+||img.cdnskill.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png
 ||i.imgur.com/AW0Apqy.gif
 ||i.imgur.com/2rmXmpi.gif
 ||i.imgur.com/660um5J.gif
