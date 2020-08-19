@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.08.19.01
+! Version: 2020.08.19.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2494,6 +2494,7 @@ manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > di
 manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.widget-side:last-child > div.widget-box:nth-child(6) > div.basic-post-list > ul.post-list > li.ellipsis:last-child > a
 manamoa**.net###thema_wrapper > div.header-notification:first-child > a
 manamoa**.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.viewer-container.view-wrap:nth-child(5) > div.widget-box:nth-child(4) > div.ad-banner-widget.fit-banner
+||cdnmadmax.xyz/upload/*.gif^
 ||img.cdnskill.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png
 ||i.imgur.com/AW0Apqy.gif
 ||i.imgur.com/2rmXmpi.gif
