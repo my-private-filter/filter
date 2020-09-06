@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.09.02.00
+! Version: 2020.09.06.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2259,7 +2259,7 @@ thebujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.space
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v15.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v16.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2594,14 +2594,18 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! manatoki73.net
+||manatoki73.net/data/banner/*
+||manatoki**.net/data/banner/*
+!
+! funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
-||funbe.tv/bann/*.gif^
-||funbe.tv/bann/*.png^
-||funbe.tv/bann/*.jpg^
-funbe.tv###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.tv##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.tv##div.login-block:last-child > div.login-show
+||funbe.ninja/bann/*.gif^
+||funbe.ninja/bann/*.png^
+||funbe.ninja/bann/*.jpg^
+funbe.ninja###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.ninja##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.ninja##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
@@ -4378,7 +4382,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 190
+! 191
 ! 27 Jul 2020
 !
 !
@@ -4931,7 +4935,7 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~webtorrent.io
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
