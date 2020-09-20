@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.09.20.01
+! Version: 2020.09.20.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2281,6 +2281,19 @@ thebujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.space
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
 ! v18.sonagitv.co, v18.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+||kkmoa.com/ace_ad/*.php$domain=v18.sonagitv.co
+||kkmoa.com/ace_ad/*.php$domain=v18.danbimovie.co
+ter1.fiducialink.icu###text-2 > div.textwidget
+ter1.fiducialink.icu###kboard-default-list
+move2.linkhole.xyz###kboard-default-list
+move2.linkhole.xyz###text-4 > div.textwidget
+||kkmoa.com/ace_ad/*.php$domain=move2.linkhole.xyz
+move4.linkhole.xyz###kboard-default-list
+move4.linkhole.xyz###text-4 > div.textwidget
+||kkmoa.com/ace_ad/*.php$domain=move4.linkhole.xyz
+link1.movethelink.xyz###kboard-default-list
+link1.movethelink.xyz###text-4 > div.textwidget
+||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2309,8 +2322,6 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effec
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child
-ter1.fiducialink.icu###text-2 > div.textwidget
-ter1.fiducialink.icu###kboard-default-list
 ||danbimovie.co/danbi_media/sites/3/2019/12/grfbada728.gif
 ||danbimovie.co/danbi_media/sites/3/2020/02/powerb728.gif
 ||danbimovie.co/danbi_media/sites/3/2020/03/powerb360.gif
