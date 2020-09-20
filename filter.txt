@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.09.20.00
+! Version: 2020.09.20.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2309,6 +2309,8 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effec
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child
+ter1.fiducialink.icu###text-2 > div.textwidget
+ter1.fiducialink.icu###kboard-default-list
 ||danbimovie.co/danbi_media/sites/3/2019/12/grfbada728.gif
 ||danbimovie.co/danbi_media/sites/3/2020/02/powerb728.gif
 ||danbimovie.co/danbi_media/sites/3/2020/03/powerb360.gif
