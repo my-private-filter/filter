@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.09.17.00
+! Version: 2020.09.20.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2280,7 +2280,7 @@ thebujatv.space##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.space
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v17.sonagitv.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v18.sonagitv.co, v18.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||sonagitv.co/sonagi_media/sites/2/2019/12/grfbada728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/02/powerb728.gif
 ||sonagitv.co/sonagi_media/sites/2/2020/03/powerb360.gif
@@ -2309,6 +2309,16 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effec
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child
+||danbimovie.co/danbi_media/sites/3/2019/12/grfbada728.gif
+||danbimovie.co/danbi_media/sites/3/2020/02/powerb728.gif
+||danbimovie.co/danbi_media/sites/3/2020/03/powerb360.gif
+||danbimovie.co/danbi_media/sites/3/2020/03/net360.gif
+||danbimovie.co/danbi_media/sites/3/2020/03/yama360.gif
+||danbimovie.co/danbi_media/sites/3/*/*/*.gif^
+||danbimovie.co/danbi_media/sites/3/2020/03/iioooiii360.jpg
+!||danbimovie.co/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
+danbimovie.co##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
+danbimovie.co###jtg-38722 > div.modula-items:first-child
 ||danbimovie.net/danbi_media/sites/3/2019/12/grfbada728.gif
 ||danbimovie.net/danbi_media/sites/3/2020/02/powerb728.gif
 ||danbimovie.net/danbi_media/sites/3/2020/03/powerb360.gif
@@ -2424,6 +2434,8 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 
 ! Bad Ad (2)
 !
+! jmana.xxxyyyzzz.art
+!
 ! marumaru.tech, marumaru.site, marumaru.tel, marumaru.sale
 marumaru.tech##[class='bottom-navbar']
 ||i.imgur.com/Ki17Ydp.gif
@@ -2477,6 +2489,7 @@ marumaru.*###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.r
 marumaru.*###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:last-child > a > img
 marumaru.*###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 marumaru.*###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
+!
 ! manamoa53.net, manamoa.net, mangashow5.me, https://188.214.136.5
 ||manamoa53.net/img/banner/ma/*.gif^
 ||manamoa53.net/img/banner/9x/*.gif^
@@ -2620,13 +2633,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki76.com & newtoki76.net
-newtoki76.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki76.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki76.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki76.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki76.com/data/banner/*
-newtoki76.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki77.com & newtoki77.net
+newtoki77.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki77.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki77.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki77.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki77.com/data/banner/*
+newtoki77.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2634,18 +2647,18 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki76.net
-||manatoki76.net/data/banner/*
+! manatoki77.net
+||manatoki77.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
-||funbe.top/bann/*.gif^
-||funbe.top/bann/*.png^
-||funbe.top/bann/*.jpg^
-funbe.top###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.top##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.top##div.login-block:last-child > div.login-show
+||funbe.rest/bann/*.gif^
+||funbe.rest/bann/*.png^
+||funbe.rest/bann/*.jpg^
+funbe.rest###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.rest##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.rest##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
