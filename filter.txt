@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.09.25.00
+! Version: 2020.09.25.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2646,13 +2646,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki77.com & newtoki77.net
-newtoki77.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki77.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki77.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki77.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki77.com/data/banner/*
-newtoki77.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki78.com & newtoki78.net
+newtoki78.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki78.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki78.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki78.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki78.com/data/banner/*
+newtoki78.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2660,8 +2660,8 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki77.net
-||manatoki77.net/data/banner/*
+! manatoki78.net
+||manatoki78.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
 ! funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
