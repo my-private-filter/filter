@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.10.11.00
+! Version: 2020.10.12.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2262,18 +2262,18 @@ feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(
 feelani.com###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(5) > div.col-xs-12.col-sm-6.col-md-6:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(2)
 feelani.com##li.adult_li:nth-of-type(4) > [href="https://www.feelani.com/ani/adult.html"]
 !
-! thebujatv.click, thebujatv.space, thebujatv.tech, thebujatv.site, thebujatv.fun, thebujatv.club, thebujatv.xyz, bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
+! thebujatv.guru, thebujatv.click, thebujatv.space, thebujatv.tech, thebujatv.site, thebujatv.fun, thebujatv.club, thebujatv.xyz, bujatv.link, bujatv.club, bujatv.click, bujatv.art, bujabujatv.space, bujabujatv.online, bujabujatv.fun, bujabujatv.xyz, bujatvtv.space, bujatvtv.site, bujatvtv.fun, bujatvtv.xyz, bujatvtv.bar, bubujatv.shop, buja-tv.bar, bubujatv.space, bubujatv.site, bubujatv.bar, bubujatv.com, bujatv2.xyz, bujatv15.me, bujatv.me
 !
-thebujatv.click###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
-thebujatv.click###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
-thebujatv.click###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
-thebujatv.click###left_out > div:first-child > a:last-child > img
-thebujatv.click###left_out > div:nth-child(2) > a:last-child > img
-thebujatv.click###right_out > div:first-child > a:last-child > img
-thebujatv.click###right_out > div:nth-child(2) > a:last-child > img
-thebujatv.click###left_out > div:last-child > a:last-child > img
-thebujatv.click###right_out > div:last-child > a:last-child > img
-thebujatv.click##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.click/19/adult.html"]
+thebujatv.guru###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6.padding-left0-web:last-child > div.mobile_fb_sty:last-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:first-child
+thebujatv.guru###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.download.icon_action.no_mobile:nth-child(2)
+thebujatv.guru###body > div.col-md-12.primary > div.row.pane_under_video:nth-child(8) > div.col-xs-12.col-sm-6.col-md-6:first-child > div.no_mobile:last-child > button.btn.btn-default.icon_action:nth-child(3)
+thebujatv.guru###left_out > div:first-child > a:last-child > img
+thebujatv.guru###left_out > div:nth-child(2) > a:last-child > img
+thebujatv.guru###right_out > div:first-child > a:last-child > img
+thebujatv.guru###right_out > div:nth-child(2) > a:last-child > img
+thebujatv.guru###left_out > div:last-child > a:last-child > img
+thebujatv.guru###right_out > div:last-child > a:last-child > img
+thebujatv.guru##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.guru/19/adult.html"]
 ##li:nth-of-type(10) > [href="http://me.goingme.hol.es"]
 ##li:nth-of-type(11) > [href="http://webis19.heydate.pe.hu"]
 ##li:nth-of-type(11) > [href^="http://m.fileis.com/"]
@@ -2646,13 +2646,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki78.com & newtoki78.net
-newtoki78.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki78.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki78.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki78.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki78.com/data/banner/*
-newtoki78.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki81.com & newtoki81.net
+newtoki81.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki81.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki81.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki81.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki81.com/data/banner/*
+newtoki81.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2660,8 +2660,8 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki78.net
-||manatoki78.net/data/banner/*
+! manatoki81.net
+||manatoki81.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
 ! funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
