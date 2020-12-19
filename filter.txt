@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2020.12.17.00
+! Version: 2020.12.19.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2286,7 +2286,7 @@ thebujatv.rest##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.rest/1
 !
 ! v1.sonagitv.cc, v1.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 ||kkmoa.com/ace_ad/*.php$domain=v1.sonagitv.cc
-||kkmoa.com/ace_ad/*.php$domain=v3.danbimovie.cc
+||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.cc
 ter1.fiducialink.icu###text-2 > div.textwidget
 ter1.fiducialink.icu###kboard-default-list
 mmm2.linkhole.xyz###kboard-default-list
@@ -2301,9 +2301,10 @@ move4.linkhole.xyz###text-4 > div.textwidget
 link1.movethelink.xyz###kboard-default-list
 link1.movethelink.xyz###text-4 > div.textwidget
 ||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
-||sonagitv.cc/sonagi_media/sites/2/*/*/*.gif^
-||sonagitv.cc/sonagi_media/sites/15/*/*/*.gif^
+||sonagitv.cc/sonagi_media/sites/*/*/*/*.gif^
+||sonagitv.cc/sona_media/sites/*/*/*/*.gif^
 ||sonagitv.cc/sonagi_media/sites/15/2020/03/advcon1.png
+||sonagitv.cc/sona_media/sites/39/2020/03/advcon1.png
 ||sonagitv.cc/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
 !||sonagitv.cc/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
 sonagitv.cc###sonag-373785768 > a > img
@@ -2312,13 +2313,11 @@ sonagitv.cc###jtg-404154 > div.modula-items:first-child > div.modula-item.effect
 sonagitv.cc###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
 sonagitv.cc###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child
-||danbimovie.cc/danbi_media/sites/3/2019/12/grfbada728.gif
-||danbimovie.cc/danbi_media/sites/3/2020/02/powerb728.gif
-||danbimovie.cc/danbi_media/sites/3/2020/03/powerb360.gif
-||danbimovie.cc/danbi_media/sites/3/2020/03/net360.gif
-||danbimovie.cc/danbi_media/sites/3/2020/03/yama360.gif
-||danbimovie.cc/danbi_media/sites/3/*/*/*.gif^
+||danbimovie.cc/danbimedia/sites/*/*/*/*.gif^
+||danbimovie.cc/danbi_media/sites/*/*/*/*.gif^
 ||danbimovie.cc/danbi_media/sites/3/2020/03/iioooiii360.jpg
+||danbimovie.cc/danbimedia/sites/38/2020/03/advcon2.png
+||danbimovie.cc/danbimedia/sites/38/2020/03/advcon1.png
 !||danbimovie.cc/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
 danbimovie.cc##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 danbimovie.cc###jtg-38722 > div.modula-items:first-child
@@ -2644,14 +2643,14 @@ newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body 
 ||manatoki91.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 ||s10.histats.com/js15_as.js
-||funbe.cool/bann/*.gif^
-||funbe.cool/bann/*.png^
-||funbe.cool/bann/*.jpg^
-funbe.cool###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.cool##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.cool##div.login-block:last-child > div.login-show
+||funbe.casa/bann/*.gif^
+||funbe.casa/bann/*.png^
+||funbe.casa/bann/*.jpg^
+funbe.casa###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.casa##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.casa##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
