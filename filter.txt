@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.02.07.00
+! Version: 2021.02.10.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2284,9 +2284,9 @@ thebujatv.cyou##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.cyou/1
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v7.sonagitv.me, v7.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
-||kkmoa.com/ace_ad/*.php$domain=v7.sonagitv.me
-||kkmoa.com/ace_ad/*.php$domain=v7.danbimovie.me
+! v8.sonagitv.me, v8.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+||kkmoa.com/ace_ad/*.php$domain=v8.sonagitv.me
+||kkmoa.com/ace_ad/*.php$domain=v8.danbimovie.me
 ter1.fiducialink.icu###text-2 > div.textwidget
 ter1.fiducialink.icu###kboard-default-list
 mmm2.linkhole.xyz###kboard-default-list
