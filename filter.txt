@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.02.10.00
+! Version: 2021.02.14.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
