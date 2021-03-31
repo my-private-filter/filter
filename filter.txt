@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.03.31.00
+! Version: 2021.03.31.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -4426,21 +4426,19 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 
 !
 !
-! Title: Fuck u manamoa
-! Expires: 1 days
-! Homepage: https://github.com/penit25/fkumanamoa/
+! Fuck u manamoa
+! https://github.com/penit25/fkumanamoa/
+! https://raw.githubusercontent.com/penit25/fkumanamoa/master/filter.txt
 
 ||manamoa52.net/thema/Basic/widget/ad-banner/widget.css
 ||manamoa52.net/img/banner
 ||manamoa.net/thema/Basic/widget/ad-banner/widget.css
 ||manamoa.net/img/banner
 
-
 ||i.imgur.com/660um5J.gif$image
 ||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png$image
 ||i.imgur.com/2rmXmpi.gif$image
 ||i.imgur.com/AW0Apqy.gif$image
-
 
 ##div.widget-box > .ad-banner-widget
 ##div.main-banner.ad-banner-widget
