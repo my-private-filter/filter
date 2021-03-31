@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.03.14.00
+! Version: 2021.03.31.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -4423,6 +4423,45 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 !
 !
+
+!
+!
+! Title: Fuck u manamoa
+! Expires: 1 days
+! Homepage: https://github.com/penit25/fkumanamoa/
+
+||manamoa52.net/thema/Basic/widget/ad-banner/widget.css
+||manamoa52.net/img/banner
+||manamoa.net/thema/Basic/widget/ad-banner/widget.css
+||manamoa.net/img/banner
+
+
+||i.imgur.com/660um5J.gif$image
+||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png$image
+||i.imgur.com/2rmXmpi.gif$image
+||i.imgur.com/AW0Apqy.gif$image
+
+
+##div.widget-box > .ad-banner-widget
+##div.main-banner.ad-banner-widget
+###hd_pop
+##div.widget-box:nth-of-type(6)
+##div.div-title-underbar:nth-of-type(5)
+##li.off.menu-li:nth-of-type(5)
+##.clearfix > li:nth-of-type(4)
+
+!jmana
+
+jmana.net###main_popup
+
+!manatoki
+
+||manatoki*.net/data/banner/*$image
+||manatoki*.net/data/banner/*?_=*$image
+||manatoki*.net/data/banner/*?_=*$image
+!
+!
+
 
 !
 !
