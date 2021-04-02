@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.02.00
+! Version: 2021.04.02.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2319,6 +2319,7 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child
 ||danbimovie.me/danbi_media/sites/3/2020/03/iioooiii360.jpg
 ||danbimovie.me/danbimedia/sites/38/2020/03/advcon2.png
 ||danbimovie.me/danbimedia/sites/38/2020/03/advcon1.png
+||danbimovie.me/danbi_media/sites/2/2020/03/advcon1.png
 !||danbimovie.me/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
 danbimovie.me##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 danbimovie.me###jtg-38722 > div.modula-items:first-child
