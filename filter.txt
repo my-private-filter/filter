@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.02.06
+! Version: 2021.04.02.07
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2289,6 +2289,9 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 !
 ||kkmoa.com/ace_ad/*.php$domain=v17.sonagitv.me
 ||kkmoa.com/ace_ad/*.php$domain=v17.danbimovie.me
+eer5.instoworld.xyz###text-2 > div.textwidget
+eer5.instoworld.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=eer5.instoworld.xyz
 sss4.mvlinkmon.xyz###text-2 > div.textwidget
 sss4.mvlinkmon.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=sss4.mvlinkmon.xyz
