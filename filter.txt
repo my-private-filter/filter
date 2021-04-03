@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.02.07
+! Version: 2021.04.03.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3107,6 +3107,9 @@ pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
+!
+! todaybest4.xyz
+||todaybest4.xyz/img/racebet888_4001.gif
 !
 ! bamgosu16.com
 ||64.media.tumblr.com/7ec2f0f505e8c3af666a2cd71db87aad/3134dc219e3ea61a-5d/s400x600/5f9ffce5f8fa575faece2a947684c328a56e580d.png
