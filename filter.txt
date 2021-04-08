@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.03.00
+! Version: 2021.04.08.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2285,10 +2285,10 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v17.sonagitv.me, v17.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v18.sonagitv.me, v18.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v17.sonagitv.me
-||kkmoa.com/ace_ad/*.php$domain=v17.danbimovie.me
+||kkmoa.com/ace_ad/*.php$domain=v18.sonagitv.me
+||kkmoa.com/ace_ad/*.php$domain=v18.danbimovie.me
 eer5.instoworld.xyz###text-2 > div.textwidget
 eer5.instoworld.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=eer5.instoworld.xyz
@@ -2315,6 +2315,9 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
 ||sonagitv.me/sonagi_media/sites/*/*/*/*.gif^
 ||sonagitv.me/sona_media/sites/*/*/*/*.gif^
+||sonagitv.me/sonagi_media/sites/2/2021/02/sfo360.jpg
+||sonagitv.me/sonagi_media/sites/2/2021/02/safe360.jpg
+||sonagitv.me/sonagi_media/sites/2/2020/03/advcon1.png
 ||sonagitv.me/sonagi_media/sites/15/2020/03/advcon1.png
 ||sonagitv.me/sona_media/sites/39/2020/03/advcon1.png
 ||sonagitv.me/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
@@ -2331,6 +2334,8 @@ sonagitv.net###jtg-404154 > div.modula-items:first-child
 ||danbimovie.me/danbimedia/sites/38/2020/03/advcon2.png
 ||danbimovie.me/danbimedia/sites/38/2020/03/advcon1.png
 ||danbimovie.me/danbi_media/sites/2/2020/03/advcon1.png
+||danbimovie.me/danbi_media/sites/2/2021/01/safe360.jpg
+||danbimovie.me/danbi_media/sites/2/2021/01/sfo360.jpg
 !||danbimovie.me/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
 danbimovie.me##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 danbimovie.me###jtg-38722 > div.modula-items:first-child
@@ -2680,16 +2685,16 @@ newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body 
 ||manatoki95.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.red/images/*.gif^
-||funbe.red/bann/*.gif^
-||funbe.red/bann/*.png^
-||funbe.red/bann/*.jpg^
-funbe.red###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.red##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.red##div.login-block:last-child > div.login-show
+||funbe.tax/images/*.gif^
+||funbe.tax/bann/*.gif^
+||funbe.tax/bann/*.png^
+||funbe.tax/bann/*.jpg^
+funbe.tax###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.tax##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.tax##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
@@ -4990,6 +4995,15 @@ jmana.net###main_popup
 ||trustiseverything.de^$third-party
 ||trustmeiamapro.de^$third-party
 ||gxbrowser.net^
+||seed.bitcoin.sipa.be^
+||dnsseed.bluematt.me^
+||dnsseed.bitcoin.dashjr.org^
+||seed.bitcoinstats.com^
+||seed.bitcoin.jonasschnelli.ch^
+||seed.btc.petertodd.org^
+||seed.bitcoin.sprovoost.nl^
+||dnsseed.emzy.de^
+||seed.bitcoin.wiz.biz^
 
 ! coinimp.com
 ||blockchained.party
