@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.08.00
+! Version: 2021.04.18.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2285,10 +2285,10 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v18.sonagitv.me, v18.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v20.sonagitv.me, v20.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v18.sonagitv.me
-||kkmoa.com/ace_ad/*.php$domain=v18.danbimovie.me
+||kkmoa.com/ace_ad/*.php$domain=v20.sonagitv.me
+||kkmoa.com/ace_ad/*.php$domain=v20.danbimovie.me
 eer5.instoworld.xyz###text-2 > div.textwidget
 eer5.instoworld.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=eer5.instoworld.xyz
@@ -2685,16 +2685,16 @@ newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body 
 ||manatoki95.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.tax/images/*.gif^
-||funbe.tax/bann/*.gif^
-||funbe.tax/bann/*.png^
-||funbe.tax/bann/*.jpg^
-funbe.tax###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.tax##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.tax##div.login-block:last-child > div.login-show
+||funbe.gdn/images/*.gif^
+||funbe.gdn/bann/*.gif^
+||funbe.gdn/bann/*.png^
+||funbe.gdn/bann/*.jpg^
+funbe.gdn###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.gdn##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.gdn##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
@@ -2946,6 +2946,9 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
+! toonsarang.buzz
+||iu.toonsarang.buzz/*.gif
+!
 ! https://totodomain.net
 ||totodomain.net/img/*.gif^
 ||totodomain.net/data/by_banner/*.gif^
@@ -3112,6 +3115,10 @@ pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
+!
+! avpop80.com
+||i.imgur.com/NBWHplb.gif
+||i.imgur.com/WB7EOzV.gif
 !
 ! todaybest4.xyz
 ||todaybest4.xyz/img/racebet888_4001.gif
@@ -4313,8 +4320,9 @@ dream-post.com
 !
 ! https://github.com/unchartedsky/adguard-kr
 ! https://raw.githubusercontent.com/unchartedsky/adguard-kr/master/adguard-kr.txt
+! https://raw.githubusercontent.com/unchartedsky/adguard-kr/master/filters/andromedarabbit.txt
 ! adguard-kr
-! 25 Sep 2019
+! 12 Apr 2021
 !
 !
 ! adguard-kr.txt
@@ -4364,10 +4372,10 @@ www.nate.com##.area_shopping_today
 ||ad.reople.co.kr^$third-party
 ||adbiz2.co.kr^$third-party
 ||adinsight.co.kr^$third-party
-||adoffice.11st.co.kr^
+||adoffice.11st.co.kr^$empty
 ||adpanchok.co.kr^
 ||adpnut.com^$third-party
-||adservice.google.com^
+||adservice.google.com^$empty
 ||amazon-adsystem.com^$third-party
 ||app.link^$third-party
 ||cauly.co.kr^
@@ -4376,20 +4384,21 @@ www.nate.com##.area_shopping_today
 ||ctrack.click.joongna.com^
 ||ctrack.click.joongna.com^$third-party
 ||dable.io^$third-party
+||dailypadak.com^$empty
 ||ednplus.com^$third-party
-||external.impression-neo.naver.com^
+||external.impression-neo.naver.com^$empty
 ||facebook.com^$app=dictionary.english.freeapptck
 ||facebook.net^$domain=shindonga.donga.com,third-party
 ||fbcdn.net^$app=dictionary.english.freeapptck
 ||firebaseio.com^$third-party
 ||ggad.whoscall.com^$app=gogolook.callgogolook2
-||glpals.com^
+||glpals.com^$empty
 ||google-analytics.com^$domain=shindonga.donga.com,third-party
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 ||innorame.com^$third-party
 ||keyword.ad.daum.net^
-||recopick.com^
-||screen.buzzvil.com^
+||recopick.com^$empty
+||screen.buzzvil.com^$empty
 ||teads.tv^$third-party
 ||tiara.daum.net^$third-party
 ||track.maillink.co.kr^$third-party
@@ -4481,11 +4490,11 @@ investchosun.com##div.banner
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################
-||recopick.com^
-||adoffice.11st.co.kr^
-||glpals.com^
-||screen.buzzvil.com^
-||adservice.google.com^
+||recopick.com^$empty
+||adoffice.11st.co.kr^$empty
+||glpals.com^$empty
+||screen.buzzvil.com^$empty
+||adservice.google.com^$empty
 
 ! ###############################################
 ! Blacklist - 안드로이드
@@ -4497,11 +4506,13 @@ investchosun.com##div.banner
 ||fbcdn.net^$app=dictionary.english.freeapptck
 ! HanaFax
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
+! 가짜뉴스
+||dailypadak.com^$empty
 
 ! ###############################################
 ! Blacklist - 확증은 없으나 미심쩍은 곳
 ! ###############################################
-||external.impression-neo.naver.com^
+||external.impression-neo.naver.com^$empty
 !
 !
 ! binarydiver.txt
@@ -4995,15 +5006,6 @@ jmana.net###main_popup
 ||trustiseverything.de^$third-party
 ||trustmeiamapro.de^$third-party
 ||gxbrowser.net^
-||seed.bitcoin.sipa.be^
-||dnsseed.bluematt.me^
-||dnsseed.bitcoin.dashjr.org^
-||seed.bitcoinstats.com^
-||seed.bitcoin.jonasschnelli.ch^
-||seed.btc.petertodd.org^
-||seed.bitcoin.sprovoost.nl^
-||dnsseed.emzy.de^
-||seed.bitcoin.wiz.biz^
 
 ! coinimp.com
 ||blockchained.party
