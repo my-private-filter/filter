@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.18.00
+! Version: 2021.04.18.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2122,6 +2122,11 @@ robintrack.net###root > div.bp3-dark > div:first-child > iframe:first-child
 ||tistory1.daumcdn.net/tistory/2908925/skin/images/anti_abp.png
 
 ! Bad Ad
+!
+! ohli24.net
+||ohli24.net/img/n/*.gif^
+||ohli24.net/img/2020/*.gif^
+||ohli24.net/img/2021/*.gif^
 !
 ! moeni.org
 ||moeni.org/img/sponsor/250x80.gif
