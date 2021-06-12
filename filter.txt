@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.04.19.00
+! Version: 2021.06.12.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2291,10 +2291,10 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v20.sonagitv.me, v20.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v20.sonagitv.me
-||kkmoa.com/ace_ad/*.php$domain=v20.danbimovie.me
+||kkmoa.com/ace_ad/*.php$domain=v24.sonagitv.me
+||kkmoa.com/ace_ad/*.php$domain=v24.danbimovie.me
 eer5.instoworld.xyz###text-2 > div.textwidget
 eer5.instoworld.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=eer5.instoworld.xyz
@@ -2691,16 +2691,16 @@ newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body 
 ||manatoki95.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.gdn/images/*.gif^
-||funbe.gdn/bann/*.gif^
-||funbe.gdn/bann/*.png^
-||funbe.gdn/bann/*.jpg^
-funbe.gdn###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.gdn##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.gdn##div.login-block:last-child > div.login-show
+||funbe.ink/images/*.gif^
+||funbe.ink/bann/*.gif^
+||funbe.ink/bann/*.png^
+||funbe.ink/bann/*.jpg^
+funbe.ink###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.ink##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.ink##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
@@ -3072,11 +3072,19 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||sxxk*.com/img/*.jpg^
 ||sxxk*.com/img/*.gif^
 !
-! https://sorabada20.com
-||66.media.tumblr.com/*/*.gif^$domain=sorabada20.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada20.com
-||78.media.tumblr.com/*/*.png^$domain=sorabada20.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada20.com
+! https://sorabada26.com
+||sorabada26.com/img/banner/AQUAW/3.gif
+||sorabada26.com/img/banner/MSLOT/1.gif
+||sorabada26.com/img/banner/MSLOT/2.gif
+||sorabada26.com/img/banner/MSLOT/3.gif
+||sorabada*.com/img/banner/AQUAW/3.gif
+||sorabada*.com/img/banner/MSLOT/1.gif
+||sorabada*.com/img/banner/MSLOT/2.gif
+||sorabada*.com/img/banner/MSLOT/3.gif
+||66.media.tumblr.com/*/*.gif^$domain=sorabada26.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada26.com
+||78.media.tumblr.com/*/*.png^$domain=sorabada26.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada26.com
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada**.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada**.com
 ||78.media.tumblr.com/*/*.png^$domain=sorabada**.com
@@ -4606,8 +4614,8 @@ jmana.net###main_popup
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 ! https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin-ublock.txt
 ! NoCoin Filter List
-! 195
-! 30 Jan 2021
+! 197
+! 22 May 2021
 !
 !
 ! Third Party blocking ---------------------------------------------------------
@@ -5177,7 +5185,7 @@ jmana.net###main_popup
 ?proxy=wss://$script,websocket
 
 ! TLD blocking -----------------------------------------------------------------
-/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz
+/^(https?|wss?):\/\/([0-9a-z\-]+\.)?([0-9a-z\-]+\.)(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space(?!(/socket\/websocket\?vsn\=))|stream|tk|top|trade|webcam|win|xyz|zone)(\.)?\/(.*)/$third-party,websocket,domain=~arium.events|~file.pizza|~instant.io|~mellivora.pro|~mellivora.trade|~myinterview.com|~polkadot.js.org|~proctoredu.com|~proctoredu.ru|~spaceship.media.mit.edu|~webtorrent.io|~yorbbackend.xyz|~redirect-ads.com
 /^https?:\/\/([0-9a-z\.-_]+)\.(accountant|bid|cf|club|cricket|date|download|faith|fun|ga|gdn|gq|loan|men|ml|network|online|ovh|party|pro|pw|racing|review|rocks|science|sh|site|space|stream|tk|top|trade|webcam|win|xyz|zone)(\.)\/(.*)/$script,third-party
 .info^$domain=hdyayinmac1.com|sleeptimer.org
 .website/lib/*.wasm$xmlhttprequest,third-party
