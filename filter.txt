@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.06.12.00
+! Version: 2021.06.12.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3072,15 +3072,25 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||sxxk*.com/img/*.jpg^
 ||sxxk*.com/img/*.gif^
 !
+! https://avkim1.com
+||avkim1.com/img/banner/MSLOT/3.gif
+||avkim1.com/img/banner/MSLOT/6.gif
+||avkim*.com/img/banner/MSLOT/3.gif
+||avkim*.com/img/banner/MSLOT/6.gif
+!
 ! https://sorabada26.com
+||sorabada26.com/img/banner/42.gif
 ||sorabada26.com/img/banner/AQUAW/3.gif
 ||sorabada26.com/img/banner/MSLOT/1.gif
 ||sorabada26.com/img/banner/MSLOT/2.gif
 ||sorabada26.com/img/banner/MSLOT/3.gif
+||sorabada26.com/img/banner/MSLOT/4.gif
+||sorabada*.com/img/banner/42.gif
 ||sorabada*.com/img/banner/AQUAW/3.gif
 ||sorabada*.com/img/banner/MSLOT/1.gif
 ||sorabada*.com/img/banner/MSLOT/2.gif
 ||sorabada*.com/img/banner/MSLOT/3.gif
+||sorabada*.com/img/banner/MSLOT/4.gif
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada26.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada26.com
 ||78.media.tumblr.com/*/*.png^$domain=sorabada26.com
