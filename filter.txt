@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.06.28.00
+! Version: 2021.06.28.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2321,6 +2321,8 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
 ||sonagitv.vip/sonagi_media/sites/*/*/*/*.gif^
 ||sonagitv.vip/sona_media/sites/*/*/*/*.gif^
+||sonagitv.vip/sonagi_media/sites/2/2021/02/safe360*.jpg
+||sonagitv.vip/sonagi_media/sites/2/2021/02/sfo360*.jpg
 ||sonagitv.vip/sonagi_media/sites/2/2021/02/sfo360.jpg
 ||sonagitv.vip/sonagi_media/sites/2/2021/02/safe360.jpg
 ||sonagitv.vip/sonagi_media/sites/2/2020/03/advcon1.png
@@ -2336,12 +2338,14 @@ sonagitv.vip###jtg-404154 > div.modula-items:first-child > div.modula-item.effec
 sonagitv.net###jtg-404154 > div.modula-items:first-child
 ||danbimovie.vip/danbimedia/sites/*/*/*/*.gif^
 ||danbimovie.vip/danbi_media/sites/*/*/*/*.gif^
+||danbimovie.vip/danbi_media/sites/2/2021/01/safe360*.jpg
+||danbimovie.vip/danbi_media/sites/2/2021/01/sfo360*.jpg
+||danbimovie.vip/danbi_media/sites/2/2021/01/safe360.jpg
+||danbimovie.vip/danbi_media/sites/2/2021/01/sfo360.jpg
 ||danbimovie.vip/danbi_media/sites/3/2020/03/iioooiii360.jpg
 ||danbimovie.vip/danbimedia/sites/38/2020/03/advcon2.png
 ||danbimovie.vip/danbimedia/sites/38/2020/03/advcon1.png
 ||danbimovie.vip/danbi_media/sites/2/2020/03/advcon1.png
-||danbimovie.vip/danbi_media/sites/2/2021/01/safe360.jpg
-||danbimovie.vip/danbi_media/sites/2/2021/01/sfo360.jpg
 !||danbimovie.vip/danbi_media/sites/3/*/*/*.jpg^!섬네일증발!
 danbimovie.vip##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content > div.post-27209.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575349274720:first-child > div.wpb_wrapper > a > img
 danbimovie.vip###jtg-38722 > div.modula-items:first-child
