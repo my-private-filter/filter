@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.06.28.01
+! Version: 2021.07.10.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2695,22 +2695,33 @@ newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body 
 ||manatoki95.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
-! funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.fund/images/*.gif^
-||funbe.fund/bann/*.gif^
-||funbe.fund/bann/*.png^
-||funbe.fund/bann/*.jpg^
-funbe.fund###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.fund##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.fund##div.login-block:last-child > div.login-show
+||funbe.works/images/*.gif^
+||funbe.works/bann/*.gif^
+||funbe.works/bann/*.png^
+||funbe.works/bann/*.jpg^
+funbe.works###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.works##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.works##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
 funbe.*###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
 funbe.*##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
 funbe.*##div.login-block:last-child > div.login-show
+!
+! frtoon71.com, frt777.com
+||frtoon71.com/data/by_banner/*
+||frtoon71.com/data/by_banner/5217174019dd1c1df0cd0f8066904fe6.gif
+||frtoon71.com/data/by_banner/9ed1fce59aacbcd80046fd664f225865.jpg
+||frtoon71.com/data/by_banner/86b0cd99f94670aec69ce93f07b603d6.png
+!
+! hohotoon24.com
+||hohotoon24.com/data/banner/*
+||hohotoon24.com/data/banner/69?_=382109402fef280a7e0a0c7fd0830b0b
+||hohotoon24.com/data/banner/110?_=fdef974c0d8fe0000e279b8350b9acef
 !
 ! hodu23.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu23.net/img/banner/*.gif^
