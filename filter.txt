@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.07.10.00
+! Version: 2021.07.21.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3154,6 +3154,21 @@ pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
+!
+! https://bo-zi20.net, bo-zi.net
+||bo-zi20.net/theme/Korea/img/headbanner/pc_1.gif
+||bo-zi20.net/theme/Korea/img/headbanner/pc_5.jpg
+||bo-zi20.net/theme/Korea/img/headbanner/pc_6.jpg
+||bo-zi20.net/theme/Korea/img/headbanner/p_kus78.gif
+||bo-zi20.net/theme/Korea/img/headbanner/p_metoon.gif
+||bo-zi20.net/theme/Korea/img/headbanner/m_bong4.gif
+||bo-zi20.net/theme/Korea/img/headbanner/p_BMW.gif
+||bo-zi20.net/theme/Korea/img/headbanner/p_158.gif
+||bo-zi20.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
+||bo-zi20.net/theme/Korea/img/headbanner/P_VIVA%20.gif
+||bo-zi20.net/theme/Korea/img/headbanner/p_kus781.gif
+||bo-zi20.net/theme/Korea/img/headbanner/*.jpg^
+||bo-zi20.net/theme/Korea/img/headbanner/*.gif^
 !
 ! avpop80.com
 ||i.imgur.com/NBWHplb.gif
