@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.07.21.00
+! Version: 2021.08.15.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2291,10 +2291,13 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v2.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v1.sonagitv.vip
+||kkmoa.com/ace_ad/*.php$domain=v2.sonagitv.icu
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+oor4.jnewslab.xyz###text-2 > div.textwidget
+oor4.jnewslab.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=oor4.jnewslab.xyz
 eer5.instoworld.xyz###text-2 > div.textwidget
 eer5.instoworld.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=eer5.instoworld.xyz
@@ -2319,22 +2322,22 @@ move4.linkhole.xyz###text-4 > div.textwidget
 link1.movethelink.xyz###kboard-default-list
 link1.movethelink.xyz###text-4 > div.textwidget
 ||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
-||sonagitv.vip/sonagi_media/sites/*/*/*/*.gif^
-||sonagitv.vip/sona_media/sites/*/*/*/*.gif^
-||sonagitv.vip/sonagi_media/sites/2/2021/02/safe360*.jpg
-||sonagitv.vip/sonagi_media/sites/2/2021/02/sfo360*.jpg
-||sonagitv.vip/sonagi_media/sites/2/2021/02/sfo360.jpg
-||sonagitv.vip/sonagi_media/sites/2/2021/02/safe360.jpg
-||sonagitv.vip/sonagi_media/sites/2/2020/03/advcon1.png
-||sonagitv.vip/sonagi_media/sites/15/2020/03/advcon1.png
-||sonagitv.vip/sona_media/sites/39/2020/03/advcon1.png
-||sonagitv.vip/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
-!||sonagitv.vip/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
-sonagitv.vip###sonag-373785768 > a > img
-sonagitv.vip##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
-sonagitv.vip###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
-sonagitv.vip###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
-sonagitv.vip###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
+||sonagitv.icu/sonagi_media/sites/*/*/*/*.gif^
+||sonagitv.icu/sona_media/sites/*/*/*/*.gif^
+||sonagitv.icu/sonagi_media/sites/2/2021/02/safe360*.jpg
+||sonagitv.icu/sonagi_media/sites/2/2021/02/sfo360*.jpg
+||sonagitv.icu/sonagi_media/sites/2/2021/02/sfo360.jpg
+||sonagitv.icu/sonagi_media/sites/2/2021/02/safe360.jpg
+||sonagitv.icu/sonagi_media/sites/2/2020/03/advcon1.png
+||sonagitv.icu/sonagi_media/sites/15/2020/03/advcon1.png
+||sonagitv.icu/sona_media/sites/39/2020/03/advcon1.png
+||sonagitv.icu/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
+!||sonagitv.icu/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
+sonagitv.icu###sonag-373785768 > a > img
+sonagitv.icu##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
+sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
+sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
+sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.net###jtg-404154 > div.modula-items:first-child
 ||danbimovie.vip/danbimedia/sites/*/*/*/*.gif^
 ||danbimovie.vip/danbi_media/sites/*/*/*/*.gif^
