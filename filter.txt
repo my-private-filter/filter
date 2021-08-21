@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.08.16.00
+! Version: 2021.08.21.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2680,13 +2680,13 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
 !
-! newtoki95.com & newtoki95.net
-newtoki95.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki95.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki95.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki95.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki95.com/data/banner/*
-newtoki95.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki96.com & newtoki96.net
+newtoki96.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki96.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki96.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki96.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki96.com/data/banner/*
+newtoki96.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
 newtoki**.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
@@ -2694,20 +2694,20 @@ newtoki**.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
 ||newtoki**.com/data/banner/*
 newtoki**.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki95.net
-||manatoki95.net/data/banner/*
+! manatoki96.net
+||manatoki96.net/data/banner/*
 ||manatoki**.net/data/banner/*
 !
 ! funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.city/images/*.gif^
-||funbe.city/bann/*.gif^
-||funbe.city/bann/*.png^
-||funbe.city/bann/*.jpg^
-funbe.city###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.city##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.city##div.login-block:last-child > div.login-show
+||funbe.chat/images/*.gif^
+||funbe.chat/bann/*.gif^
+||funbe.chat/bann/*.png^
+||funbe.chat/bann/*.jpg^
+funbe.chat###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.chat##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.chat##div.login-block:last-child > div.login-show
 ||funbe.*/bann/*.gif^
 ||funbe.*/bann/*.png^
 ||funbe.*/bann/*.jpg^
