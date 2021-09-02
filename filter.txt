@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.08.27.00
+! Version: 2021.09.02.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -112,6 +112,17 @@ m.afreecatv.com###scroller > a.appstore:nth-child(3)
 m.afreecatv.com###video > div.player_area:nth-child(4) > div.case_area.case7 > div.case_box > p:nth-child(2)
 m.afreecatv.com###go_vod_player
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3)
+!
+! com.dcinside.app
+@@||m.dcinside.com^$app=com.dcinside.app
+@@||upload.dcinside.com^$app=com.dcinside.app
+@@||json*.dcinside.com^$app=com.dcinside.app
+@@||app.dcinside.com^$app=com.dcinside.app
+@@||dci*.dcinside.co.kr^$app=com.dcinside.app
+@@||addc.dcinside.com^$app=com.dcinside.app
+@@||dci*.dcinside.com^$app=com.dcinside.app
+@@||addc.dcinside.com^$app=com.dcinside.app
+@@||wstatic.dcinside.com^$app=com.dcinside.app
 !
 
 ! Forbidden
