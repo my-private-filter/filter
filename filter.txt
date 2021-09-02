@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.02.00
+! Version: 2021.09.02.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3182,7 +3182,7 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 
 ! Bad Ad (4)
 !
-! pornhub.com
+! https://pornhub.com
 pornhub.com##.removeAdLink
 pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
@@ -3203,14 +3203,26 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi20.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi20.net/theme/Korea/img/headbanner/*.gif^
 !
-! avpop80.com
+! https://avpop91.com
 ||i.imgur.com/NBWHplb.gif
 ||i.imgur.com/WB7EOzV.gif
+||cloudaaaa.com/d/6.gif
+||cloudaaaa.com/d/5.gif
+||cloudaaaa.com/d/4.gif
+||cloudaaaa.com/d/1.gif
+||cloudaaaa.com/d/9.gif
+||cloudaaaa.com/d/16.gif
+||cloudaaaa.com/d/11.gif
+||cloudaaaa.com/d/12.gif
+||cloudaaaa.com/d/*.gif^$domain=avpop91.com
 !
-! todaybest4.xyz
+! https://todaybest4.xyz
 ||todaybest4.xyz/img/racebet888_4001.gif
+||todaybest4.xyz/img/btmangor400x300.gif
 !
-! bamgosu16.com
+! https://bamgosu17.com
+||bamgosu17.com/data/apms/background/8.gif
+||bamgosu17.com/img/banner/BETMOVE/4.gif
 ||64.media.tumblr.com/7ec2f0f505e8c3af666a2cd71db87aad/3134dc219e3ea61a-5d/s400x600/5f9ffce5f8fa575faece2a947684c328a56e580d.png
 ||64.media.tumblr.com/5d93fd4d8fe7ce0f9e3040c1504d1e54/37a5c86a9af13e48-f9/s400x600/4c121214a4151e1cb706e9f175edaf04ef292840.png
 ||64.media.tumblr.com/119bcbe566f3c430fbc52ec91cd50954/fa89b4ab115c3ee8-08/s400x600/ea545388223f940511f55dab6477fcf199edae5f.gifv
@@ -3220,10 +3232,10 @@ pornhub.com###hotVideosSection > .alpha
 ||64.media.tumblr.com/ae3aafac89d6d8034d9631d7d1764f70/55d640a8af7c5388-39/s400x600/3ef206a4a279c85e9ce30fc9fe064724dbda54aa.gifv
 ||64.media.tumblr.com/31822afc9070eddd32a552d5c760d9ed/87ae9b1acf492f95-c1/s540x810/68ced691038f59e6f10ec858cbdb8976f2e78b68.gifv
 !
-! jogaeparty13.com
-||images2.imgbox.com/*/*/*.gif^$domain=jogaeparty13.com
-||images2.imgbox.com/*/*/*.jpg^$domain=jogaeparty13.com
-||jogaeparty13.com//data/editor/2103/3c203cb8b407baf9b9ce66e4bac1f38f_1616736831_3075.jpg
+! https://jogaeparty14.com
+||images2.imgbox.com/*/*/*.gif^$domain=jogaeparty14.com
+||images2.imgbox.com/*/*/*.jpg^$domain=jogaeparty14.com
+||jogaeparty14.com//data/editor/2103/3c203cb8b407baf9b9ce66e4bac1f38f_1616736831_3075.jpg
 ||images2.imgbox.com/d4/2d/r1yW6SHg_o.gif
 ||images2.imgbox.com/2e/95/WxdmR74X_o.gif
 ||images2.imgbox.com/5c/52/VyXhupk8_o.gif
@@ -3258,10 +3270,10 @@ pornhub.com###hotVideosSection > .alpha
 ||images2.imgbox.com/3f/48/ulHQ96sa_o.jpg
 ||images2.imgbox.com/6a/df/GIta3chG_o.jpg
 !
-! dogjoa.net
-||dogjoa.net/img/2019/*.gif.pagespeed.ce.*.gif^
+! https://dogjoa37.net
+||dogjoa37.net/img/2019/*.gif.pagespeed.ce.*.gif^
 !
-! rank19.com
+! https://rank19.com
 ||rank19.com/data/apms/background/ezgif-3-1fc21e51ff.gif
 ||rank19.com/data/apms/background/ezgif-5-23c791baf5.gif
 ||rank19.com/data/apms/background/fulltv%20(2).gif
@@ -3269,13 +3281,13 @@ pornhub.com###hotVideosSection > .alpha
 ||rank19.com/data/apms/background/1122.jpg
 ||rank19.com/data/apms/background/big_banner02%20(1).gif
 !
-! yanorja.cop
+! https://yanorja.cop
 ||yanorja.net/data/apms/background/1122.jpg
 ||yanorja.net/data/apms/background/*.gif^
 ||yanorja.co/data/apms/background/ezgif-*-*.gif^
 ||yanorja.co/data/apms/background/*.gif^
 !
-! daboja.co
+! https://daboja.co
 ||daboja.co/data/apms/background/195x200_%EB%8B%A4%EB%B3%B4%EC%9E%90_%EC%8B%AC%EB%B0%94_%EB%B0%B0%EB%84%88_180603.gif
 ||daboja.co/data/apms/background/da999.gif
 ||daboja.co/data/apms/background/195_200b.gif
@@ -3289,7 +3301,7 @@ pornhub.com###hotVideosSection > .alpha
 ||daboja18.com/data/apms/background/KakaoTalk_20170926_000000634.gif
 ||daboja18.com/data/apms/background/ezgif-3-1fc21e51ff.gif
 !
-! yachunsa.co
+! https://yachunsa.co
 ||yachunsa.co/data/apms/background/bang.gif
 ||yachunsa.co/data/apms/background/banner11.gif
 ||yachunsa.co/data/apms/background/anigif.gif
