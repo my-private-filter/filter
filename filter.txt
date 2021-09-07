@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.07.00
+! Version: 2021.09.07.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2302,9 +2302,9 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! v4.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v4.sonagitv.icu
+||kkmoa.com/ace_ad/*.php$domain=v5.sonagitv.icu
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 oor4.jnewslab.xyz###text-2 > div.textwidget
 oor4.jnewslab.xyz###kboard-default-list
@@ -2991,9 +2991,9 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel3.top
-||torrentreel3.top/ad/wcshow33.gif
-||torrentreel3.top/images/sub/sub_bg1.jpg
+! https://www.torrentreel7.top
+||torrentreel7.top/ad/wcshow33.gif
+||torrentreel7.top/images/sub/sub_bg1.jpg
 !
 ! https://www.torrentwang.com
 ||i.imgur.com/Np9s114.gif
