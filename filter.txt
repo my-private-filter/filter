@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.10.00
+! Version: 2021.09.10.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2996,9 +2996,9 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel7.top
-||torrentreel7.top/ad/wcshow33.gif
-||torrentreel7.top/images/sub/sub_bg1.jpg
+! https://www.torrentreel8.top
+||torrentreel8.top/ad/wcshow33.gif
+||torrentreel8.top/images/sub/sub_bg1.jpg
 !
 ! https://www.torrentwang.com
 ||i.imgur.com/Np9s114.gif
