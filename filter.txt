@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.18.01
+! Version: 2021.09.18.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2305,8 +2305,13 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 !
 ! https://noonoo.tv
 ||noonoo.tv/data/banner/3?v=2021-09-10%2015:17:17
+||noonoo.tv/data/banner/4?v=2021-09-10%2015:17:44
+||noonoo.tv/data/banner/5?v=2021-09-10%2015:17:31
 noonoo.tv###container > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.partner-banner-wrap.index:nth-child(2) > div.partner-banner-content > a > img
+noonoo.tv###container > div.view-content:first-child > div.frame-banner:first-child > a > img
+noonoo.tv###container > div.view-content:first-child > div.frame-banner:nth-child(3) > a > img
+noonoo.tv###container > div.list-content:first-child > div.list-content-item:last-child > div.out-partner-banner:first-child > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
@@ -2314,6 +2319,9 @@ noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:
 !
 ||kkmoa.com/ace_ad/*.php$domain=v2.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+vvv.ideajmoney.xyz###text-2 > div.textwidget
+vvv.ideajmoney.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=vvv.ideajmoney.xyz
 oor4.jnewslab.xyz###text-2 > div.textwidget
 oor4.jnewslab.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=oor4.jnewslab.xyz
@@ -2356,12 +2364,14 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||sonagitv.org/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
 ||sonagitv.org/sonagi_media/sites/2/2021/07/betball360.gif
 !||sonagitv.org/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
-sonagitv.icu###sonag-373785768 > a > img
-sonagitv.icu##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
-sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
-sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
-sonagitv.icu###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
-sonagitv.net###jtg-404154 > div.modula-items:first-child
+sonagitv.org###sonag-373785768 > a > img
+sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
+sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
+sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
+sonagitv.org###jtg-404154 > div.modula-items:first-child
+sonagitv.org##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
+sonagitv.org##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper
+!
 ||danbimovie.vip/danbimedia/sites/*/*/*/*.gif^
 ||danbimovie.vip/danbi_media/sites/*/*/*/*.gif^
 ||danbimovie.vip/danbi_media/sites/2/2021/01/safe360*.jpg
