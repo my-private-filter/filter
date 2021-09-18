@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.18.04
+! Version: 2021.09.18.05
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2302,6 +2302,15 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
+! https://j4.moviejoa.cc
+||moviejoa.cc/data/apms/background/33ezgif-4-4863dfa51850.gif
+||moviejoa.cc/data/apms/background/sura1.gif
+||moviejoa.cc/data/apms/background/320x120rsms2.gif
+||moviejoa.cc/data/apms/background/320x120KS3.gif
+||moviejoa.cc/data/apms/background/%EC%95%842ezgif-3-541aeed7720f.gif
+||moviejoa.cc/data/apms/background/320-120-nmarbel2.gif
+||moviejoa.cc/data/apms/background/musinsa2.gif
+moviejoa.cc###thema_wrapper > div.row:nth-child(7)
 !
 ! https://noonoo.tv
 ||noonoo.tv/data/banner/3?v=2021-09-10%2015:17:17
