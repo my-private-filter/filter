@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.18.03
+! Version: 2021.09.18.04
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2319,6 +2319,9 @@ noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:
 !
 ||kkmoa.com/ace_ad/*.php$domain=v2.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+ppr4.jnewslab.xyz###text-2 > div.textwidget
+ppr4.jnewslab.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=ppr4.jnewslab.xyz
 vvv.ideajmoney.xyz###text-2 > div.textwidget
 vvv.ideajmoney.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=vvv.ideajmoney.xyz
