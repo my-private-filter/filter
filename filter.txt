@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.18.02
+! Version: 2021.09.18.03
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2369,6 +2369,7 @@ sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effec
 sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
 sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child
 sonagitv.org###jtg-404154 > div.modula-items:first-child
+sonagitv.org###jtg-470224 > div.modula-items:first-child
 sonagitv.org##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper > div.wpb_text_column.wpb_content_element.vc_custom_1575348379706:first-child > div.wpb_wrapper > a > img
 sonagitv.org##div.container:nth-child(3) > div.row > div.col-md-8.col-sm-12.main-content:first-child > div.post-161539.page.type-page.status-publish.hentry > div.post-entry:last-child > div.vc_row.wpb_row.vc_row-fluid:first-child > div.wpb_column.column_container.col-md-12 > div.vc_column-inner > div.wpb_wrapper
 !
