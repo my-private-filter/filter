@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.09.18.00
+! Version: 2021.09.18.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2305,6 +2305,10 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 !
 ! https://noonoo.tv
 ||noonoo.tv/data/banner/3?v=2021-09-10%2015:17:17
+noonoo.tv###container > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
+noonoo.tv###container > div.partner-banner-wrap.index:nth-child(2) > div.partner-banner-content > a > img
+noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
+noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
 ! v2.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
