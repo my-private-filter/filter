@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.10.09.00
+! Version: 2021.10.12.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -4474,26 +4474,6 @@ dream-post.com
 ! adguard-kr.txt
 !
 /magazine_images/banner/*$domain=magazine.hankyung.com
-@@//app.datadoghq.com^$document
-@@||*.branch.io^$app=com.medium.reader
-@@||*.istarbucks.co.kr^$app=com.starbucks.co
-@@||*.onelogin.com^$document
-@@||admin.google.com$document
-@@||andromedarabbit.disqus.com$document
-@@||andromedarabbit.net$document
-@@||app.gitbook.com^$important,document,~extension
-@@||dash.cloudflare.com^$important,document
-@@||dashboard-01.moengage.com^$document
-@@||developers.google.com$document
-@@||docs.google.com^$important,document
-@@||evernote.com$document
-@@||giphy.com$document
-@@||medium.com^$document
-@@||mozilla.org$document
-@@||netflix.com$document
-@@||unchartedsky.com$document
-@@||www.elastic.co$document
-@@||youtube.com^$document
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
 coinpan.com##.banner_img
@@ -4566,29 +4546,10 @@ www.nate.com##.area_shopping_today
 ! ###############################################
 
 ! Personal websites: andromedarabbit
-@@||unchartedsky.com$document
-@@||andromedarabbit.net$document
-@@||andromedarabbit.disqus.com$document
 
 ! Personal favorites: andromedarabbit
-@@||mozilla.org$document
-@@||evernote.com$document
-@@||youtube.com^$document
-@@||netflix.com$document
-@@||giphy.com$document
-@@||admin.google.com$document
-@@||developers.google.com$document
-@@||docs.google.com^$important,document
-
-@@||medium.com^$document
-@@||app.gitbook.com^$important,document,~extension
-@@||dash.cloudflare.com^$important,document
-@@||dashboard-01.moengage.com^$document
-@@||*.onelogin.com^$document
 
 ! Third-party apps:
-@@||*.istarbucks.co.kr^$app=com.starbucks.co
-@@||*.branch.io^$app=com.medium.reader
 
 ! ###############################################
 ! Blacklist
@@ -4699,8 +4660,6 @@ outlook.live.com###primaryContainer > div._n_h
 ! Personal favorites: eggtart
 
 ! Dev tool Site
-@@||www.elastic.co$document
-@@//app.datadoghq.com^$document
 
 ! ###############################################
 ! Blacklist
