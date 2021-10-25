@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.10.25.00
+! Version: 2021.10.25.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2324,9 +2324,9 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v6.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v8.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v6.sonagitv.org
+||kkmoa.com/ace_ad/*.php$domain=v8.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 ppr4.jnewslab.xyz###text-2 > div.textwidget
 ppr4.jnewslab.xyz###kboard-default-list
@@ -3284,18 +3284,22 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi25.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi25.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://avpop216.com
+! https://avpop218.com
 ||i.imgur.com/NBWHplb.gif
 ||i.imgur.com/WB7EOzV.gif
-||cloudaaaa.com/d/6.gif
-||cloudaaaa.com/d/5.gif
-||cloudaaaa.com/d/4.gif
 ||cloudaaaa.com/d/1.gif
+||cloudaaaa.com/d/3.gif
+||cloudaaaa.com/d/4.gif
+||cloudaaaa.com/d/5.gif
+||cloudaaaa.com/d/6.gif
+||cloudaaaa.com/d/8.gif
 ||cloudaaaa.com/d/9.gif
-||cloudaaaa.com/d/16.gif
 ||cloudaaaa.com/d/11.gif
 ||cloudaaaa.com/d/12.gif
-||cloudaaaa.com/d/*.gif^$domain=avpop216.com
+||cloudaaaa.com/d/14.gif
+||cloudaaaa.com/d/15.gif
+||cloudaaaa.com/d/16.gif
+||cloudaaaa.com/d/*.gif^$domain=avpop218.com
 !
 ! https://todaybest4.xyz
 ||todaybest4.xyz/img/racebet888_4001.gif
@@ -3305,6 +3309,7 @@ pornhub.com###hotVideosSection > .alpha
 ||bamgosu17.com/data/apms/background/8.gif
 ||bamgosu17.com/img/banner/BETMOVE/4.gif
 ||bamgosu17.com/img/banner/14.gif
+||bamgosu17.com/img/banner/15.gif
 ||64.media.tumblr.com/7ec2f0f505e8c3af666a2cd71db87aad/3134dc219e3ea61a-5d/s400x600/5f9ffce5f8fa575faece2a947684c328a56e580d.png
 ||64.media.tumblr.com/5d93fd4d8fe7ce0f9e3040c1504d1e54/37a5c86a9af13e48-f9/s400x600/4c121214a4151e1cb706e9f175edaf04ef292840.png
 ||64.media.tumblr.com/119bcbe566f3c430fbc52ec91cd50954/fa89b4ab115c3ee8-08/s400x600/ea545388223f940511f55dab6477fcf199edae5f.gifv
