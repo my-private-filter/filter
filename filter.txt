@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.11.06.00
+! Version: 2021.11.11.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2324,9 +2324,9 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v10.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v12.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v10.sonagitv.org
+||kkmoa.com/ace_ad/*.php$domain=v12.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 ppr4.jnewslab.xyz###text-2 > div.textwidget
 ppr4.jnewslab.xyz###kboard-default-list
@@ -3190,28 +3190,6 @@ yaburi**.men###thema_wrapper > div.at-body:nth-child(9) > div.at-container > div
 ||avkim*.com/img/banner/MSLOT/3.gif
 ||avkim*.com/img/banner/MSLOT/6.gif
 !
-! https://sorabada26.com
-||sorabada26.com/img/banner/42.gif
-||sorabada26.com/img/banner/AQUAW/3.gif
-||sorabada26.com/img/banner/MSLOT/1.gif
-||sorabada26.com/img/banner/MSLOT/2.gif
-||sorabada26.com/img/banner/MSLOT/3.gif
-||sorabada26.com/img/banner/MSLOT/4.gif
-||sorabada*.com/img/banner/42.gif
-||sorabada*.com/img/banner/AQUAW/3.gif
-||sorabada*.com/img/banner/MSLOT/1.gif
-||sorabada*.com/img/banner/MSLOT/2.gif
-||sorabada*.com/img/banner/MSLOT/3.gif
-||sorabada*.com/img/banner/MSLOT/4.gif
-||66.media.tumblr.com/*/*.gif^$domain=sorabada26.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada26.com
-||78.media.tumblr.com/*/*.png^$domain=sorabada26.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada26.com
-||66.media.tumblr.com/*/*.gif^$domain=sorabada**.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada**.com
-||78.media.tumblr.com/*/*.png^$domain=sorabada**.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada**.com
-!
 ! https://19bam08.xyz
 ||19bam08.xyz/banner/img/*.gif^
 ||19bam08.xyz/banner/img/*.jpg^
@@ -3302,9 +3280,9 @@ pornhub.com###hotVideosSection > .alpha
 ||cloudaaaa.com/d/18.gif
 ||cloudaaaa.com/d/*.gif^$domain=avpop220.com
 !
-! https://todaybest4.xyz
-||todaybest4.xyz/img/racebet888_4001.gif
-||todaybest4.xyz/img/btmangor400x300.gif
+! https://todaybest5.xyz
+||todaybest5.xyz/img/racebet888_4001.gif
+||todaybest5.xyz/img/btmangor400x300.gif
 !
 ! https://bamgosu17.com
 ||bamgosu17.com/data/apms/background/8.gif
@@ -3312,6 +3290,8 @@ pornhub.com###hotVideosSection > .alpha
 ||bamgosu17.com/img/banner/14.gif
 ||bamgosu17.com/img/banner/15.gif
 ||bamgosu17.com/img/banner/16.gif
+||bamgosu17.com/img/banner/17.gif
+||bamgosu17.com/img/banner/18.gif
 ||64.media.tumblr.com/7ec2f0f505e8c3af666a2cd71db87aad/3134dc219e3ea61a-5d/s400x600/5f9ffce5f8fa575faece2a947684c328a56e580d.png
 ||64.media.tumblr.com/5d93fd4d8fe7ce0f9e3040c1504d1e54/37a5c86a9af13e48-f9/s400x600/4c121214a4151e1cb706e9f175edaf04ef292840.png
 ||64.media.tumblr.com/119bcbe566f3c430fbc52ec91cd50954/fa89b4ab115c3ee8-08/s400x600/ea545388223f940511f55dab6477fcf199edae5f.gifv
@@ -3321,15 +3301,64 @@ pornhub.com###hotVideosSection > .alpha
 ||64.media.tumblr.com/ae3aafac89d6d8034d9631d7d1764f70/55d640a8af7c5388-39/s400x600/3ef206a4a279c85e9ce30fc9fe064724dbda54aa.gifv
 ||64.media.tumblr.com/31822afc9070eddd32a552d5c760d9ed/87ae9b1acf492f95-c1/s540x810/68ced691038f59e6f10ec858cbdb8976f2e78b68.gifv
 !
-! https://jogaeparty14.com
-||images2.imgbox.com/*/*/*.gif^$domain=jogaeparty14.com
-||images2.imgbox.com/*/*/*.jpg^$domain=jogaeparty14.com
-||jogaeparty14.com//data/editor/2103/3c203cb8b407baf9b9ce66e4bac1f38f_1616736831_3075.jpg
+! https://sorabada33.com
+||sorabada33.com/img/banner/BMW3/1.gif
+||sorabada33.com/img/banner/BMW3/2.gif
+||sorabada33.com/img/banner/BMW3/3.gif
+||sorabada33.com/img/banner/CALL2/1.gif
+||sorabada33.com/img/banner/CALL2/2.gif
+||sorabada33.com/img/banner/CALL2/3.gif
+||sorabada33.com/img/banner/PINNA/1.gif
+||sorabada33.com/img/banner/PINNA/2.gif
+||sorabada33.com/img/banner/PINNA/3.gif
+||sorabada33.com/img/banner/TEN2211/1.gif
+||sorabada33.com/img/banner/TEN2211/2.gif
+||sorabada33.com/img/banner/TEN2211/3.gif
+||sorabada33.com/img/banner/ROYAL/1.gif
+||sorabada33.com/img/banner/ROYAL/2.gif
+||sorabada33.com/img/banner/ROYAL/3.gif
+||sorabada33.com/img/banner/42.gif
+||sorabada33.com/img/banner/AQUAW/3.gif
+||sorabada33.com/img/banner/MSLOT/1.gif
+||sorabada33.com/img/banner/MSLOT/2.gif
+||sorabada33.com/img/banner/MSLOT/3.gif
+||sorabada33.com/img/banner/MSLOT/4.gif
+sorabada33.com###thema_wrapper > div:nth-child(6)
+sorabada33.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
+sorabada33.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
+||66.media.tumblr.com/*/*.gif^$domain=sorabada33.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada33.com
+||78.media.tumblr.com/*/*.png^$domain=sorabada33.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada33.com
+!
+! https://jogaeparty31.com
+||jogaeparty31.com//data/editor/2103/3c203cb8b407baf9b9ce66e4bac1f38f_1616736831_3075.jpg
+||images2.imgbox.com/*/*/*.gif^$domain=jogaeparty31.com
+||images2.imgbox.com/*/*/*.jpg^$domain=jogaeparty31.com
+||images2.imgbox.com/d3/1d/rKNC07xz_o.gif
+||images2.imgbox.com/c8/a5/QJZGBQya_o.gif
+||images2.imgbox.com/c5/67/g6CsaO1j_o.gif
+||images2.imgbox.com/12/51/21Asrm8I_o.gif
+||images2.imgbox.com/ca/5e/Jsi97GWr_o.gif
+||images2.imgbox.com/4c/58/pDjnRLmP_o.gif
+||images2.imgbox.com/53/f8/jtFWnPz1_o.gif
+||images2.imgbox.com/a9/51/ztWtMUfc_o.gif
+||images2.imgbox.com/5a/f6/o5bLDasW_o.gif
+||images2.imgbox.com/4f/50/YR8Sg8jA_o.gif
+||images2.imgbox.com/5e/fd/Ivkp4yeD_o.gif
+||images2.imgbox.com/8a/6a/t18q7YVi_o.gif
+||images2.imgbox.com/ae/22/GyUrsXvy_o.gif
+||images2.imgbox.com/e3/1c/vx1aZTrK_o.gif
+||images2.imgbox.com/2b/50/os62hD6a_o.gif
+||images2.imgbox.com/3a/21/RYvUvM8X_o.gif
+||images2.imgbox.com/e2/67/sx6Oj8TT_o.gif
+||images2.imgbox.com/d6/3c/MQhDF8ce_o.gif
+||images2.imgbox.com/6e/a2/Inqa1Old_o.gif
 ||images2.imgbox.com/d4/2d/r1yW6SHg_o.gif
 ||images2.imgbox.com/2e/95/WxdmR74X_o.gif
 ||images2.imgbox.com/5c/52/VyXhupk8_o.gif
 ||images2.imgbox.com/8c/d8/iKFn5bJF_o.gif
-||images2.imgbox.com/df/01/99OFztmC_o.jpg
 ||images2.imgbox.com/07/2f/qa7wxSjs_o.gif
 ||images2.imgbox.com/1d/39/vaqf0Yoa_o.gif
 ||images2.imgbox.com/12/bb/EpoKby8N_o.gif
@@ -3342,9 +3371,12 @@ pornhub.com###hotVideosSection > .alpha
 ||images2.imgbox.com/ae/83/D2xn8pTu_o.gif
 ||images2.imgbox.com/63/46/7ipDf2aB_o.gif
 ||images2.imgbox.com/09/d8/Z6ISd743_o.gif
+||images2.imgbox.com/64/fe/k5wM7IrN_o.gif
+||images2.imgbox.com/df/01/99OFztmC_o.jpg
 ||images2.imgbox.com/55/0d/fHIMQJ7V_o.jpg
 ||images2.imgbox.com/4e/3f/qIvGtSz6_o.jpg
-||images2.imgbox.com/64/fe/k5wM7IrN_o.gif
+||images2.imgbox.com/72/42/YgUvyRrV_o.jpg
+||images2.imgbox.com/00/84/uLJ89n5K_o.jpg
 ||images2.imgbox.com/d3/36/JzI61nqd_o.jpg
 ||images2.imgbox.com/55/0d/fHIMQJ7V_o.jpg
 ||images2.imgbox.com/4e/3f/qIvGtSz6_o.jpg
@@ -3358,6 +3390,8 @@ pornhub.com###hotVideosSection > .alpha
 ||images2.imgbox.com/db/24/G9khni4L_o.jpg
 ||images2.imgbox.com/3f/48/ulHQ96sa_o.jpg
 ||images2.imgbox.com/6a/df/GIta3chG_o.jpg
+||images2.imgbox.com/03/9f/ejQvmQtK_o.png
+||images2.imgbox.com/52/2d/AF9nhINQ_o.png
 !
 ! https://dogjoa37.net
 ||dogjoa37.net/img/2019/*.gif.pagespeed.ce.*.gif^
