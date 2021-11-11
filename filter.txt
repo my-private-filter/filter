@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.11.11.00
+! Version: 2021.11.11.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3324,6 +3324,7 @@ pornhub.com###hotVideosSection > .alpha
 ||sorabada33.com/img/banner/MSLOT/3.gif
 ||sorabada33.com/img/banner/MSLOT/4.gif
 sorabada33.com###thema_wrapper > div:nth-child(6)
+sorabada33.com###thema_wrapper > div:nth-child(7) > p
 sorabada33.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
 sorabada33.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
