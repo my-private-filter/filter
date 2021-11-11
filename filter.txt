@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.11.11.01
+! Version: 2021.11.11.02
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -3330,7 +3330,7 @@ sorabada33.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.wid
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada33.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada33.com
-||78.media.tumblr.com/*/*.png^$domain=sorabada33.com
+! ||78.media.tumblr.com/*/*.png^$domain=sorabada33.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada33.com
 !
 ! https://jogaeparty31.com
