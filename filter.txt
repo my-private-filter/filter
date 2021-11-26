@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.11.26.00
+! Version: 2021.11.27.00
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2328,6 +2328,12 @@ noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:
 !
 ||kkmoa.com/ace_ad/*.php$domain=v14.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+uur4.darindella.xyz###text-2 > div.textwidget
+uur4.darindella.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=uur4.darindella.xyz
+ttr1.fabulouslink.xyz###text-2 > div.textwidget
+ttr1.fabulouslink.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=ttr1.fabulouslink.xyz
 ppr4.jnewslab.xyz###text-2 > div.textwidget
 ppr4.jnewslab.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=ppr4.jnewslab.xyz
@@ -2376,6 +2382,17 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||sonagitv.org/sonagi_media/sites/2/2020/02/iioooiiiiiiiioooiiiiiigrfbada728-%EB%B3%B5%EC%82%AC%EB%B3%B8-2.jpg
 ||sonagitv.org/sonagi_media/sites/2/2021/07/betball360.gif
 !||sonagitv.org/sonagi_media/sites/2/*/*/*.jpg^!섬네일증발!
+||sonagitv.org/sonagi_media2/sites/5/2021/02/booddgg360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/02/seven360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/02/winwin360_9466.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/02/sfo360*.jpg
+||sonagitv.org/sonagi_media2/sites/5/2021/07/betball360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/02/good360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/02/gunbet360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/11/livebet360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/11/GBCT360.gif
+||sonagitv.org/sonagi_media2/sites/5/2021/11/GBCT3602.gif
+sonagitv.org###jtg-525797 > div.modula-items:first-child
 sonagitv.org###sonag-373785768 > a > img
 sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > a.tile-inner:first-child
 sonagitv.org###jtg-404154 > div.modula-items:first-child > div.modula-item.effect-pufrobo.tile.tiled.tile-h.tg-loaded:first-child > div.figc.no-description:last-child
