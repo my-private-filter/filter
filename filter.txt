@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.11.27.00
+! Version: 2021.11.27.01
 ! Expires: 1 days (update frequency)
 
 ! Exception : Naver
@@ -2302,7 +2302,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://j4.moviejoa.cc
+! https://j12.moviejoa.cc
 ||moviejoa.cc/data/apms/background/33ezgif-4-4863dfa51850.gif
 ||moviejoa.cc/data/apms/background/sura1.gif
 ||moviejoa.cc/data/apms/background/320x120rsms2.gif
@@ -2310,6 +2310,8 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ||moviejoa.cc/data/apms/background/%EC%95%842ezgif-3-541aeed7720f.gif
 ||moviejoa.cc/data/apms/background/320-120-nmarbel2.gif
 ||moviejoa.cc/data/apms/background/musinsa2.gif
+||moviejoa.cc/data/apms/background/2rcasino.gif
+||moviejoa.cc/data/apms/background/%EC%9B%80%EC%A7%A4.gif
 moviejoa.cc###thema_wrapper > div.row:nth-child(7)
 !
 ! https://noonoo.tv
@@ -2941,7 +2943,7 @@ toktok.club###view_method
 ||torrentree48.top/ad/wcshow33.gif
 ||torrentree48.top/images/sub/sub_bg1.jpg
 !
-! https://torrentqq117.com
+! https://torrentqq118.com
 ||i.imgur.com/f7svABQ.gif
 ||i.imgur.com/jcPQeAp.gif
 ||i.imgur.com/1MjLIat.gif
@@ -2954,9 +2956,9 @@ toktok.club###view_method
 ||i.imgur.com/6VGOj8q.gif
 ||i.imgur.com/wUBxeqa.gif
 ||i.imgur.com/eVdBHta.gif
-torrentqq117.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
-torrentqq117.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
-torrentqq117.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
+torrentqq118.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
+torrentqq118.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
+torrentqq118.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
 !
 ! https://www.torrentwang.com
 ||i.imgur.com/Np9s114.gif
