@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.12.10.01
+! Version: 2021.12.10.02
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3188,6 +3188,7 @@ pornhub.com###hotVideosSection > .alpha
 ||64.media.tumblr.com/31822afc9070eddd32a552d5c760d9ed/87ae9b1acf492f95-c1/s540x810/68ced691038f59e6f10ec858cbdb8976f2e78b68.gifv
 !
 ! https://sorabada35.com
+||sorabada35.com/img/banner/42.gif
 ||sorabada35.com/img/banner/BMW3/1.gif
 ||sorabada35.com/img/banner/BMW3/2.gif
 ||sorabada35.com/img/banner/BMW3/3.gif
@@ -3203,7 +3204,6 @@ pornhub.com###hotVideosSection > .alpha
 ||sorabada35.com/img/banner/ROYAL/1.gif
 ||sorabada35.com/img/banner/ROYAL/2.gif
 ||sorabada35.com/img/banner/ROYAL/3.gif
-||sorabada35.com/img/banner/42.gif
 ||sorabada35.com/img/banner/AQUAW/1.gif
 ||sorabada35.com/img/banner/AQUAW/2.gif
 ||sorabada35.com/img/banner/AQUAW/3.gif
@@ -3221,6 +3221,7 @@ sorabada35.com###thema_wrapper > div:nth-child(6)
 sorabada35.com###thema_wrapper > div:nth-child(7) > p
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:first-child > p
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada35.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada35.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada35.com
