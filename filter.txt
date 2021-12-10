@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.12.10.00
+! Version: 2021.12.10.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3204,11 +3204,19 @@ pornhub.com###hotVideosSection > .alpha
 ||sorabada35.com/img/banner/ROYAL/2.gif
 ||sorabada35.com/img/banner/ROYAL/3.gif
 ||sorabada35.com/img/banner/42.gif
+||sorabada35.com/img/banner/AQUAW/1.gif
+||sorabada35.com/img/banner/AQUAW/2.gif
 ||sorabada35.com/img/banner/AQUAW/3.gif
 ||sorabada35.com/img/banner/MSLOT/1.gif
 ||sorabada35.com/img/banner/MSLOT/2.gif
 ||sorabada35.com/img/banner/MSLOT/3.gif
 ||sorabada35.com/img/banner/MSLOT/4.gif
+||sorabada35.com/img/banner/777/1.gif
+||sorabada35.com/img/banner/777/2.gif
+||sorabada35.com/img/banner/777/3.gif
+||sorabada35.com/img/banner/INDIE/1.gif
+||sorabada35.com/img/banner/INDIE/2.gif
+||sorabada35.com/img/banner/INDIE/3.gif
 sorabada35.com###thema_wrapper > div:nth-child(6)
 sorabada35.com###thema_wrapper > div:nth-child(7) > p
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
