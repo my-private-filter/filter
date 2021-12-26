@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.12.26.03
+! Version: 2021.12.26.04
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3261,6 +3261,10 @@ sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(13)
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11) > p
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap.view-mobile.font-14:nth-child(2) > div:nth-child(11)
+sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
+sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
+sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
+
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada35.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada35.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada35.com
