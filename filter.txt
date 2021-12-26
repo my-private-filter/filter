@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2021.12.26.00
+! Version: 2021.12.26.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2602,6 +2602,47 @@ marumaru227.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > 
 marumaru227.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 marumaru227.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
+! newtoki118.com & newtoki113.net
+newtoki118.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki118.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki118.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki118.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki118.com/data/banner/*
+newtoki118.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+!
+! manatoki118.net
+||manatoki118.net/data/banner/*
+!
+! http://11toon27.com
+||wwwimageup.angle777899.com/other/atoona/%EC%9C%88%EC%9C%88350X175_111.gif
+||wwwimageup.angle777899.com/other/atoona/%ED%85%90%EB%B2%B3350X175_1111.gif
+||wwwimageup.angle777899.com/other/atoona/bt350x175.gif
+||wwwimageup.angle777899.com/other/atoona/wbtt720x90.gif
+||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
+||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
+!
+! funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+!
+||s10.histats.com/js15_as.js
+||funbe.zone/images/*.gif^
+||funbe.zone/bann/*.gif^
+||funbe.zone/bann/*.png^
+||funbe.zone/bann/*.jpg^
+funbe.zone###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.zone##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.zone##div.login-block:last-child > div.login-show
+!
+! https://frtoon92.com, frt777.com
+||frtoon92.com/data/by_banner/*
+||frtoon92.com/data/by_banner/5217174019dd1c1df0cd0f8066904fe6.gif
+||frtoon92.com/data/by_banner/9ed1fce59aacbcd80046fd664f225865.jpg
+||frtoon92.com/data/by_banner/86b0cd99f94670aec69ce93f07b603d6.png
+!
+! https://hohotoon24.com
+||hohotoon24.com/data/banner/*
+||hohotoon24.com/data/banner/69?_=382109402fef280a7e0a0c7fd0830b0b
+||hohotoon24.com/data/banner/110?_=fdef974c0d8fe0000e279b8350b9acef
+!
 ! manamoa53.net, manamoa.net, mangashow5.me, https://188.214.136.5
 ||manamoa53.net/img/banner/ma/*.gif^
 ||manamoa53.net/img/banner/9x/*.gif^
@@ -2699,39 +2740,6 @@ mangashow*.me##.banner
 ||sora*.la/modules/manga/skins/default/img/*.gif?2^
 ||sora*.la/modules/manga/skins/default/img/*.gif^
 ||syndication.exdynsrv.com/splash.php?cat=&idzone=3585337&type=8&p=https://sora*.la/&sub=&block=1&el=&tags=&scr_info=aW5saW5lfHBvcE1hZ2ljfDEuMC4w^
-!
-! newtoki118.com & newtoki113.net
-newtoki118.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki118.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki118.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki118.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki118.com/data/banner/*
-newtoki118.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
-!
-! manatoki118.net
-||manatoki118.net/data/banner/*
-!
-! funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
-!
-||s10.histats.com/js15_as.js
-||funbe.zone/images/*.gif^
-||funbe.zone/bann/*.gif^
-||funbe.zone/bann/*.png^
-||funbe.zone/bann/*.jpg^
-funbe.zone###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.zone##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.zone##div.login-block:last-child > div.login-show
-!
-! https://frtoon83.com/, frt777.com
-||frtoon83.com/data/by_banner/*
-||frtoon83.com/data/by_banner/5217174019dd1c1df0cd0f8066904fe6.gif
-||frtoon83.com/data/by_banner/9ed1fce59aacbcd80046fd664f225865.jpg
-||frtoon83.com/data/by_banner/86b0cd99f94670aec69ce93f07b603d6.png
-!
-! https://hohotoon24.com/
-||hohotoon24.com/data/banner/*
-||hohotoon24.com/data/banner/69?_=382109402fef280a7e0a0c7fd0830b0b
-||hohotoon24.com/data/banner/110?_=fdef974c0d8fe0000e279b8350b9acef
 !
 ! hodu23.net, hoduco.net, hodu81.com, soo.gd/comics
 ||hodu23.net/img/banner/*.gif^
@@ -3227,6 +3235,9 @@ pornhub.com###hotVideosSection > .alpha
 ||sorabada35.com/img/banner/SMILE/1.gif
 ||sorabada35.com/img/banner/SMILE/2.gif
 ||sorabada34.com/img/banner/SMILE/3.gif
+||sorabada34.com/img/banner/BLUE/1.gif
+||sorabada34.com/img/banner/BLUE/2.gif
+||sorabada34.com/img/banner/BLUE/3.gif
 sorabada35.com###thema_wrapper > div:nth-child(6)
 sorabada35.com###thema_wrapper > div:nth-child(7) > p
 sorabada35.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
