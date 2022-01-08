@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.01.08.00
+! Version: 2022.01.08.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3240,6 +3240,9 @@ pornhub.com###hotVideosSection > .alpha
 ||sorabada36.com/img/banner/BLUE/1.gif
 ||sorabada36.com/img/banner/BLUE/2.gif
 ||sorabada36.com/img/banner/BLUE/3.gif
+||sorabada36.com/img/banner/888/1.jpg
+||sorabada36.com/img/banner/888/2.jpg
+||sorabada36.com/img/banner/888/3.jpg
 sorabada36.com###thema_wrapper > div:nth-child(6)
 sorabada36.com###thema_wrapper > div:nth-child(7) > p
 sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
@@ -3264,6 +3267,12 @@ sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
 sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
 sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
+sorabada36.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(3) > a > img
+sorabada36.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(4) > a > img
+sorabada36.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:last-child > a > img
+sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10)
+sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11)
+sorabada36.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > p
 ||66.media.tumblr.com/*/*.gif^$domain=sorabada36.com
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada36.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada36.com
@@ -4497,6 +4506,7 @@ dream-post.com
 /magazine_images/banner/*$domain=magazine.hankyung.com
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
+clien.net##[id^="google_ad"]
 coinpan.com##.banner_img
 coinreaders.com##[id^="banner"]
 daum.net###mArticle > div.wing_tmp:last-child > div.advert_bnr:last-child
@@ -4513,6 +4523,7 @@ news.joins.com##.ab_adtxt_wrap
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
 outlook.live.com###primaryContainer > div._n_h
+plasticsinpackaging.com##.pmpro_content_message
 ppss.kr###ppss_ad2_image
 ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img
@@ -4588,6 +4599,7 @@ www.nate.com##.area_shopping_today
 ||cauly.co.kr^
 coinpan.com##.banner_img
 naver.com##.banner_inner
+plasticsinpackaging.com##.pmpro_content_message
 ||ad.reople.co.kr^$third-party
 ||ednplus.com^$third-party
 ||teads.tv^$third-party
@@ -4633,6 +4645,8 @@ thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
 ! 한국경제
 /magazine_images/banner/*$domain=magazine.hankyung.com
+! 클리앙
+clien.net##[id^="google_ad"]
 ! ###############################################
 ! Blacklist - SKT 스마트홈
 ! ###############################################
