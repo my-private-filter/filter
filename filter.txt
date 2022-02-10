@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.02.07.00
+! Version: 2022.02.10.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2301,7 +2301,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://moviejoa5.xyz, https://j16.moviejoa.cc
+! https://moviejoa6.xyz, https://j16.moviejoa.cc
 ||koreanzad.xyz/320x120rsms3.gif
 ||koreanzad.xyz/ezgif-4-4863dfa51850.gif
 ||koreanzad.xyz/2rcasino.gif
@@ -2977,9 +2977,10 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentree71.top
-||torrentree71.top/ad/wcshow33.gif
-||torrentree71.top/images/sub/sub_bg1.jpg
+! https://www.torrentreel71.top
+||torrentreel71.top/ad/wcshow33.gif
+||torrentreel71.top/images/sub/sub_bg1.jpg
+||torrentreel71.top/ad/filecast%201.gif
 !
 ! https://torrentqq160.com
 ||i.imgur.com/f7svABQ.gif
