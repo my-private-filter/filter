@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.02.12.00
+! Version: 2022.02.18.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2301,7 +2301,8 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://moviejoa6.xyz, https://j16.moviejoa.cc
+! https://moviejoa7.xyz, https://j16.moviejoa.cc
+moviejoa7.xyz###thema_wrapper > div.row:nth-child(3)
 ||koreanzad.xyz/320x120KS4.gif
 ||koreanzad.xyz/320x120bm5.gif
 ||koreanzad.xyz/320x120rsms3.gif
@@ -2343,9 +2344,9 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v26.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v27.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v26.sonagitv.org
+||kkmoa.com/ace_ad/*.php$domain=v27.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 aja.jnewslab.xyz###text-2 > div.textwidget
 aja.jnewslab.xyz###kboard-default-list
@@ -2653,16 +2654,16 @@ newtoki122.com###adModal > div.modal-dialog > div.modal-content > div.modal-body
 ||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
 ||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
 !
-! funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe.taxi/images/*.gif^
-||funbe.taxi/bann/*.gif^
-||funbe.taxi/bann/*.png^
-||funbe.taxi/bann/*.jpg^
-funbe.taxi###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe.taxi##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe.taxi##div.login-block:last-child > div.login-show
+||funbe.bingo/images/*.gif^
+||funbe.bingo/bann/*.gif^
+||funbe.bingo/bann/*.png^
+||funbe.bingo/bann/*.jpg^
+funbe.bingo###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe.bingo##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe.bingo##div.login-block:last-child > div.login-show
 !
 ! https://frtoon92.com, frt777.com
 ||frtoon92.com/data/by_banner/*
@@ -3159,29 +3160,29 @@ pornhub.com###hotVideosSection > .alpha
 ||avjoa4.com/vast/2250.gif
 ||avjoa4.com/wp-content/uploads/2021/10/netmarble-200x100-1.gif
 !
-! https://bo-zi27.net, https://www.bo-zi27.net/bbs/board.php?bo_table=main, bo-zi.net
-||bo-zi27.net/theme/Korea/img/headbanner/pc_5.jpg
-||bo-zi27.net/theme/Korea/img/headbanner/pc_6.jpg
-||bo-zi27.net/theme/Korea/img/headbanner/pc_1.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_kus78.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_metoon.gif
-||bo-zi27.net/theme/Korea/img/headbanner/m_bong4.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_BMW.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_158.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
-||bo-zi27.net/theme/Korea/img/headbanner/P_VIVA%20.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_kus781.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_dm77.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_bmw220.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_kim.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_callgirl.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_callgirl_1.gif
-||bo-zi27.net/theme/Korea/img/headbanner/p_move7777.gif
-||bo-zi27.net/theme/Korea/img/headbanner/pp_move7777.gif
-||bo-zi27.net/theme/Korea/img/headbanner/*.jpg^
-||bo-zi27.net/theme/Korea/img/headbanner/*.gif^
+! https://bo-zi28.net, https://www.bo-zi28.net/bbs/board.php?bo_table=main, bo-zi.net
+||bo-zi28.net/theme/Korea/img/headbanner/pc_5.jpg
+||bo-zi28.net/theme/Korea/img/headbanner/pc_6.jpg
+||bo-zi28.net/theme/Korea/img/headbanner/pc_1.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_kus78.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_metoon.gif
+||bo-zi28.net/theme/Korea/img/headbanner/m_bong4.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_BMW.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_158.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
+||bo-zi28.net/theme/Korea/img/headbanner/P_VIVA%20.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_kus781.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_dm77.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_bmw220.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_kim.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_callgirl.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_callgirl_1.gif
+||bo-zi28.net/theme/Korea/img/headbanner/p_move7777.gif
+||bo-zi28.net/theme/Korea/img/headbanner/pp_move7777.gif
+||bo-zi28.net/theme/Korea/img/headbanner/*.jpg^
+||bo-zi28.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav10.xyz
+! https://krav12.xyz
 !
 ! https://avpop234.com
 ||i.imgur.com/NBWHplb.gif
@@ -3202,9 +3203,10 @@ pornhub.com###hotVideosSection > .alpha
 ||cloudaaaa.com/d/18.gif
 ||cloudaaaa.com/d/*.gif^$domain=avpop234.com
 !
-! https://todaybest5.xyz
-||todaybest5.xyz/img/racebet888_4001.gif
-||todaybest5.xyz/img/btmangor400x300.gif
+! https://todaybest7.xyz
+||todaybest7.xyz/img/racebet888_4001.gif
+||todaybest7.xyz/img/btmangor400x300.gif
+||todaybest7.xyz/img/kwin400.gif
 !
 ! https://bamgosu17.com
 ||bamgosu17.com/data/apms/background/8.gif
