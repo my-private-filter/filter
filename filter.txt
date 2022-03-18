@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.03.16.00
+! Version: 2022.03.18.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2345,9 +2345,9 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v30.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v31.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v30.sonagitv.org
+||kkmoa.com/ace_ad/*.php$domain=v31.sonagitv.org
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 aja.jnewslab.xyz###text-2 > div.textwidget
 aja.jnewslab.xyz###kboard-default-list
@@ -2980,10 +2980,10 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel77.top
-||torrentreel77.top/ad/wcshow33.gif
-||torrentreel77.top/images/sub/sub_bg1.jpg
-||torrentreel77.top/ad/filecast%201.gif
+! https://www.torrentreel78.top
+||torrentreel78.top/ad/wcshow33.gif
+||torrentreel78.top/images/sub/sub_bg1.jpg
+||torrentreel78.top/ad/filecast%201.gif
 !
 ! https://www.torrentwhy2.xyz
 !
@@ -3185,7 +3185,7 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi28.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi28.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav20.xyz, https://krav20.xyz/bbs/board.php?bo_table=free_kor_av
+! https://krav21.xyz, https://krav21.xyz/bbs/board.php?bo_table=free_kor_av
 !
 ! https://avpop237.com
 ||i.imgur.com/NBWHplb.gif
