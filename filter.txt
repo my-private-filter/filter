@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.04.08.00
+! Version: 2022.04.08.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3150,21 +3150,23 @@ pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
 !
 ! https://xxjoa5.com
-||xxjoa4.com/vast/call3.gif
-||xxjoa4.com/wp-content/uploads/2021/10/callgirl2255.gif
-||avjoa4.com/vast/kd300.gif
-||avjoa4.com/vast/newcall1.jpg
-||avjoa4.com/vast/kkk300.gif
-||avjoa4.com/vast/10bet300.gif
-||avjoa4.com/vast/call2.gif
-||avjoa4.com/vast/qd300.gif
-||avjoa4.com/vast/ma300.gif
-||avjoa4.com/vast/ncm300.gif
-||avjoa4.com/vast/2261.gif
-||avjoa4.com/vast/kd300200.gif
-||avjoa4.com/vast/2346.gif
-||avjoa4.com/vast/2250.gif
-||avjoa4.com/wp-content/uploads/2021/10/netmarble-200x100-1.gif
+||xxjoa5.com/vast/call3.gif
+||xxjoa5.com/wp-content/uploads/2021/10/callgirl2255.gif
+||avjoa12.com/vast/2250.gif
+||avjoa12.com/vast/2261.gif
+||avjoa12.com/vast/2346.gif
+||avjoa12.com/vast/10bet300.gif
+||avjoa12.com/vast/blue300.gif
+||avjoa12.com/vast/call2.gif
+||avjoa12.com/vast/kd300.gif
+||avjoa12.com/vast/kd300200.gif
+||avjoa12.com/vast/kkk300.gif
+||avjoa12.com/vast/ma300.gif
+||avjoa12.com/vast/ncm300.gif
+||avjoa12.com/vast/newcall1.jpg
+||avjoa12.com/vast/qd300.gif
+||avjoa12.com/vast/win300.gif
+||avjoa12.com/wp-content/uploads/2021/10/netmarble-200x100-1.gif
 ||avjoa12.com/wp-content/uploads/2021/10/callgirl411.gif
 ||avjoa12.com/wp-content/uploads/2021/10/seven300100.gif
 ||avjoa12.com/wp-content/uploads/2021/12/300-100-606-.gif
@@ -3175,9 +3177,6 @@ pornhub.com###hotVideosSection > .alpha
 ||avjoa12.com/wp-content/uploads/2022/02/%EB%82%98%EB%A5%B4%EC%83%A4-%EB%B3%B4%EC%A6%9D8811.gif
 ||avjoa12.com/wp-content/uploads/2022/01/%EB%B6%80%EB%9D%A0%EB%81%84%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B41818.gif
 ||avjoa12.com/wp-content/uploads/2022/04/%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4-%EC%9C%84%EB%84%88.gif
-||avjoa12.com/vast/win300.gif
-||avjoa12.com/vast/blue300.gif
-||avjoa12.com/vast/ncm300.gif
 !
 ! https://bo-zi28.net, https://www.bo-zi28.net/bbs/board.php?bo_table=main, bo-zi.net
 ||bo-zi28.net/theme/Korea/img/headbanner/pc_5.jpg
