@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.04.08.01
+! Version: 2022.04.09.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2618,8 +2618,8 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||cloudaaaa.com/c/27.gif
 ||cloudaaaa.com/c/28.gif
 ||cloudaaaa.com/c/*.gif^$domain=marumaru253.com
-marumaru253.com##[class='bottom-navbar']
 ||i.imgur.com/*.gif$domain=marumaru253.com
+marumaru253.com##[class='bottom-navbar']
 marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:first-child > a > img
 marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(2) > a > img
 marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(3) > a > img
@@ -2638,16 +2638,16 @@ marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > 
 marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 marumaru253.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
-! newtoki126.com & newtoki126.net
-newtoki126.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki126.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki126.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki126.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki126.com/data/banner/*
-newtoki126.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki127.com & newtoki127.net
+newtoki127.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki127.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki127.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki127.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki127.com/data/banner/*
+newtoki127.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki126.net
-||manatoki126.net/data/banner/*
+! manatoki127.net
+||manatoki127.net/data/banner/*
 !
 ! http://11toon27.com
 ||wwwimageup.angle777899.com/other/atoona/%EC%9C%88%EC%9C%88350X175_111.gif
@@ -3206,6 +3206,7 @@ pornhub.com###hotVideosSection > .alpha
 ||i.imgur.com/NBWHplb.gif
 ||i.imgur.com/WB7EOzV.gif
 ||cloudaaaa.com/d/1.gif
+||cloudaaaa.com/d/2.gif
 ||cloudaaaa.com/d/3.gif
 ||cloudaaaa.com/d/4.gif
 ||cloudaaaa.com/d/5.gif
@@ -3213,12 +3214,16 @@ pornhub.com###hotVideosSection > .alpha
 ||cloudaaaa.com/d/7.gif
 ||cloudaaaa.com/d/8.gif
 ||cloudaaaa.com/d/9.gif
+||cloudaaaa.com/d/10.gif
 ||cloudaaaa.com/d/11.gif
 ||cloudaaaa.com/d/12.gif
+||cloudaaaa.com/d/13.gif
 ||cloudaaaa.com/d/14.gif
 ||cloudaaaa.com/d/15.gif
 ||cloudaaaa.com/d/16.gif
+||cloudaaaa.com/d/17.gif
 ||cloudaaaa.com/d/18.gif
+||cloudaaaa.com/d/20.gif
 ||cloudaaaa.com/d/*.gif^$domain=avpop253.com
 !
 ! https://todaybest7.xyz
@@ -4567,6 +4572,7 @@ dream-post.com
 !
 ! adguard-kr.txt
 !
+##[id^="Banner_"]
 /magazine_images/banner/*$domain=magazine.hankyung.com
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
@@ -4580,12 +4586,17 @@ hani.co.kr##[id^="ad_"]
 investchosun.com##div.article_content_right
 investchosun.com##div.banner
 khan.co.kr##.ad_cnt
+krakra.tistory.com###aswoft+*
 media.daum.net###adShopping
+mediatoday.co.kr##[id^="AD"]
 naver.com##.banner_inner
 news.joins.com###jpoditems
 news.joins.com##.ab_adtxt_wrap
+news.kmib.co.kr##.__staxbn_inbox
 news.v.daum.net###adShopping
 news1.kr###container > div.ad_wing_l:first-child
+news1.kr##.ad_txt_article
+news1.kr##[id^="mobonDivBanner_"]
 outlook.live.com###primaryContainer > div._n_h
 plasticsinpackaging.com##.pmpro_content_message
 ppss.kr###ppss_ad2_image
@@ -4593,6 +4604,7 @@ ppss.kr##.widget_text
 sedaily.com###noticeAd_pc_wrap_img
 shindonga.donga.com###right_banner > div.banner
 shindonga.donga.com##.facebook_api
+test-economic7.tistory.com##.revenue_unit_wrap
 thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
 www.nate.com###adContainer
@@ -4648,6 +4660,11 @@ www.nate.com##.area_shopping_today
 ! Third-party apps:
 
 ! ###############################################
+! Blacklist - 범용 규칙
+! ###############################################
+##[id^="Banner_"]
+
+! ###############################################
 ! Blacklist
 ! ###############################################
 ||amazon-adsystem.com^$third-party
@@ -4675,6 +4692,12 @@ plasticsinpackaging.com##.pmpro_content_message
 ||ctrack.click.joongna.com^
 ! 하나팩스
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
+
+! ###############################################
+! Blacklist - 블로그
+! ###############################################
+test-economic7.tistory.com##.revenue_unit_wrap
+krakra.tistory.com###aswoft+*
 
 ! ###############################################
 ! Blacklist - 뉴스
@@ -4707,8 +4730,15 @@ investchosun.com##div.banner
 ! 더벨
 thebell.co.kr##.ADVIMG
 thebell.co.kr##.article_content_banner
+! 국민일보
+news.kmib.co.kr##.__staxbn_inbox
+! 미디어오늘
+mediatoday.co.kr##[id^="AD"]
 ! 한국경제
 /magazine_images/banner/*$domain=magazine.hankyung.com
+! 뉴스1
+news1.kr##.ad_txt_article
+news1.kr##[id^="mobonDivBanner_"]
 ! 클리앙
 clien.net##[id^="google_ad"]
 ! ###############################################
@@ -4790,12 +4820,10 @@ daum.net###mArticle > div.wing_tmp:last-child > div.advert_svcbnr:nth-child(3)
 ||manamoa.net/thema/Basic/widget/ad-banner/widget.css
 ||manamoa.net/img/banner
 
-
 ||i.imgur.com/660um5J.gif$image
 ||img.ironmancdn.xyz/upload/9eae72045afdc5e3fe0637250f5e2001.png$image
 ||i.imgur.com/2rmXmpi.gif$image
 ||i.imgur.com/AW0Apqy.gif$image
-
 
 ##div.widget-box > .ad-banner-widget
 ##div.main-banner.ad-banner-widget
