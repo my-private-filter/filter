@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.04.30.00
+! Version: 2022.04.30.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2393,8 +2393,9 @@ move4.linkhole.xyz###text-4 > div.textwidget
 link1.movethelink.xyz###kboard-default-list
 link1.movethelink.xyz###text-4 > div.textwidget
 ||kkmoa.com/ace_ad/*.php$domain=link1.movethelink.xyz
-||sonagitv.tv/sonagi_media/sites/*/*/*/*.gif^
 ||sonagitv.tv/sona_media/sites/*/*/*/*.gif^
+||sonagitv.tv/sonagi_me/sites/*/*/*/*.gif^
+||sonagitv.tv/sonagi_media/sites/*/*/*/*.gif^
 ||sonagitv.tv/soangitv_me/sites/*/*/*/*.gif^
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/seven360.gif
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/winwin360_9466.gif
