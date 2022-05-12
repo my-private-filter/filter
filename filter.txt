@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.05.12.01
+! Version: 2022.05.12.02
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3198,27 +3198,27 @@ pornhub.com###hotVideosSection > .alpha
 ||avjoa12.com/wp-content/uploads/2022/01/%EB%B6%80%EB%9D%A0%EB%81%84%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B41818.gif
 ||avjoa12.com/wp-content/uploads/2022/04/%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4-%EC%9C%84%EB%84%88.gif
 !
-! https://bo-zi28.net, https://www.bo-zi28.net/bbs/board.php?bo_table=main, bo-zi.net
-||bo-zi28.net/theme/Korea/img/headbanner/pc_5.jpg
-||bo-zi28.net/theme/Korea/img/headbanner/pc_6.jpg
-||bo-zi28.net/theme/Korea/img/headbanner/pc_1.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_kus78.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_metoon.gif
-||bo-zi28.net/theme/Korea/img/headbanner/m_bong4.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_BMW.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_158.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
-||bo-zi28.net/theme/Korea/img/headbanner/P_VIVA%20.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_kus781.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_dm77.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_bmw220.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_kim.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_callgirl.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_callgirl_1.gif
-||bo-zi28.net/theme/Korea/img/headbanner/p_move7777.gif
-||bo-zi28.net/theme/Korea/img/headbanner/pp_move7777.gif
-||bo-zi28.net/theme/Korea/img/headbanner/*.jpg^
-||bo-zi28.net/theme/Korea/img/headbanner/*.gif^
+! https://bo-zi29.net, https://www.bo-zi29.net/bbs/board.php?bo_table=main, bo-zi.net
+||bo-zi29.net/theme/Korea/img/headbanner/pc_5.jpg
+||bo-zi29.net/theme/Korea/img/headbanner/pc_6.jpg
+||bo-zi29.net/theme/Korea/img/headbanner/pc_1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kus78.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_metoon.gif
+||bo-zi29.net/theme/Korea/img/headbanner/m_bong4.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_BMW.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_158.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
+||bo-zi29.net/theme/Korea/img/headbanner/P_VIVA%20.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kus781.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_dm77.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_bmw220.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kim.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_callgirl.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_callgirl_1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_move7777.gif
+||bo-zi29.net/theme/Korea/img/headbanner/pp_move7777.gif
+||bo-zi29.net/theme/Korea/img/headbanner/*.jpg^
+||bo-zi29.net/theme/Korea/img/headbanner/*.gif^
 !
 ! https://krav61.xyz, https://krav61.xyz/bbs/board.php?bo_table=free_kor_av
 ||kravad.xyz/bannerenq.jpg
