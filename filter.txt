@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.05.12.03
+! Version: 2022.05.12.04
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3331,9 +3331,15 @@ krav61.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div
 ||sorabada42.com/img/banner/INDIE/1.gif
 ||sorabada42.com/img/banner/INDIE/2.gif
 ||sorabada42.com/img/banner/INDIE/3.gif
+||sorabada42.com/img/banner/INDIE2/1.gif
+||sorabada42.com/img/banner/INDIE2/2.gif
+||sorabada42.com/img/banner/INDIE2/3.gif
 ||sorabada42.com/img/banner/SMILE/1.gif
 ||sorabada42.com/img/banner/SMILE/2.gif
 ||sorabada42.com/img/banner/SMILE/3.gif
+||sorabada42.com/img/banner/SURA/1.gif
+||sorabada42.com/img/banner/SURA/2.gif
+||sorabada42.com/img/banner/SURA/3.gif
 ||sorabada42.com/img/banner/BLUE/1.gif
 ||sorabada42.com/img/banner/BLUE/2.gif
 ||sorabada42.com/img/banner/BLUE/3.gif
