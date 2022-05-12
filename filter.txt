@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.05.12.02
+! Version: 2022.05.12.03
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3199,24 +3199,32 @@ pornhub.com###hotVideosSection > .alpha
 ||avjoa12.com/wp-content/uploads/2022/04/%EB%B3%B4%EC%A6%9D%EC%97%85%EC%B2%B4-%EC%9C%84%EB%84%88.gif
 !
 ! https://bo-zi29.net, https://www.bo-zi29.net/bbs/board.php?bo_table=main, bo-zi.net
-||bo-zi29.net/theme/Korea/img/headbanner/pc_5.jpg
-||bo-zi29.net/theme/Korea/img/headbanner/pc_6.jpg
-||bo-zi29.net/theme/Korea/img/headbanner/pc_1.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_kus78.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_metoon.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/m_bong4.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_BMW.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_158.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
-||bo-zi29.net/theme/Korea/img/headbanner/P_VIVA%20.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_kus781.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_dm77.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_bhg63.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_BMW.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_bmw220.gif
-||bo-zi29.net/theme/Korea/img/headbanner/p_kim.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_callgirl.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_callgirl_1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_dm77.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_hi.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kim.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kus78.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kus781.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_kus788.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_lux1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_metoon.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/p_move7777.gif
+||bo-zi29.net/theme/Korea/img/headbanner/p_pm1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/P_VIVA%20.gif
+||bo-zi29.net/theme/Korea/img/headbanner/pc_1.gif
+||bo-zi29.net/theme/Korea/img/headbanner/pc_5.jpg
+||bo-zi29.net/theme/Korea/img/headbanner/pc_6.jpg
+||bo-zi29.net/theme/Korea/img/headbanner/pp_bhg63.gif
+||bo-zi29.net/theme/Korea/img/headbanner/pp_google1.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/pp_move7777.gif
+||bo-zi29.net/theme/Korea/img/headbanner/pp_sola.gif
 ||bo-zi29.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi29.net/theme/Korea/img/headbanner/*.gif^
 !
