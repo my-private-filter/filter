@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.05.12.00
+! Version: 2022.05.12.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -3221,10 +3221,16 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi28.net/theme/Korea/img/headbanner/*.gif^
 !
 ! https://krav61.xyz, https://krav61.xyz/bbs/board.php?bo_table=free_kor_av
-||krav61.xyz/data/apms/background/blackpair.gif
+||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
 ||kravad.xyz/kravad3.gif
+||krav61.xyz/data/apms/background/blackpair.gif
+krav61.xyz###thema_wrapper > div.row:nth-child(3)
+krav61.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav61.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav61.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav61.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 !
 ! https://avpop257.com
 ||i.imgur.com/NBWHplb.gif
