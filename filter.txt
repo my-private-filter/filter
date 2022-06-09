@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.06.08.00
+! Version: 2022.06.09.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2142,7 +2142,23 @@ ohli24.net###thema_wrapper > div.at-wrapper > div.at-title:nth-child(3) > div.at
 ! moeni.org
 ||moeni.org/img/sponsor/250x80.gif
 !
-! ani365.org, ani365.me, ani24do.com, ani24zo.com, ani24go.com, ani24show.com, ani24yoi.com, ani24ski.com
+! ohli365.net, ani365.org, ani365.me, ani24do.com, ani24zo.com, ani24go.com, ani24show.com, ani24yoi.com, ani24ski.com
+ohli365.net###cumlsnketofgbqijpdrh
+||ohli365.net/data/apms/background/300X100.gif
+||ohli365.net/data/apms/background/300x100[3232].gif
+||ohli365.net/data/apms/background/300x100[6688]2.gif
+||ohli365.net/data/apms/background/300x100-ANI.gif
+||ohli365.net/data/apms/background/300x100-PPP.png
+||ohli365.net/data/apms/background/300x100-0808-%EA%B8%B0%EA%B0%80.gif
+||ohli365.net/data/apms/background/707%EB%A7%88%EB%82%98%EB%AA%A8%EC%95%84300x100[0091].gif
+||ohli365.net/data/apms/background/%EA%B5%BF%EB%AA%A8%EB%8B%9D300x100-.gif
+||ohli365.net/data/apms/background/%EB%AA%A8%EC%95%A0%EB%8B%88..gif
+||ohli365.net/data/apms/background/%EB%A7%88%EB%82%98%EB%AA%A8%EC%95%84300x100[3939].gif
+||ohli365.net/data/apms/background/%EB%B9%84%ED%96%89%EA%B8%B0%EB%A7%88%EB%82%98%EB%AA%A8%EC%95%84300x100[860].gif
+||ohli365.net/data/apms/background/%EC%BD%9C%EA%B1%B8%20300%20100.gif
+||ohli365.net/data/apms/background/%EC%9B%90%ED%94%BC%EC%8A%A4300x100[9922].gif
+||ohli365.net/data/apms/background/nc%EC%88%98%EC%A0%95300x100.gif
+!!!
 ||i0.wp.com/files2.goodcdnnetwork.com/img/ad1436x100.gif
 ||disqus.com/embed/comments/?base=default&f=ani24^
 ani24do.com##a.main_ad:nth-of-type(1)
@@ -2301,7 +2317,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://a11.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
+! https://a12.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 moviejoa.xyz###thema_wrapper > div.row:nth-child(3)
 ||koreanzad.xyz/320x120KS4.gif
 ||koreanzad.xyz/320x120bm5.gif
@@ -2347,9 +2363,9 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v8.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v9.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v8.sonagitv.tv
+||kkmoa.com/ace_ad/*.php$domain=v9.sonagitv.tv
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 aja.jnewslab.xyz###text-2 > div.textwidget
 aja.jnewslab.xyz###kboard-default-list
@@ -2992,8 +3008,9 @@ toktok.club###view_method
 ||torrentreel89.top/ad/vinix60.gif
 ||i.uuoobe.com/ad/wb-tt_1.jpg
 ||i.uuoobe.com/ad/wn-xg_1.jpg
+||i.uuoobe.com/ad/pha_250_250_1.jpg
 !
-! https://www.torrentwhy13.xyz
+! https://www.torrentwhy14.xyz
 !
 ! https://torrentqq160.com
 ||i.imgur.com/f7svABQ.gif
@@ -3233,18 +3250,18 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi29.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi29.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav82.xyz, https://krav82.xyz/bbs/board.php?bo_table=free_kor_av
+! https://krav84.xyz, https://krav84.xyz/bbs/board.php?bo_table=free_kor_av
 ||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
 ||kravad.xyz/kravad3.gif
 ||kravad.xyz/kravad4.gif
-||krav82.xyz/data/apms/background/blackpair.gif
-krav82.xyz###thema_wrapper > div.row:nth-child(3)
-krav82.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav82.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav82.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav82.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+||krav84.xyz/data/apms/background/blackpair.gif
+krav84.xyz###thema_wrapper > div.row:nth-child(3)
+krav84.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav84.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav84.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav84.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 !
 ! https://avpop261.com
 ||i.imgur.com/NBWHplb.gif
