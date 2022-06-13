@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.06.13.00
+! Version: 2022.06.13.01
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -30,28 +30,37 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||ibz.nonghyup.com^$document
 @@||nhbizcard.nonghyup.com^$document
 @@||4insure.or.kr^$document
-@@||comwel.or.kr^$document
-@@||nhis.or.kr^$document
-@@||nps.or.kr^$document
+@@||total.comwel.or.kr^$document
+@@||edi.nhis.or.kr^$document
+@@||www.nhis.or.kr^$document
+@@||edi.nps.or.kr^$document
 @@||hometax.go.kr^$document
 @@||etax.seoul.go.kr^$document
 @@||wetax.go.kr^$document
 @@||gov.kr^$document
 @@||g2b.go.kr^$document
 @@||iros.go.kr^$document
+@@||efamily.scourt.go.kr^$document
 @@||ei.go.kr^$document
 @@||moel.go.kr^$document
 @@||docu.gdoc.go.kr^$document
+@@||yebigun1.mil.kr^$document
+@@||kras.go.kr^$document
+@@||wis.seoul.go.kr^$document
+@@||consul.mofa.go.kr^$document
+@@||nip.kdca.go.kr^$document
+@@||ncvr2.kdca.go.kr^$document
+@@||msafer.or.kr^$document
 @@||e-revenuestamp.or.kr^$document
 @@||edoc-revenuestamp.or.kr^$document
 @@||q-net.or.kr^$document
 @@||sgic.co.kr^$document
 @@||webcm30.webcm.co.kr^$document
 @@||v3.ngocms.co.kr^$document
+@@||dacom.net^$document
 @@||bizrating.co.kr^$document
 @@||xroshot.com^$document
 @@||hanafax.com^$document
-@@||dacom.net^$document
 @@||mangoboard.net^$document
 @@||maru.net^$document
 @@||nongyeon.org^$document
@@ -82,52 +91,20 @@ ppomppu.co.kr##.column-2.column
 ppomppu.co.kr##.bridge
 !
 
-! 삼성 날씨 앱 광고
-||dr9xthplobr1x.cloudfront.net^
-||www.kr-weathernews.com/smart/MWEB/img/life/banner*
-!
-
-! KakaoTalk App
+! AfreecaTV
+! 
 ! https://blog.naver.com/nzelbomb/221007445194
-! https://dawnlog.net/10
-! ||talkchannel-api.kakao.com$app=com.kakao.talk,important
-! ||tg.kakao.com^$app=com.kakao.talk,important
+||deapi.afreecatv.com^$app=kr.co.nowcom.mobile.afreeca
+||delog.afreecatv.com^$app=kr.co.nowcom.mobile.afreeca
+play.afreecatv.com###ad_video
+play.afreecatv.com##.text_output
+play.afreecatv.com##.promotion_area
+play.afreecatv.com##.promotion_area_left
+play.afreecatv.com##.promotion_area_right
+vod-player.afreecatv.com/creatives/media/*
 !
-! KakaoTalk PC
-! https://dawnlog.net/13
-! ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
-!
-
-! 통신사의 인터넷 접속 PC 대수 제한
-! SKB 210.117.121.212 (직접 경험함)
-! https://ktsmemo.cafe24.com/s/life/334
-! https://ktsmemo.cafe24.com/s/life/331
-||210.117.121.212:80/tm/^
-||210.117.121.212:8080/tm/^
-||210.117.121.212^
-!
-! SKB 210.117.120.114
-||210.117.120.114:8080/tm/nt/^
-||210.117.120.114^
-!
-! SKB 210.117.120.67
-! https://blog.naver.com/kyoungseop/220536564841
-||210.117.120.67:8080/Ac/Nt^
-||210.117.120.67^
-!
-! KT 168.126.130.229
-! https://automobility.tistory.com/1518
-||168.126.130.229/tm/nt/^
-||168.126.130.229^
-!
-! KT 221.152.164.179
-||221.152.164.179^
-!
-! KT 59.1.79.198
-||59.1.79.198^
-!
-
 ! AfreecaTV Player
+!
 ||afupd1.afreecatv.com/afreecatvstreamer_installer.exe
 ||afupd1.afreecatv.com^
 vod.afreecatv.com##.chat_memoyo
@@ -200,6 +177,51 @@ m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-c
 ?grpid=1WVN2$domain=daum.net
 ||cafe.daum.net/parkgunhye^
 ?grpid=nqKg$domain=daum.net
+!
+
+! 삼성 날씨 앱 광고
+||dr9xthplobr1x.cloudfront.net^
+||www.kr-weathernews.com/smart/MWEB/img/life/banner*
+!
+
+! KakaoTalk App
+! https://blog.naver.com/nzelbomb/221007445194
+! https://dawnlog.net/10
+! ||talkchannel-api.kakao.com$app=com.kakao.talk,important
+! ||tg.kakao.com^$app=com.kakao.talk,important
+!
+! KakaoTalk PC
+! https://dawnlog.net/13
+! ||mud-kage.kakao.co.kr/dn^$app=KakaoTalk.exe
+!
+
+! 통신사의 인터넷 접속 PC 대수 제한
+! SKB 210.117.121.212 (직접 경험함)
+! https://ktsmemo.cafe24.com/s/life/334
+! https://ktsmemo.cafe24.com/s/life/331
+||210.117.121.212:80/tm/^
+||210.117.121.212:8080/tm/^
+||210.117.121.212^
+!
+! SKB 210.117.120.114
+||210.117.120.114:8080/tm/nt/^
+||210.117.120.114^
+!
+! SKB 210.117.120.67
+! https://blog.naver.com/kyoungseop/220536564841
+||210.117.120.67:8080/Ac/Nt^
+||210.117.120.67^
+!
+! KT 168.126.130.229
+! https://automobility.tistory.com/1518
+||168.126.130.229/tm/nt/^
+||168.126.130.229^
+!
+! KT 221.152.164.179
+||221.152.164.179^
+!
+! KT 59.1.79.198
+||59.1.79.198^
 !
 
 ! from DDanzi Group
