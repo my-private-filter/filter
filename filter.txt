@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.06.13.01
+! Version: 2022.06.13.02
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -29,6 +29,8 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 ! 업무용
 @@||ibz.nonghyup.com^$document
 @@||nhbizcard.nonghyup.com^$document
+@@||banking.nonghyup.com^$document
+@@||card.nonghyup.com^$document
 @@||4insure.or.kr^$document
 @@||total.comwel.or.kr^$document
 @@||edi.nhis.or.kr^$document
@@ -45,24 +47,26 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||moel.go.kr^$document
 @@||docu.gdoc.go.kr^$document
 @@||yebigun1.mil.kr^$document
-@@||kras.go.kr^$document
 @@||wis.seoul.go.kr^$document
 @@||consul.mofa.go.kr^$document
 @@||nip.kdca.go.kr^$document
 @@||ncvr2.kdca.go.kr^$document
+@@||kras.go.kr^$document
 @@||msafer.or.kr^$document
 @@||e-revenuestamp.or.kr^$document
 @@||edoc-revenuestamp.or.kr^$document
+@@||credit4u.or.kr^$document
 @@||q-net.or.kr^$document
 @@||sgic.co.kr^$document
-@@||webcm30.webcm.co.kr^$document
-@@||v3.ngocms.co.kr^$document
 @@||dacom.net^$document
 @@||bizrating.co.kr^$document
-@@||xroshot.com^$document
 @@||hanafax.com^$document
+@@||xroshot.com^$document
 @@||mangoboard.net^$document
+@@||webcm30.webcm.co.kr^$document
+@@||v3.ngocms.co.kr^$document
 @@||maru.net^$document
+@@||familynet.samsung.com^$document
 @@||nongyeon.org^$document
 !
 ! 개인용
