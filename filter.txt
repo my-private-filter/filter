@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.06.13.02
+! Version: 2022.06.16.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2379,7 +2379,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://a12.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
+! https://a13.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 moviejoa.xyz###thema_wrapper > div.row:nth-child(3)
 ||koreanzad.xyz/320x120KS4.gif
 ||koreanzad.xyz/320x120bm5.gif
@@ -2425,10 +2425,13 @@ noonoo.tv###container > div.list-content:first-child > div.list-content-item:las
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(2) > div.partner-banner-content > a > img
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(3) > div.partner-banner-content > a > img
 !
-! v9.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v10.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v9.sonagitv.tv
+||kkmoa.com/ace_ad/*.php$domain=v10.sonagitv.tv
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+ojo.jnewslab.xyz###text-2 > div.textwidget
+ojo.jnewslab.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=ojo.jnewslab.xyz
 aja.jnewslab.xyz###text-2 > div.textwidget
 aja.jnewslab.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=aja.jnewslab.xyz
@@ -2477,6 +2480,7 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||sonagitv.tv/soangitv_me/sites/*/*/*/*.gif^
 ||sonagitv.tv/sonagi_me/sites/8/2022/03/onoff360-1.jpg
 ||sonagitv.tv/sonagi_me/sites/8/2022/04/parao3603.gif
+||sonagitv.tv/sonagi_me/sites/8/2022/05/seven3603.png
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/seven360.gif
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/winwin360_9466.gif
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/booddgg360.gif
@@ -3312,18 +3316,18 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi29.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi29.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav86.xyz, https://krav86.xyz/bbs/board.php?bo_table=free_kor_av
+! https://krav88.xyz, https://krav88.xyz/bbs/board.php?bo_table=free_kor_av
 ||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
 ||kravad.xyz/kravad3.gif
 ||kravad.xyz/kravad4.gif
-||krav86.xyz/data/apms/background/blackpair.gif
-krav86.xyz###thema_wrapper > div.row:nth-child(3)
-krav86.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav86.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav86.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav86.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+||krav88.xyz/data/apms/background/blackpair.gif
+krav88.xyz###thema_wrapper > div.row:nth-child(3)
+krav88.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav88.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav88.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav88.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 !
 ! https://avpop262.com
 ||i.imgur.com/NBWHplb.gif
@@ -3387,84 +3391,84 @@ krav86.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div
 ||64.media.tumblr.com/ae3aafac89d6d8034d9631d7d1764f70/55d640a8af7c5388-39/s400x600/3ef206a4a279c85e9ce30fc9fe064724dbda54aa.gifv
 ||64.media.tumblr.com/31822afc9070eddd32a552d5c760d9ed/87ae9b1acf492f95-c1/s540x810/68ced691038f59e6f10ec858cbdb8976f2e78b68.gifv
 !
-! https://sorabada43.com
-||sorabada43.com/img/banner/42.gif
-||sorabada43.com/img/banner/BMW3/1.gif
-||sorabada43.com/img/banner/BMW3/2.gif
-||sorabada43.com/img/banner/BMW3/3.gif
-||sorabada43.com/img/banner/CALL2/1.gif
-||sorabada43.com/img/banner/CALL2/2.gif
-||sorabada43.com/img/banner/CALL2/3.gif
-||sorabada43.com/img/banner/PINNA/1.gif
-||sorabada43.com/img/banner/PINNA/2.gif
-||sorabada43.com/img/banner/PINNA/3.gif
-||sorabada43.com/img/banner/TEN2211/1.gif
-||sorabada43.com/img/banner/TEN2211/2.gif
-||sorabada43.com/img/banner/TEN2211/3.gif
-||sorabada43.com/img/banner/ROYAL/1.gif
-||sorabada43.com/img/banner/ROYAL/2.gif
-||sorabada43.com/img/banner/ROYAL/3.gif
-||sorabada43.com/img/banner/AQUAW/1.gif
-||sorabada43.com/img/banner/AQUAW/2.gif
-||sorabada43.com/img/banner/AQUAW/3.gif
-||sorabada43.com/img/banner/MSLOT/1.gif
-||sorabada43.com/img/banner/MSLOT/2.gif
-||sorabada43.com/img/banner/MSLOT/3.gif
-||sorabada43.com/img/banner/MSLOT/4.gif
-||sorabada43.com/img/banner/777/1.gif
-||sorabada43.com/img/banner/777/2.gif
-||sorabada43.com/img/banner/777/3.gif
-||sorabada43.com/img/banner/INDIE/1.gif
-||sorabada43.com/img/banner/INDIE/2.gif
-||sorabada43.com/img/banner/INDIE/3.gif
-||sorabada43.com/img/banner/INDIE2/1.gif
-||sorabada43.com/img/banner/INDIE2/2.gif
-||sorabada43.com/img/banner/INDIE2/3.gif
-||sorabada43.com/img/banner/SMILE/1.gif
-||sorabada43.com/img/banner/SMILE/2.gif
-||sorabada43.com/img/banner/SMILE/3.gif
-||sorabada43.com/img/banner/SURA/1.gif
-||sorabada43.com/img/banner/SURA/2.gif
-||sorabada43.com/img/banner/SURA/3.gif
-||sorabada43.com/img/banner/BLUE/1.gif
-||sorabada43.com/img/banner/BLUE/2.gif
-||sorabada43.com/img/banner/BLUE/3.gif
-||sorabada43.com/img/banner/888/1.jpg
-||sorabada43.com/img/banner/888/2.jpg
-||sorabada43.com/img/banner/888/3.jpg
-sorabada43.com###thema_wrapper > div:nth-child(6)
-sorabada43.com###thema_wrapper > div:nth-child(7) > p
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:first-child > p
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(5) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(6) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(7) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:last-child > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(12)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(13)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11) > p
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap.view-mobile.font-14:nth-child(2) > div:nth-child(11)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(3) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(4) > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:last-child > a > img
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11)
-sorabada43.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > p
-||66.media.tumblr.com/*/*.gif^$domain=sorabada43.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada43.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada43.com
+! https://sorabada44.com
+||sorabada44.com/img/banner/42.gif
+||sorabada44.com/img/banner/BMW3/1.gif
+||sorabada44.com/img/banner/BMW3/2.gif
+||sorabada44.com/img/banner/BMW3/3.gif
+||sorabada44.com/img/banner/CALL2/1.gif
+||sorabada44.com/img/banner/CALL2/2.gif
+||sorabada44.com/img/banner/CALL2/3.gif
+||sorabada44.com/img/banner/PINNA/1.gif
+||sorabada44.com/img/banner/PINNA/2.gif
+||sorabada44.com/img/banner/PINNA/3.gif
+||sorabada44.com/img/banner/TEN2211/1.gif
+||sorabada44.com/img/banner/TEN2211/2.gif
+||sorabada44.com/img/banner/TEN2211/3.gif
+||sorabada44.com/img/banner/ROYAL/1.gif
+||sorabada44.com/img/banner/ROYAL/2.gif
+||sorabada44.com/img/banner/ROYAL/3.gif
+||sorabada44.com/img/banner/AQUAW/1.gif
+||sorabada44.com/img/banner/AQUAW/2.gif
+||sorabada44.com/img/banner/AQUAW/3.gif
+||sorabada44.com/img/banner/MSLOT/1.gif
+||sorabada44.com/img/banner/MSLOT/2.gif
+||sorabada44.com/img/banner/MSLOT/3.gif
+||sorabada44.com/img/banner/MSLOT/4.gif
+||sorabada44.com/img/banner/777/1.gif
+||sorabada44.com/img/banner/777/2.gif
+||sorabada44.com/img/banner/777/3.gif
+||sorabada44.com/img/banner/INDIE/1.gif
+||sorabada44.com/img/banner/INDIE/2.gif
+||sorabada44.com/img/banner/INDIE/3.gif
+||sorabada44.com/img/banner/INDIE2/1.gif
+||sorabada44.com/img/banner/INDIE2/2.gif
+||sorabada44.com/img/banner/INDIE2/3.gif
+||sorabada44.com/img/banner/SMILE/1.gif
+||sorabada44.com/img/banner/SMILE/2.gif
+||sorabada44.com/img/banner/SMILE/3.gif
+||sorabada44.com/img/banner/SURA/1.gif
+||sorabada44.com/img/banner/SURA/2.gif
+||sorabada44.com/img/banner/SURA/3.gif
+||sorabada44.com/img/banner/BLUE/1.gif
+||sorabada44.com/img/banner/BLUE/2.gif
+||sorabada44.com/img/banner/BLUE/3.gif
+||sorabada44.com/img/banner/888/1.jpg
+||sorabada44.com/img/banner/888/2.jpg
+||sorabada44.com/img/banner/888/3.jpg
+sorabada44.com###thema_wrapper > div:nth-child(6)
+sorabada44.com###thema_wrapper > div:nth-child(7) > p
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:first-child > p
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(5) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(6) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(7) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:last-child > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(12)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(13)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11) > p
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap.view-mobile.font-14:nth-child(2) > div:nth-child(11)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(3) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(4) > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:last-child > a > img
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11)
+sorabada44.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > p
+||66.media.tumblr.com/*/*.gif^$domain=sorabada44.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada44.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada44.com
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
 !
 ! https://jogaeparty35.com
