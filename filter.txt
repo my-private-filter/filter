@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.06.16.00
+! Version: 2022.06.21.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2651,7 +2651,7 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 ! jmana.xxxyyyzzz.art
 !
-! marumaru262.com, marumaru.cloud, marumaru.tours, marumaru.fund, marumaru.haus, marumaru.mom, marumaru.watch, marumaru.team, marumaru.ltd, marumaru.beer, marumaru.click, marumaru.yoga, marumaru.dance, marumaru.farm, marumaru.loan, marumaru.cash, marumaru.surf, marumaru.guru, marumaru.party, marumaru.pics, marumaru.golf, marumaru.tube, marumaru.tech, marumaru.site, marumaru.tel, marumaru.sale
+! marumaru263.com, marumaru.cloud, marumaru.tours, marumaru.fund, marumaru.haus, marumaru.mom, marumaru.watch, marumaru.team, marumaru.ltd, marumaru.beer, marumaru.click, marumaru.yoga, marumaru.dance, marumaru.farm, marumaru.loan, marumaru.cash, marumaru.surf, marumaru.guru, marumaru.party, marumaru.pics, marumaru.golf, marumaru.tube, marumaru.tech, marumaru.site, marumaru.tel, marumaru.sale
 !
 ||i.imgur.com/5vlFlbP.gif
 ||i.imgur.com/kWyXS03.gif
@@ -2702,37 +2702,37 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||cloudaaaa.com/c/26.gif
 ||cloudaaaa.com/c/27.gif
 ||cloudaaaa.com/c/28.gif
-||cloudaaaa.com/c/*.gif^$domain=marumaru262.com
-||i.imgur.com/*.gif$domain=marumaru262.com
-marumaru262.com##[class='bottom-navbar']
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:first-child > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(2) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(3) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(4) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(5) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(6) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(7) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(8) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(9) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(10) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(11) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(12) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(13) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(14) > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:last-child > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
-marumaru262.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
+||cloudaaaa.com/c/*.gif^$domain=marumaru263.com
+||i.imgur.com/*.gif$domain=marumaru263.com
+marumaru263.com##[class='bottom-navbar']
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:first-child > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(2) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(3) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(4) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(5) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(6) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(7) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(8) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(9) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(10) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(11) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(12) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(13) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(14) > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:last-child > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
+marumaru263.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
-! newtoki141.com & newtoki141.net
-newtoki141.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki141.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki141.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki141.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki141.com/data/banner/*
-newtoki141.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki142.com & newtoki141.net
+newtoki142.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki142.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki142.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki142.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki142.com/data/banner/*
+newtoki142.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki141.net
-||manatoki141.net/data/banner/*
+! manatoki142.net
+||manatoki142.net/data/banner/*
 !
 ! https://www.11toon39.com/
 ||wwwimageup.angle777899.com/other/atoona/%EC%9C%88%EC%9C%88350X175_111.gif
@@ -2742,16 +2742,16 @@ newtoki141.com###adModal > div.modal-dialog > div.modal-content > div.modal-body
 ||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
 ||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
 !
-! funbe118.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe120.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe118.com/images/*.gif^
-||funbe118.com/bann/*.gif^
-||funbe118.com/bann/*.png^
-||funbe118.com/bann/*.jpg^
-funbe118.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe118.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe118.com##div.login-block:last-child > div.login-show
+||funbe120.com/images/*.gif^
+||funbe120.com/bann/*.gif^
+||funbe120.com/bann/*.png^
+||funbe120.com/bann/*.jpg^
+funbe120.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe120.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe120.com##div.login-block:last-child > div.login-show
 !
 ! https://frtoon92.com, frt777.com
 ||frtoon92.com/data/by_banner/*
@@ -3067,16 +3067,16 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel90.top
-||torrentreel90.top/ad/wcshow33.gif
-||torrentreel90.top/images/sub/sub_bg1.jpg
-||torrentreel90.top/ad/filecast%201.gif
-||torrentreel90.top/ad/vinix60.gif
+! https://www.torrentreel92.top
+||torrentreel92.top/ad/wcshow33.gif
+||torrentreel92.top/images/sub/sub_bg1.jpg
+||torrentreel92.top/ad/filecast%201.gif
+||torrentreel92.top/ad/vinix60.gif
 ||i.uuoobe.com/ad/wb-tt_1.jpg
 ||i.uuoobe.com/ad/wn-xg_1.jpg
 ||i.uuoobe.com/ad/pha_250_250_1.jpg
 !
-! https://www.torrentwhy14.xyz
+! https://www.torrentwhy15.xyz
 !
 ! https://torrentqq160.com
 ||i.imgur.com/f7svABQ.gif
@@ -3316,18 +3316,18 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi29.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi29.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav88.xyz, https://krav88.xyz/bbs/board.php?bo_table=free_kor_av
+! https://krav90.xyz, https://krav90.xyz/bbs/board.php?bo_table=free_kor_av
 ||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
 ||kravad.xyz/kravad3.gif
 ||kravad.xyz/kravad4.gif
-||krav88.xyz/data/apms/background/blackpair.gif
-krav88.xyz###thema_wrapper > div.row:nth-child(3)
-krav88.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav88.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav88.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav88.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+||krav90.xyz/data/apms/background/blackpair.gif
+krav90.xyz###thema_wrapper > div.row:nth-child(3)
+krav90.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav90.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav90.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav90.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 !
 ! https://avpop262.com
 ||i.imgur.com/NBWHplb.gif
