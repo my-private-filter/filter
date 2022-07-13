@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.07.11.00
+! Version: 2022.07.13.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2723,16 +2723,16 @@ marumaru266.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > 
 marumaru266.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 marumaru266.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
-! newtoki144.com & newtoki144.net
-newtoki144.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki144.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki144.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki144.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki144.com/data/banner/*
-newtoki144.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki145.com & newtoki145.net
+newtoki145.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki145.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki145.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki145.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki145.com/data/banner/*
+newtoki145.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki144.net
-||manatoki144.net/data/banner/*
+! manatoki145.net
+||manatoki145.net/data/banner/*
 !
 ! https://www.11toon39.com/
 ||wwwimageup.angle777899.com/other/atoona/%EC%9C%88%EC%9C%88350X175_111.gif
@@ -2742,16 +2742,16 @@ newtoki144.com###adModal > div.modal-dialog > div.modal-content > div.modal-body
 ||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
 ||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
 !
-! funbe125.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe126.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe125.com/images/*.gif^
-||funbe125.com/bann/*.gif^
-||funbe125.com/bann/*.png^
-||funbe125.com/bann/*.jpg^
-funbe125.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe125.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe125.com##div.login-block:last-child > div.login-show
+||funbe126.com/images/*.gif^
+||funbe126.com/bann/*.gif^
+||funbe126.com/bann/*.png^
+||funbe126.com/bann/*.jpg^
+funbe126.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe126.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe126.com##div.login-block:last-child > div.login-show
 !
 ! https://frtoon92.com, frt777.com
 ||frtoon92.com/data/by_banner/*
@@ -3076,8 +3076,10 @@ toktok.club###view_method
 ||i.uuoobe.com/ad/wn-xg_1.jpg
 ||i.uuoobe.com/ad/pha_250_250_1.jpg
 ||i.uuoobe.com/ad/drugpharm.gif
+||i.uuoobe.com/ad/drugpharm_m.gif
+||i.uuoobe.com/images/250x250-6005.jpg
 !
-! https://www.torrentwhy18.xyz
+! https://www.torrentwhy19.xyz
 !
 ! https://torrentqq212.com
 ||i.imgur.com/f7svABQ.gif
@@ -3322,13 +3324,13 @@ pornhub.com###hotVideosSection > .alpha
 ||bo-zi31.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi31.net/theme/Korea/img/headbanner/*.gif^
 !
-! https://krav108.xyz, https://krav108.xyz/bbs/board.php?bo_table=free_kor_av
-||krav108.xyz/data/apms/background/blackpair.gif
-krav108.xyz###thema_wrapper > div.row:nth-child(3)
-krav108.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav108.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav108.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav108.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+! https://krav110.xyz, https://krav110.xyz/bbs/board.php?bo_table=free_kor_av
+||krav110.xyz/data/apms/background/blackpair.gif
+krav110.xyz###thema_wrapper > div.row:nth-child(3)
+krav110.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav110.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav110.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav110.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 ||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
