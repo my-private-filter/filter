@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.07.30.01
+! Version: 2022.07.31.00
 ! Expires: 1 days (update frequency)
   
 ! Exception : Naver
@@ -2444,6 +2444,12 @@ noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:
 !
 ||kkmoa.com/ace_ad/*.php$domain=v16.sonagitv.tv
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
+4jj.darindella.xyz###text-2 > div.textwidget
+4jj.darindella.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=4jj.darindella.xyz
+vjv.narindanmi.xyz###text-2 > div.textwidget
+vjv.narindanmi.xyz###kboard-default-list
+||kkmoa.com/ace_ad/*.php$domain=vjv.narindanmi.xyz
 ojo.jnewslab.xyz###text-2 > div.textwidget
 ojo.jnewslab.xyz###kboard-default-list
 ||kkmoa.com/ace_ad/*.php$domain=ojo.jnewslab.xyz
@@ -2496,6 +2502,8 @@ link1.movethelink.xyz###text-4 > div.textwidget
 ||sonagitv.tv/sonagi_me/sites/8/2022/03/onoff360-1.jpg
 ||sonagitv.tv/sonagi_me/sites/8/2022/04/parao3603.gif
 ||sonagitv.tv/sonagi_me/sites/8/2022/05/seven3603.png
+||sonagitv.tv/sonagi_me/sites/8/2022/07/sfo360_resize.jpg
+||sonagitv.tv/sonagi_me/sites/8/2022/07/seven3603_resize.png
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/seven360.gif
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/winwin360_9466.gif
 ||sonagitv.tv/soangitv_me/sites/27/2021/02/booddgg360.gif
