@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.09.08.00
+! Version: 2022.09.12.00
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -899,7 +899,7 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 !
 ! jmana.xxxyyyzzz.art
 !
-! marumaru297.com, marumaru.cloud, marumaru.tours, marumaru.fund, marumaru.haus, marumaru.mom, marumaru.watch, marumaru.team, marumaru.ltd, marumaru.beer, marumaru.click, marumaru.yoga, marumaru.dance, marumaru.farm, marumaru.loan, marumaru.cash, marumaru.surf, marumaru.guru, marumaru.party, marumaru.pics, marumaru.golf, marumaru.tube, marumaru.tech, marumaru.site, marumaru.tel, marumaru.sale
+! marumaru298.com, marumaru.cloud, marumaru.tours, marumaru.fund, marumaru.haus, marumaru.mom, marumaru.watch, marumaru.team, marumaru.ltd, marumaru.beer, marumaru.click, marumaru.yoga, marumaru.dance, marumaru.farm, marumaru.loan, marumaru.cash, marumaru.surf, marumaru.guru, marumaru.party, marumaru.pics, marumaru.golf, marumaru.tube, marumaru.tech, marumaru.site, marumaru.tel, marumaru.sale
 !
 ||i.imgur.com/5vlFlbP.gif
 ||i.imgur.com/kWyXS03.gif
@@ -950,37 +950,37 @@ videotongs.com##div.container:last-child > div.row:nth-child(6) > div.col-md-12 
 ||cloudaaaa.com/c/26.gif
 ||cloudaaaa.com/c/27.gif
 ||cloudaaaa.com/c/28.gif
-||cloudaaaa.com/c/*.gif^$domain=marumaru297.com
-||i.imgur.com/*.gif$domain=marumaru297.com
-marumaru297.com##[class='bottom-navbar']
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:first-child > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(2) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(3) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(4) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(5) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(6) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(7) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(8) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(9) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(10) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(11) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(12) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(13) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(14) > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:last-child > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
-marumaru297.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
+||cloudaaaa.com/c/*.gif^$domain=marumaru298.com
+||i.imgur.com/*.gif$domain=marumaru298.com
+marumaru298.com##[class='bottom-navbar']
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:first-child > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(2) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(3) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(4) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(5) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(6) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(7) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-md-3.col-sm-6.col-xs-6.banner_m:nth-child(8) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(9) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(10) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(11) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(12) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(13) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:nth-child(14) > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.row.w_banner:first-child > div.col-xs-12.banner_m:last-child > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(2) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
+marumaru298.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
-! newtoki152.com & newtoki152.net
-newtoki152.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki152.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki152.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki152.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-||newtoki152.com/data/banner/*
-newtoki152.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+! newtoki153.com & newtoki153.net
+newtoki153.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki153.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki153.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki153.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+||newtoki153.com/data/banner/*
+newtoki153.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
 !
-! manatoki152.net
-||manatoki152.net/data/banner/*
+! manatoki153.net
+||manatoki153.net/data/banner/*
 !
 !
 ! http://www.11toon46.com
@@ -1316,11 +1316,11 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel103.top
-||torrentreel103.top/ad/filecast%201.gif
-||torrentreel103.top/ad/vinix60.gif
-||torrentreel103.top/ad/wcshow33.gif
-||torrentreel103.top/images/sub/sub_bg1.jpg
+! https://www.torrentreel104.top
+||torrentreel104.top/ad/filecast%201.gif
+||torrentreel104.top/ad/vinix60.gif
+||torrentreel104.top/ad/wcshow33.gif
+||torrentreel104.top/images/sub/sub_bg1.jpg
 ||i.uuoobe.com/ad/drugpharm.gif
 ||i.uuoobe.com/ad/drugpharm_m.gif
 ||i.uuoobe.com/ad/pha_250_250_1.jpg
@@ -1658,7 +1658,7 @@ sorabada48.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada48.com
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
 !
-! https://avpop297.com
+! https://avpop298.com
 ||i.imgur.com/NBWHplb.gif
 ||i.imgur.com/WB7EOzV.gif
 ||cloudaaaa.com/d/1.gif
@@ -1680,7 +1680,7 @@ sorabada48.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 ||cloudaaaa.com/d/17.gif
 ||cloudaaaa.com/d/18.gif
 ||cloudaaaa.com/d/20.gif
-||cloudaaaa.com/d/*.gif^$domain=avpop297.com
+||cloudaaaa.com/d/*.gif^$domain=avpop298.com
 !
 ! https://xxjoa8.com
 ||xxjoa8.com/vast/call3.gif
