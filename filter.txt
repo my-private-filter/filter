@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.10.04.00
+! Version: 2022.10.04.01
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -1336,7 +1336,7 @@ krav173.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > di
 ||todaybest9.xyz/img/racebet888_4001.gif
 ||todaybest9.xyz/img/showmethebet400.jpg
 ||todaybest9.xyz/img/showmethebet400.png
-||todaybest9.xyz/images/spon/*.gif^
+||todaybest9.xyz/images/spon/*.gif
 !
 ! https://bo-zi35.net, https://www.bo-zi35.net/bbs/board.php?bo_table=main, bo-zi.net
 ||bo-zi35.net/theme/Korea/img/headbanner/boost-vc500x120.gif
