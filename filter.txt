@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.10.08.00
+! Version: 2022.10.13.00
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -526,7 +526,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
+! https://koreanz11.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 moviejoa.xyz###thema_wrapper > div.row:nth-child(3)
 ||koreanzad.xyz/320x120KS4.gif
 ||koreanzad.xyz/320x120bm5.gif
@@ -582,9 +582,9 @@ noonoo.tv###container > div.partner-banner-wrap:nth-child(2) > div.partner-banne
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(4) > div.partner-banner-content > div.partner-banner-flex:first-child
 noonoo.tv###container > div.view-content:nth-child(3) > div.partner-banner-wrap:nth-child(4) > div.partner-banner-content > div.partner-banner-flex:last-child
 !
-! v26.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! v27.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
-||kkmoa.com/ace_ad/*.php$domain=v26.sonagitv.tv
+||kkmoa.com/ace_ad/*.php$domain=v27.sonagitv.tv
 ||kkmoa.com/ace_ad/*.php$domain=v1.danbimovie.vip
 4jj.darindella.xyz###text-2 > div.textwidget
 4jj.darindella.xyz###kboard-default-list
@@ -1141,11 +1141,11 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel107.top
-||torrentreel107.top/ad/filecast%201.gif
-||torrentreel107.top/ad/vinix60.gif
-||torrentreel107.top/ad/wcshow33.gif
-||torrentreel107.top/images/sub/sub_bg1.jpg
+! https://www.torrentreel108.top
+||torrentreel108.top/ad/filecast%201.gif
+||torrentreel108.top/ad/vinix60.gif
+||torrentreel108.top/ad/wcshow33.gif
+||torrentreel108.top/images/sub/sub_bg1.jpg
 ||i.uuoobe.com/ad/drugpharm.gif
 ||i.uuoobe.com/ad/drugpharm_m.gif
 ||i.uuoobe.com/ad/pha_250_250_1.jpg
@@ -1158,7 +1158,7 @@ toktok.club###view_method
 !
 ! https://torrentdia55.com
 !
-! https://torrentqq225.com
+! https://torrentqq226.com
 ||i.imgur.com/f7svABQ.gif
 ||i.imgur.com/jcPQeAp.gif
 ||i.imgur.com/1MjLIat.gif
@@ -1171,9 +1171,9 @@ toktok.club###view_method
 ||i.imgur.com/6VGOj8q.gif
 ||i.imgur.com/wUBxeqa.gif
 ||i.imgur.com/eVdBHta.gif
-torrentqq225.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
-torrentqq225.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
-torrentqq225.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
+torrentqq226.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
+torrentqq226.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
+torrentqq226.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
 !
 ! https://www.torrentwang.com
 ||i.imgur.com/Np9s114.gif
@@ -1322,13 +1322,13 @@ pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
 !
-! https://krav176.xyz, https://krav176.xyz/bbs/board.php?bo_table=free_kor_av
-||krav176.xyz/data/apms/background/blackpair.gif
-krav176.xyz###thema_wrapper > div.row:nth-child(3)
-krav176.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav176.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav176.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
-krav176.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+! https://krav181.xyz, https://krav181.xyz/bbs/board.php?bo_table=free_kor_av
+||krav181.xyz/data/apms/background/blackpair.gif
+krav181.xyz###thema_wrapper > div.row:nth-child(3)
+krav181.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav181.xyz###qtsfrhpimwkdvugnjeol > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav181.xyz###knogxuwrdejsipflqctmvh > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
+krav181.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
 ||kravad.xyz/bannerenq.jpg
 ||kravad.xyz/kravad1.gif
 ||kravad.xyz/kravad2.gif
@@ -1395,6 +1395,9 @@ krav176.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > di
 ||sorabada50.com/img/banner/888/1.jpg
 ||sorabada50.com/img/banner/888/2.jpg
 ||sorabada50.com/img/banner/888/3.jpg
+||sorabada50.com/img/banner/ALPHA/1.gif
+||sorabada50.com/img/banner/ALPHA/2.gif
+||sorabada50.com/img/banner/ALPHA/3.gif
 ||sorabada50.com/img/banner/AQUAW/1.gif
 ||sorabada50.com/img/banner/AQUAW/2.gif
 ||sorabada50.com/img/banner/AQUAW/3.gif
@@ -1410,6 +1413,9 @@ krav176.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > di
 ||sorabada50.com/img/banner/BMW3/1.gif
 ||sorabada50.com/img/banner/BMW3/2.gif
 ||sorabada50.com/img/banner/BMW3/3.gif
+||sorabada50.com/img/banner/BONS/1.gif
+||sorabada50.com/img/banner/BONS/2.gif
+||sorabada50.com/img/banner/BONS/3.gif
 ||sorabada50.com/img/banner/CALL2/1.gif
 ||sorabada50.com/img/banner/CALL2/2.gif
 ||sorabada50.com/img/banner/CALL2/3.gif
@@ -1428,6 +1434,9 @@ krav176.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > di
 ||sorabada50.com/img/banner/MACHUJA/1.gif
 ||sorabada50.com/img/banner/MACHUJA/2.gif
 ||sorabada50.com/img/banner/MACHUJA/3.gif
+||sorabada50.com/img/banner/MACHUJA1/1.gif
+||sorabada50.com/img/banner/MACHUJA1/2.gif
+||sorabada50.com/img/banner/MACHUJA1/3.gif
 ||sorabada50.com/img/banner/MSLOT/1.gif
 ||sorabada50.com/img/banner/MSLOT/2.gif
 ||sorabada50.com/img/banner/MSLOT/3.gif
