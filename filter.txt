@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.11.10.00
+! Version: 2022.11.10.01
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -1387,6 +1387,21 @@ krav195.xyz###ufshmnrkqdtpeilgjo > div.carousel-inner > div.item.active > a > di
 ||bo-zi37.net/theme/Korea/img/headbanner/zez777_500x120.gif
 ||bo-zi37.net/theme/Korea/img/headbanner/*.jpg^
 ||bo-zi37.net/theme/Korea/img/headbanner/*.gif^
+||bo-zi37.net/theme/Korea/img/midbanner/pc_callgirl.gif
+||bo-zi37.net/theme/Korea/img/midbanner/mb_callgirl.gif
+||bo-zi37.net/theme/Korea/img/midbanner/pc_kim.gif
+||bo-zi37.net/theme/Korea/img/midbanner/mb_kim.gif
+||bo-zi37.net/theme/Korea/img/midbanner/pc_nahe8.gif
+||bo-zi37.net/theme/Korea/img/midbanner/mb_nahe8.gif
+||bo-zi37.net/theme/Korea/img/midbanner/pc_sola.gif
+||bo-zi37.net/theme/Korea/img/midbanner/mb_sola.gif
+||bo-zi37.net/theme/Korea/img/midbanner/pc_tabaccos.gif
+||bo-zi37.net/theme/Korea/img/midbanner/mb_tabaccos.gif
+||bo-zi37.net/theme/Korea/img/midbanner/*.gif^
+||umin25.com/data/file/banner/2890328427_7YrUl8P2_5ae2d9187179e3ae8b26ce79e68a45c0292003e2.jpg
+||umin25.com/data/file/banner/2890328433_zb6STYXt_4d1afc5fd56d6713619a669ac64f3a83eaa57fd6.jpg
+||umin25.com/data/file/banner/*.jpg^
+||umin25.com/data/file/banner/*.gif^
 !
 ! https://sorabada52.com
 ||sorabada52.com/img/banner/42.gif
