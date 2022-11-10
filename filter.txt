@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2022.11.10.01
+! Version: 2022.11.10.02
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -1156,6 +1156,11 @@ toktok.club###view_method
 !
 ! https://www.torrentwhy36.xyz
 ||torrentwhy36.xyz/m/ad/winner468.gif
+||i.imgur.com/uYWE3Z9.gif
+||i.imgur.com/OBbQyAr.gif
+||i.imgur.com/kjul8vA.gif
+||i.imgur.com/S9y9LqF.gif
+||i.imgur.com/7cXUxXQ.gif
 !
 ! https://torrentdia59.com
 !
