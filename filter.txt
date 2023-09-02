@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.02.00
+! Version: 2023.09.02.01
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -556,6 +556,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 !
 ! https://a72.koreanz.xyz, https://koreanz14.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 koreanz.xyz###at-main > div.view-wrap:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
+koreanz.xyz###wrapper > div.content:last-child > div.at-content > div.view-wrap.view-mobile.font-14:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
 ||koreanzad.xyz/%EC%9B%80%EC%A7%A4.gif
 ||koreanzad.xyz/2rcasino.gif
 ||koreanzad.xyz/320-120-nmarbel3.gif
