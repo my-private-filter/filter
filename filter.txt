@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.02.01
+! Version: 2023.09.02.02
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -3109,7 +3109,7 @@ jmana.net###main_popup
 ! Commits on Feb 25, 2023
 !
 !
-! adguard-kr.txt
+! adguard-kr.txt (유튜브 찾아서 ! 처리하기)
 !
 ##.banner_img
 ##.banner_inner
@@ -3137,7 +3137,7 @@ jmana.net###main_popup
 @@||netflix.com$document
 @@||unchartedsky.com$document
 @@||www.elastic.co$document
-@@||youtube.com^$document
+!@@||youtube.com^$document
 bloter.net##[class$="banner"]
 bloter.net##[class^="banner"]
 clien.net##[id^="google_ad"]
@@ -3212,7 +3212,7 @@ www.nate.com##.area_shopping_today
 ||track.maillink.co.kr^$third-party
 !
 !
-! andromedarabbit.txt
+! andromedarabbit.txt (유튜브 찾아서 ! 처리하기)
 !
 ! ###############################################
 ! Whitelist
@@ -3226,7 +3226,7 @@ www.nate.com##.area_shopping_today
 ! Personal favorites: andromedarabbit
 @@||mozilla.org$document
 @@||evernote.com$document
-@@||youtube.com^$document
+!@@||youtube.com^$document
 @@||netflix.com$document
 @@||giphy.com$document
 @@||admin.google.com$document
