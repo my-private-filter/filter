@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.02.03
+! Version: 2023.09.12.00
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -554,7 +554,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://a72.koreanz.xyz, https://koreanz14.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
+! https://a73.koreanz.xyz, https://koreanz14.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 koreanz.xyz###at-main > div.view-wrap:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
 koreanz.xyz###wrapper > div.content:last-child > div.at-content > div.view-wrap.view-mobile.font-14:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
 ||koreanzad.xyz/%EC%9B%80%EC%A7%A4.gif
@@ -628,7 +628,7 @@ noonoo25.tv###container > div.view-content:nth-child(3) > div.partner-banner-wra
 ||tvmon.help/AD/*.jpeg^
 !
 !
-! s26.sonagitv.live, v42.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! s29.sonagitv.live, v42.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
 sonagitv.live###popup_id1.popup_frame
 sonagitv.live###popup_id2.popup_frame
@@ -972,18 +972,18 @@ marumaru615.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > 
 marumaru615.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
 !
-! newtoki306.com & newtoki306.net
-newtoki306.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki306.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki306.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki306.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki306.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
-||newtoki306.com/data/banner/*
-||newtoki306.com/tokinbtoki/*.gif?_=*
+! newtoki307.com & newtoki307.net
+newtoki307.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki307.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki307.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki307.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki307.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+||newtoki307.com/data/banner/*
+||newtoki307.com/tokinbtoki/*.gif?_=*
 !
-! manatoki306.net
-||manatoki306.net/data/banner/*
-||manatoki306.net/tokinbtoki/*.gif?_=*
+! manatoki307.net
+||manatoki307.net/data/banner/*
+||manatoki307.net/tokinbtoki/*.gif?_=*
 !
 !
 ! http://www.11toon46.com
@@ -994,16 +994,16 @@ newtoki306.com###adModal > div.modal-dialog > div.modal-content > div.modal-body
 ||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
 ||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
 !
-! funbe280.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe283.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe280.com/images/*.gif^
-||funbe280.com/bann/*.gif^
-||funbe280.com/bann/*.png^
-||funbe280.com/bann/*.jpg^
-funbe280.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe280.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe280.com##div.login-block:last-child > div.login-show
+||funbe283.com/images/*.gif^
+||funbe283.com/bann/*.gif^
+||funbe283.com/bann/*.png^
+||funbe283.com/bann/*.jpg^
+funbe283.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe283.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe283.com##div.login-block:last-child > div.login-show
 !
 ! https://frtoon92.com, frt777.com
 ||frtoon92.com/data/by_banner/*
@@ -1235,12 +1235,12 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel44.site, https://www.torrentreel110.top
-||torrentreel44.site/ad/filecast%201.gif
-||torrentreel44.site/ad/filemong_250x250.jpg
-||torrentreel44.site/ad/vinix60.gif
-||torrentreel44.site/ad/wcshow33.gif
-||torrentreel44.site/images/sub/sub_bg1.jpg
+! https://www.torrentreel45.site, https://www.torrentreel110.top
+||torrentreel45.site/ad/filecast%201.gif
+||torrentreel45.site/ad/filemong_250x250.jpg
+||torrentreel45.site/ad/vinix60.gif
+||torrentreel45.site/ad/wcshow33.gif
+||torrentreel45.site/images/sub/sub_bg1.jpg
 ||i.uuoobe.com/images/250x250-6005.jpg
 ||i.uuoobe.com/ad/avmov.gif
 ||i.uuoobe.com/ad/bet1_250.jpg
@@ -1261,10 +1261,10 @@ toktok.club###view_method
 ||i.uuoobe.com/ad/*.gif^
 ||ads-partners.coupang.com/widgets.html?id=577509&template=carousel&trackingCode=AF7035269&width=328&height=250&SubParam=21349375db&rUrl=&tag=js&resolution=1923x942&serverBaseUrl=https%3A%2F%2Fads-partners.coupang.com%2F&logServerBaseUrl=https%3A%2F%2Flogs-partners.coupang.com%2Flog%2F
 !
-! https://www.torrentwhy80.xyz
-||torrentwhy80.xyz/m/ad/winner468.gif
-||torrentwhy80.xyz/ad/ad_m1.png
-||torrentwhy80.xyz/ad/ad_r1.png
+! https://www.torrentwhy81.xyz
+||torrentwhy81.xyz/m/ad/winner468.gif
+||torrentwhy81.xyz/ad/ad_m1.png
+||torrentwhy81.xyz/ad/ad_r1.png
 ||i.imgur.com/23FSUXr.gif
 ||i.imgur.com/7cXUxXQ.gif
 ||i.imgur.com/7LtyErf.gif
@@ -1289,7 +1289,7 @@ toktok.club###view_method
 !
 ! https://torrentdia59.com
 !
-! https://torrentqq272.com
+! https://torrentqq273.com
 ||i.imgur.com/0UvsYqp.png
 ||i.imgur.com/1MjLIat.gif
 ||i.imgur.com/2DTPhEE.png
@@ -1328,11 +1328,11 @@ toktok.club###view_method
 ||i.imgur.com/vDkGs3m.gif
 ||i.imgur.com/VYJV5WS.jpg
 ||i.imgur.com/wUBxeqa.gif
-torrentqq272.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
-torrentqq272.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
-torrentqq272.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
+torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
+torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
+torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
 !
-! https://torrentsome106.com
+! https://torrentsome108.com
 ||torrentsome106.com/uploadfile/up62188e4a0d86d7321.gif
 ||static.filesbest.xyz/s/up6048714b07a659449.png
 ||static.filesbest.xyz/s/up620f69da9c86f2865.gif
@@ -1507,7 +1507,7 @@ pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
 !
-! https://a20.krav.wiki, https://a20.krav.wiki/bbs/board.php?bo_table=free_kor_av, https://krav251.xyz, https://krav.fun
+! https://a22.krav.wiki, https://a22.krav.wiki/bbs/board.php?bo_table=free_kor_av, https://krav251.xyz, https://xn--oi2bm8jf9q.net, https://krav.fun
 ||krav.wiki.xyz/data/apms/background/blackpair.gif
 krav.wiki.xyz###thema_wrapper > div.row:nth-child(3)
 krav.wiki.xyz###hmjfkiwqsonrltupgev > div.carousel-inner > div.item.active > a > div.img-wrap > div.img-item
@@ -1639,6 +1639,8 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 !
 ! https://sorabada74.com
 ||sorabada74.com/img/banner/10.gif
+||sorabada74.com/img/banner/1BET/1.gif
+||sorabada74.com/img/banner/1BET/2.gif
 ||sorabada74.com/img/banner/1BET/3.gif
 ||sorabada74.com/img/banner/42.gif
 ||sorabada74.com/img/banner/777/1.gif
@@ -1674,7 +1676,11 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada74.com/img/banner/CALL2/1.gif
 ||sorabada74.com/img/banner/CALL2/2.gif
 ||sorabada74.com/img/banner/CALL2/3.gif
+||sorabada74.com/img/banner/GEN/1.gif
+||sorabada74.com/img/banner/GEN/2.gif
 ||sorabada74.com/img/banner/GEN/3.gif
+||sorabada74.com/img/banner/GIGA/1.gif
+||sorabada74.com/img/banner/GIGA/2.gif
 ||sorabada74.com/img/banner/GIGA/3.gif
 ||sorabada74.com/img/banner/HGY1/1.gif
 ||sorabada74.com/img/banner/HGY1/2.gif
@@ -1710,6 +1716,8 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada74.com/img/banner/PINNA/1.gif
 ||sorabada74.com/img/banner/PINNA/2.gif
 ||sorabada74.com/img/banner/PINNA/3.gif
+||sorabada74.com/img/banner/PP/1.gif
+||sorabada74.com/img/banner/PP/2.gif
 ||sorabada74.com/img/banner/PP/3.gif
 ||sorabada74.com/img/banner/ROYAL/1.gif
 ||sorabada74.com/img/banner/ROYAL/2.gif
@@ -1723,10 +1731,23 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada74.com/img/banner/SURE/1.gif
 ||sorabada74.com/img/banner/SURE/2.gif
 ||sorabada74.com/img/banner/SURE/3.gif
+||sorabada74.com/img/banner/SURE1/1.jpg
+||sorabada74.com/img/banner/SURE1/2.jpg
+||sorabada74.com/img/banner/SURE1/3.jpg
 ||sorabada74.com/img/banner/TEN2211/1.gif
 ||sorabada74.com/img/banner/TEN2211/2.gif
 ||sorabada74.com/img/banner/TEN2211/3.gif
+||sorabada74.com/img/banner/TOSS2/1.gif
+||sorabada74.com/img/banner/TOSS2/2.gif
 ||sorabada74.com/img/banner/TOSS2/3.gif
+||sorabada74.com/img/banner/WIN/1.gif
+||sorabada74.com/img/banner/WIN/2.gif
+||sorabada74.com/img/banner/WIN/3.gif
+||sorabada74.com/img/banner/WINNER/1.gif
+||sorabada74.com/img/banner/WINNER/2.gif
+||sorabada74.com/img/banner/WINNER/3.gif
+||sorabada74.com/img/banner/YES/1.gif
+||sorabada74.com/img/banner/YES/2.gif
 ||sorabada74.com/img/banner/YES/3.gif
 sorabada74.com###thema_wrapper > div:nth-child(6)
 sorabada74.com###thema_wrapper > div:nth-child(7) > p
