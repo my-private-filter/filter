@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.12.00
+! Version: 2023.09.13.00
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -1261,10 +1261,10 @@ toktok.club###view_method
 ||i.uuoobe.com/ad/*.gif^
 ||ads-partners.coupang.com/widgets.html?id=577509&template=carousel&trackingCode=AF7035269&width=328&height=250&SubParam=21349375db&rUrl=&tag=js&resolution=1923x942&serverBaseUrl=https%3A%2F%2Fads-partners.coupang.com%2F&logServerBaseUrl=https%3A%2F%2Flogs-partners.coupang.com%2Flog%2F
 !
-! https://www.torrentwhy81.xyz
-||torrentwhy81.xyz/m/ad/winner468.gif
-||torrentwhy81.xyz/ad/ad_m1.png
-||torrentwhy81.xyz/ad/ad_r1.png
+! https://www.torrentwhy83.xyz
+||torrentwhy83.xyz/m/ad/winner468.gif
+||torrentwhy83.xyz/ad/ad_m1.png
+||torrentwhy83.xyz/ad/ad_r1.png
 ||i.imgur.com/23FSUXr.gif
 ||i.imgur.com/7cXUxXQ.gif
 ||i.imgur.com/7LtyErf.gif
@@ -1556,6 +1556,8 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sora19.net/img/banner_2/lux2.webp
 ||sora19.net/img/banner_2/rawi.webp
 ||sora19.net/img/banner_2/taba.webp
+||sora19.net/img/banner_1/*.webp^
+||sora19.net/img/banner_2/*.webp^
 !
 ||bo-zi47.net/theme/Korea/img/headbanner/boost-vc500x120.gif
 ||bo-zi47.net/theme/Korea/img/headbanner/m_bhg63.gif
