@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.13.00
+! Version: 2023.09.26.00
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -82,6 +82,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||zoom.us^$document
 @@||hipass.co.kr^$document
 @@||familynet.samsung.com^$document
+@@||evernote.com$document
 !
 ! 업무용(특정)
 @@||nongyeon.org^$document
@@ -554,7 +555,7 @@ thebujatv.media##li.adult_li:nth-of-type(5) > [href="https://www.thebujatv.media
 ##li.adult_li:nth-of-type(10) > [href^="http://www.chrometv.co.kr/partnerGate/"]
 ##li.adult_li:nth-of-type(12) > [href="http://qqlive.heydate.pe.hu"]
 !
-! https://a73.koreanz.xyz, https://koreanz14.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
+! https://a76.koreanz.xyz, https://koreanz14.xyz, https://a29.moviejoa.xyz, https://moviejoa9.xyz, https://j16.moviejoa.cc
 koreanz.xyz###at-main > div.view-wrap:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
 koreanz.xyz###wrapper > div.content:last-child > div.at-content > div.view-wrap.view-mobile.font-14:nth-child(5) > section:nth-child(2) > article > div.view-padding:nth-child(3) > div:nth-child(4)
 ||koreanzad.xyz/%EC%9B%80%EC%A7%A4.gif
@@ -628,7 +629,7 @@ noonoo25.tv###container > div.view-content:nth-child(3) > div.partner-banner-wra
 ||tvmon.help/AD/*.jpeg^
 !
 !
-! s29.sonagitv.live, v42.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
+! s33.sonagitv.live, v42.sonagitv.tv, v34.sonagitv.org, v5.sonagitv.icu, v1.sonagitv.vip, v1.danbimovie.vip, v24.sonagitv.me, v24.danbimovie.me, v6.sonagitv.cc, v6.danbimovie.cc, v3.sonagitv.xyz, v3.danbimovie.xyz, v28.sonagitv.co, v28.danbimovie.co, v8.sonagitv.net & v8.danbimovie.net, a19.sonagitv.net & a19.danbimovie.net, dasiboda3.com, dasiboda.site
 !
 sonagitv.live###popup_id1.popup_frame
 sonagitv.live###popup_id2.popup_frame
@@ -972,18 +973,18 @@ marumaru615.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > 
 marumaru615.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.at-col.at-main:nth-child(2) > div.view-wrap:nth-child(4) > div:nth-child(9) > div.row.w_banner:first-child > div.col-md-6.col-sm-6.col-xs-12.banner_m > a > img
 !
 !
-! newtoki307.com & newtoki307.net
-newtoki307.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki307.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki307.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
-newtoki307.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
-newtoki307.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
-||newtoki307.com/data/banner/*
-||newtoki307.com/tokinbtoki/*.gif?_=*
+! newtoki309.com & newtoki309.net
+newtoki309.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki309.com###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki309.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child > u-chat:nth-child(2)
+newtoki309.net###main-banner-view > div.col-15.col-md-3.col-sm-3:last-child
+newtoki309.com###adModal > div.modal-dialog > div.modal-content > div.modal-body > img
+||newtoki309.com/data/banner/*
+||newtoki309.com/tokinbtoki/*.gif?_=*
 !
-! manatoki307.net
-||manatoki307.net/data/banner/*
-||manatoki307.net/tokinbtoki/*.gif?_=*
+! manatoki309.net
+||manatoki309.net/data/banner/*
+||manatoki309.net/tokinbtoki/*.gif?_=*
 !
 !
 ! http://www.11toon46.com
@@ -994,16 +995,16 @@ newtoki307.com###adModal > div.modal-dialog > div.modal-content > div.modal-body
 ||wwwimageup.angle777899.com/other/atoona/bt720x90.gif
 ||wwwimageup.angle777899.com/other/atoona/ten720x90.gif
 !
-! funbe283.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
+! funbe287.com, funbe.dance, funbe.hair, funbe.bingo, funbe.taxi, funbe.click, funbe.date, funbe.team, funbe.zone, funbe.green, funbe.lol, funbe,best, funbe.world, funbe.help, funbe.media, funbe.bond, funbe.camp, funbe.tube, funbe.chat, funbe.city, funbe.works, funbe.fund, funbe.ink, funbe.gdn, funbe.tax, funbe.red, funbe.tel, funbe.one, funbe.vin, funbe.fun, funbe.guru, funbe.link, funbe.casa, funbe.cool, funbe.pw, funbe.cam, funbe.uno, funbe.plus, funbe.pro, funbe.wtf, funbe.rest, funbe.top, funbe.ninja, funbe.tv, funbe.store, funbe.cx, funbe.space, funbe.run, funbe.news, funbe.biz, funbe.cloud, funbe.shop, funbe.icu, funbe.page, funbe.me, funbe.live, funbe.care, funbe.vip, funbe.info, funbe.life, funbe41.com
 !
 ||s10.histats.com/js15_as.js
-||funbe283.com/images/*.gif^
-||funbe283.com/bann/*.gif^
-||funbe283.com/bann/*.png^
-||funbe283.com/bann/*.jpg^
-funbe283.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
-funbe283.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
-funbe283.com##div.login-block:last-child > div.login-show
+||funbe287.com/images/*.gif^
+||funbe287.com/bann/*.gif^
+||funbe287.com/bann/*.png^
+||funbe287.com/bann/*.jpg^
+funbe287.com###bs-example-navbar-collapse-1 > ul.nav.navbar-nav.hidden-xs.text-center > li:nth-child(3)
+funbe287.com##aside.kt_login.at-sidebar:nth-child(3) > div.sidebar-wrap.no-scrollbar:last-child > div.sidebar-nav:nth-child(5) > ul > li:nth-child(3)
+funbe287.com##div.login-block:last-child > div.login-show
 !
 ! https://frtoon92.com, frt777.com
 ||frtoon92.com/data/by_banner/*
@@ -1235,12 +1236,12 @@ toktok.club###view_method
 
 ! Bad Ad (3)
 !
-! https://www.torrentreel45.site, https://www.torrentreel110.top
-||torrentreel45.site/ad/filecast%201.gif
-||torrentreel45.site/ad/filemong_250x250.jpg
-||torrentreel45.site/ad/vinix60.gif
-||torrentreel45.site/ad/wcshow33.gif
-||torrentreel45.site/images/sub/sub_bg1.jpg
+! https://www.torrentreel47.site, https://www.torrentreel110.top
+||torrentreel47.site/ad/filecast%201.gif
+||torrentreel47.site/ad/filemong_250x250.jpg
+||torrentreel47.site/ad/vinix60.gif
+||torrentreel47.site/ad/wcshow33.gif
+||torrentreel47.site/images/sub/sub_bg1.jpg
 ||i.uuoobe.com/images/250x250-6005.jpg
 ||i.uuoobe.com/ad/avmov.gif
 ||i.uuoobe.com/ad/bet1_250.jpg
@@ -1261,10 +1262,10 @@ toktok.club###view_method
 ||i.uuoobe.com/ad/*.gif^
 ||ads-partners.coupang.com/widgets.html?id=577509&template=carousel&trackingCode=AF7035269&width=328&height=250&SubParam=21349375db&rUrl=&tag=js&resolution=1923x942&serverBaseUrl=https%3A%2F%2Fads-partners.coupang.com%2F&logServerBaseUrl=https%3A%2F%2Flogs-partners.coupang.com%2Flog%2F
 !
-! https://www.torrentwhy83.xyz
-||torrentwhy83.xyz/m/ad/winner468.gif
-||torrentwhy83.xyz/ad/ad_m1.png
-||torrentwhy83.xyz/ad/ad_r1.png
+! https://www.torrentwhy84.xyz
+||torrentwhy84.xyz/m/ad/winner468.gif
+||torrentwhy84.xyz/ad/ad_m1.png
+||torrentwhy84.xyz/ad/ad_r1.png
 ||i.imgur.com/23FSUXr.gif
 ||i.imgur.com/7cXUxXQ.gif
 ||i.imgur.com/7LtyErf.gif
@@ -1289,7 +1290,7 @@ toktok.club###view_method
 !
 ! https://torrentdia59.com
 !
-! https://torrentqq273.com
+! https://torrentqq275.com
 ||i.imgur.com/0UvsYqp.png
 ||i.imgur.com/1MjLIat.gif
 ||i.imgur.com/2DTPhEE.png
@@ -1328,12 +1329,12 @@ toktok.club###view_method
 ||i.imgur.com/vDkGs3m.gif
 ||i.imgur.com/VYJV5WS.jpg
 ||i.imgur.com/wUBxeqa.gif
-torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
-torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
-torrentqq273.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
+torrentqq275.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-3.at-col.at-side:last-child > div.row.at-row.at-banner:first-child > div.row-banner > div.col-xs-12.col-md-12.col-sm-6.w-col.h100:first-child > a > img
+torrentqq275.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.header:first-child
+torrentqq275.com###thema_wrapper > div.at-wrapper:last-child > div.at-body:nth-child(3) > div.at-container.w-main > div.row.at-row > div.col-md-9.at-col.at-main:first-child > div.row.at-row.at-banner.footer.hidden-xs.hidden-sm:last-child
 !
-! https://torrentsome108.com
-||torrentsome106.com/uploadfile/up62188e4a0d86d7321.gif
+! https://torrentsome110.com
+||torrentsome110.com/uploadfile/up62188e4a0d86d7321.gif
 ||static.filesbest.xyz/s/up6048714b07a659449.png
 ||static.filesbest.xyz/s/up620f69da9c86f2865.gif
 ||static.filesbest.xyz/s/up62ceb951a4f355904.gif
@@ -1522,16 +1523,16 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||kravad.xyz/kravad3.gif
 ||kravad.xyz/kravad4.gif
 !
-! https://www.todaybest13.xyz
-||todaybest13.xyz/img/btmangor400x300.gif
-||todaybest13.xyz/img/kwin400.gif
-||todaybest13.xyz/img/onepiss400.gif
-||todaybest13.xyz/img/racebet888_4001.gif
-||todaybest13.xyz/img/showmethebet400.jpg
-||todaybest13.xyz/img/showmethebet400.png
-||todaybest13.xyz/images/spon/showmethebet175.jpg
-||todaybest13.xyz/images/spon/*.jpg^
-||todaybest13.xyz/images/spon/*.gif^
+! https://www.todaybest14.xyz
+||todaybest14.xyz/img/btmangor400x300.gif
+||todaybest14.xyz/img/kwin400.gif
+||todaybest14.xyz/img/onepiss400.gif
+||todaybest14.xyz/img/racebet888_4001.gif
+||todaybest14.xyz/img/showmethebet400.jpg
+||todaybest14.xyz/img/showmethebet400.png
+||todaybest14.xyz/images/spon/showmethebet175.jpg
+||todaybest14.xyz/images/spon/*.jpg^
+||todaybest14.xyz/images/spon/*.gif^
 !
 !
 ! https://bo-zi47.net, https://www.bo-zi37.net/bbs/board.php?bo_table=main, bo-zi.net
@@ -3129,11 +3130,11 @@ jmana.net###main_popup
 ! https://raw.githubusercontent.com/unchartedsky/adguard-kr/master/filters/andromedarabbit.txt
 ! https://raw.githubusercontent.com/unchartedsky/adguard-kr/master/filters/binarydiver.txt
 ! https://raw.githubusercontent.com/unchartedsky/adguard-kr/master/filters/eggtart.txt
-! Commits on Feb 25, 2023
-! 유튜브와 넷플릭스 찾아서 ! 처리하기
+! 유튜브와 넷플릭스와 개인사이트 찾아서 !로 처리하기
+! Commits on Sep 26, 2023, 6:47 PM GMT+9
 !
 !
-! adguard-kr.txt (유튜브와 넷플릭스 찾아서 ! 처리하기)
+! adguard-kr.txt (유튜브와 넷플릭스와 개인사이트 찾아서 !로 처리하기)
 !
 ##.banner_img
 ##.banner_inner
@@ -3147,8 +3148,8 @@ jmana.net###main_popup
 @@||*.istarbucks.co.kr^$app=com.starbucks.co
 @@||*.onelogin.com^$document
 @@||admin.google.com$document
-@@||andromedarabbit.disqus.com$document
-@@||andromedarabbit.net$document
+!@@||andromedarabbit.disqus.com$document
+!@@||andromedarabbit.net$document
 @@||app.gitbook.com^$important,document,~extension
 @@||dash.cloudflare.com^$important,document
 @@||dashboard-01.moengage.com^$document
@@ -3159,7 +3160,7 @@ jmana.net###main_popup
 @@||medium.com^$document
 @@||mozilla.org$document
 !@@||netflix.com$document
-@@||unchartedsky.com$document
+!@@||unchartedsky.com$document
 @@||www.elastic.co$document
 !@@||youtube.com^$document
 bloter.net##[class$="banner"]
@@ -3236,16 +3237,16 @@ www.nate.com##.area_shopping_today
 ||track.maillink.co.kr^$third-party
 !
 !
-! andromedarabbit.txt (유튜브와 넷플릭스 찾아서 ! 처리하기)
+! andromedarabbit.txt (유튜브와 넷플릭스와 개인사이트 찾아서 !로 처리하기)
 !
 ! ###############################################
 ! Whitelist
 ! ###############################################
 
 ! Personal websites: andromedarabbit
-@@||unchartedsky.com$document
-@@||andromedarabbit.net$document
-@@||andromedarabbit.disqus.com$document
+!@@||unchartedsky.com$document
+!@@||andromedarabbit.net$document
+!@@||andromedarabbit.disqus.com$document
 
 ! Personal favorites: andromedarabbit
 @@||mozilla.org$document
@@ -3305,6 +3306,8 @@ plasticsinpackaging.com##.pmpro_content_message
 ||imagecdn.mtoon.com^$app=com.post.HanaFax.Mobile2
 ! 루리웹
 ruliweb.com###mo_ad_main_ti
+ruliweb.com##[id^="ad_"]
+ruliweb.com###push_bar
 
 ! ###############################################
 ! Blacklist - 블로그
@@ -3338,6 +3341,7 @@ bloter.net##[class$="banner"]
 hani.co.kr##[class^="ad-"]
 hani.co.kr##[id^="ad_"]
 ! 조선
+investchosun.com##[class^="ad_article"]
 investchosun.com##div.article_content_right
 investchosun.com##div.banner
 ! 더벨
