@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.09.26.01
+! Version: 2023.09.26.02
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -1703,6 +1703,9 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada75.com/img/banner/INDIE6/1.png
 ||sorabada75.com/img/banner/INDIE6/2.png
 ||sorabada75.com/img/banner/INDIE6/3.png
+||sorabada75.com/img/banner/MACAO/1.gif
+||sorabada75.com/img/banner/MACAO/2.gif
+||sorabada75.com/img/banner/MACAO/3.gif
 ||sorabada75.com/img/banner/MACHUJA/1.gif
 ||sorabada75.com/img/banner/MACHUJA/2.gif
 ||sorabada75.com/img/banner/MACHUJA/3.gif
