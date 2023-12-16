@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.10.31.00
+! Version: 2023.10.31.01
 ! Expires: 1 days (update frequency)
   
 ! Naver : Exception
@@ -127,10 +127,10 @@ vod-player.afreecatv.com/creatives/media/*
 !
 ! AfreecaTV Player
 !
-||afupd1.afreecatv.com/afreecatvstreamer_installer.exe
-||afupd1.afreecatv.com^
-vod.afreecatv.com##.chat_memoyo
-play.afreecatv.com##.chat_area
+!||afupd1.afreecatv.com/afreecatvstreamer_installer.exe
+!||afupd1.afreecatv.com^
+!vod.afreecatv.com##.chat_memoyo
+!play.afreecatv.com##.chat_area
 !
 ! AfreecaTV Mobile Web
 m.afreecatv.com###sub > div.ng-scope:nth-child(4) > div.chat_wrap.ng-scope:nth-child(3) > div.chat_area.ng-pristine.ng-untouched.ng-valid.ng-not-empty:nth-child(3) > div.info_app.aos:first-child > a.app_view:last-child
