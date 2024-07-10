@@ -1,7 +1,7 @@
 ! Title: My Private Filter
-! Version: 2023.10.31.01
+! Version: 2023.10.31.02
 ! Expires: 1 days (update frequency)
-  
+
 ! Naver : Exception
 ! @@||cc.naver.com^ ! uBlock Origin
 ! @@||wcs.naver.net^ ! uBlock Origin
@@ -56,6 +56,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||yebigun1.mil.kr^$document
 @@||wis.seoul.go.kr^$document
 @@||consul.mofa.go.kr^$document
+@@||g4k.go.kr^$document
 @@||nip.kdca.go.kr^$document
 @@||ncvr2.kdca.go.kr^$document
 @@||kras.go.kr^$document
@@ -82,25 +83,26 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||zoom.us^$document
 @@||hipass.co.kr^$document
 @@||familynet.samsung.com^$document
-@@||evernote.com$document
+@@||evernote.com^$document
 !
 ! 업무용(특정)
 @@||nongyeon.org^$document
 !
 ! 개인용
 @@||novelpia.com^$document
+@@||shop.tworld.co.kr^$document
 !
 
 ! Exception : WeMakePrice & Others
 ! https://blog.naver.com/nzelbomb/221007445194
 @@||order.wemakeprice.com/order_app/pay_act_next/L/0/W130?use_preset=on$third-party
 @@||escrow.wemakeprice.com//pg/inicisCertifyResult$domain=stdpay.inicis.com,third-party
-@@||gmarket.co.kr$document
-@@||11st.co.kr$document
-@@||auction.co.kr$document
-@@||order.ticketmonster.co.kr$document
-@@||11st.co.kr/connect/Gateway.tmall^$domain=s.ppomppu.co.kr,third-party
 @@||search.wemakeprice.com^$domain=search.wemakeprice.com
+@@||order.ticketmonster.co.kr^$document
+@@||gmarket.co.kr^$document
+@@||auction.co.kr^$document
+@@||11st.co.kr^$document
+@@||11st.co.kr/connect/Gateway.tmall^$domain=s.ppomppu.co.kr,third-party
 @@||wlg.shinhancard.com^$domain=vbv.shinhancard.com
 !
 
