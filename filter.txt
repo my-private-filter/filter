@@ -1,7 +1,9 @@
 ! Title: My Private Filter
-! Version: 2025.07.10.02
+! Version: 2025.07.10.03
 ! Expires: 1 days (update frequency)
+!
 ! https://raw.githubusercontent.com/my-private-filter/filter/master/filter.txt
+!
 
 ! Naver : Exception
 ! @@||cc.naver.com^ ! uBlock Origin
