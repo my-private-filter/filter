@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2025.07.09.00
+! Version: 2025.07.09.01
 ! Expires: 1 days (update frequency)
 
 ! Naver : Exception
@@ -28,7 +28,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 
 ! @@
 !
-! BZ(Common)
+! BZ
 @@||ibz.nonghyup.com^$document
 @@||nhbizcard.nonghyup.com^$document
 @@||banking.nonghyup.com^$document
@@ -86,8 +86,6 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||hipass.co.kr^$document
 @@||familynet.samsung.com^$document
 @@||evernote.com^$document
-!
-! BZ(Specific)
 @@||nongyeon.org^$document
 !
 ! Personal
@@ -414,41 +412,42 @@ robintrack.net###root > div.bp3-dark > div:first-child > iframe:first-child
 ! Bad Ad
 !
 ! ohli24.com, ohli24.org, ohli24.net
-! 오류?? ohli24.com###thema_wrapper > div.at-wrapper > div.at-title:nth-child(3) > div.at-container:first-child > div.insty:last-child
-||ohli24.com/img/2022/anisun.gif
-||ohli24.com/img/2022/aniw.gif
-||ohli24.com/img/2022/aniwn.gif
-||ohli24.com/img/2022/aniww.gif
-||ohli24.com/img/2022/wwa3.gif
-||ohli24.com/img/2023/bdbd.gif
-||ohli24.com/img/2023/tt.gif
-||ohli24.com/img/2024/nbd.gif
-||ohli24.com/img/2024/kl.gif
-||ohli24.com/img/2020/*.gif^
-||ohli24.com/img/2021/*.gif^
-||ohli24.com/img/2022/*.gif^
-||ohli24.com/img/2023/*.gif^
-||ohli24.com/img/2024/*.gif^
-||ohli24.com/img/2022/anisun.gif
-||ohli24.com/img/2022/aniw.gif
-||ohli24.com/img/2022/aniwn.gif
-||ohli24.com/img/2022/aniww.gif
-||ohli24.com/img/2022/wwa3.gif
-||ohli24.com/img/2023/bdbd.gif
-||ohli24.com/img/2023/tt.gif
-||ohli24.com/img/2024/nbd.gif
-||ohli24.com/img/2024/kl.gif
-||ohli24.com/img/2020/*.gif^
-||ohli24.com/img/2021/*.gif^
-||ohli24.com/img/2022/*.gif^
-||ohli24.com/img/2023/*.gif^
-||ohli24.com/img/2024/*.gif^
-||ohli24.com/img/2024/barvo1.jpg
-||ohli24.com/img/2024/bbdd22.png
-||ohli24.com/img/2024/hrs.jpg
-||ohli24.com/img/2024/pric.png
-||ohli24.com/img/2024/richb.png
-||ohli24.com/img/2024/st.jpg
+@@||ohli24.com^$document
+!오류?? ohli24.com###thema_wrapper > div.at-wrapper > div.at-title:nth-child(3) > div.at-container:first-child > div.insty:last-child
+!||ohli24.com/img/2022/anisun.gif
+!||ohli24.com/img/2022/aniw.gif
+!||ohli24.com/img/2022/aniwn.gif
+!||ohli24.com/img/2022/aniww.gif
+!||ohli24.com/img/2022/wwa3.gif
+!||ohli24.com/img/2023/bdbd.gif
+!||ohli24.com/img/2023/tt.gif
+!||ohli24.com/img/2024/nbd.gif
+!||ohli24.com/img/2024/kl.gif
+!||ohli24.com/img/2020/*.gif^
+!||ohli24.com/img/2021/*.gif^
+!||ohli24.com/img/2022/*.gif^
+!||ohli24.com/img/2023/*.gif^
+!||ohli24.com/img/2024/*.gif^
+!||ohli24.com/img/2022/anisun.gif
+!||ohli24.com/img/2022/aniw.gif
+!||ohli24.com/img/2022/aniwn.gif
+!||ohli24.com/img/2022/aniww.gif
+!||ohli24.com/img/2022/wwa3.gif
+!||ohli24.com/img/2023/bdbd.gif
+!||ohli24.com/img/2023/tt.gif
+!||ohli24.com/img/2024/nbd.gif
+!||ohli24.com/img/2024/kl.gif
+!||ohli24.com/img/2020/*.gif^
+!||ohli24.com/img/2021/*.gif^
+!||ohli24.com/img/2022/*.gif^
+!||ohli24.com/img/2023/*.gif^
+!||ohli24.com/img/2024/*.gif^
+!||ohli24.com/img/2024/barvo1.jpg
+!||ohli24.com/img/2024/bbdd22.png
+!||ohli24.com/img/2024/hrs.jpg
+!||ohli24.com/img/2024/pric.png
+!||ohli24.com/img/2024/richb.png
+!||ohli24.com/img/2024/st.jpg
 !
 ! moeni.net, moeni.org
 ||moeni.net/img/sponsor/250x80.gif
