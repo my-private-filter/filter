@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2025.07.10.03
+! Version: 2025.07.10.04
 ! Expires: 1 days (update frequency)
 !
 ! https://raw.githubusercontent.com/my-private-filter/filter/master/filter.txt
@@ -27,6 +27,10 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 ! Naver Cafe Theme
 section.cafe.naver.com###mainContainer > div.section_content_view.content:first-child > div.home_theme:last-child > div.common_scroll_box:nth-child(2)
 section.cafe.naver.com###mainContainer > div.section_content_view.content:first-child > div.home_theme:last-child > div.home_theme_frame:last-child
+!
+
+! namu.wiki
+namu.wiki###app > div.sP0Y9WVF._2VjcPXAa:first-child > div.P3BEogq6.yB77i1QC:nth-child(2) > div.M4WSS3yt > div.CD-3U9st.EPOETcuZ:nth-child(6) > div.LpcR1iuv:nth-child(8) > div._2NBQk93U.GoYCXQxe:last-child
 !
 
 ! @@
