@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2025.07.10.00
+! Version: 2025.07.10.01
 ! Expires: 1 days (update frequency)
 
 ! Naver : Exception
@@ -494,7 +494,7 @@ ohli365.site###thema_wrapper > div.at-wrapper > div.at-title:nth-child(3) > div.
 ||ohli365.site/data/apms/background/%ED%83%B1%ED%81%AC%EB%A7%88%EB%82%98%EB%AA%A8%EC%95%84300x100[7788].png
 ||ohli365.site/data/apms/background/nc%EC%88%98%EC%A0%95300x100.gif
 ||ohli365.site/data/apms/background/*.gif^
-!!!
+!
 ||i0.wp.com/files2.goodcdnnetwork.com/img/ad1436x100.gif
 ||disqus.com/embed/comments/?base=default&f=ani24^
 ani24do.com##a.main_ad:nth-of-type(1)
@@ -1415,6 +1415,7 @@ pornhub.com##.premiumPromoBannerWrapper
 pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
 !
+!
 ! https://darkg8.com, https://www.dark-girl.com
 ||darkg8.com/data/file/admin_banner/*.jpg^
 ||darkg8.com/data/file/admin_banner/*.png^
@@ -1441,6 +1442,7 @@ pornhub.com###hotVideosSection > .alpha
 ||darkg8.com/data/file/kr/6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
 ||darkg8.com/data/file/kr/6855_copy_6904_6802_copy_6817_6759_copy_6802_6671_copy_6759_2890340422_Vx8RY5h9_39e383cbef0648fd74f5b00cd01aca5abaef3f2c.png
 ||moa18.com/bn/*.webp^
+!
 !
 ! https://bo-zi66.net, https://www.bo-zi66.net/bbs/board.php?bo_table=main, bo-zi.net
 ||bo-zi66.net/img/19x.mp4
@@ -1561,6 +1563,7 @@ pornhub.com###hotVideosSection > .alpha
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-w2bQTrFAOH1KNxDzXMsfGDb14gvB5zrAzmuQsAfDsZOjLyu48a8PYcWoRbVzoC2eTMcsPt6gkIJbJKGl-JQ6Bc_c7WeTyWFKoJe1o9_-Feuvp0UY7AcRsz3AlEX7lIfPO-LFWShI9jOXuM7h_FRfejkQiVYSlQI9QDUdt0Rq_4OWRB93r1sVOWAQXUe/w320-h82-rw/rp.webp
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09izR4Trnr0t7lN7P-KNznrq-4O3kvXG_QquO7lHOF6w4iYWeSfURbsD9avrx03AW2tuvpfvlzlI9ZkZLAjyYlBLvAIzY_i6hjlDZ5R-x5dNYjheUJgewvs7MPNwzegEnvQWrJ1Py8v7k9TrIDtK3_FrHTJMwFWPwLGRmXgCKnUjexlfpYHyeysRDYEUK/w320-h82-rw/freetv.webp
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/*/*/*.webp
+!
 !
 ! https://sorabada94.com
 ||sorabada94.com/img/banner/10.gif
@@ -1723,6 +1726,7 @@ sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 ||78.media.tumblr.com/*/*.gif^$domain=sorabada94.com
 ||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada94.com
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
+!
 !
 ! https://video.fc2.com
 ||static.fc2.com/video/img/b/en/vdo-b_lp-ap-pc03-en.png
