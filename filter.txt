@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.10.31.03
+! Version: 2023.10.31.04
 ! Expires: 1 days (update frequency)
 
 ! Naver : Exception
@@ -1561,8 +1561,8 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||todaybest14.xyz/images/spon/*.gif^
 !
 !
-! https://bo-zi48.net, https://www.bo-zi37.net/bbs/board.php?bo_table=main, bo-zi.net
-||bo-zi48.net/img/19x.mp4
+! https://bo-zi66.net, https://www.bo-zi66.net/bbs/board.php?bo_table=main, bo-zi.net
+||bo-zi66.net/img/19x.mp4
 ||sora19.net/img/banner_1/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84_gall1144.com.webp
 ||sora19.net/img/banner_1/%EC%A0%90%ED%94%84_jjpp1166.com.webp
 ||sora19.net/img/banner_1/1_aa.webp
@@ -1585,58 +1585,58 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sora19.net/img/banner_2/taba.webp
 ||sora19.net/img/banner_1/*.webp^
 ||sora19.net/img/banner_2/*.webp^
-||bo-zi48.net/theme/Korea/img/headbanner/boost-vc500x120.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_bhg63.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_bong4.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_callgirl.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_hi.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_lux1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_kim.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_kus781.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_pm1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_sola.gif
-||bo-zi48.net/theme/Korea/img/headbanner/m_tabaccos.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_158.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_bhg63.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_BMW.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_bmw220.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_callgirl.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_callgirl_1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_dm77.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_hi.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_kim.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_kus78.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_kus781.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_kus788.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_lux1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_metoon.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_move7777.gif
-||bo-zi48.net/theme/Korea/img/headbanner/p_pm1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/P_VIVA%20.gif
-||bo-zi48.net/theme/Korea/img/headbanner/pc_1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/pc_5.jpg
-||bo-zi48.net/theme/Korea/img/headbanner/pc_6.jpg
-||bo-zi48.net/theme/Korea/img/headbanner/pp_bhg63.gif
-||bo-zi48.net/theme/Korea/img/headbanner/pp_google1.gif
-||bo-zi48.net/theme/Korea/img/headbanner/pp_move7777.gif
-||bo-zi48.net/theme/Korea/img/headbanner/pp_sola.gif
-||bo-zi48.net/theme/Korea/img/headbanner/sik_500x120.gif
-||bo-zi48.net/theme/Korea/img/headbanner/twojobalba500X120.gif
-||bo-zi48.net/theme/Korea/img/headbanner/zez777_500x120.gif
-||bo-zi48.net/theme/Korea/img/headbanner/*.jpg^
-||bo-zi48.net/theme/Korea/img/headbanner/*.gif^
-||bo-zi48.net/theme/Korea/img/midbanner/pc_callgirl.gif
-||bo-zi48.net/theme/Korea/img/midbanner/mb_callgirl.gif
-||bo-zi48.net/theme/Korea/img/midbanner/pc_kim.gif
-||bo-zi48.net/theme/Korea/img/midbanner/mb_kim.gif
-||bo-zi48.net/theme/Korea/img/midbanner/pc_nahe8.gif
-||bo-zi48.net/theme/Korea/img/midbanner/mb_nahe8.gif
-||bo-zi48.net/theme/Korea/img/midbanner/pc_sola.gif
-||bo-zi48.net/theme/Korea/img/midbanner/mb_sola.gif
-||bo-zi48.net/theme/Korea/img/midbanner/pc_tabaccos.gif
-||bo-zi48.net/theme/Korea/img/midbanner/mb_tabaccos.gif
-||bo-zi48.net/theme/Korea/img/midbanner/*.gif^
+||bo-zi66.net/theme/Korea/img/headbanner/boost-vc500x120.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_bhg63.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_bong4.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_callgirl.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_hi.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_lux1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_kim.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_kus781.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_pm1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_sola.gif
+||bo-zi66.net/theme/Korea/img/headbanner/m_tabaccos.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_158.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_banner2_1200_160.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_bhg63.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_BMW.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_bmw220.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_callgirl.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_callgirl_1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_dm77.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_hi.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_kim.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_kus78.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_kus781.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_kus788.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_lux1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_metoon.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_move7777.gif
+||bo-zi66.net/theme/Korea/img/headbanner/p_pm1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/P_VIVA%20.gif
+||bo-zi66.net/theme/Korea/img/headbanner/pc_1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/pc_5.jpg
+||bo-zi66.net/theme/Korea/img/headbanner/pc_6.jpg
+||bo-zi66.net/theme/Korea/img/headbanner/pp_bhg63.gif
+||bo-zi66.net/theme/Korea/img/headbanner/pp_google1.gif
+||bo-zi66.net/theme/Korea/img/headbanner/pp_move7777.gif
+||bo-zi66.net/theme/Korea/img/headbanner/pp_sola.gif
+||bo-zi66.net/theme/Korea/img/headbanner/sik_500x120.gif
+||bo-zi66.net/theme/Korea/img/headbanner/twojobalba500X120.gif
+||bo-zi66.net/theme/Korea/img/headbanner/zez777_500x120.gif
+||bo-zi66.net/theme/Korea/img/headbanner/*.jpg^
+||bo-zi66.net/theme/Korea/img/headbanner/*.gif^
+||bo-zi66.net/theme/Korea/img/midbanner/pc_callgirl.gif
+||bo-zi66.net/theme/Korea/img/midbanner/mb_callgirl.gif
+||bo-zi66.net/theme/Korea/img/midbanner/pc_kim.gif
+||bo-zi66.net/theme/Korea/img/midbanner/mb_kim.gif
+||bo-zi66.net/theme/Korea/img/midbanner/pc_nahe8.gif
+||bo-zi66.net/theme/Korea/img/midbanner/mb_nahe8.gif
+||bo-zi66.net/theme/Korea/img/midbanner/pc_sola.gif
+||bo-zi66.net/theme/Korea/img/midbanner/mb_sola.gif
+||bo-zi66.net/theme/Korea/img/midbanner/pc_tabaccos.gif
+||bo-zi66.net/theme/Korea/img/midbanner/mb_tabaccos.gif
+||bo-zi66.net/theme/Korea/img/midbanner/*.gif^
 ||book19.net/img/banner/cb-119.gif
 ||book19.net/img/banner/cure-a.jpg
 ||book19.net/img/banner/dis-bb.gif
@@ -1682,155 +1682,180 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/*/*/*.webp
 !
 !
-! https://sorabada75.com
-||sorabada75.com/img/banner/10.gif
-||sorabada75.com/img/banner/1BET/1.gif
-||sorabada75.com/img/banner/1BET/2.gif
-||sorabada75.com/img/banner/1BET/3.gif
-||sorabada75.com/img/banner/42.gif
-||sorabada75.com/img/banner/777/1.gif
-||sorabada75.com/img/banner/777/2.gif
-||sorabada75.com/img/banner/777/3.gif
-||sorabada75.com/img/banner/888/1.jpg
-||sorabada75.com/img/banner/888/2.jpg
-||sorabada75.com/img/banner/888/3.jpg
-||sorabada75.com/img/banner/ALPHA/1.gif
-||sorabada75.com/img/banner/ALPHA/2.gif
-||sorabada75.com/img/banner/ALPHA/3.gif
-||sorabada75.com/img/banner/AQUAW/1.gif
-||sorabada75.com/img/banner/AQUAW/2.gif
-||sorabada75.com/img/banner/AQUAW/3.gif
-||sorabada75.com/img/banner/BAM/1.gif
-||sorabada75.com/img/banner/BAM/2.gif
-||sorabada75.com/img/banner/BAM/3.gif
-||sorabada75.com/img/banner/BAM2/1.gif
-||sorabada75.com/img/banner/BAM2/2.gif
-||sorabada75.com/img/banner/BAM2/3.gif
-||sorabada75.com/img/banner/BLUE/1.gif
-||sorabada75.com/img/banner/BLUE/2.gif
-||sorabada75.com/img/banner/BLUE/3.gif
-||sorabada75.com/img/banner/BMW3/1.gif
-||sorabada75.com/img/banner/BMW3/2.gif
-||sorabada75.com/img/banner/BMW3/3.gif
-||sorabada75.com/img/banner/BONS/1.gif
-||sorabada75.com/img/banner/BONS/2.gif
-||sorabada75.com/img/banner/BONS/3.gif
-||sorabada75.com/img/banner/BONS2/1.gif
-||sorabada75.com/img/banner/BONS2/2.gif
-||sorabada75.com/img/banner/BONS2/3.gif
-||sorabada75.com/img/banner/CALL2/1.gif
-||sorabada75.com/img/banner/CALL2/2.gif
-||sorabada75.com/img/banner/CALL2/3.gif
-||sorabada75.com/img/banner/GEN/1.gif
-||sorabada75.com/img/banner/GEN/2.gif
-||sorabada75.com/img/banner/GEN/3.gif
-||sorabada75.com/img/banner/GIGA/1.gif
-||sorabada75.com/img/banner/GIGA/2.gif
-||sorabada75.com/img/banner/GIGA/3.gif
-||sorabada75.com/img/banner/HGY1/1.gif
-||sorabada75.com/img/banner/HGY1/2.gif
-||sorabada75.com/img/banner/HGY1/3.gif
-||sorabada75.com/img/banner/INDIE/1.gif
-||sorabada75.com/img/banner/INDIE/2.gif
-||sorabada75.com/img/banner/INDIE/3.gif
-||sorabada75.com/img/banner/INDIE2/1.gif
-||sorabada75.com/img/banner/INDIE2/2.gif
-||sorabada75.com/img/banner/INDIE2/3.gif
-||sorabada75.com/img/banner/INDIE4/1.gif
-||sorabada75.com/img/banner/INDIE4/2.gif
-||sorabada75.com/img/banner/INDIE4/3.gif
-||sorabada75.com/img/banner/INDIE5/1.png
-||sorabada75.com/img/banner/INDIE5/2.png
-||sorabada75.com/img/banner/INDIE5/3.png
-||sorabada75.com/img/banner/INDIE6/1.png
-||sorabada75.com/img/banner/INDIE6/2.png
-||sorabada75.com/img/banner/INDIE6/3.png
-||sorabada75.com/img/banner/MACAO/1.gif
-||sorabada75.com/img/banner/MACAO/2.gif
-||sorabada75.com/img/banner/MACAO/3.gif
-||sorabada75.com/img/banner/MACHUJA/1.gif
-||sorabada75.com/img/banner/MACHUJA/2.gif
-||sorabada75.com/img/banner/MACHUJA/3.gif
-||sorabada75.com/img/banner/MACHUJA1/1.gif
-||sorabada75.com/img/banner/MACHUJA1/2.gif
-||sorabada75.com/img/banner/MACHUJA1/3.gif
-||sorabada75.com/img/banner/MSLOT/1.gif
-||sorabada75.com/img/banner/MSLOT/2.gif
-||sorabada75.com/img/banner/MSLOT/3.gif
-||sorabada75.com/img/banner/MSLOT/4.gif
-||sorabada75.com/img/banner/NCS/1.gif
-||sorabada75.com/img/banner/NCS/2.gif
-||sorabada75.com/img/banner/NCS/3.gif
-||sorabada75.com/img/banner/PINNA/1.gif
-||sorabada75.com/img/banner/PINNA/2.gif
-||sorabada75.com/img/banner/PINNA/3.gif
-||sorabada75.com/img/banner/PP/1.gif
-||sorabada75.com/img/banner/PP/2.gif
-||sorabada75.com/img/banner/PP/3.gif
-||sorabada75.com/img/banner/ROYAL/1.gif
-||sorabada75.com/img/banner/ROYAL/2.gif
-||sorabada75.com/img/banner/ROYAL/3.gif
-||sorabada75.com/img/banner/SMILE/1.gif
-||sorabada75.com/img/banner/SMILE/2.gif
-||sorabada75.com/img/banner/SMILE/3.gif
-||sorabada75.com/img/banner/SURA/1.gif
-||sorabada75.com/img/banner/SURA/2.gif
-||sorabada75.com/img/banner/SURA/3.gif
-||sorabada75.com/img/banner/SURE/1.gif
-||sorabada75.com/img/banner/SURE/2.gif
-||sorabada75.com/img/banner/SURE/3.gif
-||sorabada75.com/img/banner/SURE1/1.jpg
-||sorabada75.com/img/banner/SURE1/2.jpg
-||sorabada75.com/img/banner/SURE1/3.jpg
-||sorabada75.com/img/banner/TEN2211/1.gif
-||sorabada75.com/img/banner/TEN2211/2.gif
-||sorabada75.com/img/banner/TEN2211/3.gif
-||sorabada75.com/img/banner/TOSS2/1.gif
-||sorabada75.com/img/banner/TOSS2/2.gif
-||sorabada75.com/img/banner/TOSS2/3.gif
-||sorabada75.com/img/banner/WIN/1.gif
-||sorabada75.com/img/banner/WIN/2.gif
-||sorabada75.com/img/banner/WIN/3.gif
-||sorabada75.com/img/banner/WINNER/1.gif
-||sorabada75.com/img/banner/WINNER/2.gif
-||sorabada75.com/img/banner/WINNER/3.gif
-||sorabada75.com/img/banner/YES/1.gif
-||sorabada75.com/img/banner/YES/2.gif
-||sorabada75.com/img/banner/YES/3.gif
-sorabada75.com###thema_wrapper > div:nth-child(6)
-sorabada75.com###thema_wrapper > div:nth-child(7) > p
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:first-child > p
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(5) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(6) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(7) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:last-child > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(12)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(13)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11) > p
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap.view-mobile.font-14:nth-child(2) > div:nth-child(11)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(3) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(4) > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:last-child > a > img
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11)
-sorabada75.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > p
-||66.media.tumblr.com/*/*.gif^$domain=sorabada75.com
-||78.media.tumblr.com/*/*.gif^$domain=sorabada75.com
-||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada75.com
+! https://sorabada94.com
+||sorabada94.com/img/banner/10.gif
+||sorabada94.com/img/banner/1BET/1.gif
+||sorabada94.com/img/banner/1BET/2.gif
+||sorabada94.com/img/banner/1BET/3.gif
+||sorabada94.com/img/banner/42.gif
+||sorabada94.com/img/banner/777/1.gif
+||sorabada94.com/img/banner/777/2.gif
+||sorabada94.com/img/banner/777/3.gif
+||sorabada94.com/img/banner/888/1.jpg
+||sorabada94.com/img/banner/888/2.jpg
+||sorabada94.com/img/banner/888/3.jpg
+||sorabada94.com/img/banner/ALPHA/1.gif
+||sorabada94.com/img/banner/ALPHA/2.gif
+||sorabada94.com/img/banner/ALPHA/3.gif
+||sorabada94.com/img/banner/AQUAW/1.gif
+||sorabada94.com/img/banner/AQUAW/2.gif
+||sorabada94.com/img/banner/AQUAW/3.gif
+||sorabada94.com/img/banner/BAM/1.gif
+||sorabada94.com/img/banner/BAM/2.gif
+||sorabada94.com/img/banner/BAM/3.gif
+||sorabada94.com/img/banner/BAM2/1.gif
+||sorabada94.com/img/banner/BAM2/2.gif
+||sorabada94.com/img/banner/BAM2/3.gif
+||sorabada94.com/img/banner/BLUE/1.gif
+||sorabada94.com/img/banner/BLUE/2.gif
+||sorabada94.com/img/banner/BLUE/3.gif
+||sorabada94.com/img/banner/BMW3/1.gif
+||sorabada94.com/img/banner/BMW3/2.gif
+||sorabada94.com/img/banner/BMW3/3.gif
+||sorabada94.com/img/banner/BONS/1.gif
+||sorabada94.com/img/banner/BONS/2.gif
+||sorabada94.com/img/banner/BONS/3.gif
+||sorabada94.com/img/banner/BONS2/1.gif
+||sorabada94.com/img/banner/BONS2/2.gif
+||sorabada94.com/img/banner/BONS2/3.gif
+||sorabada94.com/img/banner/CALL2/1.gif
+||sorabada94.com/img/banner/CALL2/2.gif
+||sorabada94.com/img/banner/CALL2/3.gif
+||sorabada94.com/img/banner/GEN/1.gif
+||sorabada94.com/img/banner/GEN/2.gif
+||sorabada94.com/img/banner/GEN/3.gif
+||sorabada94.com/img/banner/GIGA/1.gif
+||sorabada94.com/img/banner/GIGA/2.gif
+||sorabada94.com/img/banner/GIGA/3.gif
+||sorabada94.com/img/banner/HGY1/1.gif
+||sorabada94.com/img/banner/HGY1/2.gif
+||sorabada94.com/img/banner/HGY1/3.gif
+||sorabada94.com/img/banner/INDIE/1.gif
+||sorabada94.com/img/banner/INDIE/2.gif
+||sorabada94.com/img/banner/INDIE/3.gif
+||sorabada94.com/img/banner/INDIE2/1.gif
+||sorabada94.com/img/banner/INDIE2/2.gif
+||sorabada94.com/img/banner/INDIE2/3.gif
+||sorabada94.com/img/banner/INDIE4/1.gif
+||sorabada94.com/img/banner/INDIE4/2.gif
+||sorabada94.com/img/banner/INDIE4/3.gif
+||sorabada94.com/img/banner/INDIE5/1.png
+||sorabada94.com/img/banner/INDIE5/2.png
+||sorabada94.com/img/banner/INDIE5/3.png
+||sorabada94.com/img/banner/INDIE6/1.png
+||sorabada94.com/img/banner/INDIE6/2.png
+||sorabada94.com/img/banner/INDIE6/3.png
+||sorabada94.com/img/banner/MACAO/1.gif
+||sorabada94.com/img/banner/MACAO/2.gif
+||sorabada94.com/img/banner/MACAO/3.gif
+||sorabada94.com/img/banner/MACHUJA/1.gif
+||sorabada94.com/img/banner/MACHUJA/2.gif
+||sorabada94.com/img/banner/MACHUJA/3.gif
+||sorabada94.com/img/banner/MACHUJA1/1.gif
+||sorabada94.com/img/banner/MACHUJA1/2.gif
+||sorabada94.com/img/banner/MACHUJA1/3.gif
+||sorabada94.com/img/banner/MSLOT/1.gif
+||sorabada94.com/img/banner/MSLOT/2.gif
+||sorabada94.com/img/banner/MSLOT/3.gif
+||sorabada94.com/img/banner/MSLOT/4.gif
+||sorabada94.com/img/banner/NCS/1.gif
+||sorabada94.com/img/banner/NCS/2.gif
+||sorabada94.com/img/banner/NCS/3.gif
+||sorabada94.com/img/banner/PINNA/1.gif
+||sorabada94.com/img/banner/PINNA/2.gif
+||sorabada94.com/img/banner/PINNA/3.gif
+||sorabada94.com/img/banner/PP/1.gif
+||sorabada94.com/img/banner/PP/2.gif
+||sorabada94.com/img/banner/PP/3.gif
+||sorabada94.com/img/banner/ROYAL/1.gif
+||sorabada94.com/img/banner/ROYAL/2.gif
+||sorabada94.com/img/banner/ROYAL/3.gif
+||sorabada94.com/img/banner/SMILE/1.gif
+||sorabada94.com/img/banner/SMILE/2.gif
+||sorabada94.com/img/banner/SMILE/3.gif
+||sorabada94.com/img/banner/SURA/1.gif
+||sorabada94.com/img/banner/SURA/2.gif
+||sorabada94.com/img/banner/SURA/3.gif
+||sorabada94.com/img/banner/SURE/1.gif
+||sorabada94.com/img/banner/SURE/2.gif
+||sorabada94.com/img/banner/SURE/3.gif
+||sorabada94.com/img/banner/SURE1/1.jpg
+||sorabada94.com/img/banner/SURE1/2.jpg
+||sorabada94.com/img/banner/SURE1/3.jpg
+||sorabada94.com/img/banner/TEN2211/1.gif
+||sorabada94.com/img/banner/TEN2211/2.gif
+||sorabada94.com/img/banner/TEN2211/3.gif
+||sorabada94.com/img/banner/TOSS2/1.gif
+||sorabada94.com/img/banner/TOSS2/2.gif
+||sorabada94.com/img/banner/TOSS2/3.gif
+||sorabada94.com/img/banner/WIN/1.gif
+||sorabada94.com/img/banner/WIN/2.gif
+||sorabada94.com/img/banner/WIN/3.gif
+||sorabada94.com/img/banner/WINNER/1.gif
+||sorabada94.com/img/banner/WINNER/2.gif
+||sorabada94.com/img/banner/WINNER/3.gif
+||sorabada94.com/img/banner/YES/1.gif
+||sorabada94.com/img/banner/YES/2.gif
+||sorabada94.com/img/banner/YES/3.gif
+sorabada94.com###thema_wrapper > div:nth-child(6)
+sorabada94.com###thema_wrapper > div:nth-child(7) > p
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:first-child > p
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(5) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(6) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:nth-child(7) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(2) > div:last-child > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(4)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(5)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(6)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(7)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div:nth-child(8)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(12)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(13)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11) > p
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap.view-mobile.font-14:nth-child(2) > div:nth-child(11)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(8) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(3) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:nth-child(4) > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(7) > div.at-container.widget-index:nth-child(2) > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row:nth-child(3) > div:last-child > a > img
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(10)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(11)
+sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.view-wrap:nth-child(2) > div:nth-child(9) > p
+||66.media.tumblr.com/*/*.gif^$domain=sorabada94.com
+||78.media.tumblr.com/*/*.gif^$domain=sorabada94.com
+||66.media.tumblr.com/*/*/*.gifv^$domain=sorabada94.com
 ||78.media.tumblr.com/9264f9bf338199ef35ff8b27fa8c6cef/tumblr_pai61l43gG1x5siedo1_400.png
+!
+!
+! https://darkg8.com
+||darkg8.com/data/file/admin_banner/*.jpg^
+||darkg8.com/data/file/admin_banner/*.png^
+||darkg8.com/data/editor/2411/*.png^
+||darkg8.com/data/editor/2411/*.jpg^
+||darkg8.com/data/editor/2410/*.png^
+||darkg8.com/data/editor/2410/*.jpg^
+||darkg8.com/data/editor/2412/*.jpg^
+||darkg8.com/data/editor/2412/*.jpg^
+||darkg8.com/data/editor/2501/*.jpg^
+||darkg8.com/data/editor/2501/*.png^
+||darkg8.com/data/editor/2502/*.jpg^
+||darkg8.com/data/editor/2502/*.png^
+||darkg8.com/data/editor/2503/*.png^
+||darkg8.com/data/editor/2503/*.jpg^
+||darkg8.com/data/editor/2504/*.jpg^
+||darkg8.com/data/editor/2504/*.png^
+||darkg8.com/data/editor/2505/*.png^
+||darkg8.com/data/editor/2505/*.jpg^
+||darkg8.com/data/file/kr/2728293043_gTvrcBa0_2400442b8793ac65afe452d2eff6c13861456d17.gif
+||darkg8.com/data/file/kr/6149_copy_6162_6133_copy_6149_6101_copy_6133_6088_copy_6101_6051_copy_6088_2728313105_2wlZ6six_6e87929050e897de3e21b29b4523de4c35956b8a.gif
+||moa18.com/bn/*.webp^
+!
 !
 ! https://avpop501.com
 ||i.imgur.com/NBWHplb.gif
