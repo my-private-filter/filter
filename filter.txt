@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2023.10.31.04
+! Version: 2025.07.09.00
 ! Expires: 1 days (update frequency)
 
 ! Naver : Exception
@@ -26,9 +26,9 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 section.cafe.naver.com###mainContainer > div.section_content_view.content:first-child > div.home_theme:last-child > div.home_theme_frame:last-child
 !
 
-! 허용목록
+! @@
 !
-! 업무용(공통)
+! BZ(Common)
 @@||ibz.nonghyup.com^$document
 @@||nhbizcard.nonghyup.com^$document
 @@||banking.nonghyup.com^$document
@@ -68,6 +68,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||edoc-revenuestamp.or.kr^$document
 @@||credit4u.or.kr^$document
 @@||q-net.or.kr^$document
+@@||giro.or.kr^$document
 @@||sgic.co.kr^$document
 @@||dacom.net^$document
 @@||bizrating.co.kr^$document
@@ -78,6 +79,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||miricanvas.com^$document
 @@||webcm30.webcm.co.kr^$document
 @@||v3.ngocms.co.kr^$document
+@@||ngocms.co.kr^$document
 @@||maru.net^$document
 @@||us02web.zoom.us^$document
 @@||zoom.us^$document
@@ -85,10 +87,10 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 @@||familynet.samsung.com^$document
 @@||evernote.com^$document
 !
-! 업무용(특정)
+! BZ(Specific)
 @@||nongyeon.org^$document
 !
-! 개인용
+! Personal
 @@||novelpia.com^$document
 @@||shop.tworld.co.kr^$document
 !
@@ -1687,6 +1689,9 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada94.com/img/banner/1BET/1.gif
 ||sorabada94.com/img/banner/1BET/2.gif
 ||sorabada94.com/img/banner/1BET/3.gif
+||sorabada94.com/img/banner/1XBET/1.gif
+||sorabada94.com/img/banner/1XBET/2.gif
+||sorabada94.com/img/banner/1XBET/3.gif
 ||sorabada94.com/img/banner/42.gif
 ||sorabada94.com/img/banner/777/1.gif
 ||sorabada94.com/img/banner/777/2.gif
@@ -1706,6 +1711,9 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada94.com/img/banner/BAM2/1.gif
 ||sorabada94.com/img/banner/BAM2/2.gif
 ||sorabada94.com/img/banner/BAM2/3.gif
+||sorabada94.com/img/banner/BELLA/1.jpg
+||sorabada94.com/img/banner/BELLA/2.jpg
+||sorabada94.com/img/banner/BELLA/3.jpg
 ||sorabada94.com/img/banner/BLUE/1.gif
 ||sorabada94.com/img/banner/BLUE/2.gif
 ||sorabada94.com/img/banner/BLUE/3.gif
@@ -1730,6 +1738,9 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada94.com/img/banner/HGY1/1.gif
 ||sorabada94.com/img/banner/HGY1/2.gif
 ||sorabada94.com/img/banner/HGY1/3.gif
+||sorabada94.com/img/banner/HIGH/1.gif
+||sorabada94.com/img/banner/HIGH/2.gif
+||sorabada94.com/img/banner/HIGH/3.gif
 ||sorabada94.com/img/banner/INDIE/1.gif
 ||sorabada94.com/img/banner/INDIE/2.gif
 ||sorabada94.com/img/banner/INDIE/3.gif
@@ -1767,6 +1778,9 @@ krav.wiki###thema_wrapper > div.at-body:nth-child(6) > div.at-boxed.at-container
 ||sorabada94.com/img/banner/PP/1.gif
 ||sorabada94.com/img/banner/PP/2.gif
 ||sorabada94.com/img/banner/PP/3.gif
+||sorabada94.com/img/banner/RA/1.gif
+||sorabada94.com/img/banner/RA/2.gif
+||sorabada94.com/img/banner/RA/3.gif
 ||sorabada94.com/img/banner/ROYAL/1.gif
 ||sorabada94.com/img/banner/ROYAL/2.gif
 ||sorabada94.com/img/banner/ROYAL/3.gif
@@ -1852,8 +1866,12 @@ sorabada94.com###thema_wrapper > div.at-body:nth-child(8) > div.at-container > d
 ||darkg8.com/data/editor/2504/*.png^
 ||darkg8.com/data/editor/2505/*.png^
 ||darkg8.com/data/editor/2505/*.jpg^
+||darkg8.com/data/editor/2506/*.jpg^
+||darkg8.com/data/editor/2506/*.png^
 ||darkg8.com/data/file/kr/2728293043_gTvrcBa0_2400442b8793ac65afe452d2eff6c13861456d17.gif
 ||darkg8.com/data/file/kr/6149_copy_6162_6133_copy_6149_6101_copy_6133_6088_copy_6101_6051_copy_6088_2728313105_2wlZ6six_6e87929050e897de3e21b29b4523de4c35956b8a.gif
+||darkg8.com/data/file/kr/6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkg8.com/data/file/kr/6855_copy_6904_6802_copy_6817_6759_copy_6802_6671_copy_6759_2890340422_Vx8RY5h9_39e383cbef0648fd74f5b00cd01aca5abaef3f2c.png
 ||moa18.com/bn/*.webp^
 !
 !
