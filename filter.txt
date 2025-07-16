@@ -1,7 +1,8 @@
 ! Title: My Private Filter
-! Version: 2025.07.10.04
+! Version: 2025.07.16.00
 ! Expires: 1 days (update frequency)
 !
+! https://github.com/my-private-filter/filter
 ! https://raw.githubusercontent.com/my-private-filter/filter/master/filter.txt
 !
 
@@ -30,6 +31,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 !
 
 ! namu.wiki
+namu.wiki##.LpcR1iuv > .GoYCXQxe._2NBQk93U
 namu.wiki###app > div.sP0Y9WVF._2VjcPXAa:first-child > div.P3BEogq6.yB77i1QC:nth-child(2) > div.M4WSS3yt > div.CD-3U9st.EPOETcuZ:nth-child(6) > div.LpcR1iuv:nth-child(8) > div._2NBQk93U.GoYCXQxe:last-child
 !
 
@@ -1448,10 +1450,12 @@ pornhub.com###hotVideosSection > .alpha
 ||darkg8.com/data/file/kr/6149_copy_6162_6133_copy_6149_6101_copy_6133_6088_copy_6101_6051_copy_6088_2728313105_2wlZ6six_6e87929050e897de3e21b29b4523de4c35956b8a.gif
 ||darkg8.com/data/file/kr/6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
 ||darkg8.com/data/file/kr/6855_copy_6904_6802_copy_6817_6759_copy_6802_6671_copy_6759_2890340422_Vx8RY5h9_39e383cbef0648fd74f5b00cd01aca5abaef3f2c.png
+||darkg8.com/data/file/kr/6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
 ||moa18.com/bn/*.webp^
 !
 !
 ! https://bo-zi66.net, https://www.bo-zi66.net/bbs/board.php?bo_table=main, bo-zi.net
+bo-zi66.net###h_tag_link
 ||bo-zi66.net/img/19x.mp4
 ||sora19.net/img/banner_1/%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84_gall1144.com.webp
 ||sora19.net/img/banner_1/%EC%A0%90%ED%94%84_jjpp1166.com.webp
