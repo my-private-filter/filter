@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 1
+! Version: 2025.08.13.00
 ! Expires: 1 days (update frequency)
 !
 ! https://github.com/my-private-filter/filter
