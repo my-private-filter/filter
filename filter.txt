@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2025.08.18.00
+! Version: 2025.08.22.00
 ! Expires: 1 days (update frequency)
 !
 ! https://github.com/my-private-filter/filter
@@ -1455,6 +1455,7 @@ pornhub.com###hotVideosSection > .alpha
 ||darkg9.com/data/file/kr/6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
 ||darkg9.com/data/file/kr/7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
 ||darkg9.com/data/file/kr/7110_copy_7134_7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkg9.com/data/file/kr/thumb-7b64b0379fa54194c672d3bcd1b7150f_BmP1bJyi_b4061135083a3a4a24016f9f704e5e3b3c5f00e6_273x150.png
 ||moa18.com/bn/*.webp^
 !
 !
