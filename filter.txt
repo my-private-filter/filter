@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2026.03.03.00
+! Version: 2026.03.03.01
 ! Expires: 1 days (update frequency)
 !
 ! https://github.com/my-private-filter/filter
@@ -33,6 +33,7 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 ! namu.wiki
 namu.wiki##div[data-v-01973aa2]
 namu.wiki##div[class="tTtL2C0H"]
+!
 namu.wiki##.UXzBcE-q > .lIWJSXrh.cEF9wd43
 namu.wiki##.cEF9wd43, .lIWJSXrh
 !
