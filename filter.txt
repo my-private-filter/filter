@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2026.03.04.00
+! Version: 2026.03.14.00
 ! Expires: 1 days (update frequency)
 !
 ! ! https://github.com/my-private-filter/filter
@@ -44,8 +44,8 @@ section.cafe.naver.com###mainContainer > div.section_content_view.content:first-
 namu.wiki##div[data-v-01973aa2]
 namu.wiki##div[class="tTtL2C0H"]
 !
-namu.wiki##.UXzBcE-q > .lIWJSXrh.cEF9wd43
-namu.wiki##.cEF9wd43, .lIWJSXrh
+namu.wiki##.YDiSMZZw > .BC5H71sX.AbgCb7ie
+namu.wiki##.AbgCb7ie, .BC5H71sX
 !
 
 ! @@
@@ -142,12 +142,12 @@ ppomppu.co.kr##.bridge
 ! https://blog.naver.com/nzelbomb/221007445194
 ||deapi.afreecatv.com^$app=kr.co.nowcom.mobile.afreeca
 ||delog.afreecatv.com^$app=kr.co.nowcom.mobile.afreeca
-play.afreecatv.com###ad_video
-play.afreecatv.com##.text_output
-play.afreecatv.com##.promotion_area
-play.afreecatv.com##.promotion_area_left
-play.afreecatv.com##.promotion_area_right
-vod-player.afreecatv.com/creatives/media/*
+!play.afreecatv.com###ad_video
+!play.afreecatv.com##.text_output
+!play.afreecatv.com##.promotion_area
+!play.afreecatv.com##.promotion_area_left
+!play.afreecatv.com##.promotion_area_right
+!vod-player.afreecatv.com/creatives/media/*
 !
 ! AfreecaTV Player
 !
@@ -1438,49 +1438,49 @@ pornhub.com##.premiumPromoBannerImage, .js-premiumPromoBannerImage
 pornhub.com###hotVideosSection > .alpha
 !
 !
-! https://darkgirl6.com, https://darkg9.com, https://darkxx.net, https://www.dark-girl.com
-||darkgirl6.com/data/file/admin_banner/*.jpg^
-||darkgirl6.com/data/file/admin_banner/*.png^
-||darkgirl6.com/data/editor/2410/*.png^
-||darkgirl6.com/data/editor/2410/*.jpg^
-||darkgirl6.com/data/editor/2411/*.png^
-||darkgirl6.com/data/editor/2411/*.jpg^
-||darkgirl6.com/data/editor/2412/*.jpg^
-||darkgirl6.com/data/editor/2412/*.jpg^
-||darkgirl6.com/data/editor/2501/*.jpg^
-||darkgirl6.com/data/editor/2501/*.png^
-||darkgirl6.com/data/editor/2502/*.jpg^
-||darkgirl6.com/data/editor/2502/*.png^
-||darkgirl6.com/data/editor/2503/*.png^
-||darkgirl6.com/data/editor/2503/*.jpg^
-||darkgirl6.com/data/editor/2504/*.jpg^
-||darkgirl6.com/data/editor/2504/*.png^
-||darkgirl6.com/data/editor/2505/*.png^
-||darkgirl6.com/data/editor/2505/*.jpg^
-||darkgirl6.com/data/editor/2506/*.jpg^
-||darkgirl6.com/data/editor/2506/*.png^
-||darkgirl6.com/data/editor/2507/*.png^
-||darkgirl6.com/data/editor/2507/*.jpg^
-||darkgirl6.com/data/editor/2508/*.png^
-||darkgirl6.com/data/editor/2508/*.jpg^
-||darkgirl6.com/data/editor/2509/*.png^
-||darkgirl6.com/data/editor/2509/*.jpg^
-||darkgirl6.com/data/editor/2510/*.png^
-||darkgirl6.com/data/editor/2510/*.jpg^
-||darkgirl6.com/data/editor/2511/*.png^
-||darkgirl6.com/data/editor/2511/*.jpg^
-||darkgirl6.com/data/editor/2512/*.png^
-||darkgirl6.com/data/editor/2512/*.jpg^
-||darkgirl6.com/data/editor/2601/*.png^
-||darkgirl6.com/data/editor/2602/*.jpg^
-||darkgirl6.com/data/file/kr/2728293043_gTvrcBa0_2400442b8793ac65afe452d2eff6c13861456d17.gif
-||darkgirl6.com/data/file/kr/6149_copy_6162_6133_copy_6149_6101_copy_6133_6088_copy_6101_6051_copy_6088_2728313105_2wlZ6six_6e87929050e897de3e21b29b4523de4c35956b8a.gif
-||darkgirl6.com/data/file/kr/6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
-||darkgirl6.com/data/file/kr/6855_copy_6904_6802_copy_6817_6759_copy_6802_6671_copy_6759_2890340422_Vx8RY5h9_39e383cbef0648fd74f5b00cd01aca5abaef3f2c.png
-||darkgirl6.com/data/file/kr/6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
-||darkgirl6.com/data/file/kr/7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
-||darkgirl6.com/data/file/kr/7110_copy_7134_7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
-||darkgirl6.com/data/file/kr/thumb-7b64b0379fa54194c672d3bcd1b7150f_BmP1bJyi_b4061135083a3a4a24016f9f704e5e3b3c5f00e6_273x150.png
+! https://darkgirl7.com, https://darkg9.com, https://darkxx.net, https://www.dark-girl.com
+||darkgirl7.com/data/file/admin_banner/*.jpg^
+||darkgirl7.com/data/file/admin_banner/*.png^
+||darkgirl7.com/data/editor/2410/*.png^
+||darkgirl7.com/data/editor/2410/*.jpg^
+||darkgirl7.com/data/editor/2411/*.png^
+||darkgirl7.com/data/editor/2411/*.jpg^
+||darkgirl7.com/data/editor/2412/*.jpg^
+||darkgirl7.com/data/editor/2412/*.jpg^
+||darkgirl7.com/data/editor/2501/*.jpg^
+||darkgirl7.com/data/editor/2501/*.png^
+||darkgirl7.com/data/editor/2502/*.jpg^
+||darkgirl7.com/data/editor/2502/*.png^
+||darkgirl7.com/data/editor/2503/*.png^
+||darkgirl7.com/data/editor/2503/*.jpg^
+||darkgirl7.com/data/editor/2504/*.jpg^
+||darkgirl7.com/data/editor/2504/*.png^
+||darkgirl7.com/data/editor/2505/*.png^
+||darkgirl7.com/data/editor/2505/*.jpg^
+||darkgirl7.com/data/editor/2506/*.jpg^
+||darkgirl7.com/data/editor/2506/*.png^
+||darkgirl7.com/data/editor/2507/*.png^
+||darkgirl7.com/data/editor/2507/*.jpg^
+||darkgirl7.com/data/editor/2508/*.png^
+||darkgirl7.com/data/editor/2508/*.jpg^
+||darkgirl7.com/data/editor/2509/*.png^
+||darkgirl7.com/data/editor/2509/*.jpg^
+||darkgirl7.com/data/editor/2510/*.png^
+||darkgirl7.com/data/editor/2510/*.jpg^
+||darkgirl7.com/data/editor/2511/*.png^
+||darkgirl7.com/data/editor/2511/*.jpg^
+||darkgirl7.com/data/editor/2512/*.png^
+||darkgirl7.com/data/editor/2512/*.jpg^
+||darkgirl7.com/data/editor/2601/*.png^
+||darkgirl7.com/data/editor/2602/*.jpg^
+||darkgirl7.com/data/file/kr/2728293043_gTvrcBa0_2400442b8793ac65afe452d2eff6c13861456d17.gif
+||darkgirl7.com/data/file/kr/6149_copy_6162_6133_copy_6149_6101_copy_6133_6088_copy_6101_6051_copy_6088_2728313105_2wlZ6six_6e87929050e897de3e21b29b4523de4c35956b8a.gif
+||darkgirl7.com/data/file/kr/6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkgirl7.com/data/file/kr/6855_copy_6904_6802_copy_6817_6759_copy_6802_6671_copy_6759_2890340422_Vx8RY5h9_39e383cbef0648fd74f5b00cd01aca5abaef3f2c.png
+||darkgirl7.com/data/file/kr/6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkgirl7.com/data/file/kr/7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkgirl7.com/data/file/kr/7110_copy_7134_7090_copy_7110_7075_copy_7090_7063_copy_7075_7038_copy_7063_7015_copy_7038_6989_copy_7015_6963_copy_6989_6927_copy_6963_6829_copy_6927_6789_copy_6829_6760_copy_6789_2890340455_9j1ZoI0F_d61cca68a0ad589ad23db8eb79744251b11e9218.gif
+||darkgirl7.com/data/file/kr/thumb-7b64b0379fa54194c672d3bcd1b7150f_BmP1bJyi_b4061135083a3a4a24016f9f704e5e3b3c5f00e6_273x150.png
 ||moa18.com/bn/*.webp^
 !
 !
