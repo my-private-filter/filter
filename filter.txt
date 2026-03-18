@@ -1,5 +1,5 @@
 ! Title: My Private Filter
-! Version: 2026.03.14.00
+! Version: 2026.03.18.00
 ! Expires: 1 days (update frequency)
 !
 ! ! https://github.com/my-private-filter/filter
@@ -14,6 +14,9 @@
 ! https://update.greasyfork.org/scripts/565645/Chzzk%20P2P%20Bypass.user.js
 ! ! https://greasyfork.org/ko/scripts/565989-naver-sports-p2p-bypass
 ! https://update.greasyfork.org/scripts/565989/Naver%20Sports%20P2P%20Bypass.user.js
+!
+! ! https://greasyfork.org/ko/scripts/497290-namuside
+! https://update.greasyfork.org/scripts/497290/NamuSide.user.js
 !
 
 ! Naver : Exception
