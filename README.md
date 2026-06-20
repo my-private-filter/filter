@@ -27,3 +27,9 @@ https://greasyfork.org/ko/scripts/497290-namuside
 https://update.greasyfork.org/scripts/497290/NamuSide.user.js
 
 ---
+
+adb devices
+
+adb install --bypass-low-target-sdk-block /storage/emulated/0/download/app-release.apk
+
+---
