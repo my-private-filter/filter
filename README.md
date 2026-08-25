@@ -2,6 +2,14 @@ https://raw.githubusercontent.com/my-private-filter/filter/master/filter.txt
 
 ---
 
+https://github.com/FilteringDev/filterslists-KO
+
+https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filterslist-uBlockOrigin-unified.txt
+
+https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filterslist-AdGuard-unified.txt
+
+---
+
 https://github.com/FilteringDev/NamuLink
 
 https://cdn.jsdelivr.net/npm/@filteringdev/namulink@latest/dist/NamuLink.user.js
