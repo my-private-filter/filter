@@ -8,6 +8,8 @@ https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filtersli
 
 https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filterslist-AdGuard-unified.txt
 
+https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filterslist-DNS-unified.txt
+
 ---
 
 https://github.com/FilteringDev/NamuLink
